@@ -1,4 +1,6 @@
-# 利用 docsify + Github Pages 搭建云笔记
+## 利用 docsify + Github Pages 搭建云笔记
+
+![](_images/cover.jpg)
 
 !> Test Hint
 

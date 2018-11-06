@@ -1,5 +1,3 @@
-# Git 常用命令
-
 ## git remote 远程仓库
 
 ```shell

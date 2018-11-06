@@ -1,6 +1,4 @@
-# 编程语言
-
-!> [Programming Notes for Professionals books | GoalKicker.com](https://goalkicker.com/)
+?> [Programming Notes for Professionals books | GoalKicker.com](https://goalkicker.com/)
 
 ## 1. C/C++
 
