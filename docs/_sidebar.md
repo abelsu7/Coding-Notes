@@ -2,5 +2,7 @@
     - [README](/README)
 - **基础知识**
     - [编程语言](/languages)
+    - [Leetcode 题解](/leetcode)
+    - [Git 常用命令](/git)
 - **友情链接**
     - [博客收集](/friends)
