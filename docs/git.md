@@ -14,3 +14,11 @@ git remote remove <name>
 # 修改远程仓库的关联
 git remote set-url <name> <url>
 ```
+
+```html
+<!-- Site theme -->
+<link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-defaults.min.css">
+
+<!-- PrismJS theme -->
+<link rel="stylesheet" href="path/to/prismjs-theme.css">
+```
