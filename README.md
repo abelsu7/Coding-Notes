@@ -4,4 +4,4 @@
 
 Updating...
 
-> Powered by docsify.js
+* Powered by docsify.js
