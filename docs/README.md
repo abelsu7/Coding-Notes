@@ -1,5 +1,5 @@
 # Headline
 
-!> Test Hint
+> Test Hint
 
 > An awesome project.
