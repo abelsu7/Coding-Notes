@@ -1,12 +1,14 @@
 - **项目说明**
-    - [README](/README)
+  - [README](/README)
 - **基础知识**
-    - [编程语言](/languages)
-    - [Leetcode 题解](/leetcode)
-    - [Git 常用命令](/git)
+  - [编程语言](/languages) 
+  - [Leetcode 题解](/leetcode)
+  - [Git 常用命令](/git)
 - **友情链接**
-    - [博客收集](/friends)
+  - [博客收集](/friends)
 - **Links**
-    - [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Github](https://github.com/jhildenbiddle/docsify-tabs)
-    - [![NPM](https://icongram.jgog.in/simple/npm.svg?colored&size=16)NPM](https://www.npmjs.com/package/docsify-tabs)
-    - [![Twitter](https://icongram.jgog.in/simple/twitter.svg?colored&size=16)@jhildenbiddle](http://twitter.com/jhildenbiddle)
+  - [![Github](_media/github.svg)Github](https://github.com/abelsu7)
+  - [![Bilibili](_media/bilibili.ico ':size=16')bilibili](https://space.bilibili.com/59456951/#/)
+  - [![Bilibili](_media/bilibili.png ':size=16')bilibili](https://space.bilibili.com/59456951/#/)
+  - [![Douban](_media/douban.svg)豆瓣](https://www.douban.com/people/abelsu7/)
+  - [![Weibo](_media/weibo.ico ':size=16')微博](https://weibo.com/abelsu7)

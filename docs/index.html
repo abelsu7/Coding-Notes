@@ -15,9 +15,9 @@
 </head>
 
 <style>
-  .sidebar::-webkit-scrollbar {
+  /* .sidebar::-webkit-scrollbar {
     -webkit-appearance: none;
-    width: 8px;
+    width: 0px;
     height: 8px
   }
 
@@ -35,17 +35,54 @@
     background-color: #9d9d9d
   }
 
-  /* .sidebar:hover::-webkit-scrollbar-track {
+  .sidebar:hover::-webkit-scrollbar-track {
     background: hsla(0, 0%, 53%, .1)
+  }
+
+  .sidebar {
+    -webkit-overflow-scrolling: touch
   } */
 
+  .sidebar::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 6px;
+    height: 8px;
+  }
+
+  .sidebar::-webkit-scrollbar-thumb {
+    /* background-color: #b6b6b6; */
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 10px
+  }
+
+  .sidebar:hover::-webkit-scrollbar {
+    display: inline-block;
+  }
+
+  .sidebar:hover::-webkit-scrollbar-thumb {
+    background-color: #9d9d9d;
+    border: 1px solid #fff;
+  }
+
+  .sidebar:hover::-webkit-scrollbar-track {
+    background-color: inherit
+  }
+
+  .sidebar::-webkit-scrollbar-thumb:active {
+    background-color: #0c0505
+  }
+
+  .sidebar {
+    -webkit-overflow-scrolling: touch
+  }
   body {
     -webkit-overflow-scrolling: touch
   }
 
   ::-webkit-scrollbar {
     -webkit-appearance: none;
-    width: 8px;
+    width: 6px;
     height: 8px
   }
 
@@ -64,7 +101,13 @@
   }
 
   ::-webkit-scrollbar-thumb:active {
-    background-color: #838383
+    background-color: #0c0505
+  }
+
+  @media screen and (max-width: 760px) {
+    .sidebar::-webkit-scrollbar {
+      background-color: transparent;
+    }
   }
 </style>
 
