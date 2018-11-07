@@ -36,6 +36,14 @@ git remote remove <name>
 git remote set-url <name> <url>
 ```
 
+## Another git process seems to be running in this repository
+
+执行 `git commit -a` 在 VIM 界面输入信息时终端崩溃，再次执行 `git commit` 命令报以下错误
+
+![](_images/git-lock.png)
+
+!> 进入 `.git/` 目录，手动删除 `index.lock`、`.COMMIT_EDITMSG.swp`
+
 ## 代码高亮测试
 
 ```html

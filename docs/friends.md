@@ -1,8 +1,9 @@
-## 写博客的朋友们
 
-> **Last Update**: `2018-11-2`
-> 排名不分先后，**持续更新中…**
+> **Last Update**: `2018-11-2` <br/>
+> 排名不分先后，**持续更新中…** <br/>
 > 欢迎留言**互换友链**~
+
+## 写博客的朋友们
 
 | 名称 | 博主 | 备注 |
 | :-: | :-: | :-: |
@@ -42,12 +43,12 @@
 | [Jimmy Song](https://jimmysong.io) | 宋净超 | 蚂蚁金服，Cloud Native，ServiceMesh |
 | [深入浅出区块链](http://www.cnblogs.com/tinyxiong/) | Tiny熊 | 博客园博主 |
 | [二次元の技术宅](https://www.maoxuner.cn) | 諾小豬 | 现居苏州 |
-| [Hawstein's Blog](http://www.hawstein.com) | Hawstein | 后端技术负责人，[AlgoCasts](https://algocasts.io)算法教学视频 |
+| [Hawstein's Blog](http://www.hawstein.com) | Hawstein | [AlgoCasts](https://algocasts.io) |
 | [云风的BLOG](https://blog.codingnow.com) | 云风| 资深游戏开发者 |
 | [Yusen's Blog](https://imys.net/) | 王昱森 | hexo-theme-indigo作者 |
 | [H2O](http://liaokeyu.com) | 廖柯宇 | 前端开发，Jekyll主题[H2O](http://liaokeyu.com/技术/2017/04/18/new-theme-h2o.html)作者 |
 | [reuixiy](https://reuixiy.github.io) | reuixiy | 炫酷的Next主题优化 |
-| [王辉的博客](http://hui-wang.info) | 王辉 | hexo-recommended-posts、hexo-blogroll作者，就职于Murex |
+| [王辉的博客](http://hui-wang.info) | 王辉 | hexo-recommended-posts、hexo-blogroll作者 |
 | [唐巧的博客](http://blog.devtang.com) | 唐巧 | 80后程序员，小猿搜题产品技术负责人，著有《iOS开发进阶》|
-| [Hello Java 微信公众号网站](http://hellojava.info) | | |
+| [Hello Java 微信公众号](http://hellojava.info) | | |
 | [始于珞尘](https://hiberabyss.github.io) | [hiberabyss](https://github.com/hiberabyss) | 腾讯社交与效果广告部高级工程师，后端开发 |

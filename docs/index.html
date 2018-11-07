@@ -45,14 +45,14 @@
 
   .sidebar::-webkit-scrollbar {
     -webkit-appearance: none;
-    width: 6px;
-    height: 8px;
+    width: 5px;
+    height: 5px;
   }
 
   .sidebar::-webkit-scrollbar-thumb {
     /* background-color: #b6b6b6; */
     background-color: transparent;
-    border: 1px solid transparent;
+    border: 0px solid transparent;
     border-radius: 10px
   }
 
@@ -61,8 +61,8 @@
   }
 
   .sidebar:hover::-webkit-scrollbar-thumb {
-    background-color: #9d9d9d;
-    border: 1px solid #fff;
+    background-color: #b6b6b6;
+    border: 0px solid #fff;
   }
 
   .sidebar:hover::-webkit-scrollbar-track {
@@ -70,7 +70,7 @@
   }
 
   .sidebar::-webkit-scrollbar-thumb:active {
-    background-color: #0c0505
+    background-color: #9d9d9d
   }
 
   .sidebar {
@@ -82,8 +82,8 @@
 
   ::-webkit-scrollbar {
     -webkit-appearance: none;
-    width: 6px;
-    height: 8px
+    width: 5px;
+    height: 5px
   }
 
   ::-webkit-scrollbar-track {
@@ -92,7 +92,7 @@
 
   ::-webkit-scrollbar-thumb {
     background-color: #b6b6b6;
-    border: 1px solid #fff;
+    border: 0px solid #fff;
     border-radius: 10px
   }
 
@@ -101,11 +101,16 @@
   }
 
   ::-webkit-scrollbar-thumb:active {
-    background-color: #0c0505
+    /* background-color: #0b87da */
   }
 
   @media screen and (max-width: 760px) {
     .sidebar::-webkit-scrollbar {
+      background-color: transparent;
+    }
+
+    code::-webkit-scrollbar {
+      /* display: none; */
       background-color: transparent;
     }
   }
@@ -123,11 +128,11 @@
       loadNavbar: true,
       mergeNavbar: false,
       search: {
-        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        maxAge: 3600000, // 过期时间，单位毫秒，默认一天
         paths: 'auto',
         placeholder: 'Search',
         noData: 'No Results!',
-        depth: 2 // 搜索标题的最大程级, 1 - 6
+        depth: 4 // 搜索标题的最大程级, 1 - 6
       },
       themeable: {
         responsiveTables: true // default
