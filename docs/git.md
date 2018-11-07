@@ -4,35 +4,35 @@
 
 查看关联的远程仓库名称
 
-```
+```bash
 git remote
 ```
 查看关联的远程仓库详细信息
 
-```
+```bash
 git remote -v
 ```
 查看关联的远程仓库详细信息
 
-```
+```bash
 git remote -v
 ```
 
 添加远程仓库的关联
 
-```
+```bash
 git remote add <name> <url>
 ```
 
 删除远程仓库的关联
 
-```
+```bash
 git remote remove <name>
 ```
 
 修改远程仓库的关联
 
-```
+```bash
 git remote set-url <name> <url>
 ```
 

@@ -13,3 +13,4 @@
   - [![Wechat](_media/wechat.svg)微信](https://abelsu7.top/2018/09/21/how-to-learn-coding/#4-4-微信公众号)
   - [![Weibo](_media/weibo.ico ':size=16')微博](https://weibo.com/abelsu7)
   - [![Douban](_media/douban.svg)豆瓣](https://www.douban.com/people/abelsu7/)
+  - [![Leetcode](_media/leetcode.png ':size=16')领扣](https://leetcode-cn.com/13204159288/)

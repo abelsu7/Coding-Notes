@@ -18,3 +18,7 @@ $$
 $$ 
 \left| e \right|=\left | x-x^* \right |\leq \varepsilon
 $$
+
+## 参考资料
+
+* [MathJax](https://www.mathjax.org)
