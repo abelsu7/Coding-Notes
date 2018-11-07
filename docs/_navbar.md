@@ -1,6 +1,6 @@
 - 博客
   - [![](_media/favicon.ico ':size=16')Keep Coding | 苏易北](https://abelsu7.top)
-  - [![](_media/bayern.ico ':size=16')旧版博客](https://abelsu7.cn)
+  - [![](_media/bayern.svg ':size=16')旧版博客](https://abelsu7.cn)
 
 - 收藏
   - [![Github](_media/github.svg)Github](https://github.com/abelsu7)
