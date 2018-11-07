@@ -5,4 +5,4 @@
 > Notes about 💻Computer Science & 📝Coding Skills.
 
 [GitHub](https://github.com/abelsu7/Coding-Notes)
-[Get Started](/README)
+[项目说明](README.md)
