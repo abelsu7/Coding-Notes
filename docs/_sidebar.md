@@ -4,6 +4,7 @@
   - [编程语言](/lans)
   - [Git 常用命令](/git)
   - [Leetcode 题解](/leetcode)
+  - [LaTeX 简明笔记](/latex)
 - **友情链接**
   - [博客收集](/friends)
 - **Links**

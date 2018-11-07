@@ -42,7 +42,7 @@ git remote set-url <name> <url>
 
 ![](_images/git-lock.png)
 
-!> 进入 `.git/` 目录，手动删除 `index.lock`、`.COMMIT_EDITMSG.swp`
+!> 进入 `.git/` 目录，手动删除 `index.lock` 以及 `.COMMIT_EDITMSG.swp`
 
 ## 代码高亮测试
 
