@@ -144,8 +144,9 @@ Ciao!
     /* background-color: #0b87da */
   }
 
-  @media screen and (max-width: 760px) {
+  @media screen and (max-width: 48em) { /* 760px */
     .sidebar::-webkit-scrollbar {
+      display: none;
       background-color: transparent;
     }
 

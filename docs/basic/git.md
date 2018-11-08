@@ -7,11 +7,7 @@
 ```bash
 git remote
 ```
-查看关联的远程仓库详细信息
 
-```bash
-git remote -v
-```
 查看关联的远程仓库详细信息
 
 ```bash
