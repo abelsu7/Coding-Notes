@@ -1,10 +1,10 @@
 - **项目说明**
   - [README](/README)
 - **基础知识**
-  - [编程语言](/lans)
-  - [Git 常用命令](/git)
-  - [Leetcode 题解](/leetcode)
-  - [LaTeX 简明笔记](/latex)
+  - [编程语言](/basic/lans)
+  - [Git 常用命令](/basic/git)
+  - [Leetcode 题解](/basic/leetcode)
+  - [LaTeX 简明笔记](/basic/latex)
 - **热键速查**
   - [IntelliJ IDEA](/keys/keys-idea.md)
   - [VS Code](/keys/keys-vscode.md)
@@ -12,7 +12,7 @@
   - [macOS](/keys/keys-mac.md)
   - [Vim](/keys/keys-vim.md)
 - **友情链接**
-  - [博客收集](/friends)
+  - [博客收集](/links/friends)
 - **Links**
   - [![](https://notes.abelsu7.top/_media/github.svg)Github](https://github.com/abelsu7)
   - [![](https://notes.abelsu7.top/_media/bilibili.ico ':size=16')bilibili](https://space.bilibili.com/59456951/#/)

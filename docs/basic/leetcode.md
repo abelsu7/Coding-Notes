@@ -6,7 +6,7 @@
 
 ### Question
 
-> Given an array of integers, **return indices of the two numbers** such that they **add up to a specific target**. [![](_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/two-sum/)
+> Given an array of integers, **return indices of the two numbers** such that they **add up to a specific target**. [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/two-sum/)
 
 ```bash
 For example:
@@ -100,7 +100,7 @@ func twoSum(nums []int, target int) []int {
 
 ### Question
 
-> Given **n non-negative integers** `a1, a2, ..., an`, where each represents a point at coordinate `(i, ai)`. n vertical lines are drawn such that the two endpoints of line i is at `(i, ai)` and `(i, 0)`. Find two lines, which **together with x-axis forms a container**, such that the container **contains the most water**. [![](_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/container-with-most-water/)
+> Given **n non-negative integers** `a1, a2, ..., an`, where each represents a point at coordinate `(i, ai)`. n vertical lines are drawn such that the two endpoints of line i is at `(i, ai)` and `(i, 0)`. Find two lines, which **together with x-axis forms a container**, such that the container **contains the most water**. [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/container-with-most-water/)
 
 ### Note
 
@@ -202,7 +202,7 @@ func maxArea(height []int) int {
 
 ### Question
 
-> Given a **sorted linked list**, **delete all duplicates** such that each element appear only once. [![](_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
+> Given a **sorted linked list**, **delete all duplicates** such that each element appear only once. [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
 
 ```bash
 For example,
@@ -278,7 +278,7 @@ public:
 
 ### Question
 
-> Say you have an array for which the ith element is the price of a given stock on day i. If you were only permitted to complete **at most one transaction** (ie, buy one and sell one share of the stock), design an algorithm to **find the maximum profit**. [![](_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+> Say you have an array for which the ith element is the price of a given stock on day i. If you were only permitted to complete **at most one transaction** (ie, buy one and sell one share of the stock), design an algorithm to **find the maximum profit**. [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 
 ### Example 1
 
@@ -352,7 +352,7 @@ func maxProfit(prices []int) int {
 
 ### Question
 
-> Given an array of integers, **every element appears twice except for one**. Find that single one. [![](_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/single-number/)
+> Given an array of integers, **every element appears twice except for one**. Find that single one. [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/single-number/)
 
 ### Example
 
@@ -402,7 +402,7 @@ public:
 
 ### Question
 
-> Given an array of integers, **every element appears three times except for one**. Find that single one. [![](_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/single-number-ii/)
+> Given an array of integers, **every element appears three times except for one**. Find that single one. [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/single-number-ii/)
 
 ### Example
 
@@ -461,7 +461,7 @@ public:
 
 ### Question
 
-> Given an array of integers that is already **sorted in ascending order**, find two numbers such that they add up to a specific target number. [![](/_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
+> Given an array of integers that is already **sorted in ascending order**, find two numbers such that they add up to a specific target number. [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
 
 ### Example
 

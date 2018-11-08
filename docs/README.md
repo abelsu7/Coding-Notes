@@ -33,13 +33,39 @@ Ciao!
 * docsify-tabs
 * search
 * external-script
+* prism-js
+
+!> 引入 `prism-cpp.js` 前需先引入 `prism-c.js`
+
+## 目录结构
+
+```bash
+-| docs/     # Github Pages 根目录
+  -| _images/       # 图片
+  -| _media/        # 多媒体文件
+  
+  -| basic/         # 基础知识
+  -| keys/          # 热键速查
+  -| links/         # 友情链接
+
+  -| _coverpage.md  # 封面
+  -| _navbar.md     # 导航栏
+  -| _sidebar.md    # 侧边栏
+
+  -| README.md  # docs README 文件
+  -| index.html # 首页，在这里配置 docsify
+  -| CNAME      # 绑定自定义域名 notes.abelsu7.top
+  -| .nojekyll  # 阻止 GitHub Pages 忽略命名是下划线开头的文件
+
+-| README.md  # Github 仓库 README 文件
+-| LICENSE    # MIT License
+```
 
 ## docsify 配置
 
-```html
-<!DOCTYPE html>
-<html lang="en">
+### head 标签
 
+```html
 <head>
   <meta charset="UTF-8">
   <link rel="icon" href="_media/favicon.ico">
@@ -48,40 +74,14 @@ Ciao!
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <meta name="theme-color" content="#283339">
-  <!-- <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css"> -->
-  <!-- Theme: Defaults -->
   <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple-dark.css">
 </head>
+```
 
+### 滚动条样式优化
+
+```html
 <style>
-  /* .sidebar::-webkit-scrollbar {
-    -webkit-appearance: none;
-    width: 0px;
-    height: 8px
-  }
-
-  .sidebar::-webkit-scrollbar-thumb {
-    background-color: #b6b6b6;
-    border: 1px solid #fff;
-    border-radius: 10px
-  }
-
-  .sidebar::-webkit-scrollbar-track {
-    background-color: inherit
-  }
-
-  .sidebar:hover::-webkit-scrollbar-thumb {
-    background-color: #9d9d9d
-  }
-
-  .sidebar:hover::-webkit-scrollbar-track {
-    background: hsla(0, 0%, 53%, .1)
-  }
-
-  .sidebar {
-    -webkit-overflow-scrolling: touch
-  } */
-
   .sidebar::-webkit-scrollbar {
     -webkit-appearance: none;
     width: 5px;
@@ -155,7 +155,11 @@ Ciao!
     }
   }
 </style>
+```
 
+### docsify 配置
+
+```html
 <body>
   <div id="app"></div>
   <script>
@@ -163,6 +167,7 @@ Ciao!
       name: 'Coding-Notes',
       repo: 'https://github.com/abelsu7/Coding-Notes',
       coverpage: true,
+      basePath: '/',
       loadSidebar: true,
       subMaxLevel: 2,
       loadNavbar: true,
@@ -179,16 +184,24 @@ Ciao!
       }
     }
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-  <script src="https://unpkg.com/docsify-copy-code@2"></script>
-  <script src="https://unpkg.com/docsify-themeable"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
-  <!-- docsify-tabs v1.x -->
-  <script src="https://unpkg.com/docsify-tabs@1"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
 </body>
+```
 
-</html>
+### 引入 Scripts
+
+```html
+<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+<script src="https://unpkg.com/docsify-copy-code@2"></script>
+<script src="https://unpkg.com/docsify-themeable"></script>
+<script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+<!-- docsify-tabs v1.x -->
+<script src="https://unpkg.com/docsify-tabs@1"></script>
+<script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
+<script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
+<script src="//unpkg.com/prismjs/components/prism-java.js"></script>
+<script src="//unpkg.com/prismjs/components/prism-go.js"></script>
+<script src="//unpkg.com/prismjs/components/prism-c.min.js"></script>
+<script src="//unpkg.com/prismjs/components/prism-cpp.js"></script>
 ```
