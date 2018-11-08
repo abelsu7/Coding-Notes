@@ -107,7 +107,7 @@ func twoSum(nums []int, target int) []int {
 > 1. You may not slant the container.
 > 2. Brute Force approach may cause **TLE**.
 
-![Two Pointer Approach](_images/leetcode-11.gif)
+![Two Pointer Approach](https://notes.abelsu7.top/_images/leetcode-11.gif)
 
 ### Solution in Brute Force - TLE
 
@@ -476,7 +476,7 @@ it should return [1, 2].
 > 2. Your returned answers (both index1 and index2) are **not zero-based**.
 > 3. Each input would have **exactly one solution**.
 
-### Solution in Java, Go, C++ and JavaScript
+### Solution in Java and Go
 
 <!--  tabs:start -->
 #### **Java**
@@ -516,6 +516,12 @@ func twoSum(numbers []int, target int) []int {
     return []int{0, 0}
 }
 ```
+
+<!-- tabs:end -->
+
+### Solution in C++ and JavaScript
+
+<!-- tabs:start -->
 
 #### **C++**
 ```cpp
