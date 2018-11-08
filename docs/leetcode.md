@@ -461,7 +461,7 @@ public:
 
 ### Question
 
-> Given an array of integers that is already **sorted in ascending order**, find two numbers such that they add up to a specific target number. [![](_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
+> Given an array of integers that is already **sorted in ascending order**, find two numbers such that they add up to a specific target number. [![](/_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
 
 ### Example
 
