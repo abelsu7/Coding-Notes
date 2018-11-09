@@ -39,6 +39,7 @@
 
 ## Go
 
+- [Go 语言快速入门 | Github](https://github.com/jaywcjlove/golang-tutorial)
 - [创建最小的Go docker 镜像 | 鸟窝](https://colobu.com/2018/08/13/create-minimal-docker-image-for-go-applications/)
 
 ## Python

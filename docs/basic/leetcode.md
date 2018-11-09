@@ -520,7 +520,7 @@ func twoSum(numbers []int, target int) []int {
 <!-- tabs:end -->
 
 ### Solution in C++ and JavaScript
-
+ 
 <!-- tabs:start -->
 
 #### **C++**
