@@ -37,7 +37,7 @@
 | [![](logo/liaoxuefeng.ico ':size=16')廖雪峰的官方网站](https://www.liaoxuefeng.com) | 廖雪峰 | 技术作家，JS、Python、Git教程 |
 | [![](logo/ityouknow.ico ':size=16')纯洁的微笑](http://www.ityouknow.com) | 技术总监 | Java后端、微服务、Spring |
 | [![](logo/wangchujiang.ico ':size=16')小弟调调](https://wangchujiang.com) | [jaywcjlove](https://github.com/jaywcjlove) | 前端、各类awesome项目 |
-| [![](logo/golang.ico ':size=16')鸟窝](https://colobu.com) | colobu | Scala/Go/Docker/Java，现微博架构开发 |
+| [![](logo/golang.ico ':size=16')鸟窝](https://colobu.com) | colobu | Scala、Go、Docker、Java，现微博架构开发 |
 | [![](logo/cyc.png ':size=16')CyC2018](https://cyc2018.github.io/page.html) | 郑永川 | 中山大学，Github CS-Notes |
 | [![](logo/klion.jpg ':size=16')klion's blog](https://klionsec.github.io) | klionsec | 网络安全，博客已停止更新 |
 | [![](logo/sean.png ':size=16')Sean's Notes](http://seanlook.com) | seanlook | 腾讯互娱，游戏DBA |
