@@ -22,7 +22,7 @@
 | [![](logo/zsj.ico ':size=16')张砷镓](http://zhangshenjia.com) | 张砷镓 | 14岁大学毕业，Web开发 |
 | [![](logo/chenshake.ico ':size=16')陈沙克日志](http://www.chenshake.com/) | 陈沙克 | 招银，容器，OpenShift |
 | [![](logo/coolshell.ico ':size=16')酷壳 COOLSHELL](https://coolshell.cn) | 陈皓 | 20年软件开发经验，底层技术平台 |
-| [![](http://wangyuxiong.com/static/css3two_blog/images/favicon2.ico ':size=16')metaboy's blog](http://wangyuxiong.com) | metaboy | 阿里云工程师 |
+| [![](logo/metaboy.ico ':size=16')metaboy's blog](http://wangyuxiong.com) | metaboy | 阿里云工程师 |
 | [![](logo/smilejay.jpg ':size=16')笑遍世界](http://smilejay.com) | 任永杰 |《KVM虚拟化技术：实战与原理解析》作者，华工09届校友 |
 | [![](logo/ioliu.jpg ':size=16')云淡风轻](https://ioliu.cn) | 云淡风轻 | Valine作者 |
 | [![](logo/deserts.png ':size=16')Deserts](https://panjunwen.com) | Deserts | Valine-Admin作者 |
