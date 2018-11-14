@@ -13,6 +13,7 @@
   - [Vim](/keys/keys-vim.md)
 - **友情链接**
   - [博客收集](/links/friends)
+  - [Linux 大全](/links/linux)
 - **Links**
   - [![](https://notes.abelsu7.top/_media/github.svg)Github](https://github.com/abelsu7)
   - [![](https://notes.abelsu7.top/_media/bilibili.ico ':size=16')bilibili](https://space.bilibili.com/59456951/#/)
