@@ -12,8 +12,10 @@
   - [macOS](/keys/keys-mac.md)
   - [Vim](/keys/keys-vim.md)
 - **友情链接**
-  - [博客收集](/links/friends)
-  - [Linux 大全](/links/linux)
+  - [技术博客](/links/friends)
+  - [Linux 收集](/links/linux)
+  - [前端收集](/links/frontend)
+  - [学习资源](/links/learning)
 - **Links**
   - [![](https://notes.abelsu7.top/_media/github.svg)Github](https://github.com/abelsu7)
   - [![](https://notes.abelsu7.top/_media/bilibili.ico ':size=16')bilibili](https://space.bilibili.com/59456951/#/)
