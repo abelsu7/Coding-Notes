@@ -13,6 +13,7 @@
   - [Vim](/keys/keys-vim.md)
 - **友情链接**
   - [技术博客](/links/friends)
+  - [微信公众号](/links/wechat)
   - [Linux 收集](/links/linux)
   - [前端收集](/links/frontend)
   - [学习资源](/links/learning)
