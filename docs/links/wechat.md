@@ -51,6 +51,15 @@
     </div>
 </p>
 
+<p>
+    <div style='text-align: center'>
+        <img src='http://localhost:3000/links/wechat/infoq.gif' width='400'></img>
+    </div>
+    <div style='text-align: center'>
+        InfoQ
+    </div>
+</p>
+
 ## 云计算
 
 <p>
@@ -363,6 +372,15 @@
 </p>
 
 ## 开源
+
+<p>
+    <div style='text-align: center'>
+        <img src='http://localhost:3000/links/wechat/oschina.jpg' width='400'></img>
+    </div>
+    <div style='text-align: center'>
+        开源中国
+    </div>
+</p>
 
 <p>
     <div style='text-align: center'>
