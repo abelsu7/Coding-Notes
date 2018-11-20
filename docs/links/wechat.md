@@ -53,7 +53,7 @@
 
 <p>
     <div style='text-align: center'>
-        <img src='http://localhost:3000/links/wechat/infoq.gif' width='400'></img>
+        <img src='https://notes.abelsu7.top/links/wechat/infoq.gif' width='400'></img>
     </div>
     <div style='text-align: center'>
         InfoQ
@@ -375,7 +375,7 @@
 
 <p>
     <div style='text-align: center'>
-        <img src='http://localhost:3000/links/wechat/oschina.jpg' width='400'></img>
+        <img src='https://notes.abelsu7.top/links/wechat/oschina.jpg' width='400'></img>
     </div>
     <div style='text-align: center'>
         开源中国
