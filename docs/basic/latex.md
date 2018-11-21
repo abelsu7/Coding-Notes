@@ -22,3 +22,4 @@ $$
 ## 参考资料
 
 * [MathJax](https://www.mathjax.org)
+* [subarray，\substack，多行上下标 | 悠闲数学娱乐论坛](http://kuing.orzweb.net/viewthread.php?tid=2212)
