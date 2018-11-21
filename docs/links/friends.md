@@ -14,10 +14,20 @@
 | [![](logo/kooola.png ':size=16')考拉的网络日志](https://www.kooola.com) | 张卫庆（kooola） | 专注大数据相关领域 |
 | [![](logo/limengting.ico ':size=16')Li Mengting](https://limengting.site) | 李梦婷 | 北京理工大学计算机系2015级，Java 服务端开发 |
 
+## 团队博客
+
+| 团队 | 备注 |
+| :-- | :-- |
+| [![](logo/aliware.ico ':size=16')阿里中间件团队博客](http://jm.taobao.org/) | 致力于成为中国第一，世界一流的中间件技术团队 |
+| [![](logo/taobaofed.ico ':size=16')淘宝 FED 前端团队](http://taobaofed.org/) | 用技术为体验提供无限可能 |
+| [![](logo/meituan.ico ':size=16')美团技术团队](https://tech.meituan.com/) | [微信公众号](https://tech.meituan.com/about) |
+| [![](logo/360.ico ':size=16')奇舞团](https://75team.com/post/list) | 360 前端技术团队 |
+
 ## 技术博客收集
 
 | 名称 | 博主 | 备注 |
 | :-- | :-- | :-- |
+| [![](logo/barretlee.ico ':size=16')小胡子哥的个人网站](https://www.barretlee.com/) | 小胡子哥 | 淘宝 FED，前端开发 |
 | [![](logo/oom.ico ':size=16')内存·溢出](http://outofmemory.cn/#csdn) | | 为程序员服务 |
 | [![](logo/zsj.ico ':size=16')张砷镓](http://zhangshenjia.com) | 张砷镓 | 14岁大学毕业，Web开发 |
 | [![](logo/chenshake.ico ':size=16')陈沙克日志](http://www.chenshake.com/) | 陈沙克 | 招银，容器，OpenShift |

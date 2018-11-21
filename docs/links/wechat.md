@@ -60,6 +60,26 @@
     </div>
 </p>
 
+## 企业团队
+
+<p>
+    <div style='text-align: center'>
+        <img src='http://localhost:3000/links/wechat/aliware.jpeg' width='400'></img>
+    </div>
+    <div style='text-align: center'>
+        阿里巴巴中间件
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
+        <img src='http://localhost:3000/links/wechat/meituan.png' width='400'></img>
+    </div>
+    <div style='text-align: center'>
+        美团技术团队
+    </div>
+</p>
+
 ## 云计算
 
 <p>
@@ -116,7 +136,7 @@
     </div>
 </p>
 
-## Linux 与后台开发
+## Linux 与后端开发
 
 <p>
     <div style='text-align: center'>
@@ -196,6 +216,26 @@
     </div>
     <div style='text-align: center'>
         民工哥 Linux 运维
+    </div>
+</p>
+
+## 前端
+
+<p>
+    <div style='text-align: center'>
+        <img src='http://localhost:3000/links/wechat/taobaofed.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        淘宝前端团队
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
+        <img src='http://localhost:3000/links/wechat/barretlee.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        小胡子哥
     </div>
 </p>
 

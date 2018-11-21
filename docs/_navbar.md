@@ -15,4 +15,5 @@
   - [![](https://notes.abelsu7.top/_media/jianshu.svg)简书](https://www.jianshu.com)
   - [![](https://notes.abelsu7.top/_media/zhihu.ico ':size=16')知乎](https://www.zhihu.com)
   - [![](https://notes.abelsu7.top/_media/csdn.ico ':size=16')CSDN](https://blog.csdn.net/abelsu7)
+  - [![](http://localhost:3000/_media/v2ex.png ':size=16')V2EX](https://www.v2ex.com/)
   - [![](https://notes.abelsu7.top/_media/tecmint.png ':size=16')TecMint](https://www.tecmint.com/)

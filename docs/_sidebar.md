@@ -17,6 +17,11 @@
   - [Linux 收集](/links/linux)
   - [前端收集](/links/frontend)
   - [学习资源](/links/learning)
+- **求职应聘**
+  - [校招官网](/offer/official.md)
+  - [面经](/offer/exp.md)
+  - [刷题](/offer/test.md)
+  - [简历](/offer/cv.md)
 - **Links**
   - [![](https://notes.abelsu7.top/_media/github.svg)Github](https://github.com/abelsu7)
   - [![](https://notes.abelsu7.top/_media/bilibili.ico ':size=16')bilibili](https://space.bilibili.com/59456951/#/)
