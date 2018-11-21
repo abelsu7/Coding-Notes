@@ -64,7 +64,7 @@
 
 <p>
     <div style='text-align: center'>
-        <img src='http://localhost:3000/links/wechat/aliware.jpeg' width='400'></img>
+        <img src='https://notes.abelsu7.top/links/wechat/aliware.jpeg' width='400'></img>
     </div>
     <div style='text-align: center'>
         阿里巴巴中间件
@@ -73,7 +73,7 @@
 
 <p>
     <div style='text-align: center'>
-        <img src='http://localhost:3000/links/wechat/meituan.png' width='400'></img>
+        <img src='https://notes.abelsu7.top/links/wechat/meituan.png' width='400'></img>
     </div>
     <div style='text-align: center'>
         美团技术团队
@@ -223,7 +223,7 @@
 
 <p>
     <div style='text-align: center'>
-        <img src='http://localhost:3000/links/wechat/taobaofed.jpg' width='200'></img>
+        <img src='https://notes.abelsu7.top/links/wechat/taobaofed.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
         淘宝前端团队
@@ -232,7 +232,7 @@
 
 <p>
     <div style='text-align: center'>
-        <img src='http://localhost:3000/links/wechat/barretlee.jpg' width='200'></img>
+        <img src='https://notes.abelsu7.top/links/wechat/barretlee.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
         小胡子哥
