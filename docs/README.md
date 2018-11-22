@@ -194,11 +194,11 @@ Ciao!
 ```html
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-<script src="https://unpkg.com/docsify-copy-code@2"></script>
-<script src="https://unpkg.com/docsify-themeable"></script>
+<script src="//unpkg.com/docsify-copy-code@2"></script>
+<script src="//unpkg.com/docsify-themeable"></script>
 <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
 <!-- docsify-tabs v1.x -->
-<script src="https://unpkg.com/docsify-tabs@1"></script>
+<script src="//unpkg.com/docsify-tabs@1"></script>
 <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
 <script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
 <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
