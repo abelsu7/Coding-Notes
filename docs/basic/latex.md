@@ -4,20 +4,10 @@
 
 ## 分数
 
-| 符号 | LaTeX 代码 |
-| :-: | :-: |
-| 分数 | `\fraq{}{}` |
-
-$$
-R{m \times n} = U{m \times m} S{m \times n} V{n \times n}’
-$$
-
-
-## 测试
-
-$$ 
-\left| e \right|=\left | x-x^* \right |\leq \varepsilon
-$$
+| 格式 | 语法 | 示例 | 说明 |
+| :-- | :-- | :-: | :-- |
+| 分数 | `\frac{}{}` | $$\frac{1}{x^2-4}$$ | 行内分数会缩小以适应行高 |
+| 调整分数大小 | `\displaystyle{}` | $$\displaystyle{\frac{1}{x^2-4}}$$ | 适用于行内分数 |
 
 ## 参考资料
 

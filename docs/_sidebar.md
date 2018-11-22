@@ -2,7 +2,7 @@
   - [README](/README)
 - **基础知识**
   - [编程语言](/basic/lans)
-  - [Git 常用命令](/basic/git)
+  - [![](https://notes.abelsu7.top/_media/git.svg)Git 常用命令](/basic/git)
   - [Leetcode 题解](/basic/leetcode)
   - [LaTeX 简明笔记](/basic/latex)
 - **热键速查**

@@ -1,4 +1,4 @@
-> An awesome project.
+?> An awesome project.
 
 ## 利用 docsify + Github Pages 搭建云笔记
 
