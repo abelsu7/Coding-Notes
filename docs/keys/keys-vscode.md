@@ -1,6 +1,6 @@
 ?> VS Code
 
-!> [keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+!> [![](https://notes.abelsu7.top/_media/vscode.svg)keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 ## 快捷键
 

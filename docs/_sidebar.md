@@ -1,5 +1,5 @@
 - **项目说明**
-  - [![](https://notes.abelsu7.top/_media/about.svg)README](/README)
+  - [![](https://notes.abelsu7.top/_media/about-yellow.svg)README](/README)
 - **基础知识**
   - [![](https://notes.abelsu7.top/_media/java.svg)编程语言](/basic/lans)
   - [![](https://notes.abelsu7.top/_media/git.svg)Git 常用命令](/basic/git)
@@ -8,14 +8,15 @@
 - **热键速查**
   - [![](https://notes.abelsu7.top/_media/idea.svg ':size=16')IntelliJ IDEA](/keys/keys-idea.md)
   - [![](https://notes.abelsu7.top/_media/vscode.svg)VS Code](/keys/keys-vscode.md)
+  - [![](https://notes.abelsu7.top/_media/chrome.svg)Chrome](/keys/keys-chrome.md)
   - [![](https://notes.abelsu7.top/_media/windows.svg)Windows](/keys/keys-windows.md)
   - [![](https://notes.abelsu7.top/_media/mac.svg)macOS](/keys/keys-mac.md)
   - [![](https://notes.abelsu7.top/_media/vim.svg)Vim](/keys/keys-vim.md)
 - **友情链接**
-  - [![](https://notes.abelsu7.top/_media/blog.svg)技术博客](/links/friends)
+  - [![](https://notes.abelsu7.top/_media/hexo.svg)技术博客](/links/friends)
   - [![](https://notes.abelsu7.top/_media/wechat.svg)微信公众号](/links/wechat)
   - [![](https://notes.abelsu7.top/_media/linux.svg)Linux 收集](/links/linux)
-  - [![](https://notes.abelsu7.top/_media/web.svg)前端收集](/links/frontend)
+  - [![](https://notes.abelsu7.top/_media/vue.svg)前端收集](/links/frontend)
   - [![](https://notes.abelsu7.top/_media/library.svg)学习资源](/links/learning)
 - **求职应聘**
   - [![](https://notes.abelsu7.top/_media/shirt.svg)校招官网](/offer/official.md)
