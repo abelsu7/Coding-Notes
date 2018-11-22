@@ -6,7 +6,7 @@
   - [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')Leetcode 题解](/basic/leetcode)
   - [![](https://notes.abelsu7.top/_media/tex.svg)LaTeX 简明笔记](/basic/latex)
 - **热键速查**
-  - [![](https://notes.abelsu7.top/_media/tex.svg ':size=16')IntelliJ IDEA](/keys/keys-idea.md)
+  - [![](https://notes.abelsu7.top/_media/idea.svg ':size=16')IntelliJ IDEA](/keys/keys-idea.md)
   - [![](https://notes.abelsu7.top/_media/vscode.svg)VS Code](/keys/keys-vscode.md)
   - [![](https://notes.abelsu7.top/_media/windows.svg)Windows](/keys/keys-windows.md)
   - [![](https://notes.abelsu7.top/_media/mac.svg)macOS](/keys/keys-mac.md)
