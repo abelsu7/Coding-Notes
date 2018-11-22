@@ -1,5 +1,5 @@
 - **项目说明**
-  - [![](https://notes.abelsu7.top/_media/readme.svg)README](/README)
+  - [![](https://notes.abelsu7.top/_media/about.svg)README](/README)
 - **基础知识**
   - [![](https://notes.abelsu7.top/_media/java.svg)编程语言](/basic/lans)
   - [![](https://notes.abelsu7.top/_media/git.svg)Git 常用命令](/basic/git)
@@ -12,13 +12,13 @@
   - [![](https://notes.abelsu7.top/_media/mac.svg)macOS](/keys/keys-mac.md)
   - [![](https://notes.abelsu7.top/_media/vim.svg)Vim](/keys/keys-vim.md)
 - **友情链接**
-  - [![](https://notes.abelsu7.top/_media/library-2.svg)技术博客](/links/friends)
+  - [![](https://notes.abelsu7.top/_media/blog.svg)技术博客](/links/friends)
   - [![](https://notes.abelsu7.top/_media/wechat.svg)微信公众号](/links/wechat)
   - [![](https://notes.abelsu7.top/_media/linux.svg)Linux 收集](/links/linux)
-  - [![](https://notes.abelsu7.top/_media/frontend.svg)前端收集](/links/frontend)
+  - [![](https://notes.abelsu7.top/_media/web.svg)前端收集](/links/frontend)
   - [![](https://notes.abelsu7.top/_media/library.svg)学习资源](/links/learning)
 - **求职应聘**
-  - [![](https://notes.abelsu7.top/_media/tie.svg)校招官网](/offer/official.md)
+  - [![](https://notes.abelsu7.top/_media/shirt.svg)校招官网](/offer/official.md)
   - [![](https://notes.abelsu7.top/_media/interview.svg)面经](/offer/exp.md)
   - [![](https://notes.abelsu7.top/_media/terminal.svg)刷题](/offer/test.md)
   - [![](https://notes.abelsu7.top/_media/resume.svg)简历](/offer/cv.md)
