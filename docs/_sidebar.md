@@ -1,5 +1,5 @@
 - **项目说明**
-  - [![](https://notes.abelsu7.top/_media/about-yellow.svg)README](/README)
+  - [![](https://notes.abelsu7.top/_media/help.svg)README](/README)
 - **基础知识**
   - [![](https://notes.abelsu7.top/_media/java.svg)编程语言](/basic/lans)
   - [![](https://notes.abelsu7.top/_media/git.svg)Git 常用命令](/basic/git)
