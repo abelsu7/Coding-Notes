@@ -47,6 +47,7 @@ Ciao!
 |   ├ basic/         # 基础知识
 |   ├ keys/          # 热键速查
 |   ├ links/         # 友情链接
+|   ├ offer/         # 求职应聘
 |
 |   ├ _coverpage.md  # 封面
 |   ├ _navbar.md     # 导航栏
