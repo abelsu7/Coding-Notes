@@ -20,7 +20,7 @@
   - [![](https://notes.abelsu7.top/_media/vue.svg)前端收集](/links/frontend)
   - [![](https://notes.abelsu7.top/_media/library.svg)学习资源](/links/learning)
 - **求职应聘**
-  - [![](https://notes.abelsu7.top/_media/shirt.svg)校招官网](/offer/official.md)
+  - [![](https://notes.abelsu7.top/_media/shirt.svg)校招](/offer/official.md)
   - [![](https://notes.abelsu7.top/_media/interview.svg)面经](/offer/exp.md)
   - [![](https://notes.abelsu7.top/_media/terminal.svg)刷题](/offer/test.md)
   - [![](https://notes.abelsu7.top/_media/resume.svg)简历](/offer/cv.md)
