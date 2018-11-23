@@ -1,4 +1,4 @@
-?> ![](https://notes.abelsu7.top/_media/markdown-orange.svg)Markdown 简明笔记
+?> ![](https://notes.abelsu7.top/_media/markdown-blue.svg)Markdown 简明笔记
 
 ## Dropdown
 

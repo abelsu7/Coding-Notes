@@ -1,4 +1,4 @@
-?> [Programming Notes for Professionals books | GoalKicker.com](https://goalkicker.com/)
+?> ![](https://notes.abelsu7.top/_media/java.svg)[Programming Notes for Professionals books | GoalKicker.com](https://goalkicker.com/)
 
 ## C/C++
 

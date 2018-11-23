@@ -5,7 +5,7 @@
   - [![](https://notes.abelsu7.top/_media/git.svg)Git 常用命令](/basic/git)
   - [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')Leetcode 题解](/basic/leetcode)
   - [![](https://notes.abelsu7.top/_media/tex.svg)LaTeX 简明笔记](/basic/latex)
-  - [![](https://notes.abelsu7.top/_media/markdown.svg)Markdown 简明笔记](/basic/markdown)
+  - [![](https://notes.abelsu7.top/_media/markdown-blue.svg)Markdown 简明笔记](/basic/markdown)
 - **热键速查**
   - [![](https://notes.abelsu7.top/_media/idea.svg ':size=16')IntelliJ IDEA](/keys/keys-idea.md)
   - [![](https://notes.abelsu7.top/_media/vscode.svg)VS Code](/keys/keys-vscode.md)
