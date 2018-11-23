@@ -19,6 +19,11 @@
 
 * [![](logo/tool.ico ':size=16')网址导航 | tool.lu](https://tool.lu/nav/)
 
+## 搜索
+
+* [![](logo/algolia.ico ':size=16')Algolia](https://www.algolia.com/)
+* [![](logo/github.svg ':size=16')Lunr.js](https://lunrjs.com/)
+
 ## Github
 
 * [![](logo/github.svg ':size=16')33-js-concepts | 每个 JavaScript 工程师都应懂的33个概念](https://github.com/stephentian/33-js-concepts)

@@ -1,6 +1,7 @@
+<link href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-?> <span id="busuanzi_container_page_pv"><img src="//notes.abelsu7.top/_media/view.svg" data-origin="view.svg" alt data-no-zoom>共计阅读 <span id="busuanzi_value_page_pv"></span> 次</span>
+?> <span id="busuanzi_container_site_uv"><img src="_media/visit.svg" data-origin="view.svg" alt data-no-zoom> 本站访客数 <span id="busuanzi_value_site_uv"><i class="fa fa-spinner fa-spin"></i></span> 人次</span><br><span id="busuanzi_container_page_pv"><img src="//notes.abelsu7.top/_media/view.svg" data-origin="view.svg" alt data-no-zoom> 本文阅读量 <span id="busuanzi_value_page_pv"><i class="fa fa-spinner fa-spin"></i></span> 次</span>
 
 ## 利用 docsify + Github Pages 搭建云笔记
 
