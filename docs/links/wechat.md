@@ -490,12 +490,3 @@
         漫话编程
     </div>
 </p>
-
-<p>
-    <div style='text-align: center'>
-        <img src='https://notes.abelsu7.top/links/wechat/liurun.jpg' width='400'></img>
-    </div>
-    <div style='text-align: center'>
-        刘润商学院
-    </div>
-</p>
