@@ -127,15 +127,6 @@
     </div>
 </p>
 
-<p>
-    <div style='text-align: center'>
-        <img src='https://notes.abelsu7.top/links/wechat/boboweike.png' width='200'></img>
-    </div>
-    <div style='text-align: center'>
-        波波微课
-    </div>
-</p>
-
 ## Linux 与后端开发
 
 <p>
@@ -216,6 +207,26 @@
     </div>
     <div style='text-align: center'>
         民工哥 Linux 运维
+    </div>
+</p>
+
+## 系统架构
+
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/shishanjiagou.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        石杉的架构笔记
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/boboweike.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        波波微课
     </div>
 </p>
 
@@ -322,15 +333,6 @@
     </div>
 </p>
 
-<p>
-    <div style='text-align: center'>
-        <img src='https://notes.abelsu7.top/links/wechat/boboweike.png' width='200'></img>
-    </div>
-    <div style='text-align: center'>
-        波波微课
-    </div>
-</p>
-
 ## Python
 
 <p>
@@ -404,7 +406,7 @@
 
 <p>
     <div style='text-align: center'>
-        <img src='https://notes.abelsu7.top/links/wechat/jiqizhixin.png' width='200'></img>
+        <img src='https://notes.abelsu7.top/links/wechat/jiqizhixin.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
         机器之心
@@ -473,15 +475,6 @@
 
 <p>
     <div style='text-align: center'>
-        <img src='https://notes.abelsu7.top/links/wechat/liurun.png' width='200'></img>
-    </div>
-    <div style='text-align: center'>
-        刘润
-    </div>
-</p>
-
-<p>
-    <div style='text-align: center'>
         <img src='https://notes.abelsu7.top/links/wechat/qianheikeji.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
@@ -495,5 +488,14 @@
     </div>
     <div style='text-align: center'>
         漫话编程
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/liurun.jpg' width='400'></img>
+    </div>
+    <div style='text-align: center'>
+        刘润商学院
     </div>
 </p>
