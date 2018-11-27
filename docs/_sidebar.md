@@ -1,7 +1,8 @@
 - **项目说明**
   - [![](https://notes.abelsu7.top/_media/help.svg)README](/README)
 - **基础知识**
-  - [![](https://notes.abelsu7.top/_media/java.svg)编程语言](/basic/lans)
+  - [![](https://notes.abelsu7.top/_media/program.svg)编程语言](/basic/lans)
+  - [![](https://notes.abelsu7.top/_media/java.svg)Java 笔记](/basic/java)
   - [![](https://notes.abelsu7.top/_media/git.svg)Git 常用命令](/basic/git)
   - [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')Leetcode 题解](/basic/leetcode)
   - [![](https://notes.abelsu7.top/_media/tex.svg)LaTeX 简明笔记](/basic/latex)
