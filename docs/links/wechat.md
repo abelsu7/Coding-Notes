@@ -131,7 +131,7 @@
 
 <p>
     <div style='text-align: center'>
-        <img src='http://localhost:3000/links/wechat/madong.jpg' width='200'></img>
+        <img src='https://notes.abelsu7.top/links/wechat/madong.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
         码洞 - 钱文品，掌阅资深后端工程师
