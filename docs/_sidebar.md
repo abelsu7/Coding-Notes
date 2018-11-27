@@ -29,7 +29,7 @@
 - **Links**
   - [![](https://notes.abelsu7.top/_media/github.svg)Github](https://github.com/abelsu7)
   - [![](https://notes.abelsu7.top/_media/bilibili.ico ':size=16')bilibili](https://space.bilibili.com/59456951/#/)
-  - [![](https://notes.abelsu7.top/_media/wechat.svg)微信](https://notes.abelsu7.top/#/links/wechat)
+  - [![](https://notes.abelsu7.top/_media/wechat.svg)微信](http://mp.weixin.qq.com/profile?src=3&timestamp=1543306212&ver=1&signature=pixrLQzfXEsxErf3hX*h9QQiOyJ81KzT1E1g4BVTUT0xcznk2M7UVss-TaHsFEqpDWbCgz7qvgld0h5UlJF86A==)
   - [![](https://notes.abelsu7.top/_media/weibo.ico ':size=16')微博](https://weibo.com/abelsu7)
   - [![](https://notes.abelsu7.top/_media/douban.svg)豆瓣](https://www.douban.com/people/abelsu7/)
   - [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')领扣](https://leetcode-cn.com/13204159288/)
