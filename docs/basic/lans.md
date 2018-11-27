@@ -49,6 +49,7 @@
 
 ## Go
 
+- ⭐[快学 Go 语言 | 老钱的知乎专栏](https://zhuanlan.zhihu.com/quickgo)
 - [The Go Programming Language | Go 官方文档](https://golang.org/)
 - [RPCX | Go 语言的 RPC 框架](http://rpcx.site/)
 - [Go database/sql tutorial](http://go-database-sql.org/)

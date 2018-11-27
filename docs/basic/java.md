@@ -4,17 +4,18 @@
 
 | 地址 | 说明 |
 | :-- | :-- |
-| [Java Core Sprout](https://github.com/crossoverJie/JCSprout) | Java basic, concurrent, algorithm |
-| [interviews - Github](https://github.com/kdn251/interviews) | Java工程师面试指南 |
-| [JavaGuide - Github](https://github.com/Snailclimb/JavaGuide) | Java学习+面试指南 |
+| [![](https://notes.abelsu7.top/_media/crossoverjie.png ':size=16')Java Core Sprout](https://github.com/crossoverJie/JCSprout)⭐ | Java basic, concurrent, algorithm |
+| [![](https://notes.abelsu7.top/_media/github.svg)interviews - Github](https://github.com/kdn251/interviews) | Java工程师面试指南 |
+| [![](https://notes.abelsu7.top/_media/github.svg)JavaGuide - Github](https://github.com/Snailclimb/JavaGuide) | Java学习+面试指南 |
+| [![](https://notes.abelsu7.top/_media/how2j.ico ':size=16')how2j.cn](http://how2j.cn/)⭐ | Java 学习路线 |
 
 * 技术原始积累 - 淘宝加多
-* CS-Notes - cyc2018
+* ![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes - cyc2018⭐
 * 纯洁的微笑
 
 ## Java 框架
 
-- [Netty](https://netty.io)
+- [![](https://notes.abelsu7.top/_media/netty.ico ':size=16')Netty](https://netty.io)
 - Spring Boot
 - Spring Cloud
 - SSM ( SpingMVC / Spring / MyBatis )
@@ -26,6 +27,7 @@
 ## Java 文章
 
 - ⭐[2018 年如何快速学 Java | Java3y](https://mp.weixin.qq.com/s/An3nKhnJzyRWukW7DjMb-w)
+- 💗[通俗地讲，Netty 能做什么？ - 老钱的回答 - 知乎](https://www.zhihu.com/question/24322387/answer/282001188)
 - [拜托！面试请不要再问我Spring Cloud底层原理 | 纯洁的微笑](https://mp.weixin.qq.com/s?__biz=MzI4NDY5Mjc1Mg==&mid=2247486312&idx=1&sn=8693da2c54ed4a50c3be6819644991f8&chksm=ebf6d317dc815a013817a7b3bf11ea340ea87e1c214d9e25706b387b8fde5397c9396e33a7a8&mpshare=1&scene=1&srcid=1126TUmPlvxZKxSL0NzMRKSh#rd)
 - [2018年排名Top 100的Java类库——在分析了277,975份源码之后得出的结论 | Hollis](https://www.hollischuang.com/archives/2926)
 - [Java 和 Python：哪一个更适合你？| 计蒜客](https://mp.weixin.qq.com/s?__biz=MjM5NTI5NTAzNg==&mid=2656331406&idx=1&sn=8523c4c3a006d44a9c9bdb78f65b81f1)

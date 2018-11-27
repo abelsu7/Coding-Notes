@@ -1,6 +1,14 @@
 ?> ![](https://notes.abelsu7.top/_media/markdown-blue.svg)Markdown 简明笔记
 
-## Dropdown
+## 微信公众号排版
+
+* Md2All
+* 小胡子哥
+* 小胡子哥的另一个版本
+
+## Markdown 常用语法
+
+### Dropdown
 
 <details>
 <summary>How do I dropdown?</summary>
@@ -20,7 +28,7 @@ This is how you dropdown.
 
 * [![](logo/typora.png ':size=16')Typora](https://typora.io/)
 
-## 资源
+## 相关资源
 
 | 名称 | 说明 |
 | :-- | :-- |
