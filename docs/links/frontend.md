@@ -14,6 +14,7 @@
 
 * [![](logo/tool.ico ':size=16')tool.lu | 在线工具，程序员的工具箱](https://tool.lu/)
 * [![](logo/cods.ico ':size=16')全国组织机构统一社会信用代码公示查询平台](http://www.cods.org.cn/portal/publish/index.html)
+* [![](logo/ipip.ico ':size=16')ipip.net | 实时 Geo-IP 库](https://www.ipip.net)
 
 ## 网址导航
 
