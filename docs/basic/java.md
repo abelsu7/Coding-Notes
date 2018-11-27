@@ -17,7 +17,7 @@
 - [Netty](https://netty.io)
 - Spring Boot
 - Spring Cloud
-- [拜托！面试请不要再问我Spring Cloud底层原理 | 纯洁的微笑](https://mp.weixin.qq.com/s?__biz=MzI4NDY5Mjc1Mg==&mid=2247486312&idx=1&sn=8693da2c54ed4a50c3be6819644991f8&chksm=ebf6d317dc815a013817a7b3bf11ea340ea87e1c214d9e25706b387b8fde5397c9396e33a7a8&mpshare=1&scene=1&srcid=1126TUmPlvxZKxSL0NzMRKSh#rd)
+- SSM ( SpingMVC / Spring / MyBatis )
 
 ## Java 规范
 
@@ -25,6 +25,8 @@
 
 ## Java 文章
 
+- ⭐[2018 年如何快速学 Java | Java3y](https://mp.weixin.qq.com/s/An3nKhnJzyRWukW7DjMb-w)
+- [拜托！面试请不要再问我Spring Cloud底层原理 | 纯洁的微笑](https://mp.weixin.qq.com/s?__biz=MzI4NDY5Mjc1Mg==&mid=2247486312&idx=1&sn=8693da2c54ed4a50c3be6819644991f8&chksm=ebf6d317dc815a013817a7b3bf11ea340ea87e1c214d9e25706b387b8fde5397c9396e33a7a8&mpshare=1&scene=1&srcid=1126TUmPlvxZKxSL0NzMRKSh#rd)
 - [2018年排名Top 100的Java类库——在分析了277,975份源码之后得出的结论 | Hollis](https://www.hollischuang.com/archives/2926)
 - [Java 和 Python：哪一个更适合你？| 计蒜客](https://mp.weixin.qq.com/s?__biz=MjM5NTI5NTAzNg==&mid=2656331406&idx=1&sn=8523c4c3a006d44a9c9bdb78f65b81f1)
 - [JVM难学？那是因为你没认真看完这篇文章 | 51CTO](http://virtual.51cto.com/art/201807/580091.htm#comment)
