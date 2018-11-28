@@ -289,7 +289,7 @@ public:
 
 ### Example 1
 
-```
+```bash
 Input: [7, 1, 5, 3, 6, 4]
 Output: 5
 max. difference = 6-1 = 5 
@@ -298,7 +298,7 @@ Not 7-1 = 6, as selling price needs to be larger than buying price.
 
 ### Example 2
 
-```
+```bash
 Input: [7, 6, 4, 3, 1]
 Output: 0
 In this case, no transaction is done, i.e. max profit = 0.
@@ -363,7 +363,7 @@ func maxProfit(prices []int) int {
 
 ### Example
 
-```
+```bash
 Given int[] arr = {1, 2, 1, 3, 4, 3, 2}, 
 it should return 4.
 ```
@@ -413,7 +413,7 @@ public:
 
 ### Example
 
-```
+```bash
 Given int[] arr = {1, 2, 1, 1, 3, 4, 3, 3, 2, 2}, 
 it should return 4.
 ```
@@ -472,7 +472,7 @@ public:
 
 ### Example
 
-```
+```bash
 Given input numbers = [2, 7, 11, 15], with target = 9,
 it should return [1, 2].
 ```
@@ -584,7 +584,7 @@ var twoSum = function(numbers, target) {
 
 > Write a function that **takes an unsigned integer** and **returns the number of ‘1’ bits it has** (also known as the [Hamming weight](https://en.wikipedia.org/wiki/Hamming_weight)). [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/number-of-1-bits/)
 
-```
+```bash
 For example,
 the 32-bit integer '11' has binary representation - 
 00000000000000000000000000001011,
@@ -616,7 +616,7 @@ public int hammingWeight(int n) {
 
 <p>
     <div style='text-align: center'>
-        <img src='https://notes.abelsu7.top/basic/leetcode/leetcode-191.jpg' width='600'></img>
+        <img src='https://notes.abelsu7.top/basic/leetcode/leetcode-191.jpg' width='400'></img>
     </div>
     <div style='text-align: center'>
         AND-ing N and N-1 flips the least-significant 11-bit to 0
