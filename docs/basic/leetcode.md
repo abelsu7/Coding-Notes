@@ -107,7 +107,14 @@ func twoSum(nums []int, target int) []int {
 > 1. You may not slant the container.
 > 2. Brute Force approach may cause **TLE**.
 
-![Two Pointer Approach](https://notes.abelsu7.top/_images/leetcode-11.gif)
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/basic/leetcode/leetcode-11.gif' width='600'></img>
+    </div>
+    <div style='text-align: center'>
+        Two Pointer Approach
+    </div>
+</p>
 
 ### Solution in Brute Force - TLE
 
@@ -568,3 +575,71 @@ var twoSum = function(numbers, target) {
 };
 ```
 <!--  tabs:end -->
+
+## 191. Number of 1 Bits
+
+!> Return the number of ‘1’ bits
+
+### Question
+
+> Write a function that **takes an unsigned integer** and **returns the number of ‘1’ bits it has** (also known as the [Hamming weight](https://en.wikipedia.org/wiki/Hamming_weight)). [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')See it on Leetcode](https://leetcode-cn.com/problems/number-of-1-bits/)
+
+```
+For example,
+the 32-bit integer '11' has binary representation - 
+00000000000000000000000000001011,
+so it should return 3.
+```
+
+### Hint
+
+> 1. It should use **bit manipulation**.
+> 2. `Integer.bitCount(<int>)` also helps.
+
+### Solution in Loop and Flip
+
+```java
+public int hammingWeight(int n) {
+    int bits = 0;
+    int mask = 1;
+    for (int i = 0; i < 32; i++) {
+        if ((n & mask) != 0) {
+            bits++;
+        }
+        mask <<= 1;
+    }
+    return bits;
+}
+```
+
+### Solution in Bit Manipulation Trick
+
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/basic/leetcode/leetcode-191.jpg' width='600'></img>
+    </div>
+    <div style='text-align: center'>
+        AND-ing N and N-1 flips the least-significant 11-bit to 0
+    </div>
+</p>
+
+```java
+public int hammingWeight(int n) {
+    int sum = 0;
+    while (n != 0) {
+        sum++;
+        n &= (n - 1);
+    }
+    return sum;
+}
+```
+
+### Solution in Integer.bitCount()
+
+```java
+public class Solution {
+    public int hammingWeight(int n) {
+        return Integer.bitCount(n);
+    }
+}
+```

@@ -2,6 +2,12 @@
 
 ## Daily Sentence
 
+### Nov. 28, 2018
+
+> I was not looking for my dreams to interpret my life, but rather for my life to interpret my dreams. Susan Sontag
+> 
+> 我不想用梦想来注解人生，我要用人生来诠释我的梦想。——苏珊·桑塔格
+
 ### Nov. 27, 2018
 
 > No matter what label is thrown your way, only you can define yourself.
