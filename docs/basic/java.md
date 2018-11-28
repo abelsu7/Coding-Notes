@@ -5,12 +5,13 @@
 | 地址 | 说明 |
 | :-- | :-- |
 | [![](https://notes.abelsu7.top/_media/crossoverjie.png ':size=16')Java Core Sprout![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/crossoverJie/JCSprout) | Java basic, concurrent, algorithm |
-| [![](https://notes.abelsu7.top/_media/github.svg)interviews - Github](https://github.com/kdn251/interviews) | Java工程师面试指南 |
-| [![](https://notes.abelsu7.top/_media/github.svg)JavaGuide - Github](https://github.com/Snailclimb/JavaGuide) | Java学习+面试指南 |
+| [![](https://notes.abelsu7.top/_media/github.svg)interviews - Github](https://github.com/kdn251/interviews) | Java 工程师面试指南 |
+| [![](https://notes.abelsu7.top/_media/github.svg)JavaGuide - Github![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/Snailclimb/JavaGuide) | Java 面试通关手册 |
 | [![](https://notes.abelsu7.top/_media/how2j.ico ':size=16')how2j.cn![](https://notes.abelsu7.top/_media/star.svg)](http://how2j.cn/) | Java 学习路线 |
+| [![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes - cyc2018![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/CyC2018/CS-Notes) |  |
 
 * 技术原始积累 - 淘宝加多
-* ![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes - cyc2018![](https://notes.abelsu7.top/_media/star.svg)
+* [![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes - cyc2018![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/CyC2018/CS-Notes)
 * 纯洁的微笑
 
 ## Java 框架

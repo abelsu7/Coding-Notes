@@ -28,6 +28,16 @@ This is how you dropdown.
 
 * [![](logo/typora.png ':size=16')Typora](https://typora.io/)
 
+## 画图工具
+
+* [Draw.io](https://www.draw.io/)
+* ProcessOn
+* StarUML
+
+## Gif 制作
+
+* screenToGif
+
 ## 相关资源
 
 | 名称 | 说明 |

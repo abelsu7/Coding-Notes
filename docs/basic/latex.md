@@ -12,7 +12,7 @@
 ## 参考资料
 
 * [MathJax](https://www.mathjax.org)
-* [一份不太简短的LaTeX2e介绍（新版完成）| LaTeX 开源小屋](http://www.latexstudio.net/archives/6058.html)
+* [![](https://notes.abelsu7.top/_media/star.svg)一份不太简短的LaTeX2e介绍（新版完成）| LaTeX 开源小屋](http://www.latexstudio.net/archives/6058.html)
 * [subarray，\substack，多行上下标 | 悠闲数学娱乐论坛](http://kuing.orzweb.net/viewthread.php?tid=2212)
 * [Latex In Markdown [0] | 鲈鱼和葡萄](https://savioyo.github.io/2016/12/30/LatexInMD0/)
 * [Latex In Markdown [1] | 鲈鱼和葡萄](https://savioyo.github.io/2016/12/30/LatexInMD1/)

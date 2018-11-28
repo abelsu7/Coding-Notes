@@ -6,7 +6,7 @@
 
 ## Go 语言教程
 
-- ⭐[快学 Go 语言 | 老钱的知乎专栏](https://zhuanlan.zhihu.com/quickgo)
+- [![](https://notes.abelsu7.top/_media/star.svg)快学 Go 语言 | 老钱的知乎专栏](https://zhuanlan.zhihu.com/quickgo)
 - [Go 语言快速入门 | Github](https://github.com/jaywcjlove/golang-tutorial)
 - [Go Web Examples](https://gowebexamples.com/)
 - [Go database/sql tutorial](http://go-database-sql.org/)
