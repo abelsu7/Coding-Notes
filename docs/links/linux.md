@@ -23,3 +23,7 @@
 * [openSUSE](https://www.opensuse.org/)
 * [CoreOS](https://coreos.com/)
 * [Arch Linux](https://www.archlinux.org/)
+
+## 负载均衡
+
+* [![](https://notes.abelsu7.top/_media/star.svg)关于负载均衡的一切，简单易懂 | 知乎](https://zhuanlan.zhihu.com/p/50769487)
