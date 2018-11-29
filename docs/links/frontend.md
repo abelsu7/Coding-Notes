@@ -17,6 +17,7 @@
 * [![](logo/cods.ico ':size=16')全国组织机构统一社会信用代码公示查询平台](http://www.cods.org.cn/portal/publish/index.html)
 * [![](logo/ipip.ico ':size=16')ipip.net | 实时 Geo-IP 库](https://www.ipip.net)
 * [![](logo/monitor.png ':size=16')Firefox Monitor | 检测邮箱密码是否泄露](https://monitor.firefox.com)
+* [![](logo/pwn.ico ':size=16')Have I Been Pwned](https://haveibeenpwned.com/)
 
 ## 网址导航
 
