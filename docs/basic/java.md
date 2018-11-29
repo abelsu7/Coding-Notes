@@ -45,4 +45,5 @@
 - [Ubuntu16.04 LTS的Java环境配置总结 | CSDN](https://blog.csdn.net/Hong_A/article/details/56677277)
 - [我终于搞清楚了和String有关的那点事儿 | Hollis](http://www.hollischuang.com/archives/2517)
 - [Java开发必会的Linux命令 | Hollis](http://www.hollischuang.com/archives/800)
+- [阿里员工的Java问题排查工具单 | Hollis](https://mp.weixin.qq.com/s/TMAe3AyOfUQIOf0hGurR4A)
 - [Java面试题史上最强整理 | Java技术栈](https://mp.weixin.qq.com/s/kJpRgfI3zT77XqMeRfmmQQ?scene=25#wechat_redirect)

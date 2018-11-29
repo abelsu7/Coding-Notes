@@ -29,7 +29,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/coderjianghu.png' width='200'></img>
     </div>
     <div style='text-align: center'>
-        程序员江湖
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>程序员江湖
     </div>
 </p>
 
@@ -47,7 +47,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/codertoutiao.gif' width='400'></img>
     </div>
     <div style='text-align: center'>
-        程序员头条
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>程序员头条
     </div>
 </p>
 
@@ -76,7 +76,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/aliware.jpeg' width='400'></img>
     </div>
     <div style='text-align: center'>
-        阿里巴巴中间件
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>阿里巴巴中间件
     </div>
 </p>
 
@@ -85,7 +85,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/meituan.png' width='400'></img>
     </div>
     <div style='text-align: center'>
-        美团技术团队
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>美团技术团队
     </div>
 </p>
 
@@ -105,7 +105,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/chunjiedeweixiao.jpg' width='400'></img>
     </div>
     <div style='text-align: center'>
-        纯洁的微笑 - 微服务，Spring Boot
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>纯洁的微笑 - 微服务，Spring Boot
     </div>
 </p>
 
@@ -143,7 +143,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/madong.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        码洞 - 钱文品，掌阅资深后端工程师
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>码洞 - 钱文品，掌阅资深后端工程师
     </div>
 </p>
 
@@ -188,7 +188,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/manongfanshen.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        码农翻身 - IBM 架构师刘欣
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>码农翻身 - IBM 架构师刘欣
     </div>
 </p>
 
@@ -235,7 +235,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/java3y.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        Java3y - 坚持原创
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>Java3y - 坚持原创
     </div>
 </p>
 
@@ -244,7 +244,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/jishuyuanshijilei.png' width='200'></img>
     </div>
     <div style='text-align: center'>
-        技术原始积累 - 淘宝加多
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>技术原始积累 - 淘宝加多
     </div>
 </p>
 
@@ -253,7 +253,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/hollis.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        Hollis
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>Hollis
     </div>
 </p>
 
@@ -262,7 +262,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/crossoverjie.png' width='200'></img>
     </div>
     <div style='text-align: center'>
-        crossoverjie
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>crossoverjie
     </div>
 </p>
 
@@ -271,7 +271,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/javatongguan.jpeg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        Java 面试通关手册
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>Java 面试通关手册
     </div>
 </p>
 
@@ -336,7 +336,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/shishanjiagou.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        石杉的架构笔记
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>石杉的架构笔记
     </div>
 </p>
 
@@ -376,7 +376,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/jinjidecoder.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        进击的Coder - 微软崔庆才
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>进击的Coder - 微软崔庆才
     </div>
 </p>
 
@@ -385,7 +385,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/pythonzhichan.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        Python 之禅
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>Python 之禅
     </div>
 </p>
 
@@ -396,7 +396,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/stormzhang.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        stormzhang
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>stormzhang
     </div>
 </p>
 
@@ -405,7 +405,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/guolin.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        郭霖 Guolin
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>郭霖 Guolin
     </div>
 </p>
 
@@ -414,7 +414,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/wuxiaolong.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        吴小龙同学
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>吴小龙同学
     </div>
 </p>
 
@@ -453,19 +453,19 @@
 
 <p>
     <div style='text-align: center'>
-        <img src='https://notes.abelsu7.top/links/wechat/oschina.jpg' width='400'></img>
+        <img src='https://notes.abelsu7.top/links/wechat/kaiyuanzuiqianxian.jpg' width='400'></img>
     </div>
     <div style='text-align: center'>
-        开源中国
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>开源最前线
     </div>
 </p>
 
 <p>
     <div style='text-align: center'>
-        <img src='https://notes.abelsu7.top/links/wechat/kaiyuanzuiqianxian.jpg' width='400'></img>
+        <img src='https://notes.abelsu7.top/links/wechat/oschina.jpg' width='400'></img>
     </div>
     <div style='text-align: center'>
-        开源最前线
+        开源中国
     </div>
 </p>
 
@@ -514,7 +514,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/qianheikeji.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        浅黑科技
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>浅黑科技
     </div>
 </p>
 

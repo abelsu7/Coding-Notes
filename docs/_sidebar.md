@@ -2,6 +2,8 @@
   - [![](https://notes.abelsu7.top/_media/help.svg)README](/README)
 - **基础知识**
   - [![](https://notes.abelsu7.top/_media/program.svg)编程语言](/basic/lans)
+  - [![](https://notes.abelsu7.top/_media/stack.svg)数据结构](/basic/data-structure)
+  - [![](https://notes.abelsu7.top/_media/algo.svg)算法](/basic/algo)
   - [![](https://notes.abelsu7.top/_media/java.svg)Java 笔记](/basic/java)
   - [![](https://notes.abelsu7.top/_media/golang.svg)Go 语言笔记](/basic/golang)
   - [![](https://notes.abelsu7.top/_media/git.svg)Git 常用命令](/basic/git)
