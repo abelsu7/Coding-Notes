@@ -1,6 +1,12 @@
-?> ![](https://notes.abelsu7.top/_media/bing.svg)必应词典精选
+?> ![](https://notes.abelsu7.top/_media/bing.svg ':no-zoom')必应词典精选
 
 ## Daily Sentence
+
+### Nov. 29, 2018
+
+> Good friends, good books and a sleepy conscience: this is the ideal life. Mark Twain
+> 
+> 拥有好朋友，好的书籍和一颗宁静的心，就是理想的生活。——马克·吐温
 
 ### Nov. 28, 2018
 

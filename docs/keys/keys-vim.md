@@ -1,4 +1,4 @@
-?> Vim
+?> ![](https://notes.abelsu7.top/_media/vim.svg ':no-zoom')Vim
 
 !> [![](https://notes.abelsu7.top/_media/vim.svg)Vimcdoc | Translate Vim Online Documentation into Chinese](http://vimcdoc.sourceforge.net/)
 

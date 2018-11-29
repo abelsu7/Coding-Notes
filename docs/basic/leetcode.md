@@ -1,4 +1,4 @@
-?> ![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')Leetcode 题解
+?> ![](https://notes.abelsu7.top/_media/leetcode.png ':no-zoom')Leetcode 题解
 
 ## 1. Two Sum
 

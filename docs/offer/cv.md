@@ -1,4 +1,4 @@
-?> ![](https://notes.abelsu7.top/_media/resume.svg)如何写好简历
+?> ![](https://notes.abelsu7.top/_media/resume.svg ':no-zoom')如何写好简历
 
 ## 教程
 

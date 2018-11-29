@@ -1,4 +1,5 @@
-> **Last Update**: `2018-11-14` <br/>
+> ![](https://notes.abelsu7.top/_media/linux.svg ':no-zoom')Linux 资源收集 <br>
+> **Last Update**: `2018-11-14` <br>
 > **更新中…**
 
 ## 各种官网

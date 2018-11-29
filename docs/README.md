@@ -5,7 +5,14 @@
 
 ## 利用 docsify + Github Pages 搭建云笔记
 
-![](_images/cover.jpg)
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/_images/cover.jpg' width='600'></img>
+    </div>
+    <div style='text-align: center'>
+        Test image
+    </div>
+</p>
 
 !> Test Hint
 

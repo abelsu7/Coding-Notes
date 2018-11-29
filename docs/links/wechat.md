@@ -1,11 +1,19 @@
-> ![](https://notes.abelsu7.top/_media/wechat.svg ':size=16')微信公众号推荐 <br/>
-> **Last Update**: `2018-11-26` <br/>
+> ![](https://notes.abelsu7.top/_media/wechat.svg ':no-zoom')微信公众号推荐 <br>
+> **Last Update**: `2018-11-29` <br>
 > **更新中…**
 
 !> [搜狗微信搜索](https://weixin.sogou.com)<br>[公众账号推荐 | jaywcjlove](https://github.com/jaywcjlove/handbook/blob/master/other/公众账号推荐.md)
 
 ## 综合社区
 
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/codersifangcai.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>程序员私房菜
+    </div>
+</p>
 
 <p>
     <div style='text-align: center'>

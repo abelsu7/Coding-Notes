@@ -1,4 +1,4 @@
-?> ![](https://notes.abelsu7.top/_media/interview.svg)他山之石，可以攻玉
+?> ![](https://notes.abelsu7.top/_media/interview.svg ':no-zoom')他山之石，可以攻玉
 
 ## 文章
 
@@ -9,6 +9,7 @@
 
 !> 各公司研发面经去“程序员江湖”、“Java面试通关手册”微信公众号搜索关键词“面经”
 
+- [![](https://notes.abelsu7.top/_media/star.svg)2018的初冬，派卧底去阿里、京东、美团、滴滴带回来的面试题及答案 | Hollis](https://mp.weixin.qq.com/s/BaBB_xiCXmw5pmAQ2Cjm2A)
 - [GitHub 上四万 Star 大佬的求职回忆 | 程序员江湖](https://mp.weixin.qq.com/s/axQyt0OSaIKROfDBCAwG1g)
 - [Java 工程师学习指南（完结篇）| 程序员江湖](https://mp.weixin.qq.com/s/r71lkIwlb_JA_f00yqBK2w)
 - [四年努力，终进阿里，围观阿里大佬的成长历程！| 程序员江湖](https://mp.weixin.qq.com/s/AYECRdFh8kFHLSNqMmgmQg)

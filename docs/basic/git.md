@@ -1,4 +1,4 @@
-?> ![](https://notes.abelsu7.top/_media/git.svg)Git 常用命令
+?> ![](https://notes.abelsu7.top/_media/git.svg ':no-zoom')Git 常用命令
 
 ## git remote 远程仓库
 

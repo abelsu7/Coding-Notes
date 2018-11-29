@@ -1,6 +1,6 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 
-?> ![](https://notes.abelsu7.top/_media/tex.svg)LaTeX 语法简明笔记
+?> ![](https://notes.abelsu7.top/_media/tex.svg ':no-zoom')LaTeX 语法简明笔记
 
 ## 分数
 

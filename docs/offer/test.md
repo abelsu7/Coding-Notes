@@ -1,1 +1,1 @@
-?> ![](https://notes.abelsu7.top/_media/terminal.svg)笔试刷题汇总
+?> ![](https://notes.abelsu7.top/_media/terminal.svg ':no-zoom')笔试刷题汇总

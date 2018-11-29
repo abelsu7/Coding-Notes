@@ -1,4 +1,4 @@
-?> Windows
+?> ![](https://notes.abelsu7.top/_media/windows.svg ':no-zoom')Windows
 
 !> [![](https://notes.abelsu7.top/_media/windows.svg)Windows 中的键盘快捷方式 | Microsoft Support](https://support.microsoft.com/zh-cn/help/12445/windows-keyboard-shortcuts)
 

@@ -1,4 +1,4 @@
-?> VS Code
+?> ![](https://notes.abelsu7.top/_media/vscode.svg ':no-zoom')VS Code
 
 !> [![](https://notes.abelsu7.top/_media/vscode.svg)keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 

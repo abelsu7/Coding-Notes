@@ -1,4 +1,5 @@
-> **Last Update**: `2018-11-16` <br/>
+> ![](https://notes.abelsu7.top/_media/library.svg ':no-zoom')学习资源收集<br>
+> **Last Update**: `2018-11-16` <br>
 > **更新中…**
 
 * Gitbook

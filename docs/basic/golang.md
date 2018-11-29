@@ -1,4 +1,4 @@
-?> ![](logo/golang.svg)Go 语言笔记
+?> ![](https://notes.abelsu7.top/_media/golang.svg ':no-zoom')Go 语言笔记
 
 ## Go 官方文档
 

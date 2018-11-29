@@ -1,4 +1,4 @@
-?> ![](https://notes.abelsu7.top/_media/shirt.svg)校招官网汇总
+?> ![](https://notes.abelsu7.top/_media/shirt.svg ':no-zoom')校招官网汇总
 
 * [![](logo/alibaba-campus.ico ':size=16')阿里巴巴校园招聘](https://campus.alibaba.com/index.htm)
 * [![](logo/tencent.svg)腾讯校园招聘](https://join.qq.com/index.php)

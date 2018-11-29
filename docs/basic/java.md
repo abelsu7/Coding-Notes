@@ -1,4 +1,4 @@
-?> ![](https://notes.abelsu7.top/_media/java.svg)Java 笔记
+?> ![](https://notes.abelsu7.top/_media/java.svg ':no-zoom')Java 笔记
 
 ## Java 教程
 

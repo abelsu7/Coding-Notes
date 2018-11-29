@@ -1,6 +1,6 @@
-
-> **Last Update**: `2018-11-21` <br/>
-> 排名不分先后，**持续更新中…** <br/>
+> ![](https://notes.abelsu7.top/_media/hexo.svg ':no-zoom')技术博客收集 <br>
+> **Last Update**: `2018-11-21` <br>
+> 排名不分先后，**持续更新中…** <br>
 > 欢迎留言**互换友链**~
 
 ## 写博客的朋友们
