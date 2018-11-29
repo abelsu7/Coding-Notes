@@ -46,4 +46,5 @@
 - [我终于搞清楚了和String有关的那点事儿 | Hollis](http://www.hollischuang.com/archives/2517)
 - [Java开发必会的Linux命令 | Hollis](http://www.hollischuang.com/archives/800)
 - [阿里员工的Java问题排查工具单 | Hollis](https://mp.weixin.qq.com/s/TMAe3AyOfUQIOf0hGurR4A)
+- [为什么阿里巴巴禁止工程师直接使用日志系统(Log4j、Logback)中的 API | Hollis](https://mp.weixin.qq.com/s/vCixKVXys5nTTcQQnzrs3w)
 - [Java面试题史上最强整理 | Java技术栈](https://mp.weixin.qq.com/s/kJpRgfI3zT77XqMeRfmmQQ?scene=25#wechat_redirect)
