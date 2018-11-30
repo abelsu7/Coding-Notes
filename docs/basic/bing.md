@@ -1,6 +1,12 @@
 ?> ![](https://notes.abelsu7.top/_media/bing.svg ':no-zoom')必应词典精选
 
-## Daily Sentence
+## Nov. 2018
+
+### Nov. 30, 2018
+
+> You cannot find peace by avoiding life. Virginia Woolf
+> 
+> 你不能通过逃避生活来寻得一片宁静。——弗吉尼亚·伍尔芙
 
 ### Nov. 29, 2018
 
