@@ -2,6 +2,7 @@
 
 ## C/C++
 
+- [![](https://notes.abelsu7.top/_media/star.svg)这里有一份C/C++程序员必备的开源面试宝典 | 开源最前线](https://mp.weixin.qq.com/s/madBBLK7mSHbMe_XbHzHRg)
 - 谷歌C++编程规范
 - [C语言总结 — 知识点导论图 | CSDN](https://blog.csdn.net/Dawn_sf/article/details/78934875)
 - [yafeilinux | Qt开源社区](http://www.qter.org/)

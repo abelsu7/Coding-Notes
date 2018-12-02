@@ -34,6 +34,10 @@
 
 - 阿里巴巴Java开发手册
 
+## 并发/多线程
+
+- [![](https://notes.abelsu7.top/_media/star.svg)深入理解Java中的并发编程：到底什么是线程安全？| Hollis](https://mp.weixin.qq.com/s/IwaaabNl-S9iQrFCY91NTQ)
+
 ## Java 文章
 
 - [![](https://notes.abelsu7.top/_media/star.svg)2018 年如何快速学 Java | Java3y](https://mp.weixin.qq.com/s/An3nKhnJzyRWukW7DjMb-w)
