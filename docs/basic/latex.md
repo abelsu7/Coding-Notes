@@ -9,6 +9,18 @@
 | 分数 | `\frac{}{}` | $$\frac{1}{x^2-4}$$ | 行内分数会缩小以适应行高 |
 | 调整分数大小 | `\displaystyle{}` | $$\displaystyle{\frac{1}{x^2-4}}$$ | 适用于行内分数 |
 
+## 表格
+
+```latex
+\begin{array}{c|cccc}
+\hline
+x & \ 1 & 3 & 4 & 6 \\
+\hline
+y & \ -2.1 & -0.9 & -0.6 & 0.6 \\
+\hline
+\end{array}
+```
+
 ## 参考资料
 
 * [MathJax](https://www.mathjax.org)
