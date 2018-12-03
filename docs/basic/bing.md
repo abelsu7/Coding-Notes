@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 3
+
+> Happiness is beneficial for the body, but it is grief that develops the powers of the mind. Marcel Proust
+>
+> 快乐有益身体健康，但痛苦才是培育心灵的力量。——马塞尔·普鲁斯特
+
 ### Dec. 2
 
 > Patience and diligence, like faith, remove mountains. William Penn

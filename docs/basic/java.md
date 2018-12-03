@@ -24,6 +24,7 @@
 - [![](logo/mybatis.png ':size=16')MyBatis](http://www.mybatis.org/mybatis-3/zh/index.html)
 - Dubbo
 - Jetty
+- [Arthas | Alibaba 开源的 Java 诊断工具](https://github.com/alibaba/arthas/blob/master/README_CN.md)
 
 ### 一些文章
 
@@ -42,6 +43,8 @@
 
 - [![](https://notes.abelsu7.top/_media/star.svg)2018 年如何快速学 Java | Java3y](https://mp.weixin.qq.com/s/An3nKhnJzyRWukW7DjMb-w)
 - [![](https://notes.abelsu7.top/_media/star.svg)通俗地讲，Netty 能做什么？ - 老钱的回答 - 知乎](https://www.zhihu.com/question/24322387/answer/282001188)
+- [![](https://notes.abelsu7.top/_media/star.svg)老大难的 Java ClassLoader，到了该彻底理解它的时候了 | 码洞](https://mp.weixin.qq.com/s/HZEFKZXu_AUr4HqD7M2H0g)
+- [阿里内部的那个牛逼带闪电的Java诊断工具终于开源了 | Hollis](https://mp.weixin.qq.com/s/5Yj6UckTabrQbgJ9TLV1gQ)
 - [拜托！面试请不要再问我Spring Cloud底层原理 | 纯洁的微笑](https://mp.weixin.qq.com/s?__biz=MzI4NDY5Mjc1Mg==&mid=2247486312&idx=1&sn=8693da2c54ed4a50c3be6819644991f8&chksm=ebf6d317dc815a013817a7b3bf11ea340ea87e1c214d9e25706b387b8fde5397c9396e33a7a8&mpshare=1&scene=1&srcid=1126TUmPlvxZKxSL0NzMRKSh#rd)
 - [2018年排名Top 100的Java类库——在分析了277,975份源码之后得出的结论 | Hollis](https://www.hollischuang.com/archives/2926)
 - [Java 和 Python：哪一个更适合你？| 计蒜客](https://mp.weixin.qq.com/s?__biz=MjM5NTI5NTAzNg==&mid=2656331406&idx=1&sn=8523c4c3a006d44a9c9bdb78f65b81f1)
