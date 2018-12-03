@@ -2,7 +2,7 @@
 > **Last Update**: `2018-11-29` <br>
 > **更新中…**
 
-!> [搜狗微信搜索](https://weixin.sogou.com)<br>[公众账号推荐 | jaywcjlove](https://github.com/jaywcjlove/handbook/blob/master/other/公众账号推荐.md)
+!> [搜狗微信搜索](https://weixin.sogou.com)<br>[公众账号推荐 | jaywcjlove](https://github.com/jaywcjlove/handbook/blob/master/other/公众账号推荐.md)<br>[掌握正确的学习方法 | 五分钟学算法](https://mp.weixin.qq.com/s/q22Vw3xJzvTZqMhEzTk1iw)
 
 ## 综合社区
 
@@ -428,6 +428,15 @@
 </p>
 
 ## 数据结构与算法
+
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/5mins-algo.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>五分钟学算法
+    </div>
+</p>
 
 <p>
     <div style='text-align: center'>

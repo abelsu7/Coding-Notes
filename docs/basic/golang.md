@@ -18,5 +18,6 @@
 
 ## Go 技术博客
 
+- [![](https://notes.abelsu7.top/_media/star.svg)知乎社区核心业务 Golang 化实践 | xlzd - 知乎专栏](https://zhuanlan.zhihu.com/p/48039838)
 - [鸟窝的博客 | 微博架构开发](https://colobu.com/)
 - [创建最小的Go docker 镜像 | 鸟窝](https://colobu.com/2018/08/13/create-minimal-docker-image-for-go-applications/)

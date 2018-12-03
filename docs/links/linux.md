@@ -28,6 +28,17 @@
 
 * [![](https://notes.abelsu7.top/_media/star.svg)关于负载均衡的一切，简单易懂 | 知乎](https://zhuanlan.zhihu.com/p/50769487)
 
+## 监控分析
+
+* UptimeRobot
+* [Grafana](http://docs.grafana.org)
+
 ## 文章
 
+* [![](https://notes.abelsu7.top/_media/star.svg)5分钟搭建网站实时分析：Grafana+日志服务实战 | 阿里云栖社区](https://yq.aliyun.com/articles/227006#20)
 * [调试利器：SSH隧道 | 腾讯云+社区](https://cloud.tencent.com/developer/article/1006320)
+* [可视化工具 Grafana | 简书](https://www.jianshu.com/p/02c4b5c1e804)
+
+## Gnome 主题
+
+* [Vimix-Gtk-Theme 主题更新](https://imcn.me/html/y2018/34575.html)

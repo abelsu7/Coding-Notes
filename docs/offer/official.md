@@ -12,8 +12,11 @@
 * [![](logo/didi.ico ':size=16')滴滴校园招聘](http://campus.didichuxing.com/campus)
 * [![](logo/sangfor.png ':size=16')深信服校园招聘](http://hr.sangfor.com/campus.html)
 * [![](logo/sf.svg)顺丰科技校园招聘](http://campus.sf-tech.com.cn/index.html)
+* [![](logo/zhihu.ico ':size=16')知乎校园招聘](https://www.zhihu.com/careers/campus)
+* [![](logo/bilibili.ico ':size=16')哔哩哔哩校园招聘](https://campus.bilibili.com/activity-campus2019.html)
+* [![](logo/douban.svg)豆瓣校园招聘](https://jobs.douban.com/jobs/campus/)
+* 蚂蚁金服
 * 小米
-* 知乎
 * 奇虎 360
 * 金山 WPS/金山云
 * 优酷土豆
