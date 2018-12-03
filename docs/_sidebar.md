@@ -4,14 +4,16 @@
   - [![](https://notes.abelsu7.top/_media/program.svg)编程语言](/basic/lans)
   - [![](https://notes.abelsu7.top/_media/stack.svg)数据结构](/basic/data-structure)
   - [![](https://notes.abelsu7.top/_media/algo.svg)算法](/basic/algo)
-  - [![](https://notes.abelsu7.top/_media/java.svg)Java 笔记](/basic/java)
-  - [![](https://notes.abelsu7.top/_media/golang.svg)Go 语言笔记](/basic/golang)
   - [![](https://notes.abelsu7.top/_media/git.svg)Git 常用命令](/basic/git)
   - [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')Leetcode 题解](/basic/leetcode)
-  - [![](https://notes.abelsu7.top/_media/tex.svg)LaTeX 简明笔记](/basic/latex)
-  - [![](https://notes.abelsu7.top/_media/markdown-blue.svg)Markdown 简明笔记](/basic/markdown)
-  - [![](https://notes.abelsu7.top/_media/writing.svg)写作排版](/basic/writing)
-  - [![](https://notes.abelsu7.top/_media/bing.svg)必应词典精选](/basic/bing)
+- **编程开发**
+  - [![](https://notes.abelsu7.top/_media/java.svg)Java 笔记](/develop/java)
+  - [![](https://notes.abelsu7.top/_media/golang.svg)Golang 笔记](/develop/golang)
+- **写作排版**
+  - [![](https://notes.abelsu7.top/_media/writing.svg)排版工具](/writing/beautify)
+  - [![](https://notes.abelsu7.top/_media/tex.svg)LaTeX 笔记](/writing/latex)
+  - [![](https://notes.abelsu7.top/_media/markdown-blue.svg)Markdown 笔记](/writing/markdown)
+  - [![](https://notes.abelsu7.top/_media/bing.svg)必应词典精选](/writing/bing)
 - **热键速查**
   - [![](https://notes.abelsu7.top/_media/idea.svg ':size=16')IntelliJ IDEA](/keys/keys-idea.md)
   - [![](https://notes.abelsu7.top/_media/vscode.svg)VS Code](/keys/keys-vscode.md)

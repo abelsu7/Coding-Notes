@@ -1,4 +1,4 @@
-?> ![](https://notes.abelsu7.top/_media/markdown-blue.svg ':no-zoom')Markdown 简明笔记
+?> ![](https://notes.abelsu7.top/_media/markdown-blue.svg ':no-zoom')Markdown 笔记
 
 ## 微信公众号排版
 
