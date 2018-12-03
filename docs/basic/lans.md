@@ -15,6 +15,7 @@
 
 ## Python
 
+- [![](https://notes.abelsu7.top/_media/star.svg)【一】从0开始，用flask+mongo打造分布式服务器监控平台 | 进击的 Coder](https://mp.weixin.qq.com/s/eczCDetrveBBOwgrev0upw)
 - [Java 和 Python：哪一个更适合你？| 计蒜客](https://mp.weixin.qq.com/s?__biz=MjM5NTI5NTAzNg==&mid=2656331406&idx=1&sn=8523c4c3a006d44a9c9bdb78f65b81f1)
 - [PyQt5 tutorial | fman build system](https://build-system.fman.io/pyqt5-tutorial)
 - [Python and Qt: simplified! | fman build system](https://build-system.fman.io)
