@@ -218,4 +218,5 @@ Ciao!
 <script src="//unpkg.com/prismjs/components/prism-go.js"></script>
 <script src="//unpkg.com/prismjs/components/prism-c.min.js"></script>
 <script src="//unpkg.com/prismjs/components/prism-cpp.js"></script>
+<script src="//unpkg.com/prismjs/components/prism-latex.js"></script>
 ```

@@ -18,26 +18,35 @@
 
 - [![](https://notes.abelsu7.top/_media/netty.ico ':size=16')Netty](https://netty.io)
 - [![](logo/spring.png)Spring Boot](https://spring.io/projects/spring-boot)
-- [![](logo/spring.png)Spring Cloud](https://spring.io/projects/spring-cloud)
+- [![](logo/spring.png)Spring Cloud（基于 Spring Boot 构建）](https://spring.io/projects/spring-cloud)
+- [![](logo/github.svg)Spring Cloud Alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba/blob/master/README-zh.md)
 - [![](logo/spring.png)Spring MVC](https://spring.io/projects/spring-framework)
 - [![](logo/spring.png)Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 - [![](logo/mybatis.png ':size=16')MyBatis](http://www.mybatis.org/mybatis-3/zh/index.html)
 - Dubbo
 - Jetty
 - [Arthas | Alibaba 开源的 Java 诊断工具](https://github.com/alibaba/arthas/blob/master/README_CN.md)
+- [![](logo/github.svg)Amazon Corretto 8 - OpenJDK 免费版 | Github](https://github.com/corretto/corretto-8)
 
-### 一些文章
+### 框架的一些教程文章
 
 - [![](logo/juejin.svg)Spring MVC 到 Spring Boot 的简化之路](https://juejin.im/post/5aa22d1f51882555677e2492)
-- [![](https://notes.abelsu7.top/_media/star.svg)使用SpringBoot+Dubbo 搭建一个简单的分布式服务 | Java 面试通关手册](https://mp.weixin.qq.com/s/_hopW32FCheKDnKrQv8XLw)
+- [![](logo/wechat.svg)使用SpringBoot+Dubbo 搭建一个简单的分布式服务 | Java 面试通关手册![](https://notes.abelsu7.top/_media/star.svg)](https://mp.weixin.qq.com/s/_hopW32FCheKDnKrQv8XLw)
+- [![](logo/wechat.svg)基于 SpringBoot2.0+优雅整合 SpringBoot+Mybatis | JavaGuide![](https://notes.abelsu7.top/_media/star.svg)](https://mp.weixin.qq.com/s/L7FdF0SnF5T25EcQkbCQeA)
+- [![](logo/wechat.svg)新手也能实现，基于SpirngBoot2.0+ 的 SpringBoot+Mybatis 多数据源配置 | JavaGuide![](https://notes.abelsu7.top/_media/star.svg)](https://mp.weixin.qq.com/s/b1bM6Q-lvbEzdO3dQPPt_g)
 
 ## Java 规范
 
 - 阿里巴巴Java开发手册
 
-## 并发/多线程
+## Java 并发/多线程
 
 - [![](https://notes.abelsu7.top/_media/star.svg)深入理解Java中的并发编程：到底什么是线程安全？| Hollis](https://mp.weixin.qq.com/s/IwaaabNl-S9iQrFCY91NTQ)
+- [![](logo/wechat.svg)大白话聊聊Java并发面试问题之volatile到底是什么？【石杉的架构笔记】](https://mp.weixin.qq.com/s/MIsQv8ZWWBzfB-Qhg3l4lA)
+
+## Java 实现的设计模式
+
+- [![](logo/github.svg)java-design-patterns | Github](https://github.com/iluwatar/java-design-patterns)
 
 ## Java 文章
 
@@ -55,3 +64,8 @@
 - [阿里员工的Java问题排查工具单 | Hollis](https://mp.weixin.qq.com/s/TMAe3AyOfUQIOf0hGurR4A)
 - [为什么阿里巴巴禁止工程师直接使用日志系统(Log4j、Logback)中的 API | Hollis](https://mp.weixin.qq.com/s/vCixKVXys5nTTcQQnzrs3w)
 - [Java面试题史上最强整理 | Java技术栈](https://mp.weixin.qq.com/s/kJpRgfI3zT77XqMeRfmmQQ?scene=25#wechat_redirect)
+
+## 不错的轮子
+
+- [![](logo/github.svg)symphony - 一款用 Java 实现的现代化社区 | Github](https://github.com/b3log/symphony)
+- [![](logo/github.svg)litemall - Spring Boot 后端 + Vue 管理员前端 + 微信小程序用户前端 | Github](https://github.com/linlinjava/litemall)

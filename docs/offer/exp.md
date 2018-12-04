@@ -2,7 +2,8 @@
 
 ## 文章
 
-- [![](https://notes.abelsu7.top/_media/star.svg)码洞原创深度技术文章大全 —— 高端面试必备 | 码洞](https://mp.weixin.qq.com/s/3Cy7dZordk6NbxYCBFSOeg)
+- [![](logo/wechat.svg)双非硕士的春招秋招经验总结——对校招，复习以及面试心态的理解 | Java3y![](https://notes.abelsu7.top/_media/star.svg)](https://mp.weixin.qq.com/s/CWcJjMaacrLb0L8tV8Gszw)
+- [![](logo/wechat.svg)码洞原创深度技术文章大全 —— 高端面试必备 | 码洞![](https://notes.abelsu7.top/_media/star.svg)](https://mp.weixin.qq.com/s/3Cy7dZordk6NbxYCBFSOeg)
 - [致未来的实习生 | 淘宝 FED 前端团队](http://taobaofed.org/blog/2017/03/03/to-my-future-friend/)
 - [校招前几个月，如何高效地进行复习？| 程序员江湖](https://mp.weixin.qq.com/s/qNsdg7dRHeTamTkip011lQ)
 
@@ -10,13 +11,15 @@
 
 !> 各公司研发面经去“程序员江湖”、“Java面试通关手册”微信公众号搜索关键词“面经”
 
-- [![](https://notes.abelsu7.top/_media/star.svg)2018的初冬，派卧底去阿里、京东、美团、滴滴带回来的面试题及答案 | Hollis](https://mp.weixin.qq.com/s/BaBB_xiCXmw5pmAQ2Cjm2A)
+- [![](logo/wechat.svg)2018的初冬，派卧底去阿里、京东、美团、滴滴带回来的面试题及答案 | Hollis![](logo/star.svg)](https://mp.weixin.qq.com/s/BaBB_xiCXmw5pmAQ2Cjm2A)
+- [![](logo/wechat.svg)阿里，百度，腾讯等一线互联网公司中，Java开发的招聘标准 | 算法与数据结构![](logo/star.svg)](https://mp.weixin.qq.com/s/JDOE9N0CF6KPqOCmAmqLTw)
 - [GitHub 上四万 Star 大佬的求职回忆 | 程序员江湖](https://mp.weixin.qq.com/s/axQyt0OSaIKROfDBCAwG1g)
 - [Java 工程师学习指南（完结篇）| 程序员江湖](https://mp.weixin.qq.com/s/r71lkIwlb_JA_f00yqBK2w)
 - [四年努力，终进阿里，围观阿里大佬的成长历程！| 程序员江湖](https://mp.weixin.qq.com/s/AYECRdFh8kFHLSNqMmgmQg)
 - [2017春招实习面试回顾：从面试连跪到收割offer | 程序员江湖](https://mp.weixin.qq.com/s/VMUqz4L7ZatpiF32MCVL6Q)
 - [从零基础到拿到网易Java实习offer，我做对了哪些事 | 程序员江湖](https://mp.weixin.qq.com/s/8w8rPN8cl4cVGe-r1VsMXg)
 - [Java工程师修炼之路（校招总结）| 程序员江湖](https://mp.weixin.qq.com/s/31B2kuir0YwhkhqRl3aK1Q)
+- [![](logo/wechat.svg)Java程序员从阿里拿到offer回来，这些面试题你会吗？| 程序猿DD](https://mp.weixin.qq.com/s/WBdgC-hVxYT6_PmICbzlrQ)
 
 
 ## 薪资
