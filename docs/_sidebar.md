@@ -10,6 +10,7 @@
 - **编程开发**
   - [![](https://notes.abelsu7.top/_media/java.svg)Java 笔记](/develop/java)
   - [![](https://notes.abelsu7.top/_media/golang.svg)Golang 笔记](/develop/golang)
+  - [![](https://notes.abelsu7.top/_media/hammer.svg)在线工具](/develop/tools)
 - **写作排版**
   - [![](https://notes.abelsu7.top/_media/writing.svg)排版工具](/writing/beautify)
   - [![](https://notes.abelsu7.top/_media/tex.svg)LaTeX 笔记](/writing/latex)
