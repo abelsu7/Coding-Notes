@@ -8,3 +8,7 @@
 * [![](https://notes.abelsu7.top/_media/star.svg)十大经典排序算法 | Github](https://github.com/hustcc/JS-Sorting-Algorithm)
 * [【图解数据结构】 一组动画彻底理解桶排序 | 五分钟学算法](https://mp.weixin.qq.com/s/pSSQXRJFnePYNgB4QpysgA)
 * [漫画：什么是桶排序？| 程序员小灰](https://mp.weixin.qq.com/s/qrboxA5SwN7AbAcpZ_dpNQ)
+
+## 笔试
+
+* [![](logo/jianshu.svg)【面试必备】手撕代码，你怕不怕？| 简书![](logo/star.svg)](https://www.jianshu.com/p/3f0cd7af370d)

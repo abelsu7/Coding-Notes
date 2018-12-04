@@ -14,16 +14,24 @@
 * [![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes - cyc2018![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/CyC2018/CS-Notes)
 * 纯洁的微笑
 
+## Java 语言特性
+
+- [![](logo/wechat.svg)深度探秘 Java 8 函数式编程（上）| 芋道源码](https://mp.weixin.qq.com/s/ra0af3OPkedhfqGqOI9NPQ)
+- [![](logo/wechat.svg)深度探秘 Java 8 函数式编程（下）| 芋道源码](https://mp.weixin.qq.com/s/Ko2gC2KgQPFhpYkiOTmUwA)
+- [![](logo/wechat.svg)Java 中的四种引用类型 | 芋道源码](https://mp.weixin.qq.com/s/eRocrUmCfJuIhwlQt3RdLA)
+
 ## Java 框架
 
+### 主流 Java Web 框架
+
 - [![](https://notes.abelsu7.top/_media/netty.ico ':size=16')Netty](https://netty.io)
-- [![](logo/spring.png)Spring Boot](https://spring.io/projects/spring-boot)
+- [![](logo/spring.png)Spring Boot![](logo/star.svg)](https://spring.io/projects/spring-boot)
 - [![](logo/spring.png)Spring Cloud（基于 Spring Boot 构建）](https://spring.io/projects/spring-cloud)
 - [![](logo/github.svg)Spring Cloud Alibaba](https://github.com/spring-cloud-incubator/spring-cloud-alibaba/blob/master/README-zh.md)
 - [![](logo/spring.png)Spring MVC](https://spring.io/projects/spring-framework)
 - [![](logo/spring.png)Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 - [![](logo/mybatis.png ':size=16')MyBatis](http://www.mybatis.org/mybatis-3/zh/index.html)
-- Dubbo
+- [![](logo/dubbo.ico ':size=16')Dubbo - 高性能、轻量级、开源的 Java RPC 框架![](logo/star.svg)](http://dubbo.apache.org/zh-cn/)
 - Jetty
 - [Arthas | Alibaba 开源的 Java 诊断工具](https://github.com/alibaba/arthas/blob/master/README_CN.md)
 - [![](logo/github.svg)Amazon Corretto 8 - OpenJDK 免费版 | Github](https://github.com/corretto/corretto-8)
@@ -34,6 +42,13 @@
 - [![](logo/wechat.svg)使用SpringBoot+Dubbo 搭建一个简单的分布式服务 | Java 面试通关手册![](https://notes.abelsu7.top/_media/star.svg)](https://mp.weixin.qq.com/s/_hopW32FCheKDnKrQv8XLw)
 - [![](logo/wechat.svg)基于 SpringBoot2.0+优雅整合 SpringBoot+Mybatis | JavaGuide![](https://notes.abelsu7.top/_media/star.svg)](https://mp.weixin.qq.com/s/L7FdF0SnF5T25EcQkbCQeA)
 - [![](logo/wechat.svg)新手也能实现，基于SpirngBoot2.0+ 的 SpringBoot+Mybatis 多数据源配置 | JavaGuide![](https://notes.abelsu7.top/_media/star.svg)](https://mp.weixin.qq.com/s/b1bM6Q-lvbEzdO3dQPPt_g)
+- [![](logo/wechat.svg)八种 WebSocket 框架的性能比较 | 芋道源码](https://mp.weixin.qq.com/s/oHNpY0wiuR_F612rSucs3Q)
+- [![](logo/jianshu.svg)Spring MVC【入门】就这一篇！| 简书](https://www.jianshu.com/p/91a2d0a1e45a)
+- [![](logo/jianshu.svg)MyBatis(1)——快速入门 | 简书![](logo/star.svg)](https://www.jianshu.com/p/c77e3691867d)
+- [![](logo/jianshu.svg)MyBatis(2)——MyBatis 深入学习 | 简书![](logo/star.svg)](https://www.jianshu.com/p/76d35d939539)
+- [![](logo/jianshu.svg)使用RESTful风格开发Java Web | 简书](https://www.jianshu.com/p/91600da4df95)
+- [![](logo/jianshu.svg)Spring Boot【快速入门】| 简书](https://www.jianshu.com/p/70963ab49f8c)
+- [![](logo/jianshu.svg)SpringBoot技术栈搭建个人博客【项目准备】| 简书](https://www.jianshu.com/p/0293368fe750)
 
 ## Java 规范
 

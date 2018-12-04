@@ -20,6 +20,7 @@
 - [从零基础到拿到网易Java实习offer，我做对了哪些事 | 程序员江湖](https://mp.weixin.qq.com/s/8w8rPN8cl4cVGe-r1VsMXg)
 - [Java工程师修炼之路（校招总结）| 程序员江湖](https://mp.weixin.qq.com/s/31B2kuir0YwhkhqRl3aK1Q)
 - [![](logo/wechat.svg)Java程序员从阿里拿到offer回来，这些面试题你会吗？| 程序猿DD](https://mp.weixin.qq.com/s/WBdgC-hVxYT6_PmICbzlrQ)
+- [秋招提前批小结（CVTE一面挂、阿里三面挂）| 简书](https://www.jianshu.com/p/5531006468d8)
 
 
 ## 薪资
