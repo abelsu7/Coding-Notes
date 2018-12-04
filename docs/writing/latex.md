@@ -2,6 +2,8 @@
 
 ?> ![](https://notes.abelsu7.top/_media/tex.svg ':no-zoom')LaTeX 笔记
 
+!> [![](https://notes.abelsu7.top/_media/tex.svg)Online LaTeX Editor | CodeCogs](http://latex.codecogs.com/eqneditor/editor.php)
+
 ## 分数
 
 | 格式 | 语法 | 示例 | 说明 |

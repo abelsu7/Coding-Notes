@@ -30,7 +30,7 @@
 
 ## 监控分析
 
-* UptimeRobot
+* [UptimeRobot](https://uptimerobot.com)
 * [Grafana](http://docs.grafana.org)
 
 ## 文章
@@ -42,3 +42,9 @@
 ## Gnome 主题
 
 * [Vimix-Gtk-Theme 主题更新](https://imcn.me/html/y2018/34575.html)
+
+## 无盘系统
+
+* [OpenPOWER PXE无盘工作站环境搭建 | LinuxPower](http://www.linuxpower.com.cn/forum.php?mod=viewthread&tid=1009)
+* [如何无盘启动 Linux | Linux 中国](https://linux.cn/article-3511-1.html)
+* [pxeboot 所需的 initrd.img 和 vmlinuz | 阿里云镜像站](http://mirrors.aliyun.com/centos/7/os/x86_64/images/pxeboot/)

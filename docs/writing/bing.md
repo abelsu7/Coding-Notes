@@ -2,6 +2,10 @@
 
 ## Dec. 2018
 
+> Calamity and prosperity are the touchstones of integrity.
+> 
+> 不幸与幸运都是正直的试金石。
+
 ### Dec. 3
 
 > Happiness is beneficial for the body, but it is grief that develops the powers of the mind. Marcel Proust
