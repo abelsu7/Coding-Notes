@@ -2,6 +2,8 @@
 
 ## Dec. 2018
 
+### Dec. 4
+
 > Calamity and prosperity are the touchstones of integrity.
 > 
 > 不幸与幸运都是正直的试金石。
