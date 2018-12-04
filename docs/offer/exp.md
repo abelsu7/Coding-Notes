@@ -25,3 +25,7 @@
 - [![](https://notes.abelsu7.top/_media/star.svg)独家 | 2019届互联网校招高薪清单出炉 | 校招薪水](https://mp.weixin.qq.com/s/qa2rqNf8SIJZ1Ly2qVs9Lg)
 - [一文揭秘BAT等互联网公司的薪酬结构 | 程序员江湖](https://mp.weixin.qq.com/s/WiP8T_v7lVbHpoc6j7BCXA)
 - [号外号外 | 阿里秋招薪资档重磅出炉！| 校招薪水](https://mp.weixin.qq.com/s/FPhCcdkAML2XW7QnFsEnoA)
+
+## 代码之外
+
+- [一个BAT老程序员的忠告！| 程序员江湖](https://mp.weixin.qq.com/s/czIY61Hz5iepsVmSjWMM6w)
