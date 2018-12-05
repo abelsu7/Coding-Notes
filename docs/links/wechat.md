@@ -104,6 +104,33 @@
 
 <p>
     <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/yuntoutiao.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>云头条
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/cloudhome.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        云技术之家
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/cloudpractice.jpg' width='400'></img>
+    </div>
+    <div style='text-align: center'>
+        云技术实践
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
     <img src='https://notes.abelsu7.top/links/wechat/cloudman.jpg' width='400'></img>
     </div>
     <div style='text-align: center'>
@@ -126,24 +153,6 @@
     </div>
     <div style='text-align: center'>
         世民谈云计算
-    </div>
-</p>
-
-<p>
-    <div style='text-align: center'>
-        <img src='https://notes.abelsu7.top/links/wechat/cloudhome.jpg' width='200'></img>
-    </div>
-    <div style='text-align: center'>
-        云技术之家
-    </div>
-</p>
-
-<p>
-    <div style='text-align: center'>
-        <img src='https://notes.abelsu7.top/links/wechat/cloudpractice.jpg' width='400'></img>
-    </div>
-    <div style='text-align: center'>
-        云技术实践
     </div>
 </p>
 
