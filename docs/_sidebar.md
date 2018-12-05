@@ -8,6 +8,8 @@
   - [![](https://notes.abelsu7.top/_media/git.svg)Git 常用命令](/basic/git)
   - [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')Leetcode 题解](/basic/leetcode)
 - **编程开发**
+  - [![](https://notes.abelsu7.top/_media/docker.svg)云计算](/develop/cloud)
+  - [![](https://notes.abelsu7.top/_media/redhat.svg)虚拟化](/develop/virtualization)
   - [![](https://notes.abelsu7.top/_media/java.svg)Java 笔记](/develop/java)
   - [![](https://notes.abelsu7.top/_media/golang.svg)Golang 笔记](/develop/golang)
   - [![](https://notes.abelsu7.top/_media/linux.svg)Linux 收集](/develop/linux)

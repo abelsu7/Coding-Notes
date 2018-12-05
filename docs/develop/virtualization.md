@@ -1,0 +1,1 @@
+?> ![](logo/redhat.svg ':no-zoom')虚拟化
