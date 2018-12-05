@@ -9,6 +9,11 @@
 * [【图解数据结构】 一组动画彻底理解桶排序 | 五分钟学算法](https://mp.weixin.qq.com/s/pSSQXRJFnePYNgB4QpysgA)
 * [漫画：什么是桶排序？| 程序员小灰](https://mp.weixin.qq.com/s/qrboxA5SwN7AbAcpZ_dpNQ)
 
+## 可视化
+
+* [![](logo/wechat.svg)GitHub 一万多 Star，一个可视化学算法的好工具 | 算法爱好者![](logo/star.svg)](https://mp.weixin.qq.com/s/-FiEnzjrSQBuAYWkZjZaZg)
+* [![](logo/av.png ':size=16')Algorithm Visualizer](http://algorithm-visualizer.org  )
+
 ## 笔试
 
 * [![](logo/jianshu.svg)【面试必备】手撕代码，你怕不怕？| 简书![](logo/star.svg)](https://www.jianshu.com/p/3f0cd7af370d)

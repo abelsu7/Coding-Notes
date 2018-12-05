@@ -2,7 +2,7 @@
 > **Last Update**: `2018-11-29` <br>
 > **更新中…**
 
-!> [![](logo/sogou.svg)搜狗微信搜索](https://weixin.sogou.com)<br>[![](logo/qqbrowser.svg)微信 X5 内核调试页面（仅 Android）](https://debugx5.qq.com)<br>[![](logo/github.svg)公众账号推荐 | jaywcjlove](https://github.com/jaywcjlove/handbook/blob/master/other/公众账号推荐.md)<br>[![](logo/wechat.svg)掌握正确的学习方法 | 五分钟学算法](https://mp.weixin.qq.com/s/q22Vw3xJzvTZqMhEzTk1iw)
+!> [![](logo/sogou.svg)搜狗微信搜索](https://weixin.sogou.com)<br>[![](logo/qqbrowser.svg)微信 X5 内核调试页面（仅 Android）](http://debugx5.qq.com)<br>[![](logo/github.svg)公众账号推荐 | jaywcjlove](https://github.com/jaywcjlove/handbook/blob/master/other/公众账号推荐.md)<br>[![](logo/wechat.svg)掌握正确的学习方法 | 五分钟学算法](https://mp.weixin.qq.com/s/q22Vw3xJzvTZqMhEzTk1iw)
 
 ## 综合社区
 
@@ -452,7 +452,16 @@
         <img src='https://notes.abelsu7.top/links/wechat/bianchengzhuji.png' width='400'></img>
     </div>
     <div style='text-align: center'>
-        编程珠玑
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>编程珠玑
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/algolover.jpg' width='400'></img>
+    </div>
+    <div style='text-align: center'>
+        算法爱好者
     </div>
 </p>
 
