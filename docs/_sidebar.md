@@ -15,7 +15,7 @@
   - [![](https://notes.abelsu7.top/_media/linux.svg)Linux 收集](/develop/linux)
   - [![](https://notes.abelsu7.top/_media/hammer.svg)在线工具](/develop/tools)
 - **写作排版**
-  - [![](https://notes.abelsu7.top/_media/writing.svg)排版工具](/writing/beautify)
+  - [![](https://notes.abelsu7.top/_media/writing.svg)写作排版](/writing/writing)
   - [![](https://notes.abelsu7.top/_media/tex.svg)LaTeX 笔记](/writing/latex)
   - [![](https://notes.abelsu7.top/_media/markdown-blue.svg)Markdown 笔记](/writing/markdown)
   - [![](https://notes.abelsu7.top/_media/bing.svg)必应词典精选](/writing/bing)

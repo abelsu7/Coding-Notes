@@ -86,6 +86,7 @@
 ## Java 后端面试相关
 
 - [![](logo/wechat.svg)刷完500道BAT面试题，我能去面试大厂了吗？-Java知识体系构建 | 程序员江湖![](logo/star.svg)](https://mp.weixin.qq.com/s/kumR_aMFQSfqLGc3dmxoVw)
+- [![](logo/wechat.svg)程序员！进阿里前这6大知识点你真的需要梳理一下了 | Java架构沉思录](https://mp.weixin.qq.com/s/9tVAge8HLO-MgQr-mozCsg?spm=a2c4e.11153940.blogcont675197.18.15bb701aSMQeKD)
 
 ## 不错的轮子
 
