@@ -16,5 +16,7 @@
   - [![](https://notes.abelsu7.top/_media/zhihu.ico ':size=16')知乎](https://www.zhihu.com)
   - [![](https://notes.abelsu7.top/_media/csdn.ico ':size=16')CSDN](https://blog.csdn.net/abelsu7)
   - [![](https://notes.abelsu7.top/_media/v2ex.png ':size=16')V2EX](https://www.v2ex.com/)
-  - [![](_media/oschina.ico ':size=16')开源中国](https://www.oschina.net)
+  - [![](https://notes.abelsu7.top/_media/qcloud.png ':size=16')腾讯云+](https://cloud.tencent.com/developer)
+  - [![](https://notes.abelsu7.top/_media/aliyun.svg ':size=16')阿里云栖](https://yq.aliyun.com)
+  - [![](https://notes.abelsu7.top/_media/oschina.ico ':size=16')开源中国](https://www.oschina.net)
   - [![](https://notes.abelsu7.top/_media/tecmint.png ':size=16')TecMint](https://www.tecmint.com/)
