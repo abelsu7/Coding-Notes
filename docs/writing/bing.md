@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 5
+
+> If you doubt yourself then indeed you stand on shaky ground. Henrik Ibsen
+>
+> 如果你怀疑自己，那么你的立足点确实不稳固了。——亨利克·易卜生
+
 ### Dec. 4
 
 > Calamity and prosperity are the touchstones of integrity.

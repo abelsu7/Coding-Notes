@@ -7,11 +7,12 @@
 | [![](https://notes.abelsu7.top/_media/crossoverjie.png ':size=16')Java Core Sprout![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/crossoverJie/JCSprout) | Java basic, concurrent, algorithm |
 | [![](https://notes.abelsu7.top/_media/github.svg)interviews - Github](https://github.com/kdn251/interviews) | Java 工程师面试指南 |
 | [![](https://notes.abelsu7.top/_media/github.svg)JavaGuide - Github![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/Snailclimb/JavaGuide) | Java 面试通关手册 |
+| [![](logo/github.svg)3y文章导航![](logo/star.svg)](https://github.com/ZhongFuCheng3y/3y) | 公众号 Java3y 的文章汇总 |
 | [![](https://notes.abelsu7.top/_media/how2j.ico ':size=16')how2j.cn![](https://notes.abelsu7.top/_media/star.svg)](http://how2j.cn/) | Java 学习路线 |
-| [![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes - cyc2018![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/CyC2018/CS-Notes) |  |
+| [![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/CyC2018/CS-Notes) |  |
 
 * 技术原始积累 - 淘宝加多
-* [![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes - cyc2018![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/CyC2018/CS-Notes)
+* [![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/CyC2018/CS-Notes)
 * 纯洁的微笑
 
 ## Java 语言特性
@@ -19,6 +20,7 @@
 - [![](logo/wechat.svg)深度探秘 Java 8 函数式编程（上）| 芋道源码](https://mp.weixin.qq.com/s/ra0af3OPkedhfqGqOI9NPQ)
 - [![](logo/wechat.svg)深度探秘 Java 8 函数式编程（下）| 芋道源码](https://mp.weixin.qq.com/s/Ko2gC2KgQPFhpYkiOTmUwA)
 - [![](logo/wechat.svg)Java 中的四种引用类型 | 芋道源码](https://mp.weixin.qq.com/s/eRocrUmCfJuIhwlQt3RdLA)
+- [![](logo/wechat.svg)Java必看 | 阿里巴巴总结：Java常见疑惑和陷阱 | Java技术驿站![](logo/star.svg)](https://mp.weixin.qq.com/s/Ds8TVbMX3tANoHcf_rufOg)
 
 ## Java 框架
 
@@ -56,8 +58,9 @@
 
 ## Java 并发/多线程
 
-- [![](https://notes.abelsu7.top/_media/star.svg)深入理解Java中的并发编程：到底什么是线程安全？| Hollis](https://mp.weixin.qq.com/s/IwaaabNl-S9iQrFCY91NTQ)
+- [![](logo/wechat.svg)深入理解Java中的并发编程：到底什么是线程安全？| Hollis![](logo/star.svg)](https://mp.weixin.qq.com/s/IwaaabNl-S9iQrFCY91NTQ)
 - [![](logo/wechat.svg)大白话聊聊Java并发面试问题之volatile到底是什么？【石杉的架构笔记】](https://mp.weixin.qq.com/s/MIsQv8ZWWBzfB-Qhg3l4lA)
+- [![](logo/wechat.svg)东半球第二详细的 Java 并发系列文章 | 程序员私房菜![](logo/star.svg)](https://mp.weixin.qq.com/s/0OKdx9OIQXYRObbsfsdsIQ)
 
 ## Java 实现的设计模式
 
@@ -79,6 +82,10 @@
 - [阿里员工的Java问题排查工具单 | Hollis](https://mp.weixin.qq.com/s/TMAe3AyOfUQIOf0hGurR4A)
 - [为什么阿里巴巴禁止工程师直接使用日志系统(Log4j、Logback)中的 API | Hollis](https://mp.weixin.qq.com/s/vCixKVXys5nTTcQQnzrs3w)
 - [Java面试题史上最强整理 | Java技术栈](https://mp.weixin.qq.com/s/kJpRgfI3zT77XqMeRfmmQQ?scene=25#wechat_redirect)
+
+## Java 后端面试相关
+
+- [![](logo/wechat.svg)刷完500道BAT面试题，我能去面试大厂了吗？-Java知识体系构建 | 程序员江湖![](logo/star.svg)](https://mp.weixin.qq.com/s/kumR_aMFQSfqLGc3dmxoVw)
 
 ## 不错的轮子
 

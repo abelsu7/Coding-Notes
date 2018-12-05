@@ -10,6 +10,7 @@
 - **编程开发**
   - [![](https://notes.abelsu7.top/_media/java.svg)Java 笔记](/develop/java)
   - [![](https://notes.abelsu7.top/_media/golang.svg)Golang 笔记](/develop/golang)
+  - [![](https://notes.abelsu7.top/_media/linux.svg)Linux 收集](/develop/linux)
   - [![](https://notes.abelsu7.top/_media/hammer.svg)在线工具](/develop/tools)
 - **写作排版**
   - [![](https://notes.abelsu7.top/_media/writing.svg)排版工具](/writing/beautify)
@@ -26,7 +27,6 @@
 - **友情链接**
   - [![](https://notes.abelsu7.top/_media/hexo.svg)技术博客](/links/friends)
   - [![](https://notes.abelsu7.top/_media/wechat.svg)微信公众号](/links/wechat)
-  - [![](https://notes.abelsu7.top/_media/linux.svg)Linux 收集](/links/linux)
   - [![](https://notes.abelsu7.top/_media/vue.svg)前端收集](/links/frontend)
   - [![](https://notes.abelsu7.top/_media/library.svg)学习资源](/links/learning)
 - **求职应聘**

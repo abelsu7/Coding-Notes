@@ -6,12 +6,7 @@
 - 谷歌C++编程规范
 - [C语言总结 — 知识点导论图 | CSDN](https://blog.csdn.net/Dawn_sf/article/details/78934875)
 - [yafeilinux | Qt开源社区](http://www.qter.org/)
-
-## Shell
-
-- [Linux命令大全](http://man.linuxde.net)
-- [Shell正则表达式 | Linux命令大全](http://man.linuxde.net/docs/shell_regex.html)
-- [Linux Shell脚本攻略 | Linux命令大全](http://man.linuxde.net/shell-script)
+- [![](logo/wechat.svg)C语言入坑指南-被遗忘的初始化 | 编程珠玑](https://mp.weixin.qq.com/s?__biz=MzI2OTA3NTk3Ng==&mid=2649284087&idx=1&sn=79f48f41712b19f806e79bce1084f0ec&chksm=f2f9ae90c58e27867220b81940ad03b1b6defe46ba3ffcec85c9cf69e68b36629afa96e09869&scene=21#wechat_redirect)
 
 ## Python
 
