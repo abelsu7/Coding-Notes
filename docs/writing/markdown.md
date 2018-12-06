@@ -1,11 +1,5 @@
 ?> ![](https://notes.abelsu7.top/_media/markdown-blue.svg ':no-zoom')Markdown 笔记
 
-## 微信公众号排版
-
-* Md2All
-* 小胡子哥
-* 小胡子哥的另一个版本
-
 ## Markdown 常用语法
 
 ### Dropdown
