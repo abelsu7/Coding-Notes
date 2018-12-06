@@ -48,12 +48,8 @@ git branch -av
 
 !> 进入 `.git/` 目录，手动删除 `index.lock` 以及 `.COMMIT_EDITMSG.swp`
 
-## 代码高亮测试
+## Git 教程
 
-```html
-<!-- Site theme -->
-<link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-defaults.min.css">
-
-<!-- PrismJS theme -->
-<link rel="stylesheet" href="path/to/prismjs-theme.css">
-```
+* [![](logo/github.svg)LearnGitBranching | Github![](logo/star.svg)](https://github.com/pcottle/learnGitBranching)
+* [![](logo/git.svg)learngitbranching.js.org![](logo/star.svg)](https://learngitbranching.js.org)
+* [![](logo/wechat.svg)Double Kill，用玩游戏的方式来学习 Git | 吴小龙同学![](logo/star.svg)](https://mp.weixin.qq.com/s/xf1vqsMpD5HcbYB_DRghEA)

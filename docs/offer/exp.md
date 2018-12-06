@@ -22,6 +22,7 @@
 - [![](logo/wechat.svg)Java程序员从阿里拿到offer回来，这些面试题你会吗？| 程序猿DD](https://mp.weixin.qq.com/s/WBdgC-hVxYT6_PmICbzlrQ)
 - [![](logo/jianshu.svg)秋招提前批小结（CVTE一面挂、阿里三面挂）| 简书](https://www.jianshu.com/p/5531006468d8)
 - [![](logo/wechat.svg)美团面试经历，贡献出来一起学习 | Java技术驿站](https://mp.weixin.qq.com/s/SPXz0xSQezd6Iyn7c4O99A)
+- [![](logo/wechat.svg)2018年秋招美团Java程序员开发，最后我顺利拿到offer！| 51CTO技术栈](https://mp.weixin.qq.com/s/kS63-gqASSNjl3-Ts77zAw)
 
 
 ## 薪资
@@ -34,3 +35,4 @@
 ## 代码之外
 
 - [一个BAT老程序员的忠告！| 程序员江湖](https://mp.weixin.qq.com/s/czIY61Hz5iepsVmSjWMM6w)
+- [![](logo/wechat.svg)代码世界值得你珍藏的 72 张面孔 | 阿里巴巴中间件![](logo/star.svg)](https://mp.weixin.qq.com/s/ip91FAVTJb34uGBSP2CRLA)

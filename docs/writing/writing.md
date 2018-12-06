@@ -13,3 +13,7 @@
 * [![](logo/baidutongji.ico ':size=16')百度统计](https://tongji.baidu.com)
 * [![](logo/baidu.ico ':size=16')百度搜索资源平台](https://ziyuan.baidu.com)
 * [![](logo/busuanzi.ico ':size=16')不蒜子 | 不如![](logo/star.svg)](http://ibruce.info/)
+
+## Gif 录制
+
+* [![](logo/licecap.ico ':size=16')LICEcap | Win/Mac 上非常好用的 Gif 录制工具![](logo/star.svg)](https://www.cockos.com/licecap/)

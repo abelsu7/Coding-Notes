@@ -13,7 +13,7 @@
 - 社区
   - [![](https://notes.abelsu7.top/_media/logo.png ':size=16')掘金](https://juejin.im)
   - [![](https://notes.abelsu7.top/_media/jianshu.svg)简书](https://www.jianshu.com)
-  - [![](https://notes.abelsu7.top/_media/zhihu.ico ':size=16')知乎](https://www.zhihu.com)
+  - [![](https://notes.abelsu7.top/_media/zhihu.svg)知乎](https://www.zhihu.com)
   - [![](https://notes.abelsu7.top/_media/csdn.ico ':size=16')CSDN](https://blog.csdn.net/abelsu7)
   - [![](https://notes.abelsu7.top/_media/v2ex.png ':size=16')V2EX](https://www.v2ex.com/)
   - [![](https://notes.abelsu7.top/_media/qcloud.png ':size=16')腾讯云](https://cloud.tencent.com/developer)

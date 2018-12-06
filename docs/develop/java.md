@@ -10,9 +10,9 @@
 | [![](logo/github.svg)3y文章导航![](logo/star.svg)](https://github.com/ZhongFuCheng3y/3y) | 公众号 Java3y 的文章汇总 |
 | [![](https://notes.abelsu7.top/_media/how2j.ico ':size=16')how2j.cn![](https://notes.abelsu7.top/_media/star.svg)](http://how2j.cn/) | Java 学习路线 |
 | [![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/CyC2018/CS-Notes) |  |
+| [![](logo/github.svg)Java资源大全中文版](https://github.com/jobbole/awesome-java-cn) | 伯乐在线整理 |
 
 * 技术原始积累 - 淘宝加多
-* [![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/CyC2018/CS-Notes)
 * 纯洁的微笑
 
 ## Java 语言特性
@@ -87,6 +87,7 @@
 
 - [![](logo/wechat.svg)刷完500道BAT面试题，我能去面试大厂了吗？-Java知识体系构建 | 程序员江湖![](logo/star.svg)](https://mp.weixin.qq.com/s/kumR_aMFQSfqLGc3dmxoVw)
 - [![](logo/wechat.svg)程序员！进阿里前这6大知识点你真的需要梳理一下了 | Java架构沉思录](https://mp.weixin.qq.com/s/9tVAge8HLO-MgQr-mozCsg?spm=a2c4e.11153940.blogcont675197.18.15bb701aSMQeKD)
+- [真题探源|史上最全 69 道 Spring 面试题和答案 | 程序之心](https://zhuanlan.zhihu.com/p/50747190)
 
 ## 不错的轮子
 

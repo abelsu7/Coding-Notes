@@ -43,3 +43,8 @@ https://www.google.com/s2/favicons?domain=域名
 ## 格式处理
 
 * [![](logo/cainiao.ico ':size=16')正则表达式在线测试、常用正则参考 | 菜鸟工具![](https://notes.abelsu7.top/_media/star.svg)](https://c.runoob.com/front-end/854)
+* 提取部分 PDF 页面
+
+## SVG 图标
+
+* [![](logo/iconfont.svg)IconFont | 阿里巴巴矢量图标站![](logo/star.svg)](http://iconfont.cn)

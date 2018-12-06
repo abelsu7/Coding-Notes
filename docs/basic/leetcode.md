@@ -1,5 +1,12 @@
 ?> <img src="https://notes.abelsu7.top/_media/leetcode.png" data-origin="https://notes.abelsu7.top/_media/leetcode.svg" width="16" alt data-no-zoom>Leetcode 题解
 
+## 一些资源
+
+* [![](logo/github.svg)leetcode-helper | Github![](logo/star.svg)](https://github.com/helloShen/leetcode-helper)
+* [![](logo/wechat.svg)刷 LeetCode 吃力正常吗？| 算法与数据结构![](logo/star.svg)](https://mp.weixin.qq.com/s/nUayq3IpnJjZ5uTQ1GWyOw)
+* [![](logo/star.svg)Leetcode Solutions in Java | Hello SHEN](http://www.ciaoshen.com/leetcode.html)
+* [![](logo/star.svg)Thinking in Java Exercises | Hello SHEN](http://www.ciaoshen.com/thinkinginjava/)
+
 ## 1. Two Sum
 
 !> Return indices of the two numbers.

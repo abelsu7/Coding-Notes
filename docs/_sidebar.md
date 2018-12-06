@@ -29,6 +29,7 @@
 - **友情链接**
   - [![](https://notes.abelsu7.top/_media/hexo.svg)技术博客](/links/friends)
   - [![](https://notes.abelsu7.top/_media/wechat.svg)微信公众号](/links/wechat)
+  - [![](https://notes.abelsu7.top/_media/zhihu.svg)知乎专栏](links/zhihu)
   - [![](https://notes.abelsu7.top/_media/vue.svg)前端收集](/links/frontend)
   - [![](https://notes.abelsu7.top/_media/library.svg)学习资源](/links/learning)
 - **求职应聘**

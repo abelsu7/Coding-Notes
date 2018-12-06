@@ -2,7 +2,7 @@
 > **Last Update**: `2018-11-29` <br>
 > **更新中…**
 
-!> [![](logo/sogou.svg)搜狗微信搜索](https://weixin.sogou.com)<br>[![](logo/qqbrowser.svg)微信 X5 内核调试页面（仅 Android）](http://debugx5.qq.com/)<br>[![](logo/github.svg)公众账号推荐 | jaywcjlove](https://github.com/jaywcjlove/handbook/blob/master/other/公众账号推荐.md)<br>[![](logo/wechat.svg)掌握正确的学习方法 | 五分钟学算法](https://mp.weixin.qq.com/s/q22Vw3xJzvTZqMhEzTk1iw)
+!> [![](logo/sogou.svg)搜狗微信搜索](https://weixin.sogou.com)<br>[![](logo/qqbrowser.svg)微信 X5 内核调试页面（仅 Android）](http://debugx5.qq.com/)<br>[![](logo/github.svg)公众账号推荐 | jaywcjlove](https://github.com/jaywcjlove/handbook/blob/master/other/公众账号推荐.md)<br>[![](logo/wechat.svg)掌握正确的学习方法 | 五分钟学算法](https://mp.weixin.qq.com/s/q22Vw3xJzvTZqMhEzTk1iw)<br>[![](logo/wechat.svg)阿里巴巴中间件的推荐](https://mp.weixin.qq.com/s/9EybjobtyrMISEygo9m8SA)
 
 ## 综合社区
 
