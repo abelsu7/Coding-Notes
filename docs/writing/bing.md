@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 6
+
+> Sometimes it is the people who no one imagines anything of who do the things that no one can imagine. The Imitation Game
+>
+> 有时候，正是看似无用之人，成就无人敢想之事。——《模仿游戏》
+
 ### Dec. 5
 
 > If you doubt yourself then indeed you stand on shaky ground. Henrik Ibsen
