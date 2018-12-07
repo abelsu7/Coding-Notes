@@ -21,3 +21,9 @@
 ### PouchContainer
 
 * [![](logo/wechat.svg)技术解析系列 | PouchContainer 富容器技术![](logo/star.svg)](https://mp.weixin.qq.com/s/M98lQZAKFjtvs3XUDm4olA)
+
+## 存储虚拟化
+
+* [![](logo/36kr.png ':size=16')像虚拟机一样虚拟数据，开源项目Alluxio要发力中国市场 | 36Kr](https://36kr.com/p/5153871.html)
+
+## 网络虚拟化

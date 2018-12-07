@@ -2,7 +2,10 @@
 
 ## Serverless 云函数
 
+!> ***Serverless Computing***<br>**SCF**：Serverless Cloud Function<br>**FaaS**：Function as a Service<br>**BaaS**：Backend as a Service
+
 * [![](logo/qcloud.png ':size=16')Serverless Cloud Function - 无服务器云函数 SCF 文档 | 腾讯云](https://cloud.tencent.com/document/product/583)
+* [![](logo/jianshu.svg)8位业界大咖这么看Serverless的2018 and 7大提供FaaS的开源无服务器框架 | 简书![](logo/star.svg)](https://www.jianshu.com/p/d4e040fefdec)
 
 ## 私有云
 

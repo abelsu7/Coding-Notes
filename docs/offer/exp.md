@@ -24,7 +24,6 @@
 - [![](logo/wechat.svg)美团面试经历，贡献出来一起学习 | Java技术驿站](https://mp.weixin.qq.com/s/SPXz0xSQezd6Iyn7c4O99A)
 - [![](logo/wechat.svg)2018年秋招美团Java程序员开发，最后我顺利拿到offer！| 51CTO技术栈](https://mp.weixin.qq.com/s/kS63-gqASSNjl3-Ts77zAw)
 
-
 ## 薪资
 
 - [![](https://notes.abelsu7.top/_media/star.svg)独家 | 2019届互联网校招本科薪酬清单 | 校招薪水](https://mp.weixin.qq.com/s/OOkat0ZO3dESKz6XsCdFJQ)
@@ -35,9 +34,12 @@
 ## 代码之外
 
 - [![](logo/wechat.svg)阿里毕玄：技术人应如何选择职业发展路线？| 阿里技术![](logo/star.svg)](https://mp.weixin.qq.com/s/AQsxSDcv_qAzfB_Vt9zu4g)
+- [![](logo/wechat.svg)阿里研究员毕玄：又是一年校招季，我是这样考察学生的 | 阿里技术![](logo/star.svg)](https://mp.weixin.qq.com/s/gvIrU65Nx9vPSUaJfxdORQ)
 - [![](logo/wechat.svg)这十年，阿里开发者毕玄的日常 | 阿里技术![](logo/star.svg)](https://mp.weixin.qq.com/s/UIAtCDvaOeg0l8sl3q8zoA)
 - [![](logo/wechat.svg)一个BAT老程序员的忠告！| 程序员江湖](https://mp.weixin.qq.com/s/czIY61Hz5iepsVmSjWMM6w)
 - [![](logo/wechat.svg)代码世界值得你珍藏的 72 张面孔 | 阿里巴巴中间件![](logo/star.svg)](https://mp.weixin.qq.com/s/ip91FAVTJb34uGBSP2CRLA)
 - [![](logo/wechat.svg)干货文章分类整理 | 阿里技术](https://mp.weixin.qq.com/s/YmJo05gjUwLl5rzzibV_kQ)
 - [![](logo/wechat.svg)多隆：从工程师到合伙人 | 阿里技术人纪录片![](logo/star.svg)](https://mp.weixin.qq.com/s/UBassrqTSUW1u0_3hk02ig)
 - [![](logo/wechat.svg)小邪在阿里的十年技术人生 | 阿里技术](https://mp.weixin.qq.com/s/eS-GvWkg4vZ2hb83ppx50w)
+- [![](logo/wechat.svg)张小龙走过的弯路——剖析微信那些失败的功能 | 卫夕指北](https://mp.weixin.qq.com/s/wbv1qHMlDVZ6xP7ZPq4BnA)
+- [![](logo/yhaomin.ico ':size=16')阿里巴巴名人堂 | yhaomin](https://sites.google.com/site/yhaomin/home/alibabamingrentang)

@@ -24,7 +24,7 @@
 
 * [![](logo/licecap.ico ':size=16')LICEcap | Win/Mac 上非常好用的 Gif 录制工具![](logo/star.svg)](https://www.cockos.com/licecap/)
 
-## 搜索
+## 站内搜索
 
 * [![](logo/swiftype.ico ':size=16')SwiftType](https://swiftype.com)
 * [![](logo/algolia.ico ':size=16')Algolia](https://www.algolia.com/)

@@ -13,6 +13,7 @@
 | [![](logo/cylong.ico ':size=16')笑话人生](http://www.cylong.com) | 陈云龙 | 南京大学软件学院2013级 |
 | [![](logo/kooola.png ':size=16')考拉的网络日志](https://www.kooola.com) | 张卫庆（kooola） | 专注大数据相关领域 |
 | [![](logo/limengting.ico ':size=16')Li Mengting](https://limengting.site) | 李梦婷 | 北京理工大学计算机系2015级，Java 服务端开发 |
+| [![](logo/codeyourlife.ico ':size=16')CodeYourLife](http://codeyourlife.cn/index.html) | wbq813 | 华南理工大学软件学院研究生 |
 
 ## 团队博客
 
@@ -66,3 +67,4 @@
 | [![](logo/hellojava.jpg ':size=16')Hello Java 微信公众号](http://hellojava.info) | BlueDavy | 林昊，阿里毕玄 |
 | [![](logo/hiberabyss.jpeg ':size=16')始于珞尘](https://hiberabyss.github.io) | [hiberabyss](https://github.com/hiberabyss) | 腾讯社交与效果广告部高级工程师，后端开发 |
 | [![](logo/nijiaben.ico ':size=16')你假笨](http://lovestblog.cn/)<img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img> | 寒泉子 | Alipay 基础技术部 JVM 团队 |
+| [![](logo/fenng.ico ':size=16')闲思录](http://dbanotes.net/)<img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img> | 冯大辉 | 数据库技术专家，无码科技创始人 |
