@@ -12,6 +12,8 @@
 
 ### Kubernetes
 
+* Kubernetes 中文社区
+
 ### OpenShift
 
 * [![](logo/wechat.svg)理解OpenShift-1：网络之 Router 和 Route | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/F0ZMMID75wHhpqdps6p8dw)

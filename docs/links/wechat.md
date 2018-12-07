@@ -181,6 +181,15 @@
     </div>
 </p>
 
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/rongqishidai.jpg' width='400'></img>
+    </div>
+    <div style='text-align: center'>
+        容器时代 | 苗立尧，易宝支付运维工程师
+    </div>
+</p>
+
 ## Linux 与后端开发
 
 <p>

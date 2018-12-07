@@ -29,3 +29,7 @@
 * [![](logo/swiftype.ico ':size=16')SwiftType](https://swiftype.com)
 * [![](logo/algolia.ico ':size=16')Algolia](https://www.algolia.com/)
 * [![](logo/github.svg ':size=16')Lunr.js](https://lunrjs.com/)
+
+## 字符编码
+
+* [![](logo/zhihu.svg)程序员必备：彻底弄懂常见的7种中文字符编码 | 腾讯码农![](logo/star.svg)](https://zhuanlan.zhihu.com/p/46216008)
