@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 7
+
+> One meets its destiny on the road he takes to avoid it. 
+>
+> 往往在逃避命运的路上，却与之不期而遇。
+
 ### Dec. 6
 
 > Sometimes it is the people who no one imagines anything of who do the things that no one can imagine. The Imitation Game

@@ -23,3 +23,9 @@
 ## Gif 录制
 
 * [![](logo/licecap.ico ':size=16')LICEcap | Win/Mac 上非常好用的 Gif 录制工具![](logo/star.svg)](https://www.cockos.com/licecap/)
+
+## 搜索
+
+* [![](logo/algolia.ico ':size=16')Algolia](https://www.algolia.com/)
+* [![](logo/github.svg ':size=16')Lunr.js](https://lunrjs.com/)
+* SwiftType

@@ -277,6 +277,15 @@
 
 <p>
     <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/nijiaben.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>你假笨 - Alipay 寒泉子，JVM
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
         <img src='https://notes.abelsu7.top/links/wechat/crossoverjie.png' width='200'></img>
     </div>
     <div style='text-align: center'>
