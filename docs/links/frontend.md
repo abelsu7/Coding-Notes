@@ -6,6 +6,10 @@
 
 * [![](logo/awesome.ico ':size=16')Awesomes.cn | 前端 Github 库的归档和中文文档](https://www.awesomes.cn)
 
+## 前端框架
+
+* Egg.js
+
 ## 团队博客
 
 * [![](logo/taobaofed.ico ':size=16')淘宝 FED 前端团队](http://taobaofed.org/)

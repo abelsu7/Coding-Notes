@@ -16,7 +16,7 @@
 * [![](logo/bilibili.ico ':size=16')哔哩哔哩校园招聘](https://campus.bilibili.com/activity-campus2019.html)
 * [![](logo/douban.svg)豆瓣校园招聘](https://jobs.douban.com/jobs/campus/)
 * 蚂蚁金服
-* 小米
+* 小米云平台
 * 奇虎 360
 * 金山 WPS/金山云
 * 优酷土豆

@@ -74,7 +74,16 @@
         <img src='https://notes.abelsu7.top/links/wechat/infoq.gif' width='400'></img>
     </div>
     <div style='text-align: center'>
-        InfoQ
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>InfoQ
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/erchashu.jpg' width='400'></img>
+    </div>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>二叉树短视频 | InfoQ
     </div>
 </p>
 
@@ -393,6 +402,15 @@
 </p>
 
 ## 系统架构
+
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/archsummit.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>ArchSummit | InfoQ 出品
+    </div>
+</p>
 
 <p>
     <div style='text-align: center'>
