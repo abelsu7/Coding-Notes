@@ -44,3 +44,4 @@
 - [![](logo/wechat.svg)小邪在阿里的十年技术人生 | 阿里技术](https://mp.weixin.qq.com/s/eS-GvWkg4vZ2hb83ppx50w)
 - [![](logo/wechat.svg)张小龙走过的弯路——剖析微信那些失败的功能 | 卫夕指北](https://mp.weixin.qq.com/s/wbv1qHMlDVZ6xP7ZPq4BnA)
 - [![](logo/yhaomin.ico ':size=16')阿里巴巴名人堂 | yhaomin](https://sites.google.com/site/yhaomin/home/alibabamingrentang)
+- [![](logo/wechat.svg)揭秘 Google 两大超级工程师：AI 领域绝无仅有的黄金搭档 | 雷锋网](https://mp.weixin.qq.com/s/wow3ecr3Up7fLnpzyho2qQ)

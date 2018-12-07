@@ -6,6 +6,7 @@
 * [![](logo/wechat.svg)刷 LeetCode 吃力正常吗？| 算法与数据结构![](logo/star.svg)](https://mp.weixin.qq.com/s/nUayq3IpnJjZ5uTQ1GWyOw)
 * [![](logo/star.svg)Leetcode Solutions in Java | Hello SHEN](http://www.ciaoshen.com/leetcode.html)
 * [![](logo/star.svg)Thinking in Java Exercises | Hello SHEN](http://www.ciaoshen.com/thinkinginjava/)
+* [![](logo/github.svg)LeetCode Animation All in One | Github](https://github.com/MisterBooo/LeetCodeAnimation)
 
 ## 1. Two Sum
 
