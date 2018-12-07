@@ -26,6 +26,6 @@
 
 ## 搜索
 
+* [![](logo/swiftype.ico ':size=16')SwiftType](https://swiftype.com)
 * [![](logo/algolia.ico ':size=16')Algolia](https://www.algolia.com/)
 * [![](logo/github.svg ':size=16')Lunr.js](https://lunrjs.com/)
-* SwiftType

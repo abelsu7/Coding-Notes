@@ -63,6 +63,6 @@
 | [![](logo/reuixiy.ico ':size=16')reuixiy](https://reuixiy.github.io) | reuixiy | 炫酷的Next主题优化 |
 | [![](logo/wanghui.png ':size=16')王辉的博客](http://hui-wang.info) | 王辉 | hexo-recommended-posts、hexo-blogroll作者 |
 | [![](logo/devtang.png ':size=16')唐巧的博客](http://blog.devtang.com) | 唐巧 | 80后程序员，小猿搜题产品技术负责人，著有《iOS开发进阶》|
-| [![](logo/hellojava.jpg ':size=16')Hello Java 微信公众号](http://hellojava.info) | BlueDavy | 阿里毕玄 |
+| [![](logo/hellojava.jpg ':size=16')Hello Java 微信公众号](http://hellojava.info) | BlueDavy | 林昊，阿里毕玄 |
 | [![](logo/hiberabyss.jpeg ':size=16')始于珞尘](https://hiberabyss.github.io) | [hiberabyss](https://github.com/hiberabyss) | 腾讯社交与效果广告部高级工程师，后端开发 |
 | [![](logo/nijiaben.ico ':size=16')你假笨](http://lovestblog.cn/)<img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img> | 寒泉子 | Alipay 基础技术部 JVM 团队 |

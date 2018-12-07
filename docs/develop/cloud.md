@@ -14,8 +14,9 @@
 * [![](logo/netease.ico ':size=16')一文看懂："边缘计算"究竟是什么？为何潜力无限？| 网易科技![](logo/star.svg)](http://tech.163.com/18/0815/01/DP7AJGR500097U7T.html)
 * [![](logo/qcloud.png ':size=16')腾讯云微计算实践：从Serverless说起，谈谈边缘计算的未来 | 腾讯云+社区](https://cloud.tencent.com/developer/article/1044457)
 
-## Borg
+## 任务调度
 
 * [![](logo/wechat.svg)Borg：G家最重要的基础设施 | HelloJava![](logo/star.svg)](https://mp.weixin.qq.com/s/8wbBAQR4fIsg6YfZlMIWRA)
+* [![](logo/wechat.svg)数据中心日均 CPU 利用率 45%？！阿里规模化混部技术揭秘 | 阿里技术![](logo/star.svg)](https://mp.weixin.qq.com/s/sUWy60vL-pEt5fE5PGGrww)
 
 ## 文章资讯

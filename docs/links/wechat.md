@@ -82,6 +82,33 @@
 
 <p>
     <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/alitech.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>阿里技术
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/alitechstack.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>阿里技术栈
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/alisystem.png' width='400'></img>
+    </div>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>阿里系统软件技术
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
         <img src='https://notes.abelsu7.top/links/wechat/aliware.jpeg' width='400'></img>
     </div>
     <div style='text-align: center'>
