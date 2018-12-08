@@ -21,10 +21,26 @@
 - [![](logo/wechat.svg)深度探秘 Java 8 函数式编程（下）| 芋道源码](https://mp.weixin.qq.com/s/Ko2gC2KgQPFhpYkiOTmUwA)
 - [![](logo/wechat.svg)Java 中的四种引用类型 | 芋道源码](https://mp.weixin.qq.com/s/eRocrUmCfJuIhwlQt3RdLA)
 - [![](logo/wechat.svg)Java必看 | 阿里巴巴总结：Java常见疑惑和陷阱 | Java技术驿站![](logo/star.svg)](https://mp.weixin.qq.com/s/Ds8TVbMX3tANoHcf_rufOg)
+- [![](logo/wechat.svg)保卫 Java 应用程序的安全沙箱机制你需要了解一下 | 码洞![](logo/star.svg)](https://mp.weixin.qq.com/s/_V5jnynSeU3r6P54gBjThg)
+
+## Java 常用库
+
+- [![](logo/hollis.png ':size=16')2018年排名Top 100的Java类库 | Hollis![](logo/star.svg)](https://www.hollischuang.com/archives/2926)
+- [![](logo/wechat.svg)Java 程序员都应该去使用一下这款强大的国产工具类库 | 程序员私房菜![](logo/star.svg)](https://mp.weixin.qq.com/s/aXvAQv26saEXxm3GnaXY-Q)
+- [![](logo/hutool.ico ':size=16')Hutool | A set of tools that keep Java sweet.![](logo/star.svg)](https://www.hutool.cn)
+
+## Java Web
+
+- [![](logo/wechat.svg)图解 | 当我们在读写 Socket 时，我们究竟在读写什么？| 芋道源码![](logo/star.svg)](https://mp.weixin.qq.com/s/fpqknvZDheR3urC_wHe5Gw)
 
 ## Java 框架
 
-### 主流 Java Web 框架
+### Dubbo
+
+- [![](logo/dubbo.ico ':size=16')Dubbo - 高性能、轻量级、开源的 Java RPC 框架![](logo/star.svg)](http://dubbo.apache.org/zh-cn/)
+- [![](logo/wechat.svg)Dubbo下一站：Apache顶级项目](https://mp.weixin.qq.com/s/3WwXcWJbP7iOS3vmN-Ek1Q)
+
+### 主流 Java 框架
 
 - [![](https://notes.abelsu7.top/_media/netty.ico ':size=16')Netty](https://netty.io)
 - [![](logo/spring.png)Spring Boot![](logo/star.svg)](https://spring.io/projects/spring-boot)
@@ -40,7 +56,9 @@
 
 ### 框架的一些教程文章
 
+- [![](logo/jianshu.svg)给你一份Spring Boot知识清单 | 简书![](logo/star.svg)](https://www.jianshu.com/p/83693d3d0a65)
 - [![](logo/juejin.svg)Spring MVC 到 Spring Boot 的简化之路](https://juejin.im/post/5aa22d1f51882555677e2492)
+- [![](logo/wechat.svg)Dubbo下一站：Apache顶级项目](https://mp.weixin.qq.com/s/3WwXcWJbP7iOS3vmN-Ek1Q)
 - [![](logo/wechat.svg)使用SpringBoot+Dubbo 搭建一个简单的分布式服务 | Java 面试通关手册![](https://notes.abelsu7.top/_media/star.svg)](https://mp.weixin.qq.com/s/_hopW32FCheKDnKrQv8XLw)
 - [![](logo/wechat.svg)基于 SpringBoot2.0+优雅整合 SpringBoot+Mybatis | JavaGuide![](https://notes.abelsu7.top/_media/star.svg)](https://mp.weixin.qq.com/s/L7FdF0SnF5T25EcQkbCQeA)
 - [![](logo/wechat.svg)新手也能实现，基于SpirngBoot2.0+ 的 SpringBoot+Mybatis 多数据源配置 | JavaGuide![](https://notes.abelsu7.top/_media/star.svg)](https://mp.weixin.qq.com/s/b1bM6Q-lvbEzdO3dQPPt_g)
@@ -51,6 +69,7 @@
 - [![](logo/jianshu.svg)使用RESTful风格开发Java Web | 简书](https://www.jianshu.com/p/91600da4df95)
 - [![](logo/jianshu.svg)Spring Boot【快速入门】| 简书](https://www.jianshu.com/p/70963ab49f8c)
 - [![](logo/jianshu.svg)SpringBoot技术栈搭建个人博客【项目准备】| 简书](https://www.jianshu.com/p/0293368fe750)
+- [![](logo/zhihu.svg)5 分钟一次理解 Spring IOC | 程序之心![](logo/star.svg)](https://zhuanlan.zhihu.com/p/49264919)
 
 ## Java 规范
 
@@ -58,9 +77,12 @@
 
 ## Java 并发/多线程
 
+- [![](logo/cnblogs.svg)40个Java多线程问题总结 | 五月的仓颉![](logo/star.svg)](https://www.cnblogs.com/xrq730/p/5060921.html)
 - [![](logo/wechat.svg)深入理解Java中的并发编程：到底什么是线程安全？| Hollis![](logo/star.svg)](https://mp.weixin.qq.com/s/IwaaabNl-S9iQrFCY91NTQ)
 - [![](logo/wechat.svg)大白话聊聊Java并发面试问题之volatile到底是什么？【石杉的架构笔记】](https://mp.weixin.qq.com/s/MIsQv8ZWWBzfB-Qhg3l4lA)
 - [![](logo/wechat.svg)东半球第二详细的 Java 并发系列文章 | 程序员私房菜![](logo/star.svg)](https://mp.weixin.qq.com/s/0OKdx9OIQXYRObbsfsdsIQ)
+- [![](logo/ifeve.png ':size=16')java并发面试题(一)基础 | 并发编程网![](logo/star.svg)](http://ifeve.com/javaconcurrency-interview-questions-base/)
+- [![](logo/ifeve.png ':size=16')java并发面试题(二)实战 | 并发编程网![](logo/star.svg)](http://ifeve.com/javaconcurrency-interview-questions-combat/)
 
 ## Java 实现的设计模式
 
@@ -88,6 +110,10 @@
 - [![](logo/wechat.svg)刷完500道BAT面试题，我能去面试大厂了吗？-Java知识体系构建 | 程序员江湖![](logo/star.svg)](https://mp.weixin.qq.com/s/kumR_aMFQSfqLGc3dmxoVw)
 - [![](logo/wechat.svg)程序员！进阿里前这6大知识点你真的需要梳理一下了 | Java架构沉思录](https://mp.weixin.qq.com/s/9tVAge8HLO-MgQr-mozCsg?spm=a2c4e.11153940.blogcont675197.18.15bb701aSMQeKD)
 - [真题探源|史上最全 69 道 Spring 面试题和答案 | 程序之心](https://zhuanlan.zhihu.com/p/50747190)
+- [![](logo/zhihu.svg)Java框架经典面试题之Spring（第二弹）| 互联网视界![](logo/star.svg)](https://zhuanlan.zhihu.com/p/44162459)
+- [![](logo/zhihu.svg)Java SSM框架相关基础面试题整理 | 程序之心](https://zhuanlan.zhihu.com/p/51435872)
+- [![](logo/zhihu.svg)史上最全 69 道 Spring 面试题和答案 | 程序之心![](logo/star.svg)](https://zhuanlan.zhihu.com/p/50747190)
+- [![](logo/zhihu.svg)微服务框架之Spring Boot 面试题汇总 | 互联网干货](https://zhuanlan.zhihu.com/p/45455089)
 
 ## 不错的轮子
 

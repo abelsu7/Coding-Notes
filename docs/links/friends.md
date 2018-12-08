@@ -68,3 +68,4 @@
 | [![](logo/hiberabyss.jpeg ':size=16')始于珞尘](https://hiberabyss.github.io) | [hiberabyss](https://github.com/hiberabyss) | 腾讯社交与效果广告部高级工程师，后端开发 |
 | [![](logo/nijiaben.ico ':size=16')你假笨](http://lovestblog.cn/)<img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img> | 寒泉子 | Alipay 基础技术部 JVM 团队 |
 | [![](logo/fenng.ico ':size=16')闲思录](http://dbanotes.net/)<img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img> | 冯大辉 | 数据库技术专家，无码科技创始人 |
+| [![](logo/mzlogin.ico ':size=16')码志](https://mazhuang.org/) | [mzlogin](https://github.com/mzlogin) | 马壮，Android |

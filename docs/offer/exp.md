@@ -37,7 +37,13 @@
 ### 职业发展
 
 - [![](logo/wechat.svg)阿里毕玄：技术人应如何选择职业发展路线？| 阿里技术![](logo/star.svg)](https://mp.weixin.qq.com/s/AQsxSDcv_qAzfB_Vt9zu4g)
+- [![](logo/wechat.svg)四年努力，梦归阿里，和大家聊聊成长感悟 | 五月的仓颉![](logo/star.svg)](https://mp.weixin.qq.com/s/tqRV599hyxAiBOsTYfl-fQ)
 - [![](logo/wechat.svg)一个BAT老程序员的忠告！| 程序员江湖](https://mp.weixin.qq.com/s/czIY61Hz5iepsVmSjWMM6w)
+- [![](logo/wechat.svg)程序员依然是这个时代，贫寒学子翻身的不二选择 | 纯洁的微笑](https://mp.weixin.qq.com/s/IgVYwic07TVfiF7YKsT1fg)
+- [![](logo/wechat.svg)阿里感悟系列文章目录 | 清英![](logo/star.svg)](https://mp.weixin.qq.com/s/nyP3RpKRMInXijSVj3GI-w)
+- [![](logo/wechat.svg)阿里感悟（十八）- 应届生Review | 清英](https://mp.weixin.qq.com/s/9PvW7vMq64c9cEWiYBcC8g)
+- [![](logo/wechat.svg)阿里感悟（十五）- 如何选择Offer | 清英](https://mp.weixin.qq.com/s/FVfZuGF8JV-Ic7LXGVRMcQ)
+- [![](logo/wechat.svg)阿里感悟（十一）如何学习新技术 | 清英](https://mp.weixin.qq.com/s/o1wsTCKlaSMNN7hGyGUcBA)
 
 ### 编程牛人
 
@@ -62,3 +68,9 @@
 - [![](logo/wechat.svg)干货文章分类整理 | 阿里技术](https://mp.weixin.qq.com/s/YmJo05gjUwLl5rzzibV_kQ)
 - [![](logo/wechat.svg)阿里研究员毕玄：又是一年校招季，我是这样考察学生的 | 阿里技术![](logo/star.svg)](https://mp.weixin.qq.com/s/gvIrU65Nx9vPSUaJfxdORQ)
 - [![](logo/wechat.svg)为什么中国没有Apache基金会这样的组织？| InfoQ![](logo/star.svg)](https://mp.weixin.qq.com/s/Q8BUtykKLyE31Aa1QoeZqA)
+- [![](logo/wechat.svg)“微信勒索病毒”全纪实：打扰了，我只是病毒界的杨超越 | 浅黑科技](https://mp.weixin.qq.com/s/XMG3vic5l2AsY-vzzwaDeQ)
+- [![](logo/oschina.ico ':size=16')程序员福利：当编程语言都变成女孩子 | 开源中国](https://www.oschina.net/news/53201/programming-language-as-a-girl)
+- [![](logo/bole.png ':size=16')编程语言拟人化（1）：Java、C++、Python、Ruby、PHP、C#、JS | 伯乐在线](http://blog.jobbole.com/63311/)
+- [![](logo/bole.png ':size=16')趣文：编程语言拟人化（第二弹）| 伯乐在线](http://blog.jobbole.com/63036/)
+- [Java、C++、Python…プログラミング言語擬人化計画！](https://next.rikunabi.com/tech/docs/ct_s03600.jsp?p=002412)
+- [Perl、C、Scala…プログラミング言語擬人化計画2](https://next.rikunabi.com/tech/docs/ct_s03600.jsp?p=002477)

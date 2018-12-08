@@ -9,11 +9,13 @@
 * [![](https://notes.abelsu7.top/_media/star.svg)十大经典排序算法 | Github](https://github.com/hustcc/JS-Sorting-Algorithm)
 * [【图解数据结构】 一组动画彻底理解桶排序 | 五分钟学算法](https://mp.weixin.qq.com/s/pSSQXRJFnePYNgB4QpysgA)
 * [漫画：什么是桶排序？| 程序员小灰](https://mp.weixin.qq.com/s/qrboxA5SwN7AbAcpZ_dpNQ)
+* [![](logo/zhihu.svg)九种排序算法的可视化及比较 | 程序之心](https://zhuanlan.zhihu.com/p/34421623)
 
 ## 可视化
 
 * [![](logo/wechat.svg)GitHub 一万多 Star，一个可视化学算法的好工具 | 算法爱好者![](logo/star.svg)](https://mp.weixin.qq.com/s/-FiEnzjrSQBuAYWkZjZaZg)
 * [![](logo/av.png ':size=16')Algorithm Visualizer](http://algorithm-visualizer.org  )
+* [![](logo/zhihu.svg)九种排序算法的可视化及比较 | 程序之心](https://zhuanlan.zhihu.com/p/34421623)
 
 ## 笔试
 

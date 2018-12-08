@@ -1,13 +1,32 @@
 ?> ![](https://notes.abelsu7.top/_media/writing.svg ':no-zoom')写作排版
 
+## 待写文章
+
+- [![](logo/csdn.ico ':size=16')虚拟机下CentOS7开启SSH连接 | CSDN](https://blog.csdn.net/trackle400/article/details/52755571)
+- [![](logo/oschina.ico ':size=16')CentOS 7安装和配置ssh | 开源中国](https://my.oschina.net/laiconglin/blog/675317)
+- [![](logo/oom.ico ':size=16')CentOS 7安装谷歌拼音中文输入法 | 内存·溢出](http://ju.outofmemory.cn/entry/152928)
+- [![](logo/tecmint.png ':size=16')How to Install and Configure VNC Server in CentOS 7 | TecMint![](logo/star.svg)](https://www.tecmint.com/install-and-configure-vnc-server-in-centos-7/)
+- [![](logo/cnblogs.svg)CentOS7配置VNC Server | 博客园](https://www.cnblogs.com/Richard-xie/p/4143632.html)
+- [![](logo/jianshu.svg)CentOs 7安装配置VNC Server | 简书](https://www.jianshu.com/p/35640fc5672b)
+- [![](logo/csdn.ico ':size=16')Linux Centos下安装htop使用htop | CSDN](https://blog.csdn.net/yy3097/article/details/51151074?locationNum=5&fps=1)
+- [htop](http://hisham.hm/htop/index.php)
+- [CentOS镜像使用帮助 | 网易开源镜像站](http://mirrors.163.com/.help/centos.html)
+- [![](logo/csdn.ico ':size=16')centos 安装htop | CSDN](https://blog.csdn.net/zswjob126/article/details/51108069)
+
 ## 微信公众号排版
 
 * [![](logo/md2all.ico ':size=16')Md2All | 颜家大少![](logo/star.svg)](http://md.aclickall.com/)
 * [![](logo/barretlee.ico ':size=16')WXMarkdown - 微信公众号格式化工具 | 小胡子哥![](logo/star.svg)](http://md.barretlee.com/)
 * [![](logo/mzlogin.ico ':size=16')WXMarkdown - 分屏版 | mzlogin![](logo/star.svg)](https://md.mazhuang.org/)
 
+## 中文排版
+
+* [![](logo/mzlogin.ico ':size=16')中文文案排版指北（简体中文版）| 码志![](logo/star.svg)](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)
+* [![](logo/github.svg)中文文案排版指北（简体中文版）| mzlogin![](logo/star.svg)](https://github.com/mzlogin/chinese-copywriting-guidelines)
+
 ## 代码高亮
 
+* PrismJS
 * [![](https://notes.abelsu7.top/_media/star.svg)Carbon | 代码图片生成器](https://carbon.now.sh)
 * [![](https://notes.abelsu7.top/_media/star.svg)Pygments | Python syntax highlighter](http://pygments.org)
 * [plantB | Syntax Highlight Code In Word Documents](http://www.planetb.ca/syntax-highlight-word)
@@ -33,3 +52,7 @@
 ## 字符编码
 
 * [![](logo/zhihu.svg)程序员必备：彻底弄懂常见的7种中文字符编码 | 腾讯码农![](logo/star.svg)](https://zhuanlan.zhihu.com/p/46216008)
+
+## 写作技巧
+
+- [![](logo/wechat.svg)如何写一篇好的技术博客 | 五月的仓颉](https://mp.weixin.qq.com/s/oFB9k9mDaAzrq8wDVsxe5A)

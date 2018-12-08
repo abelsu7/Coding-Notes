@@ -39,6 +39,8 @@
 * [![](logo/wechat.svg)如何理解 Linux shell中“2>&1”？| 编程珠玑](https://mp.weixin.qq.com/s?__biz=MzI2OTA3NTk3Ng==&mid=2649284005&idx=1&sn=dc9e9db84ec363d5a0ed7f84bc6ec866&chksm=f2f9aec2c58e27d42eee09ae646e493530d8d0deda822df2ffa2e5153d210b709a6d69272957&scene=21#wechat_redirect)
 * [![](logo/wechat.svg)Linux常用命令--系统状态篇 | 编程珠玑![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzI2OTA3NTk3Ng==&mid=2649283877&idx=1&sn=0ee514b242c1134366f9c4f02ea8d781&chksm=f2f9ae42c58e27547e9025d93820482c0bbe82189ce88e73226bb65a72140351587653f5feee&scene=21#wechat_redirect)
 * [![](logo/wechat.svg)Linux中的文件查找技巧 | 编程珠玑![](logo/star.svg)](https://mp.weixin.qq.com/s/T0QjzmycVIc2tZJyyrMIfA)
+* [![](logo/tecmint.png ':size=16')20 Linux YUM Commands for Package Management | TecMint](https://www.tecmint.com/20-linux-yum-yellowdog-updater-modified-commands-for-package-mangement/)
+* [![](logo/cnblogs.svg)yum和apt-get用法及区别 | 小菜鸟![](logo/star.svg)](https://www.cnblogs.com/garinzhang/p/diff_between_yum_apt-get_in_linux.html)
 
 ## 开源镜像站
 
@@ -61,9 +63,3 @@
 ## Gnome 主题
 
 * [Vimix-Gtk-Theme 主题更新](https://imcn.me/html/y2018/34575.html)
-
-## 无盘系统
-
-* [OpenPOWER PXE无盘工作站环境搭建 | LinuxPower](http://www.linuxpower.com.cn/forum.php?mod=viewthread&tid=1009)
-* [如何无盘启动 Linux | Linux 中国](https://linux.cn/article-3511-1.html)
-* [pxeboot 所需的 initrd.img 和 vmlinuz | 阿里云镜像站](http://mirrors.aliyun.com/centos/7/os/x86_64/images/pxeboot/)

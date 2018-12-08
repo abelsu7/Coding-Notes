@@ -49,3 +49,17 @@ https://www.google.com/s2/favicons?domain=域名
 ## SVG 图标
 
 * [![](logo/iconfont.svg)IconFont | 阿里巴巴矢量图标站![](logo/star.svg)](http://iconfont.cn)
+
+## 文档维护
+
+* gitter.im
+* mkdoc
+* vurpress
+
+## 电子书
+
+* [![](logo/wechat.svg)还在百度搜电子书吗？这三个优质电子书网站可以满足你所有的需求！| 程序员私房菜![](logo/star.svg)](https://mp.weixin.qq.com/s/Gz2IReqYu6CXnBRGrJicLg)
+
+## PPT
+
+* myslide

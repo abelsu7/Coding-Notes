@@ -16,7 +16,7 @@
   - [![](https://notes.abelsu7.top/_media/hammer.svg)在线工具](/develop/tools)
 - **写作阅读**
   - [![](https://notes.abelsu7.top/_media/writing.svg)写作排版](/writing/writing)
-  - [![](https://notes.abelsu7.top/_media/appstore.svg)APP 推荐](/writing/app)
+  - [![](https://notes.abelsu7.top/_media/appstore.svg)网站推荐](/writing/app)
   - [![](https://notes.abelsu7.top/_media/tex.svg)LaTeX 笔记](/writing/latex)
   - [![](https://notes.abelsu7.top/_media/markdown-blue.svg)Markdown 笔记](/writing/markdown)
   - [![](https://notes.abelsu7.top/_media/bing.svg)必应词典精选](/writing/bing)

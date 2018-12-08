@@ -87,6 +87,15 @@
     </div>
 </p>
 
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/ifeve.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>并发编程网 | 方腾飞，阿里清英
+    </div>
+</p>
+
 ## 企业团队
 
 <p>
@@ -401,6 +410,15 @@
     </div>
 </p>
 
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/wuyue.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        五月的仓颉 | 阿里菜鸟国际，Java
+    </div>
+</p>
+
 ## 系统架构
 
 <p>
@@ -505,6 +523,15 @@
     </div>
     <div style='text-align: center'>
         nanchen
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/mzlogin.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        闷骚的程序员 | 马壮
     </div>
 </p>
 
@@ -623,5 +650,14 @@
     </div>
     <div style='text-align: center'>
         漫话编程
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/jenny.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        轻松学软件 | 敏捷教练 Jenny，前微软顾问
     </div>
 </p>

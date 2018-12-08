@@ -39,3 +39,5 @@ This is how you dropdown.
 | [![](logo/fireball.ico ':size=16')Daring Fireball: Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/) | Markdown 作者 [John Gruber](https://daringfireball.net/) |
 | [![](https://notes.abelsu7.top/_media/markdown.svg)Markdown Guide](https://www.markdownguide.org/) | Free and open-source |
 | [![](https://notes.abelsu7.top/_media/github.svg)markdown-it](https://github.com/markdown-it/markdown-it) | [Markdown parser](https://markdown-it.github.io/) |
+
+- [![](logo/mzlogin.ico ':size=16')一份简明的 Markdown 笔记与教程 | 码志](https://mazhuang.org/2018/09/06/markdown-intro/)

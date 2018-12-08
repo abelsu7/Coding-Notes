@@ -9,6 +9,7 @@
 ## 前端框架
 
 * Egg.js
+* [Firekylin | A Simple & Fast Node.js Bloging Platform Base On ThinkJS & React & ES2015+](https://firekylin.org/)
 
 ## 团队博客
 
