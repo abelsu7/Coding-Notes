@@ -38,6 +38,7 @@
   - [![](https://notes.abelsu7.top/_media/interview.svg)面经](/offer/exp.md)
   - [![](https://notes.abelsu7.top/_media/terminal.svg)刷题](/offer/test.md)
   - [![](https://notes.abelsu7.top/_media/resume.svg)简历](/offer/cv.md)
+  - [![](https://notes.abelsu7.top/_media/opensource.svg)牛人](/offer/awesomecoder)
 - **Links**
   - [![](https://notes.abelsu7.top/_media/github.svg)Github](https://github.com/abelsu7)
   - [![](https://notes.abelsu7.top/_media/bilibili.ico ':size=16')bilibili](https://space.bilibili.com/59456951/#/)

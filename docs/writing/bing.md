@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 8
+
+> You make the failure complete when you stop trying.
+>
+> 当你停止尝试的时候，你就完全失败了。
+
 ### Dec. 7
 
 > One meets its destiny on the road he takes to avoid it. 

@@ -39,7 +39,7 @@
 - [![](logo/wechat.svg)阿里毕玄：技术人应如何选择职业发展路线？| 阿里技术![](logo/star.svg)](https://mp.weixin.qq.com/s/AQsxSDcv_qAzfB_Vt9zu4g)
 - [![](logo/wechat.svg)一个BAT老程序员的忠告！| 程序员江湖](https://mp.weixin.qq.com/s/czIY61Hz5iepsVmSjWMM6w)
 
-### 编程神人
+### 编程牛人
 
 - [![](logo/wechat.svg)这十年，阿里开发者毕玄的日常 | 阿里技术![](logo/star.svg)](https://mp.weixin.qq.com/s/UIAtCDvaOeg0l8sl3q8zoA)
 - [![](logo/wechat.svg)代码世界值得你珍藏的 72 张面孔 | 阿里巴巴中间件![](logo/star.svg)](https://mp.weixin.qq.com/s/ip91FAVTJb34uGBSP2CRLA)
