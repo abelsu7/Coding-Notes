@@ -27,9 +27,11 @@
 ## 代码高亮
 
 * PrismJS
+* [![](logo/github.svg)prism-themes | Github![](logo/star.svg)](https://github.com/PrismJS/prism-themes)
 * [![](https://notes.abelsu7.top/_media/star.svg)Carbon | 代码图片生成器](https://carbon.now.sh)
 * [![](https://notes.abelsu7.top/_media/star.svg)Pygments | Python syntax highlighter](http://pygments.org)
 * [plantB | Syntax Highlight Code In Word Documents](http://www.planetb.ca/syntax-highlight-word)
+* [CodeMirror | 浏览器中的代码编辑器![](logo/star.svg)](https://www.awesomes.cn/repo/codemirror/codemirror)
 
 ## 网站统计
 
@@ -56,3 +58,8 @@
 ## 写作技巧
 
 - [![](logo/wechat.svg)如何写一篇好的技术博客 | 五月的仓颉](https://mp.weixin.qq.com/s/oFB9k9mDaAzrq8wDVsxe5A)
+
+## Hexo
+
+- [![](logo/jianshu.svg)hexo代码换行异常解决以及常用问题 | 简书](https://www.jianshu.com/p/a1ef89b6eb55)
+- [hexo-theme-matery | Five-great 的博客](https://five-great.coding.me/zhu-ti-shuo-ming.html)

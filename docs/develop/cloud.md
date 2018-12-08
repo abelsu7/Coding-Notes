@@ -17,13 +17,31 @@
 * [![](logo/wechat.svg)引入Serverless/FaaS时机到了？国外Hootsuite的Serverless架构实践 | 高可用架构](https://mp.weixin.qq.com/s/bdbWQ5YsgrNArpI6Wp81pA?)
 * [![](logo/wechat.svg)左耳朵耗子论微服务 Serverless 及 FaaS | GIAC 访谈 | 高可用架构](https://mp.weixin.qq.com/s/rybygNf3u3K2lSVpBptCFA)
 * [![](logo/wechat.svg)浅谈服务治理、微服务与Service Mesh（三） Service Mesh与Serverless | 易商阜极](https://mp.weixin.qq.com/s?__biz=MjM5MDM3NDY1NQ==&mid=2651112869&idx=1&sn=41e4bfff5dadb2f9e868815729b36713)
+* [![](logo/infoq.png ':size=16')Serverless 应用现状调查结果出炉！| InfoQ![](logo/star.svg)](https://www.infoq.cn/article/0ThMRelvBEmvy_tA8DBO)
+* [从微服务到 Serverless 架构：享受纯粹的编程乐趣 | MySlide![](logo/star.svg)](https://myslide.cn/slides/753)
+* [![](logo/zhihu.svg)基于阿里云Serverless架构下函数计算的最新应用场景详解 | 我是程序员![](logo/star.svg)](https://zhuanlan.zhihu.com/p/33204275)
+* [![](logo/zhihu.svg)Serverless Architectures(无服务器架构)](https://zhuanlan.zhihu.com/p/23308613)
+* [史上最全 - 35个平台、框架、数据库细说什么是Serverless | 数人云![](logo/star.svg)](http://blog.shurenyun.com/untitled-82/)
+* [![](logo/qcloud.png ':size=16')使用腾讯云 SCF 云函数压缩 COS 对象存储文件 | 腾讯云+社区](https://cloud.tencent.com/developer/article/1006150)
+* [![](logo/qcloud.png ':size=16')陈杰：无服务器架构，让云端开发更纯粹 | 腾讯云+社区![](logo/star.svg)](https://cloud.tencent.com/developer/article/1020360)
+* [![](logo/qcloud.png ':size=16')无服务器架构，让云端开发更纯粹.pdf](https://ask.qcloudimg.com/raw/yehe-133f028/s5su5c66bu.pdf)
+* [![](logo/qcloud.png ':size=16')腾讯云无服务器云函数架构精解 | 腾讯云+社区![](logo/star.svg)](https://cloud.tencent.com/developer/article/1004922)
+* [![](logo/qcloud.png ':size=16')无服务器云函数 SCF | 腾讯云](https://cloud.tencent.com/product/scf/)
+* [![](logo/csdn.ico ':size=16')【笔记】《由浅入深SCF无服务器云函数实践》| CSDN](https://blog.csdn.net/csdn_duomaomao/article/details/78910588)
+* [Bmob文档中心 | 比目后端云](http://doc.bmob.cn)
 
 ### FaaS 开源框架
 
-* Fission
-* OpenFaaS
+* [![](logo/oschina.ico ':size=16')开源项目首页 > 服务器软件 > Serverless 系统 | 开源中国![](logo/star.svg)](https://www.oschina.net/project/tag/475/serverless)
+* [OpenFaaS![](logo/star.svg)](https://www.openfaas.com)
+* [![](logo/github.svg)faas | Github![](logo/star.svg)](https://github.com/openfaas/faas)
+* [![](logo/github.svg)OpenFaaS Workshop | Github![](logo/star.svg)](https://github.com/openfaas/workshop)
+* [OpenLambda![](logo/star.svg)](https://open-lambda.org/index.htm)
+* [![](logo/github.svg)open-lambda | Github![](logo/star.svg)](https://github.com/open-lambda/open-lambda)
 * [![](logo/spring.png ':size=16')Spring Cloud Function](https://cloud.spring.io/spring-cloud-function/)
-* Iron.io
+* [Iron.io](https://www.iron.io)
+* Fission
+* [Serverless![](logo/star.svg)](https://serverless.com)
 
 ### FaaS 相关文章
 
