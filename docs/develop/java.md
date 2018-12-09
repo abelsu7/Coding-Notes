@@ -40,12 +40,24 @@
 - [![](logo/dubbo.ico ':size=16')Dubbo - 高性能、轻量级、开源的 Java RPC 框架![](logo/star.svg)](http://dubbo.apache.org/zh-cn/)
 - [![](logo/wechat.svg)Dubbo下一站：Apache顶级项目](https://mp.weixin.qq.com/s/3WwXcWJbP7iOS3vmN-Ek1Q)
 
+### Spring MVC
+
 ### Spring Boot
-- [Spring Boot 系列文章 | 纯洁的微笑![](logo/star.svg)](http://www.mooooc.com/spring-boot.html)
+
+- [![](logo/ityouknow.ico ':size=16')Spring Boot 系列文章 | 纯洁的微笑![](logo/star.svg)](http://www.mooooc.com/spring-boot.html)
+- [![](logo/ityouknow.ico ':size=16')springboot学习资料汇总 | 纯洁的微笑![](logo/star.svg)](http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html)
+- [![](logo/spring.png ':size=16')Spring Boot 中文索引![](logo/star.svg)](http://springboot.fun)
+- [![](logo/spring.png ':size=16')SPRING INITIALIZR | bootstrap your application now](https://start.spring.io)
 
 ### Spring Cloud
 
-- [Spring Cloud 系列文章 | 纯洁的微笑![](logo/star.svg)](http://www.ityouknow.com/spring-cloud.html)
+- [![](logo/ityouknow.ico ':size=16')Spring Cloud 系列文章 | 纯洁的微笑![](logo/star.svg)](http://www.ityouknow.com/spring-cloud.html)
+- [![](logo/ityouknow.ico ':size=16')springcloud学习资料汇总 | 纯洁的微笑![](logo/star.svg)](http://www.ityouknow.com/springcloud/2016/12/30/springcloud-collect.html)
+- [![](logo/spring.png ':size=16')Spring Cloud 中文索引![](logo/star.svg)](http://springcloud.fun)
+
+### Netty
+
+- [![](logo/wechat.svg)再有人问你Netty是什么，就把这篇文章发给他 | Hollis![](logo/star.svg)](https://mp.weixin.qq.com/s/zf_LY0MSD4S4p0wXKOyhZg)
 
 ### 主流 Java 框架
 
@@ -90,6 +102,8 @@
 - [![](logo/wechat.svg)东半球第二详细的 Java 并发系列文章 | 程序员私房菜![](logo/star.svg)](https://mp.weixin.qq.com/s/0OKdx9OIQXYRObbsfsdsIQ)
 - [![](logo/ifeve.png ':size=16')java并发面试题(一)基础 | 并发编程网![](logo/star.svg)](http://ifeve.com/javaconcurrency-interview-questions-base/)
 - [![](logo/ifeve.png ':size=16')java并发面试题(二)实战 | 并发编程网![](logo/star.svg)](http://ifeve.com/javaconcurrency-interview-questions-combat/)
+- [![](logo/wechat.svg)一份针对于新手的多线程实践 | crossoverJie![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzIyMzgyODkxMQ==&mid=2247483963&idx=1&sn=2b8768882b20cde47a12128e5e6d0d86&chksm=e8190cfbdf6e85ed9753c2e7bf4c7f5f4c239e3116d71bb2c645391e22972cd19335bd8e5fec&mpshare=1&scene=1&srcid=10309PKpT8EIPi5MwRDoarEG#rd)
+- [![](logo/wechat.svg)一份针对于新手的多线程实践--进阶篇 | crossoverJie![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzIyMzgyODkxMQ==&mid=2247483967&idx=1&sn=281fae55b6999697dfb1a8282d750f43&chksm=e8190cffdf6e85e920554d84717198a1fdb3d1050f208fcb78bc089553955f3079e7f5dd79aa&mpshare=1&scene=1&srcid=1106i8xz4NmxoJKourXBPEW0#rd)
 
 ## Java 实现的设计模式
 
@@ -112,7 +126,7 @@
 - [为什么阿里巴巴禁止工程师直接使用日志系统(Log4j、Logback)中的 API | Hollis](https://mp.weixin.qq.com/s/vCixKVXys5nTTcQQnzrs3w)
 - [Java面试题史上最强整理 | Java技术栈](https://mp.weixin.qq.com/s/kJpRgfI3zT77XqMeRfmmQQ?scene=25#wechat_redirect)
 
-## Java 后端面试相关
+## Java 面试相关
 
 - [![](logo/wechat.svg)刷完500道BAT面试题，我能去面试大厂了吗？-Java知识体系构建 | 程序员江湖![](logo/star.svg)](https://mp.weixin.qq.com/s/kumR_aMFQSfqLGc3dmxoVw)
 - [![](logo/wechat.svg)程序员！进阿里前这6大知识点你真的需要梳理一下了 | Java架构沉思录](https://mp.weixin.qq.com/s/9tVAge8HLO-MgQr-mozCsg?spm=a2c4e.11153940.blogcont675197.18.15bb701aSMQeKD)
@@ -121,6 +135,9 @@
 - [![](logo/zhihu.svg)Java SSM框架相关基础面试题整理 | 程序之心](https://zhuanlan.zhihu.com/p/51435872)
 - [![](logo/zhihu.svg)史上最全 69 道 Spring 面试题和答案 | 程序之心![](logo/star.svg)](https://zhuanlan.zhihu.com/p/50747190)
 - [![](logo/zhihu.svg)微服务框架之Spring Boot 面试题汇总 | 互联网干货](https://zhuanlan.zhihu.com/p/45455089)
+- [![](logo/limengting.ico ':size=16')Java面试常见问题 | Li Mengting](https://limengting.site/2018/10/21/Java面试常见问题/)
+- [![](logo/wechat.svg)99%的面试官都会问到的Java面试题 | Hollis![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650122114&idx=1&sn=2e6b8b93c19bdbc4f35f9953777a8714&chksm=f36bbaa3c41c33b53cfd824078a2f1b2f6a039c96fe9df736d7e03a5203ba7c15c57ee662d90&mpshare=1&scene=1&srcid=1101omzxb05tmVsa9lQ08bvN#rd)
+- [![](logo/wechat.svg)分享10道常考Java面试题及答案 | Hollis![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650122102&idx=1&sn=b267c5519b0e3f043e5f2975e1a6bdd2&chksm=f36bba57c41c3341deaa0587aeafb932e8aec3f40af56e3490bd729699eacc73cfb47a7de678&mpshare=1&scene=1&srcid=1101AoFFJQBks5lcAaEG7GKB#rd)
 
 ## 不错的轮子
 

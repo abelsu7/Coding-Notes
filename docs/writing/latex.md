@@ -31,3 +31,4 @@ y & \ -2.1 & -0.9 & -0.6 & 0.6 \\
 * [subarray，\substack，多行上下标 | 悠闲数学娱乐论坛](http://kuing.orzweb.net/viewthread.php?tid=2212)
 * [Latex In Markdown [0] | 鲈鱼和葡萄](https://savioyo.github.io/2016/12/30/LatexInMD0/)
 * [Latex In Markdown [1] | 鲈鱼和葡萄](https://savioyo.github.io/2016/12/30/LatexInMD1/)
+* [\latex 中的上下标，\limits，\mathop,substack,stackrel | 有限域吧](https://tieba.baidu.com/p/3540801659?red_tag=0064913155)

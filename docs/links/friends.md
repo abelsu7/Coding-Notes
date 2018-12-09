@@ -69,3 +69,7 @@
 | [![](logo/nijiaben.ico ':size=16')你假笨](http://lovestblog.cn/)<img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img> | 寒泉子 | Alipay 基础技术部 JVM 团队 |
 | [![](logo/fenng.ico ':size=16')闲思录](http://dbanotes.net/)<img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img> | 冯大辉 | 数据库技术专家，无码科技创始人 |
 | [![](logo/mzlogin.ico ':size=16')码志](https://mazhuang.org/) | [mzlogin](https://github.com/mzlogin) | 马壮，Android |
+
+## 友链收集
+
+- [![](logo/aotu.png ':size=16')服务/产品 and 友情链接 | Aotu.io「凹凸实验室」- 京东![](logo/star.svg)](https://aotu.io/)

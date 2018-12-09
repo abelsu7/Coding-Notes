@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 9
+
+> The value of life lies not in the length of days, but in the use we make of them.
+>
+> 生命的价值不在于能活多少天,而在于我们如何使用这些日子。  ——蒙田
+
 ### Dec. 8
 
 > You make the failure complete when you stop trying.

@@ -5,3 +5,4 @@
 * [![](logo/toutiao.png ':size=16')开发者头条![](logo/star.svg)](https://toutiao.io/)
 * [![](logo/ifeve.png ':size=16')并发编程网![](logo/star.svg)](http://ifeve.com)
 * [![](logo/weeklymanong.jpg ':size=16')码农周刊](https://weekly.manong.io/issues/)
+* [![](logo/aotu.png ':size=16')Aotu.io「凹凸实验室」- 京东![](logo/star.svg)](https://aotu.io/)

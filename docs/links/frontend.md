@@ -26,7 +26,7 @@
 
 ## Online Editor
 
-?> [![](logo/segmentfault.ico ':size=16')类似 jsfiddle 的网站还有哪些？| SegmentFault](https://segmentfault.com/q/1010000000339531)
+?> [![](logo/segmentfault.ico ':size=16')类似 jsfiddle 的网站还有哪些？| SegmentFault](https://segmentfault.com/q/1010000000339531)<br>[![](logo/wechat.svg)推荐一款强大的在线编译器 | 编程珠玑](https://mp.weixin.qq.com/s?__biz=MzI2OTA3NTk3Ng==&mid=2649284021&idx=1&sn=9ba0bfcaaad0a9042098c2370ab3000f&chksm=f2f9aed2c58e27c4955d5f94ab4c3cb9447f920e339790c6ee70f285939513e05e20a5c09322&mpshare=1&scene=1&srcid=1031Cfl2CQiZbPbSfqO8pbDq#rd)
 
 * [![](logo/jsfiddle.png ':size=16')JSFiddle![](https://notes.abelsu7.top/_media/star.svg)](https://jsfiddle.net)
 * [![](logo/onlinegdb.ico ':size=16')OnlineGDB](https://www.onlinegdb.com/)

@@ -1,5 +1,10 @@
 ?> ![](https://notes.abelsu7.top/_media/hammer.svg ':no-zoom')在线工具
 
+## 凹凸实验室
+
+- [![](logo/aotu.png ':size=16')邮箱签名设计 | 凹凸实验室![](logo/star.svg)](https://sign.aotu.io/)
+- [![](logo/fsmac.png ':size=16')Full Stack Your MAC | Mac 全栈开发环境搭建指南![](logo/star.svg)](https://mac.aotu.io/index.html)
+
 ## 编译工具
 
 - [![](logo/cainiao.ico ':size=16')菜鸟工具![](https://notes.abelsu7.top/_media/star.svg)](https://c.runoob.com)
@@ -63,3 +68,7 @@ https://www.google.com/s2/favicons?domain=域名
 ## PPT
 
 * [MySlide](https://myslide.cn)
+
+## 资源下载
+
+* [![](logo/wherebt.ico ':size=16')WHERE BT | 提供各种BT/磁力资源导航![](logo/star.svg)](http://wherebt.com)

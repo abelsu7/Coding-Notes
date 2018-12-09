@@ -34,6 +34,7 @@
 
 ### 文章教程
 
+* [![](logo/wechat.svg)命令行：增强版 | Linux 中国![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzI1NDQwNDYyMg==&mid=2247485757&idx=1&sn=85087ef9fdd3735cb75f21ddce22b78a&chksm=e9c4f85cdeb3714a822cf264ed012fd9d9a1f3b21f0716d75d86593d91999eea572b4ca144d8&mpshare=1&scene=24&srcid=1101gnc22wsby1uOQIUq4Fpe#rd)
 * [![](logo/wechat.svg)一个命令帮你对文本排序 | 编程珠玑](https://mp.weixin.qq.com/s?__biz=MzI2OTA3NTk3Ng==&mid=2649283987&idx=1&sn=6804ce2841bb66b3085172ed45ec8fa0&chksm=f2f9aef4c58e27e26dfae5711c40037a8976c169f3228601517ebe34c4f482b14002308cc508&scene=21#wechat_redirect)
 * [![](logo/wechat.svg)Linux常用命令-解压缩篇 | 编程珠玑![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzI2OTA3NTk3Ng==&mid=2649283987&idx=1&sn=6804ce2841bb66b3085172ed45ec8fa0&chksm=f2f9aef4c58e27e26dfae5711c40037a8976c169f3228601517ebe34c4f482b14002308cc508&scene=21#wechat_redirect)
 * [![](logo/wechat.svg)如何理解 Linux shell中“2>&1”？| 编程珠玑](https://mp.weixin.qq.com/s?__biz=MzI2OTA3NTk3Ng==&mid=2649284005&idx=1&sn=dc9e9db84ec363d5a0ed7f84bc6ec866&chksm=f2f9aec2c58e27d42eee09ae646e493530d8d0deda822df2ffa2e5153d210b709a6d69272957&scene=21#wechat_redirect)

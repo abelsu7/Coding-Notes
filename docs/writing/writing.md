@@ -40,6 +40,7 @@
 * [![](logo/baidutongji.ico ':size=16')百度统计](https://tongji.baidu.com)
 * [![](logo/baidu.ico ':size=16')百度搜索资源平台](https://ziyuan.baidu.com)
 * [![](logo/busuanzi.ico ':size=16')不蒜子 | 不如![](logo/star.svg)](http://ibruce.info/)
+* [![](logo/github.svg)NOWS - 博客字数统计 | Github](https://github.com/crossoverJie/NOWS)
 
 ## Gif 录制
 
@@ -59,7 +60,23 @@
 
 - [![](logo/wechat.svg)如何写一篇好的技术博客 | 五月的仓颉](https://mp.weixin.qq.com/s/oFB9k9mDaAzrq8wDVsxe5A)
 
-## Hexo
+## 评论系统
+
+- Valine
+- Valine 的一个改版
+- [![](logo/gitalk.ico ':size=16')Gitalk![](logo/star.svg)](https://gitalk.github.io)
+- [![](logo/github.svg)Gitment](https://imsun.github.io/gitment/)
+- Disqus【科学上网】
+- Livere
+- ~~多说~~
+- ~~畅言~~【强制绑定手机】
+
+## Hexo 相关
+
+### Hexo 教程
 
 - [![](logo/jianshu.svg)hexo代码换行异常解决以及常用问题 | 简书](https://www.jianshu.com/p/a1ef89b6eb55)
+
+### Hexo 主题
+
 - [hexo-theme-matery | Five-great 的博客](https://five-great.coding.me/zhu-ti-shuo-ming.html)
