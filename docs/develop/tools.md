@@ -54,12 +54,23 @@ https://www.google.com/s2/favicons?domain=域名
 ## SVG 图标
 
 * [![](logo/iconfont.svg)IconFont | 阿里巴巴矢量图标站![](logo/star.svg)](http://iconfont.cn)
+* [![](logo/icongram.png ':size=16')icongram![](logo/star.svg)](https://icongr.am)
+
+## Markdown 建站
+
+### vuepress
+
+### docsify
+
+- [![](logo/github.svg)docsify | Github![](logo/star.svg)](https://github.com/docsifyjs/docsify)
+- [![](logo/github.svg)docsify-themeable | Github![](logo/star.svg)](https://github.com/jhildenbiddle/docsify-themeable)
+- [![](logo/github.svg)docsify-copy-code | Github](https://github.com/jperasmus/docsify-copy-code)
+- [![](logo/github.svg)docsify-tabs | Github](https://github.com/jhildenbiddle/docsify-tabs)
 
 ## 文档维护
 
 * gitter.im
 * mkdoc
-* vurpress
 
 ## 电子书
 
@@ -69,6 +80,15 @@ https://www.google.com/s2/favicons?domain=域名
 
 * [MySlide](https://myslide.cn)
 
+## Emoji
+
+- [EMOJI CHEAT SHEET![](logo/star.svg)](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
 ## 资源下载
 
 * [![](logo/wherebt.ico ':size=16')WHERE BT | 提供各种BT/磁力资源导航![](logo/star.svg)](http://wherebt.com)
+
+## Cheatsheet
+
+- [![](logo/github.svg)awesome-cheatsheet | 中文版![](logo/star.svg)](https://github.com/skywind3000/awesome-cheatsheets)
+- [![](logo/github.svg)awesome-cheatsheet | 英文版![](logo/star.svg)](https://github.com/LeCoupa/awesome-cheatsheets)

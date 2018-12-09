@@ -26,7 +26,7 @@
 
 ## 代码高亮
 
-* PrismJS
+* [![](logo/github.svg)PrismJS![](logo/star.svg)](https://github.com/PrismJS/prism)
 * [![](logo/github.svg)prism-themes | Github![](logo/star.svg)](https://github.com/PrismJS/prism-themes)
 * [![](https://notes.abelsu7.top/_media/star.svg)Carbon | 代码图片生成器](https://carbon.now.sh)
 * [![](https://notes.abelsu7.top/_media/star.svg)Pygments | Python syntax highlighter](http://pygments.org)

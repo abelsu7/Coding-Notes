@@ -13,12 +13,16 @@
 
 ### Docker
 
+* [![](logo/github.svg)awesome-docker | Docker resources and projects](http://wedocker.com)
+* pwd
+
 ### Kubernetes
 
 * Kubernetes 中文社区
 
 ### OpenShift
 
+* [![](logo/chenshake.ico ':size=16')OpenShift 3.9 All in One | 陈沙克日志![](logo/star.svg)](http://www.chenshake.com/openshift-3-9-all-in-one/)
 * [![](logo/wechat.svg)理解OpenShift-1：网络之 Router 和 Route | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/F0ZMMID75wHhpqdps6p8dw)
 * [![](logo/wechat.svg)理解OpenShift-2：网络之 DNS（域名服务） | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/7e-RXoUHEUw8_EcR18cOeg)
 * [![](logo/wechat.svg)理解OpenShift-3：网络之 SDN | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/-Sw0ZXbpZuI_2n_DxexQcA)

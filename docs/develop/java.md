@@ -48,12 +48,16 @@
 - [![](logo/ityouknow.ico ':size=16')springboot学习资料汇总 | 纯洁的微笑![](logo/star.svg)](http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html)
 - [![](logo/spring.png ':size=16')Spring Boot 中文索引![](logo/star.svg)](http://springboot.fun)
 - [![](logo/spring.png ':size=16')SPRING INITIALIZR | bootstrap your application now](https://start.spring.io)
+- [Spring Boot 开源电子书![](logo/star.svg)](https://boot.ityouknow.com)
+- [![](logo/github.svg)spring-boot-examples | Github](https://github.com/ityouknow/spring-boot-examples)
+- [![](logo/github.svg)云收藏 Spring Boot 2.0 开源项目 | Github![](logo/star.svg)](https://github.com/cloudfavorites/favorites-web)
 
 ### Spring Cloud
 
 - [![](logo/ityouknow.ico ':size=16')Spring Cloud 系列文章 | 纯洁的微笑![](logo/star.svg)](http://www.ityouknow.com/spring-cloud.html)
 - [![](logo/ityouknow.ico ':size=16')springcloud学习资料汇总 | 纯洁的微笑![](logo/star.svg)](http://www.ityouknow.com/springcloud/2016/12/30/springcloud-collect.html)
 - [![](logo/spring.png ':size=16')Spring Cloud 中文索引![](logo/star.svg)](http://springcloud.fun)
+- [![](logo/github.svg)spring-cloud-examples | Github](https://github.com/ityouknow/spring-cloud-examples)
 
 ### Netty
 
@@ -128,6 +132,7 @@
 
 ## Java 面试相关
 
+- [![](logo/wechat.svg)Java工程师修炼之路（校招总结）| 纯洁的微笑![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzI4NDY5Mjc1Mg==&mid=2247486178&idx=1&sn=03050414c812f0e00e359ba1db9f3481&chksm=ebf6d29ddc815b8bdac822d146a787d36bccc54ddd0178e9f2da18475007028fa79ef055b99b&mpshare=1&scene=1&srcid=1102r7fX9DXdnzEiORMq4pZR#rd)
 - [![](logo/wechat.svg)刷完500道BAT面试题，我能去面试大厂了吗？-Java知识体系构建 | 程序员江湖![](logo/star.svg)](https://mp.weixin.qq.com/s/kumR_aMFQSfqLGc3dmxoVw)
 - [![](logo/wechat.svg)程序员！进阿里前这6大知识点你真的需要梳理一下了 | Java架构沉思录](https://mp.weixin.qq.com/s/9tVAge8HLO-MgQr-mozCsg?spm=a2c4e.11153940.blogcont675197.18.15bb701aSMQeKD)
 - [真题探源|史上最全 69 道 Spring 面试题和答案 | 程序之心](https://zhuanlan.zhihu.com/p/50747190)

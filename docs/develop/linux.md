@@ -52,6 +52,7 @@
 ## 负载均衡
 
 * [![](https://notes.abelsu7.top/_media/star.svg)关于负载均衡的一切，简单易懂 | 知乎](https://zhuanlan.zhihu.com/p/50769487)
+* [![](logo/wechat.svg)【系统架构】什么是负载均衡 | 码农有道![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzIwNTc4NTEwOQ==&mid=2247484809&idx=1&sn=ca740c0b9195ca7aa1e81c4c5f1e5c30&chksm=972ad4f3a05d5de5f524d4883c66144c98a8f4ec450421857592a76fb924c348b704efdbd542&mpshare=1&scene=1&srcid=1101YD6LkiVm4T0AHKPQoTZn#rd)
 
 ## 监控分析
 
@@ -60,6 +61,9 @@
 * [![](https://notes.abelsu7.top/_media/star.svg)5分钟搭建网站实时分析：Grafana+日志服务实战 | 阿里云栖社区](https://yq.aliyun.com/articles/227006#20)
 * [可视化工具 Grafana | 简书](https://www.jianshu.com/p/02c4b5c1e804)
 * [调试利器：SSH隧道 | 腾讯云+社区](https://cloud.tencent.com/developer/article/1006320)
+* [![](logo/wechat.svg)服务器性能指标（一）——负载（Load）分析及问题排查 | Hollis![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650121338&idx=1&sn=5004157641f29af5384f5f0a7eaf9e98&chksm=f36bb95bc41c304dd6654b5b8ed05adb0726cc8f4875f3cf61bcbca2b290cb3eeb717a95a3c3&scene=21#wechat_redirect)
+* [![](logo/wechat.svg)服务器性能指标（二）——CPU利用率分析及问题排查 | Hollis![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650121526&idx=1&sn=2f492b80d7cdf6a7b47e8f51dfad249f&chksm=f36bb817c41c31017c5e336e78449aa14d4548ee4b64abc2e13ab2c097d13dee170fef2ff731&mpshare=1&scene=1&srcid=1101wOvI8IsuX4Y62ByXJBPq#rd)
+* [![](logo/wechat.svg)开源实时监控系统CAT 3.0发布：多语言客户端及多项性能提升 | 美团技术团队](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651749250&idx=2&sn=704a3c8b92e8221f0a0dfdbd947d9f85&chksm=bd12a2cf8a652bd9d1e1286c6dfb3ca85d46c1e83e958dc594bc21f74ea1a3181866a7e6edab&mpshare=1&scene=24&srcid=1102zqQyTEJQ3xYEwDziTCX4#rd)
 
 ## Gnome 主题
 
