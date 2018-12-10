@@ -40,6 +40,19 @@
 
 ## 桌面虚拟化
 
+### 供应商
+
+* 深信服
+* 华为
+* [阿里云桌面](www.aliyun.com/product/clouddesktop)
+* 福建升腾
+* 锐捷
+* [辰云科技](http://www.morningcloud.cn/#/main)
+
+### 资讯
+
+* [锐捷网络云桌面产品全面升级 | 阿里云栖社区](https://yq.aliyun.com/articles/581032)
+
 ### VDI
 
 ### IDV

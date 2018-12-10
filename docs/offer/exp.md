@@ -57,6 +57,7 @@
 - [![](logo/wechat.svg)张小龙走过的弯路——剖析微信那些失败的功能 | 卫夕指北](https://mp.weixin.qq.com/s/wbv1qHMlDVZ6xP7ZPq4BnA)
 - [![](logo/yhaomin.ico ':size=16')阿里巴巴名人堂 | yhaomin](https://sites.google.com/site/yhaomin/home/alibabamingrentang)
 - [![](logo/wechat.svg)揭秘 Google 两大超级工程师：AI 领域绝无仅有的黄金搭档 | 雷锋网](https://mp.weixin.qq.com/s/wow3ecr3Up7fLnpzyho2qQ)
+- [![](logo/infoq.png ':size=16')Jeff Dean 的传奇人生：超级工程师们拯救谷歌 | InfoQ](https://www.infoq.cn/article/rAJiubRpi9xSl_LEhI2N)
 
 ### 二叉树视频
 

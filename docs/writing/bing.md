@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 10
+
+> Don’t part with your illusions. When they are gone you may still exist, but you have ceased to live.
+>
+> 不要放弃你的幻想。当幻想没有了以后，你还可以生存，但是你虽生犹死。——马克.吐温
+
 ### Dec. 9
 
 > The value of life lies not in the length of days, but in the use we make of them.
