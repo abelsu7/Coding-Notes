@@ -9,6 +9,8 @@
 
 ## MongoDB
 
+- [![](logo/wechat.svg)Python + MongoDB 小型程序利器 | Leetcode力扣![](logo/star.svg)](https://mp.weixin.qq.com/s/3yDyzSDzKWzoFOVfSI2-vQ)
+
 ## Redis
 
 * [![](logo/wechat.svg)从零单排学Redis【铂金一】| Java3y](https://mp.weixin.qq.com/s/6nBUoP2cid1Qn8XngDMjJw)

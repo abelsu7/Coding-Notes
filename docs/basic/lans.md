@@ -17,6 +17,3 @@
 
 ## JavaScript
 
-## SQL
-
-- [Go database/sql tutorial](http://go-database-sql.org/)

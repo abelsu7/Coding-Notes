@@ -21,6 +21,7 @@
 ### Kubernetes
 
 * Kubernetes 中文社区
+* [![](logo/wechat.svg)权威报告：40%的受访企业在生产环境中部署了Kubernetes | 阿里系统软件技术![](logo/star.svg)](https://mp.weixin.qq.com/s/XgtDh5s1JzstYM5iEkIaDQ)
 
 ### OpenShift
 

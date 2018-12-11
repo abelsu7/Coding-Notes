@@ -21,6 +21,7 @@
 - [![](https://notes.abelsu7.top/_media/star.svg)知乎社区核心业务 Golang 化实践 | xlzd - 知乎专栏](https://zhuanlan.zhihu.com/p/48039838)
 - [鸟窝的博客 | 微博架构开发](https://colobu.com/)
 - [创建最小的Go docker 镜像 | 鸟窝](https://colobu.com/2018/08/13/create-minimal-docker-image-for-go-applications/)
+- [![](logo/wechat.svg)构建OAuth2服务器~Golang语言实现 | 波波微课![](logo/star.svg)](https://mp.weixin.qq.com/s/JsU7dk30OLSkzsnlmXtWIg)
 
 ## 一些轮子
 

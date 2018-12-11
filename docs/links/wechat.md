@@ -444,7 +444,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/boboweike.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        波波微课
+        波波微课 | 拍拍贷研发总监杨波
     </div>
 </p>
 
