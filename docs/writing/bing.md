@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 11
+
+> If you want something you've never had, then you've got to do something you've never Done.
+> 
+> 如果你想拥有你从未有过的东西，那么你必须去做你从未做过的事情。
+
 ### Dec. 10
 
 > Don’t part with your illusions. When they are gone you may still exist, but you have ceased to live.

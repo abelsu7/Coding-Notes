@@ -4,13 +4,13 @@
 
 ## Windows 快捷键
 
-<kbd>![](win10.svg ':no-zoom')</kbd>+ <kbd>A</kbd>：打开操作中心
+<kbd>![](logo/win10.svg ':no-zoom')</kbd>+ <kbd>A</kbd>：打开操作中心
 
-<kbd>![](win10.svg ':no-zoom')</kbd>+ <kbd>B</kbd>：聚焦通知栏
+<kbd>![](logo/win10.svg ':no-zoom')</kbd>+ <kbd>B</kbd>：聚焦通知栏
 
-<kbd>![](win10.svg ':no-zoom')</kbd>+ <kbd>D</kbd>：显示桌面
+<kbd>![](logo/win10.svg ':no-zoom')</kbd>+ <kbd>D</kbd>：显示桌面
 
-<kbd>![](win10.svg ':no-zoom')</kbd>+ <kbd>Ctrl</kbd>+ <kbd>←</kbd>/ <kbd>→</kbd>+ 切换桌面
+<kbd>![](logo/win10.svg ':no-zoom')</kbd>+ <kbd>Ctrl</kbd>+ <kbd>←</kbd>/ <kbd>→</kbd>+ 切换桌面
 
 <kbd>Shift</kbd>+ <kbd>滚轮</kbd>：水平方向滚动
 

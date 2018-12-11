@@ -4,10 +4,12 @@
 
 ### KVM
 
-- [kvm虚拟化学习笔记(一)之kvm虚拟化环境安装 | 51CTO](http://blog.51cto.com/koumm/1288795)
-- [kvm虚拟化学习笔记(四)之kvm虚拟机日常管理与配置 | 51CTO](http://blog.51cto.com/koumm/1290269?spm=5176.100239.blogcont51911.11.18835d20Ia0vRe)
+- [![](logo/51cto.ico ':size=16')kvm虚拟化学习笔记(一)之kvm虚拟化环境安装 | 51CTO![](logo/star.svg)](http://blog.51cto.com/koumm/1288795)
+- [![](logo/51cto.ico ':size=16')kvm虚拟化学习笔记(四)之kvm虚拟机日常管理与配置 | 51CTO![](logo/star.svg)](http://blog.51cto.com/koumm/1290269?spm=5176.100239.blogcont51911.11.18835d20Ia0vRe)
 
 ### QEMU
+
+### SPICE
 
 ## 容器
 

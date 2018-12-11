@@ -24,6 +24,16 @@
 * [CoreOS](https://coreos.com/)
 * [Arch Linux](https://www.archlinux.org/)
 
+## CentOS 配置
+
+### VNC
+
+### SSH
+
+### 修改 yum 源
+
+### 关闭 SELinux
+
 ## Linux 命令
 
 ### 学习资源
