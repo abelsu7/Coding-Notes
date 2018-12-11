@@ -3,6 +3,7 @@
 ## MySQL
 
 * [![](logo/csdn.ico ':size=16')Mysql学习总结（30）——MySQL 索引详解大全 | 一杯甜酒![](logo/star.svg)](https://blog.csdn.net/u012562943/article/details/52149311)
+* [![](logo/wechat.svg)【面试现场】为什么MySQL数据库要用B+树存储索引？| Java3y![](logo/star.svg)](https://mp.weixin.qq.com/s/Mwh5T5wQNLrxORLpNvIZoA)
 
 ## MariaDB
 

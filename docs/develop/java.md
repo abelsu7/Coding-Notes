@@ -11,7 +11,9 @@
 | [![](https://notes.abelsu7.top/_media/how2j.ico ':size=16')how2j.cn![](https://notes.abelsu7.top/_media/star.svg)](http://how2j.cn/) | Java 学习路线 |
 | [![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/CyC2018/CS-Notes) |  |
 | [![](logo/github.svg)Java资源大全中文版](https://github.com/jobbole/awesome-java-cn) | 伯乐在线整理 |
+| [![](logo/wechat.svg)文章目录导航![](logo/star.svg)](https://mp.weixin.qq.com/s/Uu70YycxkMds6kglga6BPQ) | Java3y 的公众号文章导航 |
 
+* Hollis 的 Java 成神之路![](logo/star.svg)
 * 技术原始积累 - 淘宝加多
 * 纯洁的微笑
 
@@ -108,6 +110,7 @@
 - [![](logo/ifeve.png ':size=16')java并发面试题(二)实战 | 并发编程网![](logo/star.svg)](http://ifeve.com/javaconcurrency-interview-questions-combat/)
 - [![](logo/wechat.svg)一份针对于新手的多线程实践 | crossoverJie![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzIyMzgyODkxMQ==&mid=2247483963&idx=1&sn=2b8768882b20cde47a12128e5e6d0d86&chksm=e8190cfbdf6e85ed9753c2e7bf4c7f5f4c239e3116d71bb2c645391e22972cd19335bd8e5fec&mpshare=1&scene=1&srcid=10309PKpT8EIPi5MwRDoarEG#rd)
 - [![](logo/wechat.svg)一份针对于新手的多线程实践--进阶篇 | crossoverJie![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzIyMzgyODkxMQ==&mid=2247483967&idx=1&sn=281fae55b6999697dfb1a8282d750f43&chksm=e8190cffdf6e85e920554d84717198a1fdb3d1050f208fcb78bc089553955f3079e7f5dd79aa&mpshare=1&scene=1&srcid=1106i8xz4NmxoJKourXBPEW0#rd)
+- [![](logo/wechat.svg)打通 Java 任督二脉 —— 并发数据结构的基石 | 码洞![](logo/star.svg)](https://mp.weixin.qq.com/s/KVvs7uMR8_ad0dYoeGLRhQ)
 
 ## Java 实现的设计模式
 
