@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 12
+
+> You are not in charge of the universe; you are in charge of yourself. A.Bennett
+>
+> 你并不掌管整个宇宙,但你得掌管你自己。——本涅特
+
 ### Dec. 11
 
 > If you want something you've never had, then you've got to do something you've never Done.
