@@ -20,3 +20,7 @@
 ## 笔试
 
 * [![](logo/jianshu.svg)【面试必备】手撕代码，你怕不怕？| 简书![](logo/star.svg)](https://www.jianshu.com/p/3f0cd7af370d)
+
+## 文章
+
+- [![](logo/wechat.svg)一些常用的算法技巧总结 | Java3y![](logo/star.svg)](https://mp.weixin.qq.com/s/zvRYUaR1SIuiCNy5ODuzjQ)

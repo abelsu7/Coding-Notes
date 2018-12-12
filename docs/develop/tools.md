@@ -86,7 +86,8 @@ https://www.google.com/s2/favicons?domain=域名
 
 ## 资源下载
 
-* [![](logo/wherebt.ico ':size=16')WHERE BT | 提供各种BT/磁力资源导航![](logo/star.svg)](http://wherebt.com)
+- [![](logo/itellyou.png ':size=16')MSDN I tell you![](logo/star.svg)](http://msdn.itellyou.cn)
+- [![](logo/wherebt.ico ':size=16')WHERE BT | 提供各种BT/磁力资源导航![](logo/star.svg)](http://wherebt.com)
 
 ## Cheatsheet
 

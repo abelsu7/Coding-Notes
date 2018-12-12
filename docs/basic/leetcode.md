@@ -1,4 +1,4 @@
-?> <img src="https://notes.abelsu7.top/_media/leetcode.png" data-origin="https://notes.abelsu7.top/_media/leetcode.svg" width="16" alt data-no-zoom>Leetcode 题解
+?> <img src="https://notes.abelsu7.top/_media/leetcode.png" data-origin="https://notes.abelsu7.top/_media/leetcode.png" width="16" alt data-no-zoom>Leetcode 题解
 
 ## 一些资源
 
@@ -7,6 +7,7 @@
 * [![](logo/star.svg)Leetcode Solutions in Java | Hello SHEN](http://www.ciaoshen.com/leetcode.html)
 * [![](logo/star.svg)Thinking in Java Exercises | Hello SHEN](http://www.ciaoshen.com/thinkinginjava/)
 * [![](logo/github.svg)LeetCode Animation All in One | Github](https://github.com/MisterBooo/LeetCodeAnimation)
+* [![](logo/github.svg)Leetcode-Java 刷题之旅 | dingjikerbo![](logo/star.svg)](https://github.com/dingjikerbo/Leetcode-Java)
 
 ## 1. Two Sum
 
