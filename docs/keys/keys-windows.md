@@ -14,7 +14,13 @@
 
 <kbd>![](logo/win10.svg ':no-zoom')</kbd>+ <kbd>Ctrl</kbd>+ <kbd>←</kbd>/ <kbd>→</kbd>+ 切换桌面
 
+<kbd>Ctrl</kbd>+ <kbd>Shift</kbd>+ <kbd>B</kbd>：打开表情及符号面版
+
 <kbd>Shift</kbd>+ <kbd>滚轮</kbd>：水平方向滚动
+
+## 推荐软件
+
+- [![](logo/tweaker.png ':size=16')7+ Taskbar Tweaker | 解除状态栏靠左时最小宽度的限制![](logo/star.svg)](https://rammichael.com/7-taskbar-tweaker)
 
 ## 一些文章
 

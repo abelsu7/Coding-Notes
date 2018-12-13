@@ -8,6 +8,8 @@
 | :-- | :-- |
 | [Vimium](https://github.com/philc/vimium) | ![](https://notes.abelsu7.top/_media/vim.svg)Vim 风格的键盘网页操作扩展 |
 
+- [![](logo/juejin.png ':size=16')Awesome browser extensions | 掘金![](logo/star.svg)](https://juejin.im/entry/5c1211496fb9a04a07303e14)
+- [![](logo/github.svg)Awesome browser extensions | Github![](logo/star.svg)](https://github.com/whatwewant/awesome-chrome-extensions)
 - One Extension
 - OneTab
 - Proxy SwitchyOmega

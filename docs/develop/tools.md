@@ -29,9 +29,10 @@
 
 ## 图片处理
 
-* 智图
-* [![](logo/tinypng.ico ':size=16')TinyPNG 图片压缩工具](https://tinypng.com)
-* <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>提取网站图标：[![](logo/csdn.png ':size=16')利用公共api提取任意网站favicon.ico图标 | CSDN](https://blog.csdn.net/swanabin/article/details/46660433)
+- 智图
+- [![](logo/tinypng.ico ':size=16')TinyPNG 图片压缩工具](https://tinypng.com)
+- <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>提取网站图标：[![](logo/csdn.png ':size=16')利用公共api提取任意网站favicon.ico图标 | CSDN](https://blog.csdn.net/swanabin/article/details/46660433)
+- [![](logo/star.svg)QR Code Generator | Yeblon](https://yeblon.com)
 
 ```
 https://www.google.com/s2/favicons?domain=域名
@@ -50,6 +51,7 @@ https://www.google.com/s2/favicons?domain=域名
 
 * [![](logo/cainiao.ico ':size=16')正则表达式在线测试、常用正则参考 | 菜鸟工具![](https://notes.abelsu7.top/_media/star.svg)](https://c.runoob.com/front-end/854)
 * 提取部分 PDF 页面
+* [Text Tools - 转换大小写、统计字数 | Yeblon](https://yeblon.com/convert-case/)
 
 ## SVG 图标
 

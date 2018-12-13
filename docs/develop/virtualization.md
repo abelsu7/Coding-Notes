@@ -45,6 +45,7 @@
 - [![](logo/star.svg)WebVirtMgr | panel for manage virtual machine](http://retspen.github.io/)
 - [![](logo/github.svg)webvirtmgr | Github![](logo/star.svg)](https://github.com/retspen/webvirtmgr)
 - [![](logo/github.svg)webvirtcloud | Github](https://github.com/retspen/webvirtcloud)
+- [![](logo/github.svg)kimchi | An HTML5 management interface for KVM guests](https://github.com/kimchi-project/kimchi)
 
 ### QEMU
 
@@ -84,6 +85,8 @@
 ### VDI/IDV
 
 - [![](logo/51cto.ico ':size=16')说到VDI与IDV的分分合合，不会再有比这更清晰的解释了！| 51CTO![](logo/star.svg)](http://blog.51cto.com/techmc/2046797)
+- [![](logo/github.svg)kvm-vdi | linux-kvm based VDI solution![](logo/star.svg)](https://github.com/Seitanas/kvm-vdi)
+- [![](logo/github.svg)kvm-vdi wiki | Github](https://github.com/Seitanas/kvm-vdi/wiki)
 
 ### 供应商
 

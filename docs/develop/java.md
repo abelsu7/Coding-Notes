@@ -10,20 +10,32 @@
 | [![](logo/wechat.svg)文章目录导航![](logo/star.svg)](https://mp.weixin.qq.com/s/Uu70YycxkMds6kglga6BPQ) | Java3y 的公众号文章导航 |
 | [![](logo/github.svg)3y文章导航![](logo/star.svg)](https://github.com/ZhongFuCheng3y/3y) | 公众号 Java3y 的文章汇总 |
 | [![](https://notes.abelsu7.top/_media/how2j.ico ':size=16')how2j.cn![](https://notes.abelsu7.top/_media/star.svg)](http://how2j.cn/) | Java 学习路线 |
-| [![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/CyC2018/CS-Notes) |  |
+| [![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/CyC2018/CS-Notes) | 📚CS Learning Notes |
 | [![](logo/github.svg)Java资源大全中文版](https://github.com/jobbole/awesome-java-cn) | 伯乐在线整理 |
 
-* Hollis 的 Java 成神之路![](logo/star.svg)
+* [![](logo/hollis.png ':size=16')Java工程师成神之路~（2018修订版）| Hollis![](logo/star.svg)](http://www.hollischuang.com/archives/489)
+* [![](logo/hollis.png ':size=16')《成神之路系列文章》| Hollis![](logo/star.svg)](https://www.hollischuang.com/archives/1001)
 * 技术原始积累 - 淘宝加多
 * 纯洁的微笑
 
 ## Java 语言特性
 
-- [![](logo/wechat.svg)深度探秘 Java 8 函数式编程（上）| 芋道源码](https://mp.weixin.qq.com/s/ra0af3OPkedhfqGqOI9NPQ)
-- [![](logo/wechat.svg)深度探秘 Java 8 函数式编程（下）| 芋道源码](https://mp.weixin.qq.com/s/Ko2gC2KgQPFhpYkiOTmUwA)
+### 通用
+
 - [![](logo/wechat.svg)Java 中的四种引用类型 | 芋道源码](https://mp.weixin.qq.com/s/eRocrUmCfJuIhwlQt3RdLA)
 - [![](logo/wechat.svg)Java必看 | 阿里巴巴总结：Java常见疑惑和陷阱 | Java技术驿站![](logo/star.svg)](https://mp.weixin.qq.com/s/Ds8TVbMX3tANoHcf_rufOg)
 - [![](logo/wechat.svg)保卫 Java 应用程序的安全沙箱机制你需要了解一下 | 码洞![](logo/star.svg)](https://mp.weixin.qq.com/s/_V5jnynSeU3r6P54gBjThg)
+
+### Java 8
+
+- [![](logo/wechat.svg)深度探秘 Java 8 函数式编程（上）| 芋道源码](https://mp.weixin.qq.com/s/ra0af3OPkedhfqGqOI9NPQ)
+- [![](logo/wechat.svg)深度探秘 Java 8 函数式编程（下）| 芋道源码](https://mp.weixin.qq.com/s/Ko2gC2KgQPFhpYkiOTmUwA)
+
+### Java 11
+
+- [![](logo/wechat.svg)Java 11 正式发布，这 8 个逆天新特性教你写出更牛逼的代码 | Java 技术栈![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247487206&idx=1&sn=a8ccb604f8508bf296dbd7b25d8fb80f&scene=21#wechat_redirect)
+- [![](logo/juejin.png ':size=16')Java 11 已发布，String 还能这样玩！| Java 后端开发](https://juejin.im/post/5c11034f51882516eb564c72)
+
 
 ## Java 常用库
 
@@ -48,6 +60,9 @@
 - [![](logo/wechat.svg)图解 | 当我们在读写 Socket 时，我们究竟在读写什么？| 芋道源码![](logo/star.svg)](https://mp.weixin.qq.com/s/fpqknvZDheR3urC_wHe5Gw)
 
 ## Java 框架
+
+- [![](logo/wechat.svg)Spring/ MVC/ Boot/ Cloud 干货汇总 | Java 技术栈![](logo/star.svg)](https://mp.weixin.qq.com/s/Q3huLmikqHqDcb9j8fDgaQ)
+- [![](logo/wechat.svg)Spring 干货汇总（含Spring Boot与Spring Cloud）| 程序猿 DD![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzAxODcyNjEzNQ==&mid=2247484574&idx=1&sn=0984db0da3dc0efda956fa0aaeabe479&chksm=9bd0a906aca7201028da742819b4f5b78c8c4768bd88237ffd54c5c818afec0f7af47b1d45eb#rd)
 
 ### Dubbo
 
@@ -123,6 +138,7 @@
 - [![](logo/wechat.svg)一份针对于新手的多线程实践 | crossoverJie![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzIyMzgyODkxMQ==&mid=2247483963&idx=1&sn=2b8768882b20cde47a12128e5e6d0d86&chksm=e8190cfbdf6e85ed9753c2e7bf4c7f5f4c239e3116d71bb2c645391e22972cd19335bd8e5fec&mpshare=1&scene=1&srcid=10309PKpT8EIPi5MwRDoarEG#rd)
 - [![](logo/wechat.svg)一份针对于新手的多线程实践--进阶篇 | crossoverJie![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzIyMzgyODkxMQ==&mid=2247483967&idx=1&sn=281fae55b6999697dfb1a8282d750f43&chksm=e8190cffdf6e85e920554d84717198a1fdb3d1050f208fcb78bc089553955f3079e7f5dd79aa&mpshare=1&scene=1&srcid=1106i8xz4NmxoJKourXBPEW0#rd)
 - [![](logo/wechat.svg)打通 Java 任督二脉 —— 并发数据结构的基石 | 码洞![](logo/star.svg)](https://mp.weixin.qq.com/s/KVvs7uMR8_ad0dYoeGLRhQ)
+- [![](logo/wechat.svg)面试稳了！73道 Java 并发编程题及答案分享给你![](logo/star.svg)](https://mp.weixin.qq.com/s/NfzJC4fqmMtfm0S0aL_I2Q)
 
 ## Java 实现的设计模式
 
@@ -147,6 +163,7 @@
 
 ## Java 面试相关
 
+- [![](logo/zhihu.svg)阿里巴巴、美团等各大互联网公司的 Java 类校招对本科生的要求是什么？| 知乎![](logo/star.svg)](https://www.zhihu.com/question/26350691/answer/42692522)
 - [![](logo/wechat.svg)Java工程师修炼之路（校招总结）| 纯洁的微笑![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzI4NDY5Mjc1Mg==&mid=2247486178&idx=1&sn=03050414c812f0e00e359ba1db9f3481&chksm=ebf6d29ddc815b8bdac822d146a787d36bccc54ddd0178e9f2da18475007028fa79ef055b99b&mpshare=1&scene=1&srcid=1102r7fX9DXdnzEiORMq4pZR#rd)
 - [![](logo/wechat.svg)刷完500道BAT面试题，我能去面试大厂了吗？-Java知识体系构建 | 程序员江湖![](logo/star.svg)](https://mp.weixin.qq.com/s/kumR_aMFQSfqLGc3dmxoVw)
 - [![](logo/wechat.svg)程序员！进阿里前这6大知识点你真的需要梳理一下了 | Java架构沉思录](https://mp.weixin.qq.com/s/9tVAge8HLO-MgQr-mozCsg?spm=a2c4e.11153940.blogcont675197.18.15bb701aSMQeKD)
@@ -158,8 +175,9 @@
 - [![](logo/limengting.ico ':size=16')Java面试常见问题 | Li Mengting](https://limengting.site/2018/10/21/Java面试常见问题/)
 - [![](logo/wechat.svg)99%的面试官都会问到的Java面试题 | Hollis![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650122114&idx=1&sn=2e6b8b93c19bdbc4f35f9953777a8714&chksm=f36bbaa3c41c33b53cfd824078a2f1b2f6a039c96fe9df736d7e03a5203ba7c15c57ee662d90&mpshare=1&scene=1&srcid=1101omzxb05tmVsa9lQ08bvN#rd)
 - [![](logo/wechat.svg)分享10道常考Java面试题及答案 | Hollis![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650122102&idx=1&sn=b267c5519b0e3f043e5f2975e1a6bdd2&chksm=f36bba57c41c3341deaa0587aeafb932e8aec3f40af56e3490bd729699eacc73cfb47a7de678&mpshare=1&scene=1&srcid=1101AoFFJQBks5lcAaEG7GKB#rd)
+- [![](logo/wechat.svg)面试稳了！73道 Java 并发编程题及答案分享给你![](logo/star.svg)](https://mp.weixin.qq.com/s/NfzJC4fqmMtfm0S0aL_I2Q)
 
-## 不错的轮子
+## 一些轮子
 
 - [![](logo/github.svg)symphony - 一款用 Java 实现的现代化社区 | Github](https://github.com/b3log/symphony)
 - [![](logo/github.svg)litemall - Spring Boot 后端 + Vue 管理员前端 + 微信小程序用户前端 | Github](https://github.com/linlinjava/litemall)
