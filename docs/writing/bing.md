@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 13
+
+> Experience without learning is better than learning without experience. Bertrand Russell
+>
+> 有经验而无学问胜于有学问而无经验. ——罗素
+
 ### Dec. 12
 
 > You are not in charge of the universe; you are in charge of yourself. A.Bennett
