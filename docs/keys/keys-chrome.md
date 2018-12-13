@@ -8,6 +8,16 @@
 | :-- | :-- |
 | [Vimium](https://github.com/philc/vimium) | ![](https://notes.abelsu7.top/_media/vim.svg)Vim 风格的键盘网页操作扩展 |
 
+- One Extension
+- OneTab
+- Proxy SwitchyOmega
+- Github Hovercard
+- Octotree
+- SaveFrom.net helper
+- Web Developer
+- 掘金
+- 草料二维码
+
 ## 参考文章
 
 * [开源 Chrome 插件 Vimium | 开源最前线](https://mp.weixin.qq.com/s/Hp9Ap9Fs0YHUEvPP6nxqZQ)

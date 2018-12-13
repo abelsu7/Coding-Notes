@@ -8,6 +8,8 @@
 - [![](logo/qemu.png ':size=16')QEMU![](logo/star.svg)](https://www.qemu.org)
 - [![](logo/redhat.svg)virt-manager![](logo/star.svg)](https://virt-manager.org)
 - <img src='https://notes.abelsu7.top/develop/logo/spice.png' height='16' data-no-zoom></img>[SPICE![](logo/star.svg)](https://www.spice-space.org)
+- [![](logo/openstack.svg)OpenStack Rocky](https://docs.openstack.org/rocky/)
+- [![](logo/cloudstack.ico ':size=16')Apache CloudStack](http://cloudstack.apache.org)
 
 ### KVM
 
@@ -38,8 +40,10 @@
 #### 管理工具
 
 - [![](logo/redhat.svg)virt-manager![](logo/star.svg)](https://virt-manager.org)
-- [![](logo/github.svg)webvirtmgr | Github![](logo/star.svg)](https://github.com/retspen/webvirtmgr)
+- [![](logo/mist.png ':size=16')Mist.io | Cloud Management Platform![](logo/star.svg)](https://mist.io)
+- [![](logo/github.svg)mist-ce | Github](https://github.com/mistio/mist-ce)
 - [![](logo/star.svg)WebVirtMgr | panel for manage virtual machine](http://retspen.github.io/)
+- [![](logo/github.svg)webvirtmgr | Github![](logo/star.svg)](https://github.com/retspen/webvirtmgr)
 - [![](logo/github.svg)webvirtcloud | Github](https://github.com/retspen/webvirtcloud)
 
 ### QEMU
@@ -47,6 +51,10 @@
 ### SPICE
 
 ## 容器
+
+### 常用官网
+
+- [![](logo/docker-docs.ico ':size=16')Docker Documentation![](logo/star.svg)](https://docs.docker.com)
 
 ### Docker
 

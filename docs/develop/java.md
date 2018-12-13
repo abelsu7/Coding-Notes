@@ -7,11 +7,11 @@
 | [![](https://notes.abelsu7.top/_media/crossoverjie.png ':size=16')Java Core Sprout![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/crossoverJie/JCSprout) | Java basic, concurrent, algorithm |
 | [![](https://notes.abelsu7.top/_media/github.svg)interviews - Github](https://github.com/kdn251/interviews) | Java 工程师面试指南 |
 | [![](https://notes.abelsu7.top/_media/github.svg)JavaGuide - Github![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/Snailclimb/JavaGuide) | Java 面试通关手册 |
+| [![](logo/wechat.svg)文章目录导航![](logo/star.svg)](https://mp.weixin.qq.com/s/Uu70YycxkMds6kglga6BPQ) | Java3y 的公众号文章导航 |
 | [![](logo/github.svg)3y文章导航![](logo/star.svg)](https://github.com/ZhongFuCheng3y/3y) | 公众号 Java3y 的文章汇总 |
 | [![](https://notes.abelsu7.top/_media/how2j.ico ':size=16')how2j.cn![](https://notes.abelsu7.top/_media/star.svg)](http://how2j.cn/) | Java 学习路线 |
 | [![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/CyC2018/CS-Notes) |  |
 | [![](logo/github.svg)Java资源大全中文版](https://github.com/jobbole/awesome-java-cn) | 伯乐在线整理 |
-| [![](logo/wechat.svg)文章目录导航![](logo/star.svg)](https://mp.weixin.qq.com/s/Uu70YycxkMds6kglga6BPQ) | Java3y 的公众号文章导航 |
 
 * Hollis 的 Java 成神之路![](logo/star.svg)
 * 技术原始积累 - 淘宝加多

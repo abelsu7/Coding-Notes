@@ -11,7 +11,7 @@
   - [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')领扣](https://leetcode-cn.com/13204159288/)
 
 - 社区
-  - [![](https://notes.abelsu7.top/_media/logo.png ':size=16')掘金](https://juejin.im)
+  - [![](https://notes.abelsu7.top/_media/juejin.png ':size=16')掘金](https://juejin.im)
   - [![](https://notes.abelsu7.top/_media/jianshu.svg)简书](https://www.jianshu.com)
   - [![](https://notes.abelsu7.top/_media/zhihu.svg)知乎](https://www.zhihu.com)
   - [![](https://notes.abelsu7.top/_media/infoq.png ':size=16')InfoQ](https://www.infoq.cn)
