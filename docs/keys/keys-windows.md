@@ -10,6 +10,8 @@
 
 <kbd>![](logo/win10.svg ':no-zoom')</kbd>+ <kbd>D</kbd>：显示桌面
 
+<kbd>![](logo/win10.svg ':no-zoom')</kbd>+ <kbd>Alt</kbd>+ <kbd>D</kbd>：显示日期和时间 
+
 <kbd>![](logo/win10.svg ':no-zoom')</kbd>+ <kbd>Ctrl</kbd>+ <kbd>←</kbd>/ <kbd>→</kbd>+ 切换桌面
 
 <kbd>Shift</kbd>+ <kbd>滚轮</kbd>：水平方向滚动
