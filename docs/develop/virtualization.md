@@ -1,6 +1,6 @@
 ?> ![](logo/redhat.svg ':no-zoom')虚拟化
 
-## 虚拟机
+## 虚拟机 VM
 
 ### 常用官网
 
@@ -51,7 +51,7 @@
 
 ### SPICE
 
-## 容器
+## 容器 Container
 
 ### 常用官网
 
@@ -88,18 +88,21 @@
 - [![](logo/github.svg)kvm-vdi | linux-kvm based VDI solution![](logo/star.svg)](https://github.com/Seitanas/kvm-vdi)
 - [![](logo/github.svg)kvm-vdi wiki | Github](https://github.com/Seitanas/kvm-vdi/wiki)
 
-### 供应商
+### 桌面云厂商
 
-* 深信服
+* [![](logo/sangfor.png ':size=16')深信服 aDesk 桌面云](http://www.sangfor.com.cn/product/it-yun-a-desk.html)
+* [![](logo/yulong.png)禹龙云桌面](http://www.ylserver.com)
 * 华为
-* [阿里云桌面](www.aliyun.com/product/clouddesktop)
+* [南京机敏科技](http://www.astute-tec.com/#/production/dcloud/platform)
+* [阿里云桌面](https://www.aliyun.com/product/clouddesktop)
 * 福建升腾
 * 锐捷
 * [辰云科技](http://www.morningcloud.cn/#/main)
 
-### 资讯
+### 文章资讯
 
-* [锐捷网络云桌面产品全面升级 | 阿里云栖社区](https://yq.aliyun.com/articles/581032)
+- [![](logo/csdn.ico ':size=16')我理解的云桌面（或桌面云）| 张文剑](https://blog.csdn.net/u010766821/article/details/54959170)
+- [锐捷网络云桌面产品全面升级 | 阿里云栖社区](https://yq.aliyun.com/articles/581032)
 
 ### 无盘系统
 
