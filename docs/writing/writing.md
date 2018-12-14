@@ -24,6 +24,10 @@
 * [![](logo/mzlogin.ico ':size=16')中文文案排版指北（简体中文版）| 码志![](logo/star.svg)](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)
 * [![](logo/github.svg)中文文案排版指北（简体中文版）| mzlogin![](logo/star.svg)](https://github.com/mzlogin/chinese-copywriting-guidelines)
 
+## PPT
+
+* [MySlide](https://myslide.cn)
+
 ## 导出 PDF
 
 - [![](logo/wechat.svg)我是如何将博客转成PDF的 | Java3y![](logo/star.svg)](https://mp.weixin.qq.com/s/ktYaBA5YYKsSLdaHwlnYVQ)

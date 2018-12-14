@@ -136,6 +136,15 @@
 
 <p>
     <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/teg.png' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        腾讯技术工程 TEG
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
         <img src='https://notes.abelsu7.top/links/wechat/meituan.png' width='400'></img>
     </div>
     <div style='text-align: center'>
@@ -641,6 +650,15 @@
     </div>
     <div style='text-align: center'>
         <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>浅黑科技
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/fenng.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>小道消息 - Fenng
     </div>
 </p>
 

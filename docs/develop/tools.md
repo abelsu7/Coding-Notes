@@ -78,10 +78,6 @@ https://www.google.com/s2/favicons?domain=域名
 
 * [![](logo/wechat.svg)还在百度搜电子书吗？这三个优质电子书网站可以满足你所有的需求！| 程序员私房菜![](logo/star.svg)](https://mp.weixin.qq.com/s/Gz2IReqYu6CXnBRGrJicLg)
 
-## PPT
-
-* [MySlide](https://myslide.cn)
-
 ## Emoji
 
 - [EMOJI CHEAT SHEET![](logo/star.svg)](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
