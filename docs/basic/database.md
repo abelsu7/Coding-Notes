@@ -1,5 +1,9 @@
 ?> ![](https://notes.abelsu7.top/_media/redis.svg ':no-zoom')数据库
 
+## SQL 优化
+
+- [![](logo/wechat.svg)提高 SQL 速度的16个小技巧 | LeetCode 力扣![](logo/star.svg)](https://mp.weixin.qq.com/s/iIzOwdr82BIWrI1SWRS8dA)
+
 ## MySQL
 
 - [![](logo/codinglabs.png ':size=16')MySQL 索引背后的数据结构及算法原理 | CodingLabs![](logo/star.svg)](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)

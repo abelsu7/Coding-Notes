@@ -9,6 +9,13 @@
 * [![](logo/github.svg)LeetCode Animation All in One | Github](https://github.com/MisterBooo/LeetCodeAnimation)
 * [![](logo/github.svg)Leetcode-Java 刷题之旅 | dingjikerbo![](logo/star.svg)](https://github.com/dingjikerbo/Leetcode-Java)
 
+## 刷题计划
+
+- [![](logo/wechat.svg)1. 两数之和](https://mp.weixin.qq.com/s/AUpUw01SvXfmMiD-vwslnw)
+- [![](logo/wechat.svg)9. 回文数](https://mp.weixin.qq.com/s/AP3iolNeS36_cbN3d-a2Mg)
+- [![](logo/wechat.svg)15. 三数之和](https://mp.weixin.qq.com/s/XwId0LJ0rGQnoS4g75BHAA)
+- [![](logo/wechat.svg)121. 买卖股票的最佳时机](https://mp.weixin.qq.com/s/B4J2OlYf7NEjdcxsoP1jOQ)
+
 ## 1. Two Sum
 
 !> Return indices of the two numbers.

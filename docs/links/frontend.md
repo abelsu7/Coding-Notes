@@ -8,8 +8,9 @@
 
 ## 前端框架
 
-* Egg.js
-* [Firekylin | A Simple & Fast Node.js Bloging Platform Base On ThinkJS & React & ES2015+](https://firekylin.org/)
+- [![](logo/awesome.ico ':size=16')前端库 | Awesomes.cn![](logo/star.svg)](https://www.awesomes.cn/repos/Applications/frameworks)
+- Egg.js
+- [Firekylin | A Simple & Fast Node.js Bloging Platform Base On ThinkJS & React & ES2015+](https://firekylin.org/)
 
 ## 团队博客
 
@@ -23,12 +24,17 @@
 * [![](logo/ipip.ico ':size=16')ipip.net | 实时 Geo-IP 库](https://www.ipip.net)
 * [![](logo/monitor.png ':size=16')Firefox Monitor | 检测邮箱密码是否泄露（慎用）](https://monitor.firefox.com)
 * [![](logo/pwn.ico ':size=16')Have I Been Pwned（慎用）](https://haveibeenpwned.com/)
+* [![](logo/loading.ico ':size=16')Awesome Loading | 可定制的 CSS 加载动画](http://loading.awesomes.cn)
+* [![](logo/jsonon.png ':size=16')Json On | JSON 格式化验证工具](http://json.awesomes.cn)
+* [![](logo/gradient.ico ':size=16')Gradient](http://gradient.awesomes.cn)
+* [![](logo/filter.png ':size=16')Filter On | 在线图片滤镜效果可视化工具](http://filter.awesomes.cn)
 
 ## Online Editor
 
 ?> [![](logo/segmentfault.ico ':size=16')类似 jsfiddle 的网站还有哪些？| SegmentFault](https://segmentfault.com/q/1010000000339531)<br>[![](logo/wechat.svg)推荐一款强大的在线编译器 | 编程珠玑](https://mp.weixin.qq.com/s?__biz=MzI2OTA3NTk3Ng==&mid=2649284021&idx=1&sn=9ba0bfcaaad0a9042098c2370ab3000f&chksm=f2f9aed2c58e27c4955d5f94ab4c3cb9447f920e339790c6ee70f285939513e05e20a5c09322&mpshare=1&scene=1&srcid=1031Cfl2CQiZbPbSfqO8pbDq#rd)
 
 * [![](logo/leetcode.png ':size=16')LeetCode Playground![](logo/star.svg)](https://leetcode-cn.com/playground)
+* [![](logo/github.svg)Github Gist![](logo/star.svg)](https://gist.github.com)
 * [![](logo/jsfiddle.png ':size=16')JSFiddle![](https://notes.abelsu7.top/_media/star.svg)](https://jsfiddle.net)
 * [![](logo/onlinegdb.ico ':size=16')OnlineGDB](https://www.onlinegdb.com/)
 * [![](logo/codepen.ico ':size=16')CodePen](https://codepen.io)

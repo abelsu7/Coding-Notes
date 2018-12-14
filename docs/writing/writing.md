@@ -26,7 +26,13 @@
 
 ## PPT
 
-* [MySlide](https://myslide.cn)
+* [![](logo/myslide.png ':size=16')MySlide | PPT 分享平台![](logo/star.svg)](https://myslide.cn)
+* [![](logo/github.svg)reveal.js | The HTML Presentation Framework![](logo/star.svg)](https://github.com/hakimel/reveal.js)
+* [![](logo/slides.png ':size=16')Slides | Make better presentations![](logo/star.svg)](https://slides.com)
+* [![](logo/sspai.ico ':size=16')Reveal.js：把你的 Markdown 文稿变成 PPT | 少数派![](logo/star.svg)](https://sspai.com/post/40657)
+* [![](logo/awesome.ico ':size=16')reveal.js - 一个专门用来做 HTML 演示文稿的框架](https://www.awesomes.cn/repo/hakimel/reveal-js)
+* [![](logo/wechat.svg)程序员教你怎么做 PPT | LeetCode![](logo/star.svg)](https://mp.weixin.qq.com/s/FkdxjlDhJgKxfvXb_eLlsw)
+* [KOPPT](http://www.koppt.cn)
 
 ## 导出 PDF
 

@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 15
+
+> To achieve great things, you need a plan and not quite enough time. Leonard Bernstein.
+>
+> 要做成一件了不起的事情，你需要一个计划以及不那么充足的时间。—— 伦纳德·伯恩斯坦
+
 ### Dec. 14
 
 > A man can succeed at almost anything for which he has unlimited enthusiasm. C.M.Schwab

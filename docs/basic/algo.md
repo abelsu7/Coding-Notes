@@ -10,6 +10,7 @@
 * [![](logo/wechat.svg)【图解数据结构】 一组动画彻底理解桶排序 | 五分钟学算法](https://mp.weixin.qq.com/s/pSSQXRJFnePYNgB4QpysgA)
 * [![](logo/wechat.svg)漫画：什么是桶排序？| 程序员小灰](https://mp.weixin.qq.com/s/qrboxA5SwN7AbAcpZ_dpNQ)
 * [![](logo/zhihu.svg)九种排序算法的可视化及比较 | 程序之心](https://zhuanlan.zhihu.com/p/34421623)
+* [![](logo/wechat.svg)8 大经典排序算法 | LeetCode](https://mp.weixin.qq.com/s/nm0zKpq824-6opBxfO2E5A)
 
 ## 可视化
 

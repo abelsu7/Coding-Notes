@@ -78,3 +78,7 @@
 ## Gnome 主题
 
 * [Vimix-Gtk-Theme 主题更新](https://imcn.me/html/y2018/34575.html)
+
+## 面试相关
+
+- [![](logo/wechat.svg)面试 - 互联网公司运维工程师面试点梳理 | LeetCode 力扣![](logo/star.svg)](https://mp.weixin.qq.com/s/cgLe65_IjUm7ZajGDZYKzg)
