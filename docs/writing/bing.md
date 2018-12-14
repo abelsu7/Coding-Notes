@@ -2,17 +2,23 @@
 
 ## Dec. 2018
 
+### Dec. 14
+
+> A man can succeed at almost anything for which he has unlimited enthusiasm. C.M.Schwab
+>
+> 只要有无限的热情，一个人几乎可以在任何事情上取得成功。 ——施瓦布
+
 ### Dec. 13
 
 > Experience without learning is better than learning without experience. Bertrand Russell
 >
-> 有经验而无学问胜于有学问而无经验. ——罗素
+> 有经验而无学问胜于有学问而无经验。 ——罗素
 
 ### Dec. 12
 
 > You are not in charge of the universe; you are in charge of yourself. A.Bennett
 >
-> 你并不掌管整个宇宙,但你得掌管你自己。——本涅特
+> 你并不掌管整个宇宙，但你得掌管你自己。——本涅特
 
 ### Dec. 11
 
@@ -30,7 +36,7 @@
 
 > The value of life lies not in the length of days, but in the use we make of them.
 >
-> 生命的价值不在于能活多少天,而在于我们如何使用这些日子。  ——蒙田
+> 生命的价值不在于能活多少天，而在于我们如何使用这些日子。  ——蒙田
 
 ### Dec. 8
 
