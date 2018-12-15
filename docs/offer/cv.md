@@ -8,7 +8,8 @@
 ## 工具
 
 * [![](logo/ftqq.png ':size=16')冷熊简历](http://cv.ftqq.com)
-* 乔布简历
+* [![](logo/qiaobu.png ':size=16')乔布简历](http://cv.qiaobutang.com)
+* [![](logo/zhiye.png ':size=16')知页](https://www.zhiyeapp.com)
 
 ## 模板
 
