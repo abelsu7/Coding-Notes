@@ -6,7 +6,7 @@
 
 > To achieve great things, you need a plan and not quite enough time. Leonard Bernstein.
 >
-> 要做成一件了不起的事情，你需要一个计划以及不那么充足的时间。—— 伦纳德·伯恩斯坦
+> 成就伟大的事业需要一个计划，以及不那么充裕的时间。—— 伦纳德·伯恩斯坦
 
 ### Dec. 14
 
