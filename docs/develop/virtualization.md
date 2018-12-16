@@ -10,6 +10,7 @@
 - <img src='https://notes.abelsu7.top/develop/logo/spice.png' height='16' data-no-zoom></img>[SPICE![](logo/star.svg)](https://www.spice-space.org)
 - [![](logo/openstack.svg)OpenStack Rocky](https://docs.openstack.org/rocky/)
 - [![](logo/cloudstack.ico ':size=16')Apache CloudStack](http://cloudstack.apache.org)
+- [![](logo/51cto.ico ':size=16')虚拟化频道 | 51CTO![](logo/star.svg)](http://virtual.51cto.com)
 
 ### KVM
 

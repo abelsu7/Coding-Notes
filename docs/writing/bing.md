@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 16
+
+> Nothing in life is to be feared. It is only to be understood.
+>
+> 生活中没有可怕的东西，只有应去了解的东西。
+
 ### Dec. 15
 
 > To achieve great things, you need a plan and not quite enough time. Leonard Bernstein.
