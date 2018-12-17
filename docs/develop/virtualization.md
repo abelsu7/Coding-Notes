@@ -76,6 +76,7 @@
 * [![](logo/wechat.svg)理解OpenShift-2：网络之 DNS（域名服务） | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/7e-RXoUHEUw8_EcR18cOeg)
 * [![](logo/wechat.svg)理解OpenShift-3：网络之 SDN | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/-Sw0ZXbpZuI_2n_DxexQcA)
 * [![](logo/wechat.svg)理解OpenShift-4：用户及权限管理 | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/pklFXKk5f4X-P7KSJiwAYA)
+* [![](logo/wechat.svg)理解OpenShfit-5：从 Docker Volume 到 OpenShift Persistent Volume![](logo/star.svg)](https://mp.weixin.qq.com/s/znXnuV3gS9l-2ibz_WbcxQ)
 
 ### PouchContainer
 
