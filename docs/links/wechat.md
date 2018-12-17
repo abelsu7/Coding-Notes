@@ -665,6 +665,15 @@
 
 <p>
     <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/huorong.png' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>火绒安全实验室
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
         <img src='https://notes.abelsu7.top/links/wechat/fenng.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
