@@ -22,6 +22,7 @@
 
 * [![](logo/jianshu.svg)【面试必备】手撕代码，你怕不怕？| 简书![](logo/star.svg)](https://www.jianshu.com/p/3f0cd7af370d)
 * [![](logo/wechat.svg)专题 - 2019 年算法面试梳理 | Leetcode 力扣![](logo/star.svg)](https://mp.weixin.qq.com/s/bDTxZk_42Lb4olDFQE5n-g)
+* [![](logo/wechat.svg)如何求根号2（爱奇艺面试题）| 算法面试题](https://mp.weixin.qq.com/s/NyOO6408rLN524vCB0-KhA)
 
 ## 文章
 

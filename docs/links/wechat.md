@@ -573,6 +573,15 @@
     </div>
 </p>
 
+<p>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/algotest.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        算法面试题
+    </div>
+</p>
+
 ## 人工智能与机器学习
 
 <p>

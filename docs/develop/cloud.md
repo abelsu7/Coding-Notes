@@ -81,6 +81,7 @@
 
 ## 边缘计算
 
+- [![](logo/star.svg)边缘云计算及标准化白皮书 | 阿里技术](https://102.alibaba.com/downloadFile.do?file=1544675036507%2f%e8%be%b9%e7%bc%98%e4%ba%91%e8%ae%a1%e7%ae%97%e6%8a%80%e6%9c%af%e5%8f%8a%e6%a0%87%e5%87%86%e5%8c%96%e7%99%bd%e7%9a%ae%e4%b9%a6-2018.12.12.pdf)
 * [![](logo/infoq.png ':size=16')百度发布首个开源智能边缘计算平台 OpenEdge | InfoQ![](logo/star.svg)](https://www.infoq.cn/article/Ke5FkoswUi*AF7ajPhKD)
 * [![](logo/github.svg)OpenEdge | Github![](logo/star.svg)](https://github.com/baidu/openedge)
 * [![](logo/netease.ico ':size=16')一文看懂："边缘计算"究竟是什么？为何潜力无限？| 网易科技![](logo/star.svg)](http://tech.163.com/18/0815/01/DP7AJGR500097U7T.html)
