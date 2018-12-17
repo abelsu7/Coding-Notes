@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 17
+
+> You can never plan the future by the past.
+>
+> 永远也不能依照过去来计划将来。
+
 ### Dec. 16
 
 > Nothing in life is to be feared. It is only to be understood.
