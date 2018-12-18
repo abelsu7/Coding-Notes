@@ -33,6 +33,7 @@
 * [![](logo/qcloud.png ':size=16')无服务器云函数 SCF | 腾讯云](https://cloud.tencent.com/product/scf/)
 * [![](logo/csdn.ico ':size=16')【笔记】《由浅入深SCF无服务器云函数实践》| CSDN](https://blog.csdn.net/csdn_duomaomao/article/details/78910588)
 * [Bmob文档中心 | 比目后端云](http://doc.bmob.cn)
+* [![](logo/wechat.svg)报告：Kubernetes vs Serverless vs Containers | 云技术实践![](logo/star.svg)](https://mp.weixin.qq.com/s/frcUfidillocPHo9-5cS0A)
 
 ### FaaS 开源框架
 
@@ -102,3 +103,5 @@
 * [![](logo/wechat.svg)数据中心日均 CPU 利用率 45%？！阿里规模化混部技术揭秘 | 阿里技术![](logo/star.svg)](https://mp.weixin.qq.com/s/sUWy60vL-pEt5fE5PGGrww)
 
 ## 文章资讯
+
+- [![](logo/wechat.svg)云的江湖：公有云 vs 私有云 vs 专有云 | 云技术![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzU0NDEyODkzMQ==&mid=2247487865&idx=1&sn=83826873008727de43e0bab10b3b7cdb&chksm=fb01bbb5cc7632a3d9a8c65912d0f185b3aff28886c04b208c47672d0e796ab079aa8bd71afe&mpshare=1&scene=1&srcid=1218tj61XgnRZmld7NzjAo9y#rd)
