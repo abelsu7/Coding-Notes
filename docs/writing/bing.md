@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 18
+
+> Happiness is the interval between periods of unhappiness. D.Marquis
+> 
+>幸福是两段不幸福时期之间的间歇 ——马奎斯
+
 ### Dec. 17
 
 > You can never plan the future by the past.
@@ -18,7 +24,7 @@
 
 > To achieve great things, you need a plan and not quite enough time. Leonard Bernstein.
 >
-> 成就伟大的事业需要一个计划，以及不那么充裕的时间。—— 伦纳德·伯恩斯坦
+> 成就伟大的事业需要一个计划，以及不那么充裕的时间。——伦纳德·伯恩斯坦
 
 ### Dec. 14
 
