@@ -26,6 +26,7 @@
 - [![](logo/wechat.svg)2018年秋招美团Java程序员开发，最后我顺利拿到offer！| 51CTO技术栈](https://mp.weixin.qq.com/s/kS63-gqASSNjl3-Ts77zAw)
 - [![](logo/wechat.svg)【以面带点】服务器后台开发面试题总结 | 码农有道![](logo/star.svg)](https://mp.weixin.qq.com/s/nnQT6-CO-ngEGueI4ouNEw)
 - [![](logo/wechat.svg)【面试现场】如何在10亿数中找出前1000大的数 | 互联网侦察](https://mp.weixin.qq.com/s?__biz=MzIzMTE1ODkyNQ==&mid=2649410393&idx=1&sn=e2aae1e16baede316922c53256a10c5f&chksm=f0b60ebbc7c187ad4e48b140daff2c80e5007076e99b26427fef50dd7f19ffed5181ba45baed&mpshare=1&scene=1&srcid=1101RRoLQE7wZulFJfVgmAEO#rd)
+- [![](logo/wechat.svg)程序员面试IT公司，这些地方你要注意！| 程序员私房菜![](logo/star.svg)](https://mp.weixin.qq.com/s/0oZwts67LZRH8shUYCSUJA)
 
 ## 薪资
 

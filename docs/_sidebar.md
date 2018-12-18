@@ -45,4 +45,4 @@
   - [![](https://notes.abelsu7.top/_media/wechat.svg)微信](https://notes.abelsu7.top/_images/qrcode.jpg)
   - [![](https://notes.abelsu7.top/_media/weibo.ico ':size=16')微博](https://weibo.com/abelsu7)
   - [![](https://notes.abelsu7.top/_media/douban.svg)豆瓣](https://www.douban.com/people/abelsu7/)
-  - [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')领扣](https://leetcode-cn.com/13204159288/)
+  - [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')力扣](https://leetcode-cn.com/13204159288/)
