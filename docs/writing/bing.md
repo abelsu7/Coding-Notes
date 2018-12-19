@@ -2,11 +2,17 @@
 
 ## Dec. 2018
 
+### Dec. 19
+
+> As a beautiful flower that is full of hue but lacks fragrance, even so fruitless is the well-spoken word of one who does not practice it.
+>
+> 只说好话而没有实行是毫无结果的，这好比一朵美丽的花，徒具颜色而没有芳香。
+
 ### Dec. 18
 
 > Happiness is the interval between periods of unhappiness. D.Marquis
 > 
->幸福是两段不幸福时期之间的间歇 ——马奎斯
+> 幸福是两段不幸福时期之间的间歇 ——马奎斯
 
 ### Dec. 17
 

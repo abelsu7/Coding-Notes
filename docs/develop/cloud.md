@@ -34,6 +34,7 @@
 * [![](logo/csdn.ico ':size=16')【笔记】《由浅入深SCF无服务器云函数实践》| CSDN](https://blog.csdn.net/csdn_duomaomao/article/details/78910588)
 * [Bmob文档中心 | 比目后端云](http://doc.bmob.cn)
 * [![](logo/wechat.svg)报告：Kubernetes vs Serverless vs Containers | 云技术实践![](logo/star.svg)](https://mp.weixin.qq.com/s/frcUfidillocPHo9-5cS0A)
+* [![](logo/51cto.ico ':size=16')无服务器vs.容器：无服务器将会获胜 | 51CTO](http://server.51cto.com/sOS-566538.htm)
 
 ### FaaS 开源框架
 

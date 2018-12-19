@@ -11,6 +11,8 @@
 - [![](logo/openstack.svg)OpenStack Rocky](https://docs.openstack.org/rocky/)
 - [![](logo/cloudstack.ico ':size=16')Apache CloudStack](http://cloudstack.apache.org)
 - [![](logo/51cto.ico ':size=16')虚拟化频道 | 51CTO![](logo/star.svg)](http://virtual.51cto.com)
+- ![](logo/redhat.svg)RHEL 文档的虚拟化章节
+- IBM Developers 虚拟化频道
 
 ### KVM
 
