@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 20
+
+> Life will always knock us down, but we can choose whether to stand back up, then keep fighting.
+>
+> 生活会把我们打趴下，但我们可以选择重新站起来，继续奋斗。
+
 ### Dec. 19
 
 > As a beautiful flower that is full of hue but lacks fragrance, even so fruitless is the well-spoken word of one who does not practice it.
