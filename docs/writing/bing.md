@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 21
+
+> Even the weariest river winds somewhere safe to sea.
+>
+> 河流虽历尽险阻，也能蜿蜓流入大海。
+
 ### Dec. 20
 
 > Life will always knock us down, but we can choose whether to stand back up, then keep fighting.
