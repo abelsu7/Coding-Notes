@@ -2,6 +2,18 @@
 
 ## Dec. 2018
 
+### Dec. 23
+
+> Brevity is the soul of wit.
+>
+> 言以简洁为贵。
+
+### Dec. 22
+
+> Genius is the gold in the mine; talent is the miner who works and brings it out.
+>
+> 天赋是埋藏在矿里的黄金，才能是挖掘矿藏的矿工。
+
 ### Dec. 21
 
 > Even the weariest river winds somewhere safe to sea.
