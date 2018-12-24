@@ -13,6 +13,7 @@
 - [![](logo/51cto.ico ':size=16')虚拟化频道 | 51CTO![](logo/star.svg)](http://virtual.51cto.com)
 - ![](logo/redhat.svg)RHEL 文档的虚拟化章节
 - ![](logo/ibm.svg)IBM Developers 虚拟化频道
+- [![](logo/pdf.svg)Intelligent Desktop Virtualization | Intel](http://download.intel.com/pressroom/archive/reference/Intelligent_Desktop_Virtualization.pdf)
 
 ### KVM
 

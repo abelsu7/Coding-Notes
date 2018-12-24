@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 24
+
+> The highest towers begin from the ground.
+>
+> 万丈高楼平地起.
+
 ### Dec. 23
 
 > Brevity is the soul of wit.
