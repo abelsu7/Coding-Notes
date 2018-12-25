@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 25
+
+> The important thing in life is to have a great aim, and the determination to attain it. 
+>
+> 人生重要的在于确立一个伟大的目标，并有决心使其实现。
+
 ### Dec. 24
 
 > The highest towers begin from the ground.
@@ -13,12 +19,6 @@
 > Brevity is the soul of wit.
 >
 > 言以简洁为贵。
-
-### Dec. 23
-
-> The important thing in life is to have a great aim, and the determination to attain it. 
->
-> 人生重要的在于确立一个伟大的目标，并有决心使其实现。
 
 ### Dec. 22
 
