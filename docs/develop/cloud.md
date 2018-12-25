@@ -50,6 +50,7 @@
 * [Iron.io](https://www.iron.io)
 * Fission
 * [Serverless![](logo/star.svg)](https://serverless.com)
+* OpenWhisk
 
 ### FaaS 相关文章
 

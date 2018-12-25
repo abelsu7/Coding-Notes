@@ -20,15 +20,15 @@
 
 <!-- tabs:start -->
 
-#### ** English **
+#### **English**
 
 Hello!
 
-#### ** French **
+#### **French**
 
 Bonjour!
 
-#### ** Italian **
+#### **Italian**
 
 Ciao!
 
