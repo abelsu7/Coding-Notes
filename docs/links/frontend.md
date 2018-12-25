@@ -63,9 +63,10 @@
 
 ## CDN
 
+* [![](logo/jsdelivr.ico ':size=16')jsDelivr![](logo/star.svg)](https://www.jsdelivr.com/)
 * [![](logo/bootcdn.ico ':size=16')BootCDN](https://www.bootcdn.cn/)
 * [![](logo/unpkg.ico ':size=16')unpkg](https://unpkg.com/#/)
-* [![](logo/jsdelivr.ico ':size=16')jsDelivr](https://www.jsdelivr.com/)
+* [![](logo/cdnjs.ico ':size=16')cdnjs](https://cdnjs.com/)
 * [![](logo/loli.ico ':size=16')css.loli.net | 常用前端公共库 CDN 服务](https://css.loli.net/)
 * [![](logo/75cdn.ico ':size=16')75 CDN | 前端静态资源库，360 奇舞团](https://cdn.baomitu.com/)
 

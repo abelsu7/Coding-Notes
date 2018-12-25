@@ -1,4 +1,4 @@
-<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+<script src='https://cdn.jsdelivr.net/npm/mathjax@2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 
 ?> ![](https://notes.abelsu7.top/_media/tex.svg ':no-zoom')LaTeX 笔记
 

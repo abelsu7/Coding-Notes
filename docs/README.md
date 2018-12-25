@@ -1,5 +1,6 @@
-<link href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css">
+<!-- <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script> -->
+<script async src="https://cdn.jsdelivr.net/npm/busuanzi@2.3.0/bsz.pure.mini.min.js"></script>
 
 ?> <span id="busuanzi_container_site_uv"><img src="_media/visit.svg" data-origin="view.svg" alt data-no-zoom> 本站访客数 <span id="busuanzi_value_site_uv"><i class="fa fa-spinner fa-spin"></i></span> 人次</span><br><span id="busuanzi_container_page_pv"><img src="//notes.abelsu7.top/_media/view.svg" data-origin="view.svg" alt data-no-zoom> 本文阅读量 <span id="busuanzi_value_page_pv"><i class="fa fa-spinner fa-spin"></i></span> 次</span>
 
@@ -87,7 +88,7 @@ Ciao!
   <meta name="description" content="Notes about 💻Computer Science & 📝Coding Skills.">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <meta name="theme-color" content="#283339">
-  <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple-dark.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable/dist/css/theme-simple-dark.css">
 </head>
 ```
 
@@ -204,19 +205,18 @@ Ciao!
 ### 引入 Scripts
 
 ```html
-<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-<script src="//unpkg.com/docsify-copy-code@2"></script>
-<script src="//unpkg.com/docsify-themeable"></script>
-<script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
-<!-- docsify-tabs v1.x -->
-<script src="//unpkg.com/docsify-tabs@1"></script>
-<script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
-<script src="//unpkg.com/docsify/lib/plugins/external-script.min.js"></script>
-<script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
-<script src="//unpkg.com/prismjs/components/prism-java.js"></script>
-<script src="//unpkg.com/prismjs/components/prism-go.js"></script>
-<script src="//unpkg.com/prismjs/components/prism-c.min.js"></script>
-<script src="//unpkg.com/prismjs/components/prism-cpp.js"></script>
-<script src="//unpkg.com/prismjs/components/prism-latex.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-themeable/dist/js/docsify-themeable.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-tabs/dist/docsify-tabs.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-java.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-go.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-c.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-cpp.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-latex.min.js"></script>
 ```
