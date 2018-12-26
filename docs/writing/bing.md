@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 26
+
+> To the world you may be one person, but to one person you may be the world.
+>
+> 对于世界而言，你只是一个人；但对于某个人来说，你却是他的整个世界。
+
 ### Dec. 25
 
 > The important thing in life is to have a great aim, and the determination to attain it. 
