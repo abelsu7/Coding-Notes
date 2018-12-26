@@ -8,6 +8,7 @@
 
 !> ***Serverless Computing***<br>**SCF**：Serverless Cloud Function<br>**FaaS**：Function as a Service<br>**BaaS**：Backend as a Service
 
+* [![](logo/wechat.svg)Google 开源的 Serverless 平台 knative 简介 | ServiceMesher![](logo/star.svg)](https://mp.weixin.qq.com/s/-gW2IeOJDdEUXjiaZ1gafw)
 * [![](logo/gitchat.png ':size=16')Serverless/FaaS 的现状与未来 | GitChat![](logo/star.svg)](https://gitbook.cn/books/5a4b66e3f957ee33939ec3cf/index.html)
 * [![](logo/nightcoffee.png ':size=16')Serverless/FaaS 的现状和未来 | 午夜咖啡](http://jolestar.com/serverless-faas-current-status-and-future/)
 * [![](logo/wechat.svg)Serverless/FaaS 的现状和未来 | 午夜咖啡![](logo/star.svg)](https://mp.weixin.qq.com/s/FOE833afgk3n-VD65PO0dw)
@@ -72,6 +73,7 @@
 
 * [![](logo/zstack.ico)ZStack![](logo/star.svg)](https://www.zstack.io)
 * [![](logo/wechat.svg)ZStack 获 1 亿元 B 轮融资，深创投领投、阿里云继续跟投 | 云头条](https://mp.weixin.qq.com/s/WMHruUNnplvcKDY6eQNX7A)
+* [![](logo/wechat.svg)私有云和存储风向的深度解读 | 云技术实践![](logo/star.svg)](https://mp.weixin.qq.com/s/s-T9tajKufoXfsaneaamdw)
 
 ## 微服务
 
@@ -109,3 +111,5 @@
 ## 文章资讯
 
 - [![](logo/wechat.svg)云的江湖：公有云 vs 私有云 vs 专有云 | 云技术![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzU0NDEyODkzMQ==&mid=2247487865&idx=1&sn=83826873008727de43e0bab10b3b7cdb&chksm=fb01bbb5cc7632a3d9a8c65912d0f185b3aff28886c04b208c47672d0e796ab079aa8bd71afe&mpshare=1&scene=1&srcid=1218tj61XgnRZmld7NzjAo9y#rd)
+- [![](logo/wechat.svg)阿里重磅开源！4000台服务器真实数据集，揭秘世界级数据中心 | 阿里技术](https://mp.weixin.qq.com/s/8aGrLCEfQZlW_w2t768rqA)
+- [![](logo/wechat.svg)刚刚，阿里开源首个深度学习框架 X-Deep Learning！| 阿里技术](https://mp.weixin.qq.com/s/Of_khouAoM7sMEBFKKZigA)

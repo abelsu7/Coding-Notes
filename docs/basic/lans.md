@@ -15,5 +15,10 @@
 - [PyQt5 tutorial | fman build system](https://build-system.fman.io/pyqt5-tutorial)
 - [Python and Qt: simplified! | fman build system](https://build-system.fman.io)
 
-## JavaScript
+## 正则表达式
 
+- [![](logo/wechat.svg)让人欢喜让人忧的正则表达式 | 逅羿逐码![](logo/star.svg)](https://mp.weixin.qq.com/s/-4P4OM5JOKSeg58VLPHiFA)
+
+## 文章
+
+- [![](logo/wechat.svg)最难学的十大编程语言，Java只排第三，第一你绝对想不到！| Hollis![](logo/star.svg)](https://mp.weixin.qq.com/s/HWFF6swHdLz-KV6HUBJSHw)

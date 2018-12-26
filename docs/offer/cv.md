@@ -19,3 +19,4 @@
 
 * [![](logo/wechat.svg)技术类求职简历模板 | 100 Offer![](logo/star.svg)](https://mp.weixin.qq.com/s/8MRhha080vRhNCylngbePw)
 * [![](logo/balance.ico ':size=16')The Difference Between a Resume and a Curriculum Vitae | The Balance Careers](https://www.thebalancecareers.com/cv-vs-resume-2058495)
+* [![](logo/wechat.svg)【备战春招/秋招系列】初出茅庐的程序员该如何准备面试？| JavaGuide](https://mp.weixin.qq.com/s/8IdwH5DKgAZyNoxVvif3PQ)

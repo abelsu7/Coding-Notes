@@ -27,6 +27,9 @@
 - [![](logo/wechat.svg)【以面带点】服务器后台开发面试题总结 | 码农有道![](logo/star.svg)](https://mp.weixin.qq.com/s/nnQT6-CO-ngEGueI4ouNEw)
 - [![](logo/wechat.svg)【面试现场】如何在10亿数中找出前1000大的数 | 互联网侦察](https://mp.weixin.qq.com/s?__biz=MzIzMTE1ODkyNQ==&mid=2649410393&idx=1&sn=e2aae1e16baede316922c53256a10c5f&chksm=f0b60ebbc7c187ad4e48b140daff2c80e5007076e99b26427fef50dd7f19ffed5181ba45baed&mpshare=1&scene=1&srcid=1101RRoLQE7wZulFJfVgmAEO#rd)
 - [![](logo/wechat.svg)程序员面试IT公司，这些地方你要注意！| 程序员私房菜![](logo/star.svg)](https://mp.weixin.qq.com/s/0oZwts67LZRH8shUYCSUJA)
+- [![](logo/wechat.svg)【备战春招/秋招系列】美团面经总结基础篇 （附详解答案）| JavaGuide![](logo/star.svg)](https://mp.weixin.qq.com/s/HDFzbAHP2bXCl1iOxa5wDg)
+- [![](logo/wechat.svg)【备战春招/秋招系列】美团面经总结进阶篇 （附详解答案）| JavaGuide![](logo/star.svg)](https://mp.weixin.qq.com/s/eeVPZA_S8zrwADWX_-SVrQ)
+- [![](logo/wechat.svg)【备战春招/秋招系列】美团面经总结进阶篇 （附详解答案）| JavaGuide![](logo/star.svg)](https://mp.weixin.qq.com/s/eeVPZA_S8zrwADWX_-SVrQ)
 
 ## 薪资
 
@@ -35,6 +38,14 @@
 - [一文揭秘BAT等互联网公司的薪酬结构 | 程序员江湖](https://mp.weixin.qq.com/s/WiP8T_v7lVbHpoc6j7BCXA)
 - [号外号外 | 阿里秋招薪资档重磅出炉！| 校招薪水](https://mp.weixin.qq.com/s/FPhCcdkAML2XW7QnFsEnoA)
 - [![](logo/wechat.svg)深扒腾讯、阿里、字节跳动、知乎等企业入职福利！95后找工作到底关注什么？| Offer 先生![](logo/star.svg)](https://mp.weixin.qq.com/s/qyDOyyD_WI81Gu0RTvHqCg)
+- [![](logo/wechat.svg)独家 | 2019年互联网校招求职指南-北京篇 | 校招薪水![](logo/star.svg)](https://mp.weixin.qq.com/s/rAiCQj7PirDwpikQfer-MQ)
+- [![](logo/wechat.svg)独家 | 2019年互联网校招求职指南-上海篇 | 校招薪水![](logo/star.svg)](https://mp.weixin.qq.com/s/D1lqvlpLAR2L2NL0ljskXw)
+- [![](logo/wechat.svg)独家 | 2019年互联网校招求职指南-杭州篇 | 校招薪水![](logo/star.svg)](https://mp.weixin.qq.com/s/4xTq1lXNeYDRxANNLB70fg)
+
+## 签约
+
+- [![](logo/wechat.svg)关于校招签约，你不得不知的事项 | 校招薪水![](logo/star.svg)](https://mp.weixin.qq.com/s/Xh7bn_UCzISYEzjXtOvoEg)
+- [![](logo/wechat.svg)应届生雷区：拿到offer不想去了怎么办？小心登上HR黑名单！| 校招薪水](https://mp.weixin.qq.com/s/MFTFv4uxUCCxTINBsdoYPA)
 
 ## 代码之外
 

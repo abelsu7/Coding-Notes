@@ -13,6 +13,7 @@
 | [![](https://notes.abelsu7.top/_media/cyc.png ':size=16')CS-Notes![](https://notes.abelsu7.top/_media/star.svg)](https://github.com/CyC2018/CS-Notes) | 📚CS Learning Notes |
 | [![](logo/github.svg)Java资源大全中文版](https://github.com/jobbole/awesome-java-cn) | 伯乐在线整理 |
 
+* [![](logo/wechat.svg)漫话编程微信文章目录整理 | 漫话编程![](logo/star.svg)](https://mp.weixin.qq.com/s/qgoHqkRryqYVNvRbS0frdQ)
 * [![](logo/hollis.png ':size=16')Java工程师成神之路~（2018修订版）| Hollis![](logo/star.svg)](http://www.hollischuang.com/archives/489)
 * [![](logo/hollis.png ':size=16')《成神之路系列文章》| Hollis![](logo/star.svg)](https://www.hollischuang.com/archives/1001)
 * 技术原始积累 - 淘宝加多
@@ -91,6 +92,7 @@
 - [![](logo/ityouknow.ico ':size=16')springcloud学习资料汇总 | 纯洁的微笑![](logo/star.svg)](http://www.ityouknow.com/springcloud/2016/12/30/springcloud-collect.html)
 - [![](logo/spring.png ':size=16')Spring Cloud 中文索引![](logo/star.svg)](http://springcloud.fun)
 - [![](logo/github.svg)spring-cloud-examples | Github](https://github.com/ityouknow/spring-cloud-examples)
+- [![](logo/wechat.svg)外行人都能看懂的SpringCloud，错过了血亏！![](logo/star.svg)](https://mp.weixin.qq.com/s/7BEq6L5u4CH9IkcRNQx8UQ)
 
 ### Netty
 
@@ -182,7 +184,11 @@
 - [![](logo/wechat.svg)分享10道常考Java面试题及答案 | Hollis![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650122102&idx=1&sn=b267c5519b0e3f043e5f2975e1a6bdd2&chksm=f36bba57c41c3341deaa0587aeafb932e8aec3f40af56e3490bd729699eacc73cfb47a7de678&mpshare=1&scene=1&srcid=1101AoFFJQBks5lcAaEG7GKB#rd)
 - [![](logo/wechat.svg)面试稳了！73道 Java 并发编程题及答案分享给你![](logo/star.svg)](https://mp.weixin.qq.com/s/NfzJC4fqmMtfm0S0aL_I2Q)
 
-## 一些轮子
+## 书单
+
+- [![](logo/wechat.svg)【备战春招/秋招系列】Java程序员必备书单 | JavaGuide](https://mp.weixin.qq.com/s/bMZ_sFqcN6RJYPGIGC4IzQ)
+
+## 轮子
 
 - [![](logo/github.svg)symphony - 一款用 Java 实现的现代化社区 | Github](https://github.com/b3log/symphony)
 - [![](logo/github.svg)litemall - Spring Boot 后端 + Vue 管理员前端 + 微信小程序用户前端 | Github](https://github.com/linlinjava/litemall)

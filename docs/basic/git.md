@@ -50,6 +50,7 @@ git branch -av
 
 ## Git 教程
 
+* [![](logo/wechat.svg)每个程序员都该学会的Git知识 | 逅羿逐码![](logo/star.svg)](https://mp.weixin.qq.com/s/qgNua-ZcllDNk3G3W12T7Q)
 * [![](logo/github.svg)LearnGitBranching | Github![](logo/star.svg)](https://github.com/pcottle/learnGitBranching)
 * [![](logo/git.svg)learngitbranching.js.org![](logo/star.svg)](https://learngitbranching.js.org)
 * [![](logo/wechat.svg)Double Kill，用玩游戏的方式来学习 Git | 吴小龙同学![](logo/star.svg)](https://mp.weixin.qq.com/s/xf1vqsMpD5HcbYB_DRghEA)

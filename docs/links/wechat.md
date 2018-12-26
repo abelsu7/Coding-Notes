@@ -349,6 +349,15 @@
 
 <p>
     <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/houyi.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>逅羿逐码 - 阿里程序员，Java、Netty相关技术
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
         <img src='https://notes.abelsu7.top/links/wechat/crossoverjie.png' width='200'></img>
     </div>
     <div style='text-align: center'>
@@ -686,7 +695,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/manhuabiancheng.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        漫话编程
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>漫话编程
     </div>
 </p>
 

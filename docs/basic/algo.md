@@ -1,5 +1,9 @@
 ?> ![](https://notes.abelsu7.top/_media/algo.svg ':no-zoom')算法
 
+## 笔记
+
+- [![](logo/wechat.svg)算法学习笔记 | 芋道源码![](logo/star.svg)](https://mp.weixin.qq.com/s/4TAoEdo7rGlb_vRkAJUR4Q)
+
 ## 排序
 
 * [![](logo/wechat.svg)动态图解十大经典算法 | 程序员私房菜![](logo/star.svg)](https://mp.weixin.qq.com/s/8HMVF-hrtRmJLD7kmPV1Hw)
@@ -11,6 +15,11 @@
 * [![](logo/wechat.svg)漫画：什么是桶排序？| 程序员小灰](https://mp.weixin.qq.com/s/qrboxA5SwN7AbAcpZ_dpNQ)
 * [![](logo/zhihu.svg)九种排序算法的可视化及比较 | 程序之心](https://zhuanlan.zhihu.com/p/34421623)
 * [![](logo/wechat.svg)8 大经典排序算法 | LeetCode](https://mp.weixin.qq.com/s/nm0zKpq824-6opBxfO2E5A)
+* [![](logo/wechat.svg)视频 - 手撕九大经典排序算法，看我就够了！| Leetcode![](logo/star.svg)](https://mp.weixin.qq.com/s/wqebx4DoeZ-mqA-4uzyFGQ)
+
+## 动态规划
+
+- [![](logo/wechat.svg)看动画轻松理解「递归」与「动态规划」| 五分钟学算法![](logo/star.svg)](https://mp.weixin.qq.com/s/kFaJ_aYV7o-_8Ql3w4o1GA)
 
 ## 复杂度
 
@@ -32,3 +41,4 @@
 
 - [![](logo/wechat.svg)计算机算法基础总结 | 算法与数据结构![](logo/star.svg)](https://mp.weixin.qq.com/s/IASVo3QpX6ZCRdOsRZtSbA)
 - [![](logo/wechat.svg)一些常用的算法技巧总结 | Java3y![](logo/star.svg)](https://mp.weixin.qq.com/s/zvRYUaR1SIuiCNy5ODuzjQ)
+- [![](logo/wechat.svg)2018 年，哪些题目让你最难忘？| Leetcode![](logo/star.svg)](https://mp.weixin.qq.com/s/KdlKvHnzXJfkhiMNOwwCNA)

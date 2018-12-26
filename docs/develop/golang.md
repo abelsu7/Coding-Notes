@@ -13,6 +13,7 @@
 
 ## Go 常用框架
 
+- [![](logo/wechat.svg)20 个好用的 Go 语言微服务开发框架 | InfoQ![](logo/star.svg)](https://mp.weixin.qq.com/s/lb66M8coA_57E4YN3uYJwA)
 - [gRPC | 高性能 RPC 通用框架，Google 开源](https://grpc.io)
 - [RPCX | Go 语言的 RPC 框架](http://rpcx.site/)
 
@@ -23,7 +24,11 @@
 - [创建最小的Go docker 镜像 | 鸟窝](https://colobu.com/2018/08/13/create-minimal-docker-image-for-go-applications/)
 - [![](logo/wechat.svg)构建OAuth2服务器~Golang语言实现 | 波波微课![](logo/star.svg)](https://mp.weixin.qq.com/s/JsU7dk30OLSkzsnlmXtWIg)
 
-## 一些轮子
+## 资讯
+
+- [![](logo/wechat.svg)解读Go语言的2018：怎么就在中国火成这样了？| InfoQ![](logo/star.svg)](https://mp.weixin.qq.com/s/cIU9_BFf1J6dbHzQSDS66Q)
+
+## 轮子
 
 - [![](logo/github.svg)wukong - 高度可定制的全文搜索引擎 | Github](https://github.com/huichen/wukong)
 - [![](logo/github.svg)Gobang - 五子棋 in Go | Github](https://github.com/hcrgm/Gobang-Go)

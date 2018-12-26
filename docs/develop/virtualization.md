@@ -66,6 +66,7 @@
 
 * [![](logo/github.svg)awesome-docker | Docker resources and projects](http://wedocker.com)
 * pwd
+* [![](logo/wechat.svg)基于Docker的动态工具：通常被忽视的最佳实践 | 云技术](https://mp.weixin.qq.com/s/8QnYw6y702DjYk9TYH_jsw)
 
 ### Kubernetes
 
@@ -85,6 +86,10 @@
 ### PouchContainer
 
 * [![](logo/wechat.svg)技术解析系列 | PouchContainer 富容器技术![](logo/star.svg)](https://mp.weixin.qq.com/s/M98lQZAKFjtvs3XUDm4olA)
+
+### Dragonfly
+
+- [![](logo/wechat.svg)浙江移动容器云基于 Dragonfly 的统一文件分发平台生产实践 | 阿里系统软件技术![](logo/star.svg)](https://mp.weixin.qq.com/s/0PRitK9bqcMr88lOOw5aKQ)
 
 ## 桌面虚拟化
 
