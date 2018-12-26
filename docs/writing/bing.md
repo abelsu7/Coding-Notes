@@ -6,19 +6,19 @@
 
 > To the world you may be one person, but to one person you may be the world.
 >
-> 对于世界而言，你只是一个人；但对于某个人来说，你却是他的整个世界。
+> 对于世界而言，你只是一个人。但对于某个人来说——你可能是他世界的全部。
 
 ### Dec. 25
 
 > The important thing in life is to have a great aim, and the determination to attain it. 
 >
-> 人生重要的在于确立一个伟大的目标，并有决心使其实现。
+> 人生重要之事莫过于确立一个伟大的目标，并有决心使其实现。
 
 ### Dec. 24
 
 > The highest towers begin from the ground.
 >
-> 万丈高楼平地起.
+> 万丈高楼平地起。
 
 ### Dec. 23
 
@@ -28,7 +28,7 @@
 
 ### Dec. 22
 
-> Genius is the gold in the mine; talent is the miner who works and brings it out.
+> Genius is the gold in the mine. Talent is the miner who works and brings it out.
 >
 > 天赋是埋藏在矿里的黄金，才能是挖掘矿藏的矿工。
 
