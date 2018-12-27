@@ -21,16 +21,18 @@
 
 ## Linux 发行版
 
-* [RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
-* [CentOS](https://www.centos.org/)
-* [Debian](https://www.debian.org/)
-* [Ubuntu](https://www.ubuntu.com/)
-* [Fedora](https://getfedora.org/zh_CN/)
-* [openSUSE](https://www.opensuse.org/)
-* [CoreOS](https://coreos.com/)
-* [Arch Linux](https://www.archlinux.org/)
+* [![](logo/redhat.svg)RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
+* [![](logo/centos.svg)CentOS](https://www.centos.org/)
+* [![](logo/fedora.svg)Fedora](https://getfedora.org/zh_CN/)
+* [![](logo/ubuntu.svg)Ubuntu](https://www.ubuntu.com/)
+* [![](logo/debian.svg)Debian](https://www.debian.org/)
+* [![](logo/opensuse.svg)openSUSE](https://www.opensuse.org/)
+* [![](logo/coreos.svg)CoreOS](https://coreos.com/)
+* [![](logo/freebsd.ico ':size=16')FreeBSD](https://www.freebsd.org)
+* [![](logo/archlinux.svg)Arch Linux](https://www.archlinux.org/)
 * [![](logo/alpine.ico ':size=16')Alpine Linux](https://alpinelinux.org/)
 * [![](logo/busybox.png ':size=16')BusyBox](https://busybox.net/)
+* [![](logo/gentoo.png ':size=16')Gentoo Linux](https://www.gentoo.org/)
 
 ## CentOS 配置
 
