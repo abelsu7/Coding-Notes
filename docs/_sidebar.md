@@ -10,7 +10,7 @@
 - **编程开发**
   - [![](https://notes.abelsu7.top/_media/docker.svg)云计算](/develop/cloud)
   - [![](https://notes.abelsu7.top/_media/redhat.svg)虚拟化](/develop/virtualization)
-  - [![](https://notes.abelsu7.top/_media/vue.svg)前端开发](/links/frontend)
+  - [![](https://notes.abelsu7.top/_media/vue.svg)前端开发](/develop/frontend)
   - [![](https://notes.abelsu7.top/_media/server.svg)后端开发](/develop/backend)
   - [![](https://notes.abelsu7.top/_media/java.svg)Java 笔记](/develop/java)
   - [![](https://notes.abelsu7.top/_media/golang.svg)Golang 笔记](/develop/golang)
@@ -33,7 +33,6 @@
   - [![](https://notes.abelsu7.top/_media/hexo.svg)技术博客](/links/friends)
   - [![](https://notes.abelsu7.top/_media/wechat.svg)微信公众号](/links/wechat)
   - [![](https://notes.abelsu7.top/_media/zhihu.svg)知乎专栏](links/zhihu)
-  - [![](https://notes.abelsu7.top/_media/vue.svg)前端收集](/links/frontend)
   - [![](https://notes.abelsu7.top/_media/library.svg)学习资源](/links/learning)
 - **求职应聘**
   - [![](https://notes.abelsu7.top/_media/shirt.svg)校招](/offer/official.md)

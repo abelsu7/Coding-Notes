@@ -1,4 +1,4 @@
-> ![](https://notes.abelsu7.top/_media/vue.svg ':no-zoom')前端资源收集<br>
+> ![](logo/vue.svg ':no-zoom')前端资源收集<br>
 > **Last Update**: `2018-11-21` <br>
 > **更新中…**
 
