@@ -13,7 +13,7 @@
 - [![](logo/cloudstack.ico ':size=16')Apache CloudStack](http://cloudstack.apache.org)
 - [![](logo/51cto.ico ':size=16')虚拟化频道 | 51CTO![](logo/star.svg)](http://virtual.51cto.com)
 - ![](logo/redhat.svg)RHEL 文档的虚拟化章节
-- ![](logo/ibm.svg)IBM Developers 虚拟化频道
+- [![](logo/ibm.svg)IBM developer](https://www.ibm.com/developerworks/cn/)
 - [![](logo/pdf.svg)Intelligent Desktop Virtualization | Intel](http://download.intel.com/pressroom/archive/reference/Intelligent_Desktop_Virtualization.pdf)
 
 ### KVM
@@ -41,6 +41,10 @@
 - [![](logo/51cto.ico ':size=16')19. convirt集中管理平台搭建![](logo/star.svg)](http://blog.51cto.com/koumm/1305553)
 - [![](logo/51cto.ico ':size=16')20. convirt安装linux系统![](logo/star.svg)](http://blog.51cto.com/koumm/1306526)
 - [![](logo/51cto.ico ':size=16')21. KVM性能优化学习笔记![](logo/star.svg)](http://blog.51cto.com/koumm/1606422)
+
+#### Hypervisor
+
+- [![](logo/ibm.svg)剖析 Linux hypervisor | IBM developer![](logo/star.svg)](https://www.ibm.com/developerworks/cn/linux/l-hypervisor/index.html)
 
 #### 管理工具
 
@@ -100,6 +104,8 @@
 - [![](logo/github.svg)kvm-vdi | linux-kvm based VDI solution![](logo/star.svg)](https://github.com/Seitanas/kvm-vdi)
 - [![](logo/github.svg)kvm-vdi wiki | Github](https://github.com/Seitanas/kvm-vdi/wiki)
 - [認識Intelligent Desktop Virtualization, IDV，選VDI或IDV](https://www.ntueees.tp.edu.tw/wordpress/?p=2741)
+- [![](logo/51cto.ico ':size=16')桌面虚拟化是该选用IDV还是VDI？| 51CTO](http://blog.51cto.com/10934577/2114348)
+- [![](logo/zol.svg)虚拟化大不同 VDI与IDV上演生死对决 | 中关村在线](http://server.zol.com.cn/274/2747900_all.html#p2759233)
 
 ### 桌面云厂商
 

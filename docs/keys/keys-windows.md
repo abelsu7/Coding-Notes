@@ -14,6 +14,8 @@
 
 <kbd>![](logo/win10.svg ':no-zoom')</kbd>+ <kbd>Ctrl</kbd>+ <kbd>←</kbd>/ <kbd>→</kbd>+ 切换桌面
 
+<kbd>Ctrl</kbd>+ <kbd>PgUp</kbd>/ <kbd>PgDn</kbd>：前/后切换浏览器标签页
+
 <kbd>Ctrl</kbd>+ <kbd>Shift</kbd>+ <kbd>B</kbd>：打开表情及符号面版
 
 <kbd>Shift</kbd>+ <kbd>滚轮</kbd>：水平方向滚动

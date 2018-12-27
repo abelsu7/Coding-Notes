@@ -29,7 +29,8 @@
 * [openSUSE](https://www.opensuse.org/)
 * [CoreOS](https://coreos.com/)
 * [Arch Linux](https://www.archlinux.org/)
-* alpine
+* [![](logo/alpine.ico ':size=16')Alpine Linux](https://alpinelinux.org/)
+* [![](logo/busybox.png ':size=16')BusyBox](https://busybox.net/)
 
 ## CentOS 配置
 

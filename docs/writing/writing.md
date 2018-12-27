@@ -54,6 +54,7 @@
 * [![](logo/baidutongji.ico ':size=16')百度统计](https://tongji.baidu.com)
 * [![](logo/baidu.ico ':size=16')百度搜索资源平台](https://ziyuan.baidu.com)
 * [![](logo/busuanzi.ico ':size=16')不蒜子 | 不如![](logo/star.svg)](http://ibruce.info/)
+* [![](logo/github.svg)Busuanzi Mirror](https://github.com/SukkaW/busuanzi/)
 * [![](logo/github.svg)NOWS - 博客字数统计 | Github](https://github.com/crossoverJie/NOWS)
 
 ## Gif 录制
