@@ -99,6 +99,7 @@
 - [![](logo/51cto.ico ':size=16')说到VDI与IDV的分分合合，不会再有比这更清晰的解释了！| 51CTO![](logo/star.svg)](http://blog.51cto.com/techmc/2046797)
 - [![](logo/github.svg)kvm-vdi | linux-kvm based VDI solution![](logo/star.svg)](https://github.com/Seitanas/kvm-vdi)
 - [![](logo/github.svg)kvm-vdi wiki | Github](https://github.com/Seitanas/kvm-vdi/wiki)
+- [認識Intelligent Desktop Virtualization, IDV，選VDI或IDV](https://www.ntueees.tp.edu.tw/wordpress/?p=2741)
 
 ### 桌面云厂商
 

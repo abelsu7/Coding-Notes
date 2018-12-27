@@ -5,6 +5,8 @@
   - [![](https://notes.abelsu7.top/_media/stack.svg)数据结构](/basic/data-structure)
   - [![](https://notes.abelsu7.top/_media/algo.svg)算法](/basic/algo)
   - [![](https://notes.abelsu7.top/_media/redis.svg)数据库](/basic/database)
+  - [![](https://notes.abelsu7.top/_media/macos.svg)操作系统](/basic/os)
+  - [![](https://notes.abelsu7.top/_media/internet.svg)计算机网络](/basic/network)
   - [![](https://notes.abelsu7.top/_media/git.svg)Git 常用命令](/basic/git)
   - [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')Leetcode 题解](/basic/leetcode)
 - **编程开发**

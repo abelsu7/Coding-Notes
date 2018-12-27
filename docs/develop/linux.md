@@ -82,6 +82,7 @@
 ## 分布式
 
 - [![](logo/wechat.svg)漫话：如何给女朋友解释什么是分布式和集群？| 漫话编程![](logo/star.svg)](https://mp.weixin.qq.com/s/Yd4JzTjXTWDfTkV1-Q0q_w)
+- [![](logo/wechat.svg)毕玄：阿里十年，从分布式到云时代的架构演进之路 | InfoQ![](logo/star.svg)](https://mp.weixin.qq.com/s/FtFxCwaHYWa-ZzO3x1qZWA)
 
 ## 负载均衡
 
