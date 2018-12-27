@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 27
+
+> You have to believe in yourself. That’s the secret of success. 
+>
+> 人必须相信自己，这是成功的秘诀。
+
 ### Dec. 26
 
 > To the world you may be one person, but to one person you may be the world.
