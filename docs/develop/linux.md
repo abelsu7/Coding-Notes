@@ -2,6 +2,12 @@
 > **Last Update**: `2018-11-14` <br>
 > **更新中…**
 
+## 社区推荐
+
+- [Linux 中国]()
+- [Tecmint]()
+- [mixCraft]()
+
 ## Linux 官网
 
 * [Linux.org](https://www.linux.org/)
@@ -23,6 +29,7 @@
 * [openSUSE](https://www.opensuse.org/)
 * [CoreOS](https://coreos.com/)
 * [Arch Linux](https://www.archlinux.org/)
+* alpine
 
 ## CentOS 配置
 

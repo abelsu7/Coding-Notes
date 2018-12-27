@@ -6,6 +6,7 @@
 
 - [![](logo/redhat.svg)KVM![](logo/star.svg)](https://www.linux-kvm.org/page/Main_Page)
 - [![](logo/qemu.png ':size=16')QEMU![](logo/star.svg)](https://www.qemu.org)
+- [![](logo/libvirt.png ':size=16')libvirt![](logo/star.svg)](https://libvirt.org/)
 - [![](logo/redhat.svg)virt-manager![](logo/star.svg)](https://virt-manager.org)
 - <img src='https://notes.abelsu7.top/develop/logo/spice.png' height='16' data-no-zoom></img>[SPICE![](logo/star.svg)](https://www.spice-space.org)
 - [![](logo/openstack.svg)OpenStack Rocky](https://docs.openstack.org/rocky/)
