@@ -2,6 +2,14 @@
 
 ## 待写文章
 
+### Dec. 27, 2018
+
+- [![](logo/star.svg)如何在 CentOS 7 / RHEL 7 终端服务器上安装 KVM | Linux 中国](https://linux.cn/article-9459-1.html)
+- [![](logo/star.svg)How to install KVM on CentOS 7 / RHEL 7 Headless Server | nixCraft](https://www.cyberciti.biz/faq/how-to-install-kvm-on-centos-7-rhel-7-headless-server/)
+- [![](logo/star.svg)How To Setup SSH Keys on a Linux / Unix System | nixCraft](https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/)
+
+### Before
+
 - [![](logo/csdn.ico ':size=16')虚拟机下CentOS7开启SSH连接 | CSDN](https://blog.csdn.net/trackle400/article/details/52755571)
 - [![](logo/oschina.ico ':size=16')CentOS 7安装和配置ssh | 开源中国](https://my.oschina.net/laiconglin/blog/675317)
 - [![](logo/oom.ico ':size=16')CentOS 7安装谷歌拼音中文输入法 | 内存·溢出](http://ju.outofmemory.cn/entry/152928)
@@ -74,6 +82,11 @@
 ## 写作技巧
 
 - [![](logo/wechat.svg)如何写一篇好的技术博客 | 五月的仓颉](https://mp.weixin.qq.com/s/oFB9k9mDaAzrq8wDVsxe5A)
+
+## 文档维护
+
+- [![](logo/readthedocs.png ':size=16')Read the Docs](https://readthedocs.org/)
+- [![](logo/mkdocs.ico ':size=16')MkDocs](https://www.mkdocs.org/)
 
 ## 评论系统
 

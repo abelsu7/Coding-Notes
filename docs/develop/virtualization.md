@@ -2,6 +2,16 @@
 
 ## 虚拟机 VM
 
+### Red Hat 技术文档
+
+- [![](logo/redhat.svg)了解虚拟化![](logo/star.svg)](https://www.redhat.com/zh/topics/virtualization)
+- [![](logo/redhat.svg)Product Documentation for RHEL 7![](logo/star.svg)](https://access.redhat.com/documentation/zh-cn/red_hat_enterprise_linux/7/)
+- [![](logo/redhat.svg)虚拟化入门指南![](logo/star.svg)](https://access.redhat.com/documentation/zh-cn/red_hat_enterprise_linux/7/html/virtualization_getting_started_guide/)
+- [![](logo/redhat.svg)Virtualization Deployment and Administration Guide![](logo/star.svg)](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/)
+- [![](logo/redhat.svg)虚拟化调试和优化指南![](logo/star.svg)](https://access.redhat.com/documentation/zh-cn/red_hat_enterprise_linux/7/html/virtualization_tuning_and_optimization_guide/)
+- [![](logo/redhat.svg)Virtualization Security Guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/virtualization_security_guide/)
+- [![](logo/redhat.svg)Converting Virtual Machines from Other Hypervisors to KVM with virt-v2v in RHEL 7](https://access.redhat.com/articles/1351473)
+
 ### 常用官网
 
 - [![](logo/redhat.svg)KVM![](logo/star.svg)](https://www.linux-kvm.org/page/Main_Page)
@@ -12,9 +22,7 @@
 - [![](logo/openstack.svg)OpenStack Rocky](https://docs.openstack.org/rocky/)
 - [![](logo/cloudstack.ico ':size=16')Apache CloudStack](http://cloudstack.apache.org)
 - [![](logo/51cto.ico ':size=16')虚拟化频道 | 51CTO![](logo/star.svg)](http://virtual.51cto.com)
-- ![](logo/redhat.svg)RHEL 文档的虚拟化章节
 - [![](logo/ibm.svg)IBM developer](https://www.ibm.com/developerworks/cn/)
-- [![](logo/pdf.svg)Intelligent Desktop Virtualization | Intel](http://download.intel.com/pressroom/archive/reference/Intelligent_Desktop_Virtualization.pdf)
 
 ### KVM
 
@@ -100,6 +108,7 @@
 
 ### VDI/IDV
 
+- [![](logo/pdf.svg)Intelligent Desktop Virtualization | Intel](http://download.intel.com/pressroom/archive/reference/Intelligent_Desktop_Virtualization.pdf)
 - [![](logo/51cto.ico ':size=16')说到VDI与IDV的分分合合，不会再有比这更清晰的解释了！| 51CTO![](logo/star.svg)](http://blog.51cto.com/techmc/2046797)
 - [![](logo/github.svg)kvm-vdi | linux-kvm based VDI solution![](logo/star.svg)](https://github.com/Seitanas/kvm-vdi)
 - [![](logo/github.svg)kvm-vdi wiki | Github](https://github.com/Seitanas/kvm-vdi/wiki)
