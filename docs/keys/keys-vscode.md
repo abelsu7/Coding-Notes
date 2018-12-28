@@ -4,13 +4,13 @@
 
 ## VS Code 快捷键
 
-<kbd>Ctrl</kbd>+ <kbd>P</kbd>：转到文件
-
-<kbd>Ctrl</kbd>+ <kbd>Shift</kbd>+ <kbd>方向键</kbd>：选择多行
-
-<kbd>F3</kbd>：查找下一个匹配
-
-<kbd>Ctrl</kbd>+ <kbd>Shift</kbd>+ <kbd>K</kbd>：删除当前行
+| Keys | Function |
+| :-- | :-- |
+| **Ctrl+P** | 转到文件 |
+| **Ctrl+Shift+K** | 删除当前行 |
+| **Ctrl+Shift+P** | 命令面板 |
+| **Ctrl+Shift+方向** | 跨词选择多行 |
+| **F3** | 查找下一个匹配 |
 
 ## Java in VS Code
 

@@ -4,21 +4,16 @@
 
 ## Windows 快捷键
 
-<kbd>![](logo/win10.svg ':no-zoom')</kbd>+ <kbd>A</kbd>：打开操作中心
-
-<kbd>![](logo/win10.svg ':no-zoom')</kbd>+ <kbd>B</kbd>：聚焦通知栏
-
-<kbd>![](logo/win10.svg ':no-zoom')</kbd>+ <kbd>D</kbd>：显示桌面
-
-<kbd>![](logo/win10.svg ':no-zoom')</kbd>+ <kbd>Alt</kbd>+ <kbd>D</kbd>：显示日期和时间 
-
-<kbd>![](logo/win10.svg ':no-zoom')</kbd>+ <kbd>Ctrl</kbd>+ <kbd>←</kbd>/ <kbd>→</kbd>+ 切换桌面
-
-<kbd>Ctrl</kbd>+ <kbd>PgUp</kbd>/ <kbd>PgDn</kbd>：前/后切换浏览器标签页
-
-<kbd>Ctrl</kbd>+ <kbd>Shift</kbd>+ <kbd>B</kbd>：打开表情及符号面版
-
-<kbd>Shift</kbd>+ <kbd>滚轮</kbd>：水平方向滚动
+| Keys | Function |
+| :-- | :-- |
+| <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+A** | 打开操作中心 |
+| <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+B** | 聚焦通知栏 |
+| <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+D** | 显示桌面 |
+| <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+Alt+D** | 显示日期和时间 |
+| <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+Ctrl+方向** | 切换桌面 |
+| <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+PgUp/PgDn** | 前/后切换浏览器标签页 |
+| **Ctrl+Shift+B** | 打开表情及符号面版 |
+| **Shift+滚轮** | 水平方向滚动 |
 
 ## 推荐软件
 
