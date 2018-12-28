@@ -82,10 +82,6 @@
 * [![](logo/wechat.svg)29个构建微服务的顶级工具 | 云+社区](https://mp.weixin.qq.com/s/tqYpTlgsAsE5_ICIEB8RUA)
 * [![](logo/wechat.svg)Kubernetes是如何重新定义微服务的 | InfoQ](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651010190&idx=3&sn=cfeb39c4a9ec9983d9758164911b22b1&chksm=bdbeccdd8ac945cbe86cf580ac0c53e533a30fb781bf4977999de8dc7b5bfb7f00e79fc9bae1&scene=27#wechat_redirect)
 
-## RPC 远程过程调用
-
-* [![](logo/wechat.svg)体系化认识 RPC | 极客时间![](logo/star.svg)](https://mp.weixin.qq.com/s/Hoq8T3Ver62wz6dkK1D-zw)
-
 ## 边缘计算
 
 - [![](logo/star.svg)边缘云计算及标准化白皮书 | 阿里技术](https://102.alibaba.com/downloadFile.do?file=1544675036507%2f%e8%be%b9%e7%bc%98%e4%ba%91%e8%ae%a1%e7%ae%97%e6%8a%80%e6%9c%af%e5%8f%8a%e6%a0%87%e5%87%86%e5%8c%96%e7%99%bd%e7%9a%ae%e4%b9%a6-2018.12.12.pdf)
@@ -113,3 +109,4 @@
 - [![](logo/wechat.svg)云的江湖：公有云 vs 私有云 vs 专有云 | 云技术![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzU0NDEyODkzMQ==&mid=2247487865&idx=1&sn=83826873008727de43e0bab10b3b7cdb&chksm=fb01bbb5cc7632a3d9a8c65912d0f185b3aff28886c04b208c47672d0e796ab079aa8bd71afe&mpshare=1&scene=1&srcid=1218tj61XgnRZmld7NzjAo9y#rd)
 - [![](logo/wechat.svg)阿里重磅开源！4000台服务器真实数据集，揭秘世界级数据中心 | 阿里技术](https://mp.weixin.qq.com/s/8aGrLCEfQZlW_w2t768rqA)
 - [![](logo/wechat.svg)刚刚，阿里开源首个深度学习框架 X-Deep Learning！| 阿里技术](https://mp.weixin.qq.com/s/Of_khouAoM7sMEBFKKZigA)
+- [![](logo/wechat.svg)BAT 的云顶之战 | 校招薪水](https://mp.weixin.qq.com/s/sv46bzfSSfWtT5lMRGMwZw)

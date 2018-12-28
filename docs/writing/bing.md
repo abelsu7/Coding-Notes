@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 28
+
+> Life is like music. It must be composed by ear, feeling and instinct, not by rule.
+>
+> 人生如一首乐曲，要用乐感、感情和直觉去谱写，不能只按乐律行事。
+
 ### Dec. 27
 
 > You have to believe in yourself. That’s the secret of success. 

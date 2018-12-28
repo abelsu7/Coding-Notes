@@ -24,6 +24,11 @@
 - [![](logo/51cto.ico ':size=16')虚拟化频道 | 51CTO![](logo/star.svg)](http://virtual.51cto.com)
 - [![](logo/ibm.svg)IBM developer](https://www.ibm.com/developerworks/cn/)
 
+### Hypervisor
+
+- [![](logo/ibm.svg)剖析 Linux hypervisor | IBM developer![](logo/star.svg)](https://www.ibm.com/developerworks/cn/linux/l-hypervisor/index.html)
+- [![](logo/virtualbox.png ':size=16')VirtualBox](https://www.virtualbox.org)
+
 ### KVM
 
 #### 文章教程
@@ -49,10 +54,6 @@
 - [![](logo/51cto.ico ':size=16')19. convirt集中管理平台搭建![](logo/star.svg)](http://blog.51cto.com/koumm/1305553)
 - [![](logo/51cto.ico ':size=16')20. convirt安装linux系统![](logo/star.svg)](http://blog.51cto.com/koumm/1306526)
 - [![](logo/51cto.ico ':size=16')21. KVM性能优化学习笔记![](logo/star.svg)](http://blog.51cto.com/koumm/1606422)
-
-#### Hypervisor
-
-- [![](logo/ibm.svg)剖析 Linux hypervisor | IBM developer![](logo/star.svg)](https://www.ibm.com/developerworks/cn/linux/l-hypervisor/index.html)
 
 #### 管理工具
 
