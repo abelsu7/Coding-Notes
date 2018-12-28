@@ -1,8 +1,9 @@
-?> ![](https://notes.abelsu7.top/_media/golang.svg ':no-zoom')Golang 笔记
+?> ![](logo/golang.svg ':no-zoom')Golang 笔记
 
-## Go 官方文档
+## 常用官网
 
-- [The Go Programming Language | Go 官方文档](https://golang.org/)
+- [![](logo/golang.svg)golang.google.cn![](logo/star.svg)](https://golang.google.cn/)
+- [![](logo/golang.svg)golang.org | 科学上网](https://golang.org/)
 
 ## Go 语言教程
 

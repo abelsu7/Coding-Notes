@@ -47,6 +47,15 @@ https://www.google.com/s2/favicons?domain=域名
 * [Draw.io](https://www.draw.io/)
 * StarUML
 
+## 翻译
+
+- [![](logo/googletranslate.png ':size=16')Google Translate![](logo/star.svg)](https://translate.google.cn/)
+
+## 论文
+
+- [![](logo/googlescholar.ico ':size=16')Google 学术搜索![](logo/star.svg)](https://scholar.google.cn/)
+- [![](logo/baidu.ico ':size=16')百度学术![](logo/star.svg)](https://xueshu.baidu.com/)
+
 ## 格式处理
 
 * [![](logo/cainiao.ico ':size=16')正则表达式在线测试、常用正则参考 | 菜鸟工具![](https://notes.abelsu7.top/_media/star.svg)](https://c.runoob.com/front-end/854)
