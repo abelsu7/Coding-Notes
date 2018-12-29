@@ -2,6 +2,12 @@
 
 ## Dec. 2018
 
+### Dec. 29
+
+> Something attempted, something done. Longfellow
+>
+> 有所尝试，就等于有所作为。——朗费罗
+
 ### Dec. 28
 
 > Life is like music. It must be composed by ear, feeling and instinct, not by rule.
@@ -66,7 +72,7 @@
 
 > Happiness is the interval between periods of unhappiness. D.Marquis
 > 
-> 幸福是两段不幸福时期之间的间歇 ——马奎斯
+> 幸福是两段不幸福时期之间的间歇。——马奎斯
 
 ### Dec. 17
 
@@ -96,7 +102,7 @@
 
 > Experience without learning is better than learning without experience. Bertrand Russell
 >
-> 有经验而无学问胜于有学问而无经验。 ——罗素
+> 有经验而无学问胜于有学问而无经验。——罗素
 
 ### Dec. 12
 

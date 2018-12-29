@@ -7,7 +7,8 @@
 
 ## Go 语言教程
 
-- [![](https://notes.abelsu7.top/_media/star.svg)快学 Go 语言 | 老钱的知乎专栏](https://zhuanlan.zhihu.com/quickgo)
+- [![](logo/zhihu.svg)快学 Go 语言 - 老钱 | 知乎专栏![](logo/star.svg)](https://zhuanlan.zhihu.com/quickgo)
+- [![](logo/zhihu.svg)Go 语言实战笔记 - 飞雪无情 | 知乎专栏![](logo/star.svg)](https://zhuanlan.zhihu.com/go-in-action)
 - [Go 语言快速入门 | Github](https://github.com/jaywcjlove/golang-tutorial)
 - [Go Web Examples](https://gowebexamples.com/)
 - [Go database/sql tutorial](http://go-database-sql.org/)
