@@ -510,6 +510,15 @@
 
 <p>
     <div style='text-align: center'>
+        <img src='https://notes.abelsu7.top/links/wechat/flysnow.jpg' width='200'></img>
+    </div>
+    <div style='text-align: center'>
+        飞雪无情 - Android 资深工程师，Go/Java
+    </div>
+</p>
+
+<p>
+    <div style='text-align: center'>
         <img src='https://notes.abelsu7.top/links/wechat/stormzhang.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
