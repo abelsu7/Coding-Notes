@@ -7,6 +7,7 @@
 - [![](logo/goplay.png ':size=16')The Go Playground | 科学上网](https://play.golang.org/)
 - [![](logo/flysnow.ico ':size=16')The Go Playground | 飞雪无情![](logo/star.svg)](http://play.flysnow.org)
 - [![](logo/googledevelopers.png ':size=16')Google Developers](https://developers.google.cn)
+- [![](logo/github.svg)Go Tools Mirror](https://github.com/golang/tools)
 
 ## Go 语言教程
 

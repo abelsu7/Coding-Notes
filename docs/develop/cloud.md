@@ -38,6 +38,7 @@
 * [![](logo/51cto.ico ':size=16')无服务器vs.容器：无服务器将会获胜 | 51CTO](http://server.51cto.com/sOS-566538.htm)
 * [![](logo/51cto.ico ':size=16')深解无服务器架构优缺点 它真的是趋势 | 51CTO](http://server.51cto.com/sOS-566304.htm)
 * [![](logo/51cto.ico ':size=16')无服务器只是炒作吗？技术上如何发展？| 51CTO](http://server.51cto.com/sOS-565626.htm)
+* [![](logo/infoq.png ':size=16')天天都在说，无服务器计算到底是什么？| InfoQ](https://www.infoq.cn/article/M6GYovY_EqPOSt9jSK92)
 
 ### FaaS 开源框架
 
@@ -82,6 +83,12 @@
 * [![](logo/wechat.svg)29个构建微服务的顶级工具 | 云+社区](https://mp.weixin.qq.com/s/tqYpTlgsAsE5_ICIEB8RUA)
 * [![](logo/wechat.svg)Kubernetes是如何重新定义微服务的 | InfoQ](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651010190&idx=3&sn=cfeb39c4a9ec9983d9758164911b22b1&chksm=bdbeccdd8ac945cbe86cf580ac0c53e533a30fb781bf4977999de8dc7b5bfb7f00e79fc9bae1&scene=27#wechat_redirect)
 
+## 分布式存储
+
+- [![](logo/infoq.png ':size=16')未来的互联网存储：5 大分布式存储平台深入比较（上）| InfoQ](https://www.infoq.cn/article/OQ7hmrRfYE8ih58L_m3q)
+- [![](logo/infoq.png ':size=16')未来的互联网存储：5 大分布式存储平台深入比较（中）| InfoQ](https://www.infoq.cn/article/vM2_erirO85MMMfkdNyK)
+- [![](logo/infoq.png ':size=16')未来的互联网存储：5 大分布式存储平台深入比较（下）| InfoQ](https://www.infoq.cn/article/yV6u9zrMX0s3Es*gUYWC)
+
 ## 边缘计算
 
 - [![](logo/star.svg)边缘云计算及标准化白皮书 | 阿里技术](https://102.alibaba.com/downloadFile.do?file=1544675036507%2f%e8%be%b9%e7%bc%98%e4%ba%91%e8%ae%a1%e7%ae%97%e6%8a%80%e6%9c%af%e5%8f%8a%e6%a0%87%e5%87%86%e5%8c%96%e7%99%bd%e7%9a%ae%e4%b9%a6-2018.12.12.pdf)
@@ -103,6 +110,14 @@
 
 * [![](logo/wechat.svg)Borg：G家最重要的基础设施 | HelloJava![](logo/star.svg)](https://mp.weixin.qq.com/s/8wbBAQR4fIsg6YfZlMIWRA)
 * [![](logo/wechat.svg)数据中心日均 CPU 利用率 45%？！阿里规模化混部技术揭秘 | 阿里技术![](logo/star.svg)](https://mp.weixin.qq.com/s/sUWy60vL-pEt5fE5PGGrww)
+
+## 轮子工具
+
+### cloud-init
+
+- [![](logo/cloudinit.ico ':size=16')cloud-init | The standard for customising cloud instances](https://cloud-init.io/)
+- [![](logo/aliyun.svg ':size=16')安装 cloud-init - 用户指南 | 阿里云](https://www.alibabacloud.com/help/zh/doc-detail/57803.htm)
+- [![](logo/zhihu.svg)cloud-init介绍及源码解读(上) | 知乎](https://zhuanlan.zhihu.com/p/27664869)
 
 ## 文章资讯
 

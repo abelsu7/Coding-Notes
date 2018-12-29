@@ -48,6 +48,12 @@
 
 ### 修改 yum 源
 
+### 从指定的 yum 源安装软件
+
+```bash
+yum install nginx --enablerepo=epel
+```
+
 ### 关闭 SELinux
 
 ## Linux 命令及 Shell 编程
@@ -73,6 +79,7 @@
 * [![](logo/tecmint.png ':size=16')20 Linux YUM Commands for Package Management | TecMint](https://www.tecmint.com/20-linux-yum-yellowdog-updater-modified-commands-for-package-mangement/)
 * [![](logo/cnblogs.svg)yum和apt-get用法及区别 | 小菜鸟![](logo/star.svg)](https://www.cnblogs.com/garinzhang/p/diff_between_yum_apt-get_in_linux.html)
 * [![](logo/wechat.svg)如何用九条命令在一分钟内检查 Linux 服务器性能？| 芋道源码![](logo/star.svg)](https://mp.weixin.qq.com/s/WlOQauIxi3iJ0FUB2EpNGw)
+* [![](logo/zhihu.svg)如何用九条命令在一分钟内检查Linux服务器性能？](https://zhuanlan.zhihu.com/p/30779538)
 
 ## 开源镜像站
 
@@ -112,6 +119,7 @@
 * [![](logo/wechat.svg)开源实时监控系统CAT 3.0发布：多语言客户端及多项性能提升 | 美团技术团队](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651749250&idx=2&sn=704a3c8b92e8221f0a0dfdbd947d9f85&chksm=bd12a2cf8a652bd9d1e1286c6dfb3ca85d46c1e83e958dc594bc21f74ea1a3181866a7e6edab&mpshare=1&scene=24&srcid=1102zqQyTEJQ3xYEwDziTCX4#rd)
 * [![](logo/wechat.svg)【开源工具】推荐一款Linux下内存检测工具：valgrind | 码农有道![](logo/star.svg)](https://mp.weixin.qq.com/s/aQoiF43m3oRCK4JksgcCTQ)
 * [![](logo/wechat.svg)如何用九条命令在一分钟内检查 Linux 服务器性能？| 芋道源码![](logo/star.svg)](https://mp.weixin.qq.com/s/WlOQauIxi3iJ0FUB2EpNGw)
+* [![](logo/zhihu.svg)如何用九条命令在一分钟内检查Linux服务器性能？](https://zhuanlan.zhihu.com/p/30779538)
 
 ## Gnome 主题
 

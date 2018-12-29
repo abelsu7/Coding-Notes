@@ -81,6 +81,7 @@
 * [![](logo/github.svg)awesome-docker | Docker resources and projects](http://wedocker.com)
 * pwd
 * [![](logo/wechat.svg)基于Docker的动态工具：通常被忽视的最佳实践 | 云技术](https://mp.weixin.qq.com/s/8QnYw6y702DjYk9TYH_jsw)
+* [![](logo/infoq.png ':size=16')最全的 50+ 易用 Docker 工具列表指南 | InfoQ![](logo/star.svg)](https://www.infoq.cn/article/C*aZiIsuHT9jJTjzicYE)
 
 ### Kubernetes
 

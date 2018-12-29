@@ -1,5 +1,6 @@
 ?> ![](https://notes.abelsu7.top/_media/appstore.svg ':no-zoom')网站推荐<br>[![](logo/star.svg)Java后端，应该日常翻看的中文技术网站 | 江南白衣](http://calvin1978.blogcn.com/articles/dailysites.html)
 
+* [![](logo/linuxcn.ico ':size=16')Linux 中国![](logo/star.svg)](https://linux.cn)
 * [![](logo/infoq.png ':size=16')InfoQ![](logo/star.svg)](https://www.infoq.cn)
 * [![](logo/oschina.ico ':size=16')开源中国![](logo/star.svg)](https://www.oschina.net)
 * [![](logo/toutiao.png ':size=16')开发者头条![](logo/star.svg)](https://toutiao.io/)
