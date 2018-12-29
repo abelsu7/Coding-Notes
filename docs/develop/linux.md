@@ -21,6 +21,8 @@
 
 ## Linux 发行版
 
+### 官网地址
+
 * [![](logo/redhat.svg)RHEL](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
 * [![](logo/centos.svg)CentOS](https://www.centos.org/)
 * [![](logo/fedora.svg)Fedora](https://getfedora.org/zh_CN/)
@@ -33,6 +35,10 @@
 * [![](logo/alpine.ico ':size=16')Alpine Linux](https://alpinelinux.org/)
 * [![](logo/busybox.png ':size=16')BusyBox](https://busybox.net/)
 * [![](logo/gentoo.png ':size=16')Gentoo Linux](https://www.gentoo.org/)
+
+### 文章资讯
+
+- [![](logo/wechat.svg)五款主流 Linux 发行版性能对比，稳而不强？| 芋道源码](https://mp.weixin.qq.com/s/oWR0L_-AwE5RshYNFvOC2w)
 
 ## CentOS 配置
 
@@ -66,6 +72,7 @@
 * [![](logo/wechat.svg)Linux中的文件查找技巧 | 编程珠玑![](logo/star.svg)](https://mp.weixin.qq.com/s/T0QjzmycVIc2tZJyyrMIfA)
 * [![](logo/tecmint.png ':size=16')20 Linux YUM Commands for Package Management | TecMint](https://www.tecmint.com/20-linux-yum-yellowdog-updater-modified-commands-for-package-mangement/)
 * [![](logo/cnblogs.svg)yum和apt-get用法及区别 | 小菜鸟![](logo/star.svg)](https://www.cnblogs.com/garinzhang/p/diff_between_yum_apt-get_in_linux.html)
+* [![](logo/wechat.svg)如何用九条命令在一分钟内检查 Linux 服务器性能？| 芋道源码![](logo/star.svg)](https://mp.weixin.qq.com/s/WlOQauIxi3iJ0FUB2EpNGw)
 
 ## 开源镜像站
 

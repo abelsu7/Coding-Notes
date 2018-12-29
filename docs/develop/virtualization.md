@@ -105,6 +105,10 @@
 
 - [![](logo/wechat.svg)浙江移动容器云基于 Dragonfly 的统一文件分发平台生产实践 | 阿里系统软件技术![](logo/star.svg)](https://mp.weixin.qq.com/s/0PRitK9bqcMr88lOOw5aKQ)
 
+### 文章资讯
+
+- [![](logo/wechat.svg)容器在公有云上的落地姿势 | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/Hj__5SwxXShyXj4bmu3jhw)
+
 ## 桌面虚拟化
 
 ### VDI/IDV

@@ -7,6 +7,7 @@
 - [![](logo/star.svg)如何在 CentOS 7 / RHEL 7 终端服务器上安装 KVM | Linux 中国](https://linux.cn/article-9459-1.html)
 - [![](logo/star.svg)How to install KVM on CentOS 7 / RHEL 7 Headless Server | nixCraft](https://www.cyberciti.biz/faq/how-to-install-kvm-on-centos-7-rhel-7-headless-server/)
 - [![](logo/star.svg)How To Setup SSH Keys on a Linux / Unix System | nixCraft](https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/)
+- [![](logo/wechat.svg)如何用九条命令在一分钟内检查 Linux 服务器性能？| 芋道源码![](logo/star.svg)](https://mp.weixin.qq.com/s/WlOQauIxi3iJ0FUB2EpNGw)
 
 ### Before
 

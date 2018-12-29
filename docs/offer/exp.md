@@ -42,6 +42,7 @@
 - [![](logo/wechat.svg)独家 | 2019年互联网校招求职指南-上海篇 | 校招薪水![](logo/star.svg)](https://mp.weixin.qq.com/s/D1lqvlpLAR2L2NL0ljskXw)
 - [![](logo/wechat.svg)独家 | 2019年互联网校招求职指南-杭州篇 | 校招薪水![](logo/star.svg)](https://mp.weixin.qq.com/s/4xTq1lXNeYDRxANNLB70fg)
 - [![](logo/wechat.svg)独家 | 2019年互联网校招求职指南-深圳篇 | 校招薪水![](logo/star.svg)](https://mp.weixin.qq.com/s/LcoKTOAEY3WwQLEomFmLVw)
+- [![](logo/wechat.svg)一线城市程序员薪资数据出炉，你属于哪一档？| 程序员江湖![](logo/star.svg)](https://mp.weixin.qq.com/s/KFMY-FUn-VFlHcrtZ8VwnQ)
 
 ## 签约
 
