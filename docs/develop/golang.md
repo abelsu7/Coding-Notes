@@ -2,13 +2,19 @@
 
 ## 常用官网
 
-- [![](logo/golang.svg)golang.google.cn![](logo/star.svg)](https://golang.google.cn/)
-- [![](logo/golang.svg)golang.org | 科学上网](https://golang.org/)
+- [![](logo/goplay.png ':size=16')golang.google.cn![](logo/star.svg)](https://golang.google.cn/)
+- [![](logo/goplay.png ':size=16')golang.org | 科学上网](https://golang.org/)
+- [![](logo/goplay.png ':size=16')The Go Playground | 科学上网](https://play.golang.org/)
+- [![](logo/flysnow.ico ':size=16')The Go Playground | 飞雪无情![](logo/star.svg)](http://play.flysnow.org)
+- [![](logo/googledevelopers.png ':size=16')Google Developers](https://developers.google.cn)
 
 ## Go 语言教程
 
 - [![](logo/zhihu.svg)快学 Go 语言 - 老钱 | 知乎专栏![](logo/star.svg)](https://zhuanlan.zhihu.com/quickgo)
+- ![](logo/wechat.svg)码洞的微信![](logo/star.svg)
 - [![](logo/zhihu.svg)Go 语言实战笔记 - 飞雪无情 | 知乎专栏![](logo/star.svg)](https://zhuanlan.zhihu.com/go-in-action)
+- ![](logo/wechat.svg)飞雪无情的微信![](logo/star.svg)
+- [![](logo/github.svg)Go 语言实战读书笔记系列合集 - 飞雪无情![](logo/star.svg)](https://github.com/rujews/go-in-action-notes)
 - [Go 语言快速入门 | Github](https://github.com/jaywcjlove/golang-tutorial)
 - [Go Web Examples](https://gowebexamples.com/)
 - [Go database/sql tutorial](http://go-database-sql.org/)
@@ -26,12 +32,19 @@
 - [创建最小的Go docker 镜像 | 鸟窝](https://colobu.com/2018/08/13/create-minimal-docker-image-for-go-applications/)
 - [![](logo/wechat.svg)构建OAuth2服务器~Golang语言实现 | 波波微课![](logo/star.svg)](https://mp.weixin.qq.com/s/JsU7dk30OLSkzsnlmXtWIg)
 
+## IDE
+
+- [![](logo/flysnow.ico ':size=16')Go 语言 IDE GoLand 激活最新版 | 飞雪无情的博客](https://www.flysnow.org/2018/10/01/golang-ide-goland-activate.html)
+
 ## 资讯
 
-- [![](logo/wechat.svg)解读Go语言的2018：怎么就在中国火成这样了？| InfoQ![](logo/star.svg)](https://mp.weixin.qq.com/s/cIU9_BFf1J6dbHzQSDS66Q)
+- [![](logo/wechat.svg)解读 Go 语言的 2018：怎么就在中国火成这样了？| InfoQ![](logo/star.svg)](https://mp.weixin.qq.com/s/cIU9_BFf1J6dbHzQSDS66Q)
+- [![](logo/flysnow.ico ':size=16')【译】Go 语言实践：编写可维护的程序的建议 | 飞雪无情的博客](https://www.flysnow.org/2018/12/04/golang-the-go-best-presentations.html)
 
 ## 轮子
 
 - [![](logo/github.svg)gotty | Share your terminal as a web application![](logo/star.svg)](https://github.com/yudai/gotty)
 - [![](logo/github.svg)wukong - 高度可定制的全文搜索引擎 | Github](https://github.com/huichen/wukong)
 - [![](logo/github.svg)Gobang - 五子棋 in Go | Github](https://github.com/hcrgm/Gobang-Go)
+- [![](logo/wechat.svg)程序员的圣诞节 - 送她一颗圣诞树(附源代码) | 飞雪无情](https://mp.weixin.qq.com/s/RzAIl_yiVuc5T6suvk9KGg)
+- [![](logo/wechat.svg)程序员的圣诞节 - 送她一颗圣诞树的 Go 源代码 | 飞雪无情](https://mp.weixin.qq.com/s/q0toHYTRDEd_YdC8XeMI4A)

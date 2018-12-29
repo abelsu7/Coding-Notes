@@ -95,7 +95,10 @@ https://www.google.com/s2/favicons?domain=域名
 
 - [![](logo/itellyou.png ':size=16')MSDN I tell you![](logo/star.svg)](http://msdn.itellyou.cn)
 - [![](logo/wherebt.ico ':size=16')WHERE BT | 提供各种BT/磁力资源导航![](logo/star.svg)](http://wherebt.com)
+- [![](logo/qiniuclient.ico ':size=16')云存储管理客户端![](logo/star.svg)](https://github.com/willnewii/qiniuClient)
 - aria2
+- owncloud
+- seafile
 
 ## Cheatsheet
 

@@ -111,6 +111,7 @@
 * [![](logo/wechat.svg)服务器性能指标（二）——CPU利用率分析及问题排查 | Hollis![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650121526&idx=1&sn=2f492b80d7cdf6a7b47e8f51dfad249f&chksm=f36bb817c41c31017c5e336e78449aa14d4548ee4b64abc2e13ab2c097d13dee170fef2ff731&mpshare=1&scene=1&srcid=1101wOvI8IsuX4Y62ByXJBPq#rd)
 * [![](logo/wechat.svg)开源实时监控系统CAT 3.0发布：多语言客户端及多项性能提升 | 美团技术团队](https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651749250&idx=2&sn=704a3c8b92e8221f0a0dfdbd947d9f85&chksm=bd12a2cf8a652bd9d1e1286c6dfb3ca85d46c1e83e958dc594bc21f74ea1a3181866a7e6edab&mpshare=1&scene=24&srcid=1102zqQyTEJQ3xYEwDziTCX4#rd)
 * [![](logo/wechat.svg)【开源工具】推荐一款Linux下内存检测工具：valgrind | 码农有道![](logo/star.svg)](https://mp.weixin.qq.com/s/aQoiF43m3oRCK4JksgcCTQ)
+* [![](logo/wechat.svg)如何用九条命令在一分钟内检查 Linux 服务器性能？| 芋道源码![](logo/star.svg)](https://mp.weixin.qq.com/s/WlOQauIxi3iJ0FUB2EpNGw)
 
 ## Gnome 主题
 

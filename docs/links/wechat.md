@@ -513,7 +513,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/flysnow.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        飞雪无情 - Android 资深工程师，Go/Java
+        <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>飞雪无情 - Android 资深工程师，Go/Java
     </div>
 </p>
 
