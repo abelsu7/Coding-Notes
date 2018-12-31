@@ -2,6 +2,18 @@
 
 ## Dec. 2018
 
+### Dec. 31
+
+> Life isn't about waiting for the storm to pass. It's about learning to dance in the rain.
+>
+> 生活不是等待暴风雨过去，而是要学会在雨中跳舞。
+
+### Dec. 30
+
+> Every man is a fool sometimes, and none at all times.
+>
+> 人都有糊涂的时候，但谁都不会糊涂一生。
+
 ### Dec. 29
 
 > Something attempted, something done. Longfellow
