@@ -1,5 +1,19 @@
 ?> ![](https://notes.abelsu7.top/_media/bing.svg ':no-zoom')必应词典精选
 
+## Jan. 2019
+
+### Jan. 2
+
+> He that lives in hope dances without music.
+>
+> 生活在希望中的人，即使没有音乐也可以翩翩起舞。
+
+### Jan. 1
+
+> Truth may be blamed, but shall never be shamed.
+>
+> 真理可能遭受质疑，但决不会被埋没。
+
 ## Dec. 2018
 
 ### Dec. 31
