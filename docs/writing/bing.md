@@ -2,6 +2,12 @@
 
 ## Jan. 2019
 
+### Jan. 3
+
+> To improve is to change. To be perfect is to change often. Winston Churchill
+>
+> 改变自己才能有所提高。持续改变才能达到完美。
+
 ### Jan. 2
 
 > He that lives in hope dances without music.

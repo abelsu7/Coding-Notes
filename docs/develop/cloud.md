@@ -111,6 +111,13 @@
 * [![](logo/wechat.svg)Borg：G家最重要的基础设施 | HelloJava![](logo/star.svg)](https://mp.weixin.qq.com/s/8wbBAQR4fIsg6YfZlMIWRA)
 * [![](logo/wechat.svg)数据中心日均 CPU 利用率 45%？！阿里规模化混部技术揭秘 | 阿里技术![](logo/star.svg)](https://mp.weixin.qq.com/s/sUWy60vL-pEt5fE5PGGrww)
 
+## 混部技术
+
+## 流式计算
+
+- Flink 社区
+- 阿里 Blink
+
 ## 轮子工具
 
 ### cloud-init
