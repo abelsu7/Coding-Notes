@@ -40,7 +40,7 @@
 
 - [![](logo/wechat.svg)五款主流 Linux 发行版性能对比，稳而不强？| 芋道源码](https://mp.weixin.qq.com/s/oWR0L_-AwE5RshYNFvOC2w)
 
-## CentOS 配置
+## CentOS 运维
 
 ### VNC
 
@@ -52,6 +52,16 @@
 
 ```bash
 yum install nginx --enablerepo=epel
+```
+
+### 安装 EPEL 扩展包
+
+> **EPEL** (Extra Packages for Enterprise Linux) 是 **Fedora** 小组维护的一个软件仓库项目，为 RHEL/CentOS 提供它们默认不提供的软件包，兼容 RHEL 和 CentOS 这样的衍生版本。<br>
+
+- [![](logo/51cto.ico ':size=16')CentOS安装EPEL扩展包 | 51CTO](http://blog.51cto.com/tong707/2044668)
+
+```bash
+yum install epel-release
 ```
 
 ### 关闭 SELinux

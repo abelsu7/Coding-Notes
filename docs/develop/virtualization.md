@@ -24,14 +24,14 @@
 - [![](logo/51cto.ico ':size=16')虚拟化频道 | 51CTO![](logo/star.svg)](http://virtual.51cto.com)
 - [![](logo/ibm.svg)IBM developer](https://www.ibm.com/developerworks/cn/)
 
-### Hypervisor
+## KVM
 
-- [![](logo/ibm.svg)剖析 Linux hypervisor | IBM developer![](logo/star.svg)](https://www.ibm.com/developerworks/cn/linux/l-hypervisor/index.html)
-- [![](logo/virtualbox.png ':size=16')VirtualBox](https://www.virtualbox.org)
+### 文章教程
 
-### KVM
+- [![](logo/csdn.ico ':size=16')KVM详解，学习kvm系列文章 | CSDN![](logo/star.svg)](https://blog.csdn.net/bbwangj/article/details/80465320)
+- [![](logo/csdn.ico ':size=16')虚拟化技术之KVM，搭建KVM(详细) | CSDN![](logo/star.svg)](https://blog.csdn.net/CloudXli/article/details/78306546)
 
-#### 文章教程
+51CTO 上的一个系列教程：
 
 - [![](logo/51cto.ico ':size=16')1. kvm虚拟化环境安装![](logo/star.svg)](http://blog.51cto.com/koumm/1288795)
 - [![](logo/51cto.ico ':size=16')2. linuxkvm虚拟机安装![](logo/star.svg)](http://blog.51cto.com/koumm/1289627)
@@ -54,8 +54,9 @@
 - [![](logo/51cto.ico ':size=16')19. convirt集中管理平台搭建![](logo/star.svg)](http://blog.51cto.com/koumm/1305553)
 - [![](logo/51cto.ico ':size=16')20. convirt安装linux系统![](logo/star.svg)](http://blog.51cto.com/koumm/1306526)
 - [![](logo/51cto.ico ':size=16')21. KVM性能优化学习笔记![](logo/star.svg)](http://blog.51cto.com/koumm/1606422)
+- 
 
-#### 管理工具
+### 管理工具
 
 - [![](logo/redhat.svg)virt-manager![](logo/star.svg)](https://virt-manager.org)
 - [![](logo/mist.png ':size=16')Mist.io | Cloud Management Platform![](logo/star.svg)](https://mist.io)
@@ -66,9 +67,14 @@
 - [![](logo/github.svg)kimchi | An HTML5 management interface for KVM guests](https://github.com/kimchi-project/kimchi)
 - [OpenNebula](https://opennebula.org/)
 
-### QEMU
+## Hypervisor
 
-### SPICE
+- [![](logo/ibm.svg)剖析 Linux hypervisor | IBM developer![](logo/star.svg)](https://www.ibm.com/developerworks/cn/linux/l-hypervisor/index.html)
+- [![](logo/virtualbox.png ':size=16')VirtualBox](https://www.virtualbox.org)
+
+## QEMU
+
+## SPICE
 
 ## 容器 Container
 
@@ -121,6 +127,8 @@
 - [認識Intelligent Desktop Virtualization, IDV，選VDI或IDV](https://www.ntueees.tp.edu.tw/wordpress/?p=2741)
 - [![](logo/51cto.ico ':size=16')桌面虚拟化是该选用IDV还是VDI？| 51CTO](http://blog.51cto.com/10934577/2114348)
 - [![](logo/zol.svg)虚拟化大不同 VDI与IDV上演生死对决 | 中关村在线](http://server.zol.com.cn/274/2747900_all.html#p2759233)
+- [![](logo/51cto.ico ':size=16')如何应对三种最棘手的VDI挑战 | 51CTO](http://virtual.51cto.com/art/201704/536280.htm)
+- [![](logo/51cto.ico ':size=16')IDV和VDI，桌面虚拟化选哪种好？| 51CTO![](logo/star.svg)](http://virtual.51cto.com/art/201804/571894.htm)
 
 ### 桌面云厂商
 
@@ -132,9 +140,12 @@
 * 福建升腾
 * 锐捷
 * [辰云科技](http://www.morningcloud.cn/#/main)
+* [![](logo/microcloud.png ':size=16')云桌面混合计算架构 | Microcloud 微云](http://www.microcloudsys.cn/f/view-9-5f5440b4f1ab4dae9a9fd7deb57fab78.html)
+* [![](logo/microcloud.png ':size=16')桌面云边缘计算 | Microcloud 微云](http://www.microcloudsys.cn/f/view-9-3d8e2ea43f2f4e7da6a3d487ef6f63b2.html)
 
 ### 文章资讯
 
+- [![](logo/51cto.ico ':size=16')云原生桌面：虚拟桌面的解构与重新定义 | 51CTO](http://virtual.51cto.com/art/201808/581802.htm)
 - [![](logo/csdn.ico ':size=16')我理解的云桌面（或桌面云）| 张文剑](https://blog.csdn.net/u010766821/article/details/54959170)
 - [锐捷网络云桌面产品全面升级 | 阿里云栖社区](https://yq.aliyun.com/articles/581032)
 
@@ -160,3 +171,10 @@
 
 - [Open vSwitch](http://www.openvswitch.org)
 - VLAN
+
+## 文章资讯
+
+- [![](logo/51cto.ico ':size=16')谈谈虚拟化技术深度解密（上）| 51CTO![](logo/star.svg)](http://virtual.51cto.com/art/201711/559442.htm)
+- [![](logo/51cto.ico ':size=16')虚拟化技术深度解密（下）| 51CTO![](logo/star.svg)](http://virtual.51cto.com/art/201803/568575.htm)
+- [![](logo/51cto.ico ':size=16')聊一聊虚拟化基础知识 | 51CTO![](logo/star.svg)](http://virtual.51cto.com/art/201712/562070.htm)
+- [![](logo/51cto.ico ':size=16')虚拟化和云计算：孟不离焦 焦不离孟 | 51CTO](http://server.51cto.com/sOS-566756.htm)

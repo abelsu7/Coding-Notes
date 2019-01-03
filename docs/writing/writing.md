@@ -87,6 +87,7 @@
 ## 文档维护
 
 - [![](logo/docsify.ico ':size=16')docsify![](logo/star.svg)](https://docsify.js.org)
+- [![](logo/github.svg)docsify-cli | Github![](logo/star.svg)](https://github.com/docsifyjs/docsify-cli)
 - [![](logo/vue.svg)VuePress](https://vuepress.vuejs.org)
 - [![](logo/readthedocs.png ':size=16')Read the Docs](https://readthedocs.org/)
 - [![](logo/mkdocs.ico ':size=16')MkDocs](https://www.mkdocs.org/)

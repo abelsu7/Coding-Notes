@@ -4,3 +4,13 @@
 
 - [![](logo/wechat.svg)体系化认识 RPC | 极客时间![](logo/star.svg)](https://mp.weixin.qq.com/s/Hoq8T3Ver62wz6dkK1D-zw)
 - [![](logo/wechat.svg)七个步骤，带你快速读懂 RPC 框架原理![](logo/star.svg)](https://mp.weixin.qq.com/s/UkG17rpkFTezUrMhtUmGgw) 
+
+## 内网穿透
+
+- [![](logo/csdn.ico ':size=16')外网访问内网（内网穿透）方法总结 | CSDN![](logo/star.svg)](https://blog.csdn.net/zbgjhy88/article/details/55289785)
+
+### rinetd
+
+- [![](logo/csdn.ico ':size=16')rinetd 一个linux下的端口转发工具 | CSDN](https://blog.csdn.net/majinfei/article/details/52184378)
+- [![](logo/csdn.ico ':size=16')rinetd 在生产环境要谨慎使用 | CSDN](https://blog.csdn.net/woshiaotian/article/details/78133195)
+- [![](logo/csdn.ico ':size=16')Rinetd 内外网端口转发 | CSDN](https://blog.csdn.net/dounine/article/details/68946035)
