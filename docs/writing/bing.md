@@ -2,6 +2,12 @@
 
 ## Jan. 2019
 
+### Jan. 4
+
+> The shortest answer is doing.
+>
+> 行动就是最简洁的回答。
+
 ### Jan. 3
 
 > To improve is to change. To be perfect is to change often. Winston Churchill
