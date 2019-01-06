@@ -2,6 +2,18 @@
 
 ## Jan. 2019
 
+### Jan. 6
+
+> An education is not so much about making a living as making a person.
+>
+> 教育不只教我们怎么谋生，更多是教我们怎么健全自己。
+
+### Jan. 5
+
+> The best way out is always through. Robert Frost
+>
+> 逃离困境的最佳方式就是战胜它。——罗伯特·弗罗斯特
+
 ### Jan. 4
 
 > The shortest answer is doing.
