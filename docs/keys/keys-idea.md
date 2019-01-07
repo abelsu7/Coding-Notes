@@ -8,7 +8,8 @@
 | Keys | Function |
 | :-- | :-- |
 | Double **Shift** | Search Everywhere |
-| **Alt+[Num]** | 切换面版 |
+| **Alt+**数字 | 切换面版 |
+| **Alt+Shift** | 移动当前行 |
 | **Ctrl+Alt+L** | 格式化代码 |
 | **Ctrl+Shift+A** | Find Action |
 | **Ctrl+D** | 复制当前行 |
