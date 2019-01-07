@@ -14,6 +14,7 @@
 | <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+PgUp/PgDn** | 前/后切换浏览器标签页 |
 | **Ctrl+Shift+B** | 打开表情及符号面版 |
 | **Shift+滚轮** | 水平方向滚动 |
+| **F2** | 重命名 |
 
 ## 推荐软件
 

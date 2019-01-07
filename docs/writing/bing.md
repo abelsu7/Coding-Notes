@@ -2,6 +2,12 @@
 
 ## Jan. 2019
 
+### Jan. 7
+
+> The key to happiness in life is knowing when to keep your mouth shut.
+>
+> 快乐的秘诀就是在适当的时候保持沉默。
+
 ### Jan. 6
 
 > An education is not so much about making a living as making a person.
