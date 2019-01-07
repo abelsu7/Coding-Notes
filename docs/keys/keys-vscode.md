@@ -7,9 +7,13 @@
 | Keys | Function |
 | :-- | :-- |
 | **Ctrl+P** | 转到文件 |
-| **Ctrl+Shift+K** | 删除当前行 |
 | **Ctrl+Shift+P** | 命令面板 |
+| **Ctrl+Shift+K** | 删除当前行 |
 | **Ctrl+Shift+方向** | 跨词选择多行 |
+| **Ctrl+Alt+↑/↓** | 光标选择多行 |
+| **Ctrl+Alt+←/→** | 拆分代码窗口 |
+| **Alt+↑/↓** | 移动当前行 |
+| **Alt+Shift+↑/↓** | 复制当前行 |
 | **F3** | 查找下一个匹配 |
 
 ## Java in VS Code
