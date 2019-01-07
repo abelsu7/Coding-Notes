@@ -40,6 +40,10 @@
 
 - [![](logo/wechat.svg)五款主流 Linux 发行版性能对比，稳而不强？| 芋道源码](https://mp.weixin.qq.com/s/oWR0L_-AwE5RshYNFvOC2w)
 
+## 底层原理
+
+- [![](logo/wechat.svg)底层原理 - 码农有道![](logo/star.svg)](https://mp.weixin.qq.com/s/OzpgmcCjabT7bKPf1txK4g)
+
 ## CentOS 运维
 
 ### VNC

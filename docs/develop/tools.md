@@ -99,8 +99,13 @@ https://www.google.com/s2/favicons?domain=域名
 - aria2
 - owncloud
 - seafile
+- [![](logo/github.svg)Motrix - 全能下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源![](logo/star.svg)](https://github.com/agalwood/Motrix)
 
 ## Cheatsheet
 
 - [![](logo/github.svg)awesome-cheatsheet | 中文版![](logo/star.svg)](https://github.com/skywind3000/awesome-cheatsheets)
 - [![](logo/github.svg)awesome-cheatsheet | 英文版![](logo/star.svg)](https://github.com/LeCoupa/awesome-cheatsheets)
+
+## 电脑装机
+
+- [![](logo/wechat.svg)教你写一份合理的电脑配置清单 | 黎小白![](logo/star.svg)](https://mp.weixin.qq.com/s/8WYVI1ut-X6q5ofS6_iZmg)

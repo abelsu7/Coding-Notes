@@ -7,13 +7,16 @@
 - [C语言总结 — 知识点导论图 | CSDN](https://blog.csdn.net/Dawn_sf/article/details/78934875)
 - [yafeilinux | Qt开源社区](http://www.qter.org/)
 - [![](logo/wechat.svg)C语言入坑指南-被遗忘的初始化 | 编程珠玑](https://mp.weixin.qq.com/s?__biz=MzI2OTA3NTk3Ng==&mid=2649284087&idx=1&sn=79f48f41712b19f806e79bce1084f0ec&chksm=f2f9ae90c58e27867220b81940ad03b1b6defe46ba3ffcec85c9cf69e68b36629afa96e09869&scene=21#wechat_redirect)
+- [![](logo/wechat.svg)C++札记 - 码农有道![](logo/star.svg)](https://mp.weixin.qq.com/s/OzpgmcCjabT7bKPf1txK4g)
 
 ## Python
 
+- [![](logo/github.svg)awesome-python-applications | Github![](logo/star.svg)](https://github.com/mahmoud/awesome-python-applications)
 - [![](https://notes.abelsu7.top/_media/star.svg)【一】从0开始，用flask+mongo打造分布式服务器监控平台 | 进击的 Coder](https://mp.weixin.qq.com/s/eczCDetrveBBOwgrev0upw)
 - [Java 和 Python：哪一个更适合你？| 计蒜客](https://mp.weixin.qq.com/s?__biz=MjM5NTI5NTAzNg==&mid=2656331406&idx=1&sn=8523c4c3a006d44a9c9bdb78f65b81f1)
 - [PyQt5 tutorial | fman build system](https://build-system.fman.io/pyqt5-tutorial)
 - [Python and Qt: simplified! | fman build system](https://build-system.fman.io)
+- [![](logo/wechat.svg)原来，微信也能开外挂 | 一个程序员的日常![](logo/star.svg)](https://mp.weixin.qq.com/s/QGHtwpQofipw81b9z9uEFQ)
 
 ## 正则表达式
 

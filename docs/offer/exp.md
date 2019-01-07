@@ -6,6 +6,8 @@
 - [![](logo/wechat.svg)码洞原创深度技术文章大全 —— 高端面试必备 | 码洞![](https://notes.abelsu7.top/_media/star.svg)](https://mp.weixin.qq.com/s/3Cy7dZordk6NbxYCBFSOeg)
 - [致未来的实习生 | 淘宝 FED 前端团队](http://taobaofed.org/blog/2017/03/03/to-my-future-friend/)
 - [校招前几个月，如何高效地进行复习？| 程序员江湖](https://mp.weixin.qq.com/s/qNsdg7dRHeTamTkip011lQ)
+- [![](logo/wechat.svg)【收藏】2019全年校招时间表出炉！春招筛人标准大公开！| Offer 先生](https://mp.weixin.qq.com/s/dWzfe2RVj-xI2qCGWr2oVA)
+- [![](logo/wechat.svg)社招面试会遇到哪些坑？| 码农翻身![](logo/star.svg)](https://mp.weixin.qq.com/s/s6djqT7nb5MIhyujTvQ-Mg)
 
 ## 面经
 

@@ -278,7 +278,7 @@
         <img src='https://notes.abelsu7.top/links/wechat/manongyoudao.jpg' width='200'></img>
     </div>
     <div style='text-align: center'>
-        码农有道
+        码农有道 - 百度后台开发
     </div>
 </p>
 

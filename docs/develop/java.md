@@ -56,9 +56,13 @@
 
 ## 构建工具
 
-- [![](logo/maven.png ':size=16')Maven![](logo/star.svg)](https://maven.apache.org)
 - [![](logo/ant.png ':size=16')Ant](http://ant.apache.org)
 - [![](logo/gradle.png ':size=16')Gradle](https://gradle.org)
+
+### Maven
+
+- [![](logo/maven.png ':size=16')Maven![](logo/star.svg)](https://maven.apache.org)
+- [![](logo/wechat.svg)每个程序员都该学会的Maven知识 | 逅弈逐码![](logo/star.svg)](https://mp.weixin.qq.com/s/UnMyH65RtWPHdRHMfIsxlg)
 
 ## Java Web
 
@@ -78,6 +82,9 @@
 
 ### Spring Boot
 
+- [![](logo/wechat.svg)有了 Spring Boot，为什么还要懂 Spring MVC？| GitChat](https://mp.weixin.qq.com/s/0PGDG_uedpPWFgAh1B5hAA)
+- [![](logo/wechat.svg)SpringBoot 究竟是如何跑起来的? | 码洞![](logo/star.svg)](https://mp.weixin.qq.com/s/WQNF0S9jKlWI0lC2a4YyhQ)
+- [![](logo/ityouknow.ico ':size=16')是时候给大家介绍 Spring Boot/Cloud 背后豪华的研发团队了 | 纯洁的微笑](http://www.ityouknow.com/springboot/2019/01/03/spring-pivotal.html)
 - [![](logo/ityouknow.ico ':size=16')Spring Boot 系列文章 | 纯洁的微笑![](logo/star.svg)](http://www.mooooc.com/spring-boot.html)
 - [![](logo/ityouknow.ico ':size=16')springboot学习资料汇总 | 纯洁的微笑![](logo/star.svg)](http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html)
 - [![](logo/spring.png ':size=16')Spring Boot 中文索引![](logo/star.svg)](http://springboot.fun)
@@ -170,6 +177,7 @@
 
 ## Java 面试相关
 
+- [![](logo/wechat.svg)年底了，如何准备 Java 初级和高级的技术面试？| Java 技术栈![](logo/star.svg)](https://mp.weixin.qq.com/s/SE1CCiFjrb0m_BO7z5_-Xg)
 - [![](logo/zhihu.svg)阿里巴巴、美团等各大互联网公司的 Java 类校招对本科生的要求是什么？| 知乎![](logo/star.svg)](https://www.zhihu.com/question/26350691/answer/42692522)
 - [![](logo/wechat.svg)Java工程师修炼之路（校招总结）| 纯洁的微笑![](logo/star.svg)](https://mp.weixin.qq.com/s?__biz=MzI4NDY5Mjc1Mg==&mid=2247486178&idx=1&sn=03050414c812f0e00e359ba1db9f3481&chksm=ebf6d29ddc815b8bdac822d146a787d36bccc54ddd0178e9f2da18475007028fa79ef055b99b&mpshare=1&scene=1&srcid=1102r7fX9DXdnzEiORMq4pZR#rd)
 - [![](logo/wechat.svg)刷完500道BAT面试题，我能去面试大厂了吗？-Java知识体系构建 | 程序员江湖![](logo/star.svg)](https://mp.weixin.qq.com/s/kumR_aMFQSfqLGc3dmxoVw)
@@ -190,5 +198,7 @@
 
 ## 轮子
 
+- [![](logo/wechat.svg)为自己搭建一个分布式 IM(即时通讯) 系统 | crossoverJie![](logo/star.svg)](https://mp.weixin.qq.com/s/Emtt_XV4n3Tb5DCKSMhsWg)
 - [![](logo/github.svg)symphony - 一款用 Java 实现的现代化社区 | Github](https://github.com/b3log/symphony)
 - [![](logo/github.svg)litemall - Spring Boot 后端 + Vue 管理员前端 + 微信小程序用户前端 | Github](https://github.com/linlinjava/litemall)
+- [![](logo/juejin.png ':size=16')用Java构建一个简单的WebSocket聊天室 | 掘金](https://juejin.im/post/5c25ea5d5188254eaa5c5099)
