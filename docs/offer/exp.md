@@ -13,6 +13,7 @@
 
 !> 各公司研发面经去“程序员江湖”、“Java面试通关手册”微信公众号搜索关键词“面经”
 
+- [![](logo/wechat.svg)BAT 网易 头条 美团 等后台开发面经 | 招聘消息汇总![](logo/star.svg)](https://mp.weixin.qq.com/s/SNSbZaxcFC2gkfaf-dqOoQ)
 - [![](logo/github.svg)awesome interview - 纯洁的微笑 | Github![](logo/star.svg)](https://github.com/ityouknow/awesome-interviews)
 - [![](logo/wechat.svg)2018的初冬，派卧底去阿里、京东、美团、滴滴带回来的面试题及答案 | Hollis![](logo/star.svg)](https://mp.weixin.qq.com/s/BaBB_xiCXmw5pmAQ2Cjm2A)
 - [![](logo/wechat.svg)阿里，百度，腾讯等一线互联网公司中，Java开发的招聘标准 | 算法与数据结构![](logo/star.svg)](https://mp.weixin.qq.com/s/JDOE9N0CF6KPqOCmAmqLTw)
