@@ -4,8 +4,11 @@
 
 | Keys | Function |
 | :-- | :-- |
+| **Ctrl+Shift+5** | <img src='https://notes.abelsu7.top/keys/logo/opera.svg' data-no-zoom></img> 截图 |
+| **Crtl+Shift+I** | <img src='https://notes.abelsu7.top/keys/logo/opera.svg' data-no-zoom></img> 开发者工具 |
 | **Ctrl+PgUp/PgDn** | 前后切换标签页 |
-| **Ctrl+Shift+5** | <img src='https://notes.abelsu7.top/keys/logo/opera.svg' data-no-zoom></img> Opera 截图 |
+| **Crtl+U** | 页面源代码 |
+| **Shift+Esc** | 任务管理器 |
 
 ## Chrome 插件推荐
 

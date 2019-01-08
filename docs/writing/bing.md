@@ -2,6 +2,12 @@
 
 ## Jan. 2019
 
+### Jan. 8
+
+> The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.
+>
+> 事实上，每个人都会伤害你。你只需要找到那些值得让你忍受伤害的人。
+
 ### Jan. 7
 
 > The key to happiness in life is knowing when to keep your mouth shut.
