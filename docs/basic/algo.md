@@ -31,6 +31,10 @@
 * [![](logo/av.png ':size=16')Algorithm Visualizer](http://algorithm-visualizer.org  )
 * [![](logo/zhihu.svg)九种排序算法的可视化及比较 | 程序之心](https://zhuanlan.zhihu.com/p/34421623)
 
+## 加密算法
+
+- [![](logo/wechat.svg)漫话：如何给女朋友解释为什么12306会用户信息泄露（上）- 密码篇![](logo/star.svg)](https://mp.weixin.qq.com/s/DkHlZs1HgZmGC9r7WaEDeQ)
+
 ## 面试
 
 * [![](logo/jianshu.svg)【面试必备】手撕代码，你怕不怕？| 简书![](logo/star.svg)](https://www.jianshu.com/p/3f0cd7af370d)

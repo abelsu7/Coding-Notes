@@ -33,6 +33,7 @@
 - [![](logo/tinypng.ico ':size=16')TinyPNG 图片压缩工具](https://tinypng.com)
 - <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>提取网站图标：[![](logo/csdn.png ':size=16')利用公共api提取任意网站favicon.ico图标 | CSDN](https://blog.csdn.net/swanabin/article/details/46660433)
 - [![](logo/star.svg)QR Code Generator | Yeblon](https://yeblon.com)
+- [![](logo/github.svg)在线制作 sorry 为所欲为的 gif | Github![](logo/star.svg)](https://github.com/xtyxtyx/sorry)
 
 ```
 https://www.google.com/s2/favicons?domain=域名
@@ -62,10 +63,11 @@ https://www.google.com/s2/favicons?domain=域名
 * 提取部分 PDF 页面
 * [Text Tools - 转换大小写、统计字数 | Yeblon](https://yeblon.com/convert-case/)
 
-## SVG 图标
+## 图标
 
 * [![](logo/iconfont.svg)IconFont | 阿里巴巴矢量图标站![](logo/star.svg)](http://iconfont.cn)
 * [![](logo/icongram.png ':size=16')icongram![](logo/star.svg)](https://icongr.am)
+* [![](logo/logomakr.png ':size=16')LogoMakr | 在线制作 Logo![](logo/star.svg)](https://logomakr.com)
 
 ## Markdown 建站
 

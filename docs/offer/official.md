@@ -1,5 +1,7 @@
 ?> ![](https://notes.abelsu7.top/_media/shirt.svg ':no-zoom')校招官网汇总
 
+## 官网
+
 * [![](logo/alibaba-campus.ico ':size=16')阿里巴巴校园招聘](https://campus.alibaba.com/index.htm)
 * [![](logo/tencent.svg)腾讯校园招聘](https://join.qq.com/index.php)
 * [![](logo/netease.ico ':size=16')网易校园招聘（网易互联网/网易游戏）](https://campus.163.com/app/index)
@@ -20,3 +22,7 @@
 * 奇虎 360
 * 金山 WPS/金山云
 * 优酷土豆
+
+## 内推
+
+- [![](logo/github.svg)Job-Recommend 互联网内推信息 | CyC2018![](logo/star.svg)](https://github.com/CyC2018/Job-Recommend)

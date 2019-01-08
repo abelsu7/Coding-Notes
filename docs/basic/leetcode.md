@@ -8,6 +8,7 @@
 * [![](logo/star.svg)Thinking in Java Exercises | Hello SHEN](http://www.ciaoshen.com/thinkinginjava/)
 * [![](logo/github.svg)LeetCode Animation All in One | Github](https://github.com/MisterBooo/LeetCodeAnimation)
 * [![](logo/github.svg)Leetcode-Java 刷题之旅 | dingjikerbo![](logo/star.svg)](https://github.com/dingjikerbo/Leetcode-Java)
+* [![](logo/github.svg)awesome-java-leetcode | Blankj![](logo/star.svg)](https://github.com/Blankj/awesome-java-leetcode)
 
 ## 刷题计划
 

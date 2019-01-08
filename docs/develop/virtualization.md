@@ -91,9 +91,10 @@
 
 ### Kubernetes
 
-* Kubernetes 中文社区
-* [![](logo/wechat.svg)权威报告：40%的受访企业在生产环境中部署了Kubernetes | 阿里系统软件技术![](logo/star.svg)](https://mp.weixin.qq.com/s/XgtDh5s1JzstYM5iEkIaDQ)
-* [![](logo/wechat.svg)如何从零开始编写一个Kubernetes CRD | ServiceMesher![](logo/star.svg)](https://mp.weixin.qq.com/s/z_xM8QqpRUASDM1UyMzEeA)
+- [![](logo/wechat.svg)在 Kubernetes 中利用 kubevirt 以容器方式运行虚拟机 | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/HYLLOIByMlUvcpr8cL09ow)
+- Kubernetes 中文社区
+- [![](logo/wechat.svg)权威报告：40%的受访企业在生产环境中部署了Kubernetes | 阿里系统软件技术![](logo/star.svg)](https://mp.weixin.qq.com/s/XgtDh5s1JzstYM5iEkIaDQ)
+- [![](logo/wechat.svg)如何从零开始编写一个Kubernetes CRD | ServiceMesher![](logo/star.svg)](https://mp.weixin.qq.com/s/z_xM8QqpRUASDM1UyMzEeA)
 
 ### OpenShift
 
@@ -145,6 +146,7 @@
 
 ### 文章资讯
 
+- [![](logo/wechat.svg)手机正在抢走电脑的饭碗 | 浅黑科技![](logo/star.svg)](https://mp.weixin.qq.com/s/lklR3yBGp60BdUOfocRluw)
 - [![](logo/51cto.ico ':size=16')云原生桌面：虚拟桌面的解构与重新定义 | 51CTO](http://virtual.51cto.com/art/201808/581802.htm)
 - [![](logo/csdn.ico ':size=16')我理解的云桌面（或桌面云）| 张文剑](https://blog.csdn.net/u010766821/article/details/54959170)
 - [锐捷网络云桌面产品全面升级 | 阿里云栖社区](https://yq.aliyun.com/articles/581032)

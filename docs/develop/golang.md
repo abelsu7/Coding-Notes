@@ -37,6 +37,10 @@
 
 - [![](logo/flysnow.ico ':size=16')Go 语言 IDE GoLand 激活最新版 | 飞雪无情的博客](https://www.flysnow.org/2018/10/01/golang-ide-goland-activate.html)
 
+## 文章
+
+- [![](logo/wechat.svg)Go语言经典库使用分析（七）- 高性能可扩展HTTP路由httprouter | 飞雪无情![](logo/star.svg)](https://mp.weixin.qq.com/s/Q2-60p_KU0AgbvtPu7CMRw)
+
 ## 资讯
 
 - [![](logo/wechat.svg)解读 Go 语言的 2018：怎么就在中国火成这样了？| InfoQ![](logo/star.svg)](https://mp.weixin.qq.com/s/cIU9_BFf1J6dbHzQSDS66Q)

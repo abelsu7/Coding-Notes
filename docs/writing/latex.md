@@ -39,3 +39,4 @@ y & \ -2.1 & -0.9 & -0.6 & 0.6 \\
 * [![](logo/csdn.ico ':size=16')Latex 排版技巧 1——数学公式对齐 | CSDN![](logo/star.svg)](https://blog.csdn.net/u012675539/article/details/47068017)
 * [![](logo/csdn.ico ':size=16')MathJax笔记-精简打印版 | CSDN![](logo/star.svg)](https://blog.csdn.net/zlxtk/article/details/53609407)
 * [![](logo/cnblogs.svg)向量范数和矩阵范数 | 博客园](http://www.cnblogs.com/Elaine-DWL/p/9426002.html)
+* [![](logo/wechat.svg)如何优雅地用 Atom + LaTeX 做毕业设计？| LeetCode 力扣![](logo/star.svg)](https://mp.weixin.qq.com/s/mqsXHhoZe7XLcMQPR41bOg)

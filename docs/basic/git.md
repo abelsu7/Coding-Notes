@@ -55,6 +55,7 @@ git branch -av
 * [![](logo/git.svg)learngitbranching.js.org![](logo/star.svg)](https://learngitbranching.js.org)
 * [![](logo/wechat.svg)Double Kill，用玩游戏的方式来学习 Git | 吴小龙同学![](logo/star.svg)](https://mp.weixin.qq.com/s/xf1vqsMpD5HcbYB_DRghEA)
 * [![](logo/wechat.svg)网易工程师 Ruheng 一文教你轻松学会 Git | 码洞![](logo/star.svg)](https://mp.weixin.qq.com/s/alB76HmbOzvc21srLOuoRw)
+* [![](logo/wechat.svg)技巧-Git Alias 让你事半功倍 | 逅弈逐码![](logo/star.svg)](https://mp.weixin.qq.com/s/IrkIeYlL9Hsysgq-RoMuVg)
 
 ## Github 收集
 
