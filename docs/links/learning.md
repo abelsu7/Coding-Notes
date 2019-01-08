@@ -2,6 +2,8 @@
 > **Last Update**: `2018-11-16` <br>
 > **更新中…**
 
+## 在线教程
+
 * [![](logo/cainiao.ico ':size=16')菜鸟教程![](https://notes.abelsu7.top/_media/star.svg)](http://www.runoob.com)
 * Gitbook
 * 极客时间
@@ -10,3 +12,7 @@
 * 图灵小册
 * 豆瓣阅读
 * PDF 电子书
+
+## 电子书
+
+- 方志朋的电子书合集
