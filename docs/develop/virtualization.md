@@ -1,6 +1,6 @@
 ?> ![](logo/redhat.svg ':no-zoom')虚拟化
 
-## 虚拟机 VM
+## 虚拟机【VM】
 
 ### Red Hat 技术文档
 
@@ -76,7 +76,7 @@
 
 ## SPICE
 
-## 容器 Container
+## 容器【Container】
 
 ### 常用官网
 
@@ -84,21 +84,26 @@
 - play with docker
 - [![](logo/star.svg)浙江大学 SEL 实验室](http://www.sel.zju.edu.cn)
 
-### Docker
+### 文章资讯
+
+- [![](logo/wechat.svg)容器在公有云上的落地姿势 | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/Hj__5SwxXShyXj4bmu3jhw)
+
+## Docker
 
 * [![](logo/github.svg)awesome-docker | Docker resources and projects](http://wedocker.com)
 * pwd
 * [![](logo/wechat.svg)基于Docker的动态工具：通常被忽视的最佳实践 | 云技术](https://mp.weixin.qq.com/s/8QnYw6y702DjYk9TYH_jsw)
 * [![](logo/infoq.png ':size=16')最全的 50+ 易用 Docker 工具列表指南 | InfoQ![](logo/star.svg)](https://www.infoq.cn/article/C*aZiIsuHT9jJTjzicYE)
 
-### Kubernetes
+## Kubernetes
 
 - [![](logo/wechat.svg)在 Kubernetes 中利用 kubevirt 以容器方式运行虚拟机 | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/HYLLOIByMlUvcpr8cL09ow)
+- [![](logo/wechat.svg)技术实录 - 深入浅出话etcd 集群运维 | 灵雀云![](logo/star.svg)](https://mp.weixin.qq.com/s/WLA3-BxWngWRXSZa3TBQYw)
 - Kubernetes 中文社区
 - [![](logo/wechat.svg)权威报告：40%的受访企业在生产环境中部署了Kubernetes | 阿里系统软件技术![](logo/star.svg)](https://mp.weixin.qq.com/s/XgtDh5s1JzstYM5iEkIaDQ)
 - [![](logo/wechat.svg)如何从零开始编写一个Kubernetes CRD | ServiceMesher![](logo/star.svg)](https://mp.weixin.qq.com/s/z_xM8QqpRUASDM1UyMzEeA)
 
-### OpenShift
+## OpenShift
 
 * [![](logo/chenshake.ico ':size=16')OpenShift 3.9 All in One | 陈沙克日志![](logo/star.svg)](http://www.chenshake.com/openshift-3-9-all-in-one/)
 * [![](logo/wechat.svg)理解OpenShift-1：网络之 Router 和 Route | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/F0ZMMID75wHhpqdps6p8dw)
@@ -107,17 +112,13 @@
 * [![](logo/wechat.svg)理解OpenShift-4：用户及权限管理 | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/pklFXKk5f4X-P7KSJiwAYA)
 * [![](logo/wechat.svg)理解OpenShfit-5：从 Docker Volume 到 OpenShift Persistent Volume![](logo/star.svg)](https://mp.weixin.qq.com/s/znXnuV3gS9l-2ibz_WbcxQ)
 
-### PouchContainer
+## PouchContainer
 
 * [![](logo/wechat.svg)技术解析系列 | PouchContainer 富容器技术![](logo/star.svg)](https://mp.weixin.qq.com/s/M98lQZAKFjtvs3XUDm4olA)
 
-### Dragonfly
+## Dragonfly
 
 - [![](logo/wechat.svg)浙江移动容器云基于 Dragonfly 的统一文件分发平台生产实践 | 阿里系统软件技术![](logo/star.svg)](https://mp.weixin.qq.com/s/0PRitK9bqcMr88lOOw5aKQ)
-
-### 文章资讯
-
-- [![](logo/wechat.svg)容器在公有云上的落地姿势 | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/Hj__5SwxXShyXj4bmu3jhw)
 
 ## 桌面虚拟化
 

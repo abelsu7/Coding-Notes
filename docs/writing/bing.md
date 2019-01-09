@@ -2,6 +2,12 @@
 
 ## Jan. 2019
 
+### Jan. 9
+
+> Never frown, even when you are sad, because you never know who is falling in love with your smile.
+>
+> 纵然伤心，也不要愁眉不展，因为总会有人爱上你的笑容。
+
 ### Jan. 8
 
 > The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.

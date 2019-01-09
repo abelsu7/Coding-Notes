@@ -83,6 +83,7 @@
 
 ### Spring Boot
 
+- 方志朋的文章汇总
 - [![](logo/wechat.svg)有了 Spring Boot，为什么还要懂 Spring MVC？| GitChat](https://mp.weixin.qq.com/s/0PGDG_uedpPWFgAh1B5hAA)
 - [![](logo/wechat.svg)SpringBoot 究竟是如何跑起来的? | 码洞![](logo/star.svg)](https://mp.weixin.qq.com/s/WQNF0S9jKlWI0lC2a4YyhQ)
 - [![](logo/ityouknow.ico ':size=16')是时候给大家介绍 Spring Boot/Cloud 背后豪华的研发团队了 | 纯洁的微笑](http://www.ityouknow.com/springboot/2019/01/03/spring-pivotal.html)
@@ -93,9 +94,11 @@
 - [Spring Boot 开源电子书![](logo/star.svg)](https://boot.ityouknow.com)
 - [![](logo/github.svg)spring-boot-examples | Github](https://github.com/ityouknow/spring-boot-examples)
 - [![](logo/github.svg)云收藏 Spring Boot 2.0 开源项目 | Github![](logo/star.svg)](https://github.com/cloudfavorites/favorites-web)
+- [![](logo/jianshu.svg)Spring Boot 布道系列 - 目录汇总![](logo/star.svg)](https://www.jianshu.com/p/964370d9374e)
 
 ### Spring Cloud
 
+- 方志朋的文章汇总
 - [![](logo/ityouknow.ico ':size=16')Spring Cloud 系列文章 | 纯洁的微笑![](logo/star.svg)](http://www.ityouknow.com/spring-cloud.html)
 - [![](logo/ityouknow.ico ':size=16')springcloud学习资料汇总 | 纯洁的微笑![](logo/star.svg)](http://www.ityouknow.com/springcloud/2016/12/30/springcloud-collect.html)
 - [![](logo/spring.png ':size=16')Spring Cloud 中文索引![](logo/star.svg)](http://springcloud.fun)

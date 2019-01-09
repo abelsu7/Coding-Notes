@@ -78,7 +78,9 @@
 
 ## 字符编码
 
-* [![](logo/zhihu.svg)程序员必备：彻底弄懂常见的7种中文字符编码 | 腾讯码农![](logo/star.svg)](https://zhuanlan.zhihu.com/p/46216008)
+- [![](logo/wechat.svg)文字与编码的奥妙（上）| 码洞![](logo/star.svg)](https://mp.weixin.qq.com/s/gPZadjfaUvymu9BciMTGNg)
+- [![](logo/wechat.svg)文字与编码的奥秘（下）| 码洞![](logo/star.svg)](https://mp.weixin.qq.com/s/1WgPOyTXktTyD_zfV6rp1w)
+- [![](logo/zhihu.svg)程序员必备：彻底弄懂常见的7种中文字符编码 | 腾讯码农![](logo/star.svg)](https://zhuanlan.zhihu.com/p/46216008)
 
 ## 写作技巧
 
