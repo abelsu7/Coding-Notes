@@ -43,6 +43,8 @@
 ## 底层原理
 
 - [![](logo/wechat.svg)底层原理 - 码农有道![](logo/star.svg)](https://mp.weixin.qq.com/s/OzpgmcCjabT7bKPf1txK4g)
+- [![](logo/ruanyifeng.ico ':size=16')计算机是如何启动的？| 阮一峰![](logo/star.svg)](http://www.ruanyifeng.com/blog/2013/02/booting.html)
+- [![](logo/ruanyifeng.ico ':size=16')Linux 的启动流程 | 阮一峰![](logo/star.svg)](http://www.ruanyifeng.com/blog/2013/08/linux_boot_process.html)
 
 ## CentOS 运维
 
