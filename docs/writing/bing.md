@@ -6,7 +6,7 @@
 
 > When you have much enough, you must accept that you could have little someday.
 >
-> 当你拥有一切时，做好在未来失去一切的心理准备。
+> 当你现在拥有一切时，做好在未来失去一切的心理准备。
 
 ### Jan. 9
 

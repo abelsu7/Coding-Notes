@@ -18,6 +18,16 @@
 
 ## Redis
 
+### 常用命令
+
+```bash
+redis-server redis.conf
+redis-cli shutdown
+127.0.0.1:6379> info replication
+```
+
+### 文章教程
+
 - [![](logo/wechat.svg)从零单排学Redis【铂金一】| Java3y](https://mp.weixin.qq.com/s/6nBUoP2cid1Qn8XngDMjJw)
 - [![](logo/wechat.svg)从零单排学Redis【铂金二】| Java3y](https://mp.weixin.qq.com/s/JfARRZW9xxiPqfcPM4iAYQ)
 - [![](logo/wechat.svg)Redis从入门到精通：初级篇 | 五月的仓颉](https://mp.weixin.qq.com/s/TrEcIW0DIgncpdQ00hAVSw)
