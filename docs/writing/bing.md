@@ -2,11 +2,17 @@
 
 ## Jan. 2019
 
+### Jan. 11
+
+> Each man is the architect of his own fate.
+>
+> 每个人都是自己命运的建筑师。
+
 ### Jan. 10
 
 > When you have much enough, you must accept that you could have little someday.
 >
-> 当你现在拥有一切时，做好在未来失去一切的心理准备。
+> 当你现在拥有一切时，做好在未来失去一切的准备。
 
 ### Jan. 9
 
