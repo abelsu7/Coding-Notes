@@ -8,6 +8,7 @@
 - [yafeilinux | Qt开源社区](http://www.qter.org/)
 - [![](logo/wechat.svg)C语言入坑指南-被遗忘的初始化 | 编程珠玑](https://mp.weixin.qq.com/s?__biz=MzI2OTA3NTk3Ng==&mid=2649284087&idx=1&sn=79f48f41712b19f806e79bce1084f0ec&chksm=f2f9ae90c58e27867220b81940ad03b1b6defe46ba3ffcec85c9cf69e68b36629afa96e09869&scene=21#wechat_redirect)
 - [![](logo/wechat.svg)C++札记 - 码农有道![](logo/star.svg)](https://mp.weixin.qq.com/s/OzpgmcCjabT7bKPf1txK4g)
+- [![](logo/github.svg)C 语言经典示例代码![](logo/star.svg)](https://github.com/Mzzopublic/C/tree/master/经典示例)
 
 ## Python
 

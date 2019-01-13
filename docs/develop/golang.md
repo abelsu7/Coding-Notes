@@ -39,10 +39,14 @@
 
 ## 文章
 
+- [![](logo/flysnow.ico ':size=16')Go语言(golang)的错误(error)处理的推荐方案 | 飞雪无情![](logo/star.svg)](https://www.flysnow.org/2019/01/01/golang-error-handle-suggestion.html)
+- [![](logo/flysnow.ico ':size=16')Go语言slice的本质-SliceHeader | 飞雪无情![](logo/star.svg)](https://www.flysnow.org/2018/12/21/golang-sliceheader.html)
 - [![](logo/wechat.svg)Go语言经典库使用分析（七）- 高性能可扩展HTTP路由httprouter | 飞雪无情![](logo/star.svg)](https://mp.weixin.qq.com/s/Q2-60p_KU0AgbvtPu7CMRw)
+- [![](logo/flysnow.ico ':size=16')Go语言经典库使用分析（七）- 高性能可扩展 HTTP 路由 httprouter | 飞雪无情![](logo/star.svg)](https://www.flysnow.org/2019/01/07/golang-classic-libs-httprouter.html)
 
 ## 资讯
 
+- [![](logo/flysnow.ico ':size=16')Go语言 | 哪些大公司在用go语言？| 飞雪无情![](logo/star.svg)](https://www.flysnow.org/2017/09/13/go-for-company.html)
 - [![](logo/wechat.svg)解读 Go 语言的 2018：怎么就在中国火成这样了？| InfoQ![](logo/star.svg)](https://mp.weixin.qq.com/s/cIU9_BFf1J6dbHzQSDS66Q)
 - [![](logo/flysnow.ico ':size=16')【译】Go 语言实践：编写可维护的程序的建议 | 飞雪无情的博客](https://www.flysnow.org/2018/12/04/golang-the-go-best-presentations.html)
 
