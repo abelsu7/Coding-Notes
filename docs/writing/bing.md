@@ -2,6 +2,18 @@
 
 ## Jan. 2019
 
+### Jan. 13
+
+> Fate whispers to the warrior, “You cannot withstand the storm”. And the warrior whispers back, “I am the storm.”
+> 
+> 命运对勇士低语：你无法抵御风暴；勇士低语回应：我就是风暴。
+
+### Jan. 12
+
+> The darkest skies produce the brightest stars.
+> 
+> 最深的夜才有最亮的星。
+
 ### Jan. 11
 
 > Each man is the architect of his own fate.
