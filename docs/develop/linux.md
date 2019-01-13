@@ -8,6 +8,13 @@
 - [Tecmint]()
 - [mixCraft]()
 
+## 软件推荐
+
+- tmux
+- ~~screen~~
+- glances
+- htop
+
 ## Linux 官网
 
 * [Linux.org](https://www.linux.org/)

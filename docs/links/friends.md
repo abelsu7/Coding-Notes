@@ -28,6 +28,7 @@
 
 | 名称 | 博主 | 备注 |
 | :-- | :-- | :-- |
+| [![](logo/linux.svg)Kumu's page](https://opskumu.com) | [Kumu](https://github.com/opskumu) | PaaS 平台研发，k8s、Docker、Go、Linux |
 | [![](logo/flysnow.ico ':size=16')飞雪无情](https://www.flysnow.org)<img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img> | 飞雪无情 | Android资深工程师 ，Go/Java |
 | [![](logo/madong.jpg ':size=16')码洞](https://zhuanlan.zhihu.com/codehole)<img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img> | 钱文品 | 掌阅资深后端工程师 |
 | [![](logo/yudao.ico ':size=16')芋道源码](http://www.iocoder.cn) | | 纯源码解析博客 |

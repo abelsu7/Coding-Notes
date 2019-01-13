@@ -17,5 +17,5 @@
 | **Ctrl+E** | 查看最近的文件 |
 | **Ctrl+N** | Find a class, file, or symbol |
 | **Ctrl+Y** | 删除选中行 |
-| **Ctrl+W/Ctrl+Shift+W** | Extend or shrink selection |
+| **Ctrl+(Shift)+W** | Extend or shrink selection |
 | **Ctrl+Shift+F7** | Highlight usages in a file |
