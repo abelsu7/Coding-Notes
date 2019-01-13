@@ -1,4 +1,4 @@
-?> ![](https://notes.abelsu7.top/_media/redis.svg ':no-zoom')数据库
+?> ![](logo/redis.svg ':no-zoom')数据库
 
 ## SQL 优化
 
@@ -28,6 +28,9 @@ redis-cli shutdown
 
 ### 文章教程
 
+- [![](logo/redis.svg)Redis![](logo/star.svg)](https://redis.io/)
+- [![](logo/redis.svg)Try Redis![](logo/star.svg)](http://try.redis.io/)
+- [![](logo/pdf.svg)Redis Cheat Sheat](https://www.cheatography.com/tasjaevan/cheat-sheets/redis/)
 - [![](logo/wechat.svg)从零单排学Redis【铂金一】| Java3y](https://mp.weixin.qq.com/s/6nBUoP2cid1Qn8XngDMjJw)
 - [![](logo/wechat.svg)从零单排学Redis【铂金二】| Java3y](https://mp.weixin.qq.com/s/JfARRZW9xxiPqfcPM4iAYQ)
 - [![](logo/wechat.svg)Redis从入门到精通：初级篇 | 五月的仓颉](https://mp.weixin.qq.com/s/TrEcIW0DIgncpdQ00hAVSw)
