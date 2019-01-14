@@ -2,6 +2,12 @@
 
 ## Jan. 2019
 
+### Jan. 14
+
+> Life was like a box of chocolate, you never know what you're gonna get.
+>
+> 生活就像一盒巧克力，结果往往出人意料。
+
 ### Jan. 13
 
 > Fate whispers to the warrior, “You cannot withstand the storm”. And the warrior whispers back, “I am the storm.”
