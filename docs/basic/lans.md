@@ -26,6 +26,10 @@
 - [Python and Qt: simplified! | fman build system](https://build-system.fman.io)
 - [![](logo/wechat.svg)原来，微信也能开外挂 | 一个程序员的日常![](logo/star.svg)](https://mp.weixin.qq.com/s/QGHtwpQofipw81b9z9uEFQ)
 
+## .Net
+
+- 微软 Try .NET
+
 ## 正则表达式
 
 - [![](logo/wechat.svg)让人欢喜让人忧的正则表达式 | 逅羿逐码![](logo/star.svg)](https://mp.weixin.qq.com/s/-4P4OM5JOKSeg58VLPHiFA)

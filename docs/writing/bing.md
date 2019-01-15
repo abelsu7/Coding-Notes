@@ -2,6 +2,12 @@
 
 ## Jan. 2019
 
+### Jan. 15
+
+> Courage is not the absence of fear, but rather the judgment that something else is more important than fear.
+>
+> 勇气不是毫无畏惧，而是心中有信念。
+
 ### Jan. 14
 
 > Life was like a box of chocolate, you never know what you're gonna get.

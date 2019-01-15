@@ -14,6 +14,11 @@
 - ~~screen~~
 - glances
 - htop
+- tree
+- rinetd
+- aria2
+- fish
+- Tuptime
 
 ## Linux 官网
 
