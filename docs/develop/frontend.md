@@ -5,6 +5,7 @@
 ## 前端社区
 
 * [![](logo/awesome.ico ':size=16')Awesomes.cn | 前端 Github 库的归档和中文文档](https://www.awesomes.cn)
+* [www.jqhtml.com](https://www.jqhtml.com)
 
 ## 前端框架
 

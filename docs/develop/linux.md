@@ -20,6 +20,12 @@
 - fish
 - Tuptime
 
+## Bash 命令
+
+- dig
+- scp
+- pwd
+
 ## Linux 官网
 
 * [Linux.org](https://www.linux.org/)

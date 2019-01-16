@@ -2,6 +2,12 @@
 
 ## Jan. 2019
 
+### Jan. 16
+
+> It is very simple to be happy, but it is very difficult to be simple. Rabindranath Tagore.
+>
+> 快乐其实很简单，但简单却并不简单
+
 ### Jan. 15
 
 > Courage is not the absence of fear, but rather the judgment that something else is more important than fear.

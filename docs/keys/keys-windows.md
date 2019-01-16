@@ -16,6 +16,15 @@
 | **Shift+滚轮** | 水平方向滚动 |
 | **F2** | 重命名 |
 
+## CMD 命令
+
+```cmd
+tasklist
+regedit
+taskschd.msc
+gpedit.msc
+```
+
 ## 推荐软件
 
 - [![](logo/tweaker.png ':size=16')7+ Taskbar Tweaker | 解除状态栏靠左时最小宽度的限制![](logo/star.svg)](https://rammichael.com/7-taskbar-tweaker)
