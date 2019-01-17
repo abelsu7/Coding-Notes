@@ -2,6 +2,12 @@
 
 ## Jan. 2019
 
+### Jan. 17
+
+> Life is like riding a bicycle. To keep your balance, you must keep moving. Albert Einstein
+>
+> 人生就像骑脚踏车，为了保持平衡，必须步履不停。
+
 ### Jan. 16
 
 > It is very simple to be happy, but it is very difficult to be simple. Rabindranath Tagore.
