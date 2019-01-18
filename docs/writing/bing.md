@@ -2,17 +2,23 @@
 
 ## Jan. 2019
 
+### Jan. 18
+
+> The shortest way to do many things is to do one thing at a time.
+>
+> 专注是成功的捷径。
+
 ### Jan. 17
 
 > Life is like riding a bicycle. To keep your balance, you must keep moving. Albert Einstein
 >
-> 人生就像骑脚踏车，为了保持平衡，必须步履不停。
+> 人生就像骑脚踏车，为了保持平衡，必须步履不停。——阿尔伯特·爱因斯坦
 
 ### Jan. 16
 
 > It is very simple to be happy, but it is very difficult to be simple. Rabindranath Tagore.
 >
-> 快乐其实很简单，但简单却并不简单
+> 快乐其实很简单，但简单却并不简单。——泰戈尔
 
 ### Jan. 15
 

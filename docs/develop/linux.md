@@ -25,6 +25,7 @@
 - dig
 - scp
 - pwd
+- iftops
 
 ## Linux 官网
 
