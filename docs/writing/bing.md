@@ -2,6 +2,18 @@
 
 ## Jan. 2019
 
+### Jan. 20
+
+> Everyone has talent. What is rare is the courage to follow the talent to the dark place where it leads.
+>
+> 人人都有天赋。罕见的是甘愿跟随天赋、尝尽人间甘苦的勇气。
+
+### Jan. 19
+
+> Nothing is impossible, the word itself says "I'm possible"!
+>
+> 没有不可能，连这个词自己都说：“不，可能！”
+
 ### Jan. 18
 
 > The shortest way to do many things is to do one thing at a time.
