@@ -1,6 +1,110 @@
 ?> ![](https://notes.abelsu7.top/_media/bing.svg ':no-zoom')必应词典精选
 
+## Feb. 2019
+
+### Feb. 6
+
+> Learn from yesterday, live for today, hope for tomorrow.
+>
+> 借鉴昨天，活在今天，憧憬明天。
+
+### Feb. 5
+
+> Pain is only aware of their own has not changed only you know.
+>
+> 痛不痛只有自己知道。
+
+### Feb. 4
+
+> One's real value first lies in to what degree and what sense he set himself.
+>
+> 一个人的真正价值在于对自我的理解与认知程度。
+
+### Feb. 3
+
+> The man who has made up his mind to win will never say "impossible".
+> 
+> 对于决心取胜的人而言，字典中没有不可能。
+
+### Feb. 2
+
+> I am a slow walker, but I never walk backwards.
+>
+> 我走的很慢，但从不后退。
+
+### Feb. 1
+
+> Every noble work is at first impossible.
+> 
+> 每一个伟大的工程最初看起来都是不可能战胜的挑战。
+
 ## Jan. 2019
+
+### Jan. 31
+
+> Difficult circumstances serve as a textbook of life for people.
+> 
+> 困难坎坷教会人们如何生活。
+
+### Jan. 30
+
+> Do one thing at a time, and do it well.
+>
+> 一次只做一件事，并做到最好。
+
+### Jan. 29
+
+> People who cannot find time for recreation are obliged sooner or later to find time for illness.
+>
+> 腾不出时间娱乐的人，早晚会被迫腾出时间生病。
+
+### Jan. 28
+
+> Do not keep anything for a special occasion, because every day that you live is a special occasion.
+> 
+> 无需将某些事预留给特别的时刻，因为生活中的每一天都是独一无二的精彩。
+
+### Jan. 27
+
+> A man is not old as long as he is seeking something. A man is not old until regrets take the place of dreams.
+>
+> 只要一个人还有追求，他就没有老。而当后悔取代了梦想，它就不再年起。
+
+### Jan. 26
+
+> The unexamined life is not worth living.
+> 
+> 浑浑噩噩的人间不值得。
+
+### Jan. 25
+
+> Those who turn back never reach the summit.
+>
+> 回头的人永远无法到达最高峰。
+
+### Jan. 24
+
+> Only they who fulfill their duties in everyday matters will fulfill them on great occasions.
+> 
+> 只有在日常生活中尽责的人才会在重大时刻尽责。
+
+### Jan. 23
+
+> The world is like a mirror: Frown at it and it frowns at you. Smile, and it smiles too.
+> 
+> 世界就像一面镜子：你怎样对待生活，生活就怎样对待你。
+
+### Jan. 22
+
+> Logic will get you from A to B. Imagination will take you everywhere.
+> 逻辑会带你从 A 点到达 B 点，想象力将你带到任何地方。
+
+
+### Jan. 21
+
+> Intelligence is not to make no mistakes, but to see quickly how to make them good.
+>
+> 聪明不代表不会犯错，而是立即发掘出如何从中获益。
 
 ### Jan. 20
 
