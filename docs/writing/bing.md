@@ -2,6 +2,18 @@
 
 ## Feb. 2019
 
+### Feb. 8
+
+> Accept what was and what is, and you’ll have more positive energy to pursue what will be.
+>
+> 接受过去和现在的模样，才会有能量去追寻自己的未来。
+
+### Feb. 7
+
+> Living without an aim is like sailing without a compass.
+> 
+> 生活没有目标，犹如航海没有罗盘。
+
 ### Feb. 6
 
 > Learn from yesterday, live for today, hope for tomorrow.
