@@ -102,6 +102,8 @@ docker exec -it [CONTAINER ID] /bin/bash
 * pwd
 * [![](logo/wechat.svg)基于Docker的动态工具：通常被忽视的最佳实践 | 云技术](https://mp.weixin.qq.com/s/8QnYw6y702DjYk9TYH_jsw)
 * [![](logo/infoq.png ':size=16')最全的 50+ 易用 Docker 工具列表指南 | InfoQ![](logo/star.svg)](https://www.infoq.cn/article/C*aZiIsuHT9jJTjzicYE)
+* [![](logo/github.svg)docker_practice | yeasy](https://github.com/yeasy/docker_practice)
+* [![](logo/github.svg)Docker — 从入门到实践 | GitBook![](logo/star.svg)](https://legacy.gitbook.com/book/yeasy/docker_practice/details)
 
 ## Kubernetes
 

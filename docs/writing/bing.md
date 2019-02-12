@@ -2,6 +2,36 @@
 
 ## Feb. 2019
 
+### Feb. 13
+
+> At twenty years of age, the will reigns. At thirty, the wit. And at forty, the judgement.
+> 
+> 二十岁时起支配作用的是意志，三十岁时是机智，四十岁时是判断。
+
+### Feb. 12
+
+> Until you make peace with who you are, you’ll never be content with what you have.
+> 
+> 除非你能接受真实的自己，否则你永远不会对已拥有的事物感到满足。
+
+### Feb. 11
+
+> Great works are performed not by strengh, but by perseverance.
+>
+> 完成伟大的事业不在于体力，而在于坚韧不拔的毅力。
+
+### Feb. 10
+
+> Life consists not in holding good cards but in playing those you hold well.
+> 
+> 人生不在于抓到一副好牌，而在于打好你手里的牌。
+
+### Feb. 9
+
+> Live a noble and honest life. Reviving past times in your old age will help you to enjoy your life again.
+>
+> 过一种高尚而诚实的生活。当你年老时回想起过去，你就能再一次享受人生。
+
 ### Feb. 8
 
 > Accept what was and what is, and you’ll have more positive energy to pursue what will be.

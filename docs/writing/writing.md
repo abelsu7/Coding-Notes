@@ -115,3 +115,4 @@
 ### Hexo 主题
 
 - [hexo-theme-matery | Five-great 的博客](https://five-great.coding.me/zhu-ti-shuo-ming.html)
+- [Hexo博客(08)Hexo主题分析 | masikkk](http://masikkk.com/article/hexo-8-theme-analysis/)

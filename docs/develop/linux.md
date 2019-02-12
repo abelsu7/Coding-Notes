@@ -98,6 +98,8 @@ yum install epel-release
 - [Linux命令大全](http://man.linuxde.net)
 - [Shell正则表达式 | Linux命令大全](http://man.linuxde.net/docs/shell_regex.html)
 - [Linux Shell脚本攻略 | Linux命令大全](http://man.linuxde.net/shell-script)
+- [![](logo/xiaotudao.ico ':size=16')Linux 常用操作指南 | 小土刀![](logo/star.svg)](https://wdxtub.com/2017/07/10/linux-operation-guide/)
+- [![](logo/github.svg)程序猿成长计划 | Github![](logo/star.svg)](https://github.com/mylxsw/growing-up)
 
 ### Shell 编程
 
@@ -115,6 +117,8 @@ yum install epel-release
 * [![](logo/cnblogs.svg)yum和apt-get用法及区别 | 小菜鸟![](logo/star.svg)](https://www.cnblogs.com/garinzhang/p/diff_between_yum_apt-get_in_linux.html)
 * [![](logo/wechat.svg)如何用九条命令在一分钟内检查 Linux 服务器性能？| 芋道源码![](logo/star.svg)](https://mp.weixin.qq.com/s/WlOQauIxi3iJ0FUB2EpNGw)
 * [![](logo/zhihu.svg)如何用九条命令在一分钟内检查Linux服务器性能？](https://zhuanlan.zhihu.com/p/30779538)
+* [![](logo/github.svg)三十分钟学会 AWK | 程序员成长计划![](logo/star.svg)](https://github.com/mylxsw/growing-up/blob/master/doc/%E4%B8%89%E5%8D%81%E5%88%86%E9%92%9F%E5%AD%A6%E4%BC%9AAWK.md)
+* [![](logo/github.svg)三十分钟学会SED | 程序员成长计划![](logo/star.svg)](https://github.com/mylxsw/growing-up/blob/master/doc/%E4%B8%89%E5%8D%81%E5%88%86%E9%92%9F%E5%AD%A6%E4%BC%9ASED.md)
 
 ## 开源镜像站
 
@@ -144,6 +148,7 @@ yum install epel-release
 
 ## 监控分析
 
+* [![](logo/star.svg)Glances | 跨平台监控工具](https://nicolargo.github.io/glances/)
 * [UptimeRobot](https://uptimerobot.com)
 * [Grafana](http://docs.grafana.org)
 * [![](https://notes.abelsu7.top/_media/star.svg)5分钟搭建网站实时分析：Grafana+日志服务实战 | 阿里云栖社区](https://yq.aliyun.com/articles/227006#20)
