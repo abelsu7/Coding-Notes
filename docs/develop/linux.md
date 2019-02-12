@@ -119,6 +119,8 @@ yum install epel-release
 * [![](logo/zhihu.svg)如何用九条命令在一分钟内检查Linux服务器性能？](https://zhuanlan.zhihu.com/p/30779538)
 * [![](logo/github.svg)三十分钟学会 AWK | 程序员成长计划![](logo/star.svg)](https://github.com/mylxsw/growing-up/blob/master/doc/%E4%B8%89%E5%8D%81%E5%88%86%E9%92%9F%E5%AD%A6%E4%BC%9AAWK.md)
 * [![](logo/github.svg)三十分钟学会SED | 程序员成长计划![](logo/star.svg)](https://github.com/mylxsw/growing-up/blob/master/doc/%E4%B8%89%E5%8D%81%E5%88%86%E9%92%9F%E5%AD%A6%E4%BC%9ASED.md)
+* [![](logo/zhihu.svg)优秀的命令行工具整理 （一）| LeanCloud 技术专栏](https://zhuanlan.zhihu.com/p/54946696)
+* [![](logo/ibm.svg)linux 技巧：使用 screen 管理你的远程会话 | IBM Developer](https://www.ibm.com/developerworks/cn/linux/l-cn-screen/)
 
 ## 开源镜像站
 
@@ -148,6 +150,8 @@ yum install epel-release
 
 ## 监控分析
 
+* [11 Methods To Find System/Server Uptime In Linux | 2DayGeek![](logo/star.svg)](https://www.2daygeek.com/11-methods-to-find-check-system-server-uptime-in-linux/)
+* [Tuptime – A Tool To Report The Historical And Statistical Running Time Of Linux System](https://www.2daygeek.com/tuptime-a-tool-to-report-the-historical-and-statistical-running-time-of-linux-system/)
 * [![](logo/star.svg)Glances | 跨平台监控工具](https://nicolargo.github.io/glances/)
 * [UptimeRobot](https://uptimerobot.com)
 * [Grafana](http://docs.grafana.org)

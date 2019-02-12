@@ -8,6 +8,8 @@
 - [![](logo/flysnow.ico ':size=16')The Go Playground | 飞雪无情![](logo/star.svg)](http://play.flysnow.org)
 - [![](logo/googledevelopers.png ':size=16')Google Developers](https://developers.google.cn)
 - [![](logo/github.svg)Go Tools Mirror](https://github.com/golang/tools)
+- [![](logo/gocn.ico ':size=16')Go 语言中文网![](logo/star.svg)](https://studygolang.com)
+- [![](logo/github.svg)GoAndBlockChainStudy | Github![](logo/star.svg)](https://github.com/wumansgy/GoAndBlockChainStudy)
 
 ## Go 语言教程
 
@@ -52,6 +54,7 @@
 
 ## 轮子
 
+- [![](logo/zhihu.svg)GoTTY：基于go语言的Linux终端Web共享![](logo/star.svg)](https://zhuanlan.zhihu.com/p/33422384)
 - [![](logo/github.svg)gotty | Share your terminal as a web application![](logo/star.svg)](https://github.com/yudai/gotty)
 - [![](logo/github.svg)wukong - 高度可定制的全文搜索引擎 | Github](https://github.com/huichen/wukong)
 - [![](logo/github.svg)Gobang - 五子棋 in Go | Github](https://github.com/hcrgm/Gobang-Go)

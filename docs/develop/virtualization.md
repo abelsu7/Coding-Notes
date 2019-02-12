@@ -24,6 +24,11 @@
 - [![](logo/51cto.ico ':size=16')虚拟化频道 | 51CTO![](logo/star.svg)](http://virtual.51cto.com)
 - [![](logo/ibm.svg)IBM developer](https://www.ibm.com/developerworks/cn/)
 
+### 虚拟化资料
+
+- [![](logo/zhihu.svg)速懂X86虚拟化关键概念 - Intel VT-d | 罗浩](https://zhuanlan.zhihu.com/p/41466471)
+- [![](logo/zhihu.svg)Xen V.S. KVM终于画上了一个完美的句号 | 罗浩](https://zhuanlan.zhihu.com/p/33324585)
+
 ## KVM
 
 ### 文章教程
@@ -54,7 +59,6 @@
 - [![](logo/51cto.ico ':size=16')19. convirt集中管理平台搭建![](logo/star.svg)](http://blog.51cto.com/koumm/1305553)
 - [![](logo/51cto.ico ':size=16')20. convirt安装linux系统![](logo/star.svg)](http://blog.51cto.com/koumm/1306526)
 - [![](logo/51cto.ico ':size=16')21. KVM性能优化学习笔记![](logo/star.svg)](http://blog.51cto.com/koumm/1606422)
-- 
 
 ### 管理工具
 
@@ -87,6 +91,10 @@
 ### 文章资讯
 
 - [![](logo/wechat.svg)容器在公有云上的落地姿势 | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/Hj__5SwxXShyXj4bmu3jhw)
+
+## OpenStack
+
+- [![](logo/zhihu.svg)Openstack学习：从创建配置虚拟机开始 | 罗浩![](logo/star.svg)](https://zhuanlan.zhihu.com/p/33422594)
 
 ## Docker
 
