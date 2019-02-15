@@ -2,6 +2,12 @@
 
 ## Feb. 2019
 
+### Feb. 16
+
+> Love is a lamp, while friendship is the shadow. When the lamp is off, you will find the shadow everywhere. Friend is who can give youstrength at last.
+> 
+> 爱情是灯，友情是影子，当灯灭了，你会发现你的周围都是影子。朋友，是在最后可以给你力量的人。
+
 ### Feb. 15
 
 > Difficult circumstances serve as a textbook of life for people.
