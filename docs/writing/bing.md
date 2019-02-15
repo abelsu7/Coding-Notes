@@ -2,6 +2,18 @@
 
 ## Feb. 2019
 
+### Feb. 15
+
+> Difficult circumstances serve as a textbook of life for people.
+>
+> 困难坎坷是人们的生活教科书。
+
+### Feb. 14
+
+> If you would hit the mark, you must aim a little above it. Every arrow that flies feels the attraction of earth.
+>
+> 要想射中靶，必须瞄准比靶略为高些，因为脱弦之箭都受到地心引力的影响。
+
 ### Feb. 13
 
 > At twenty years of age, the will reigns. At thirty, the wit. And at forty, the judgement.
