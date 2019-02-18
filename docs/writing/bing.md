@@ -2,6 +2,18 @@
 
 ## Feb. 2019
 
+### Feb. 18
+
+> A man is not old until regrets take the place of dreams.
+>
+> 当后悔取代了梦想，一个人才算老了。
+
+### Feb. 17
+
+> Initiative is doing the right thing without being told.
+>
+> 主动性就是在没有人告诉时做正确的事情。
+
 ### Feb. 16
 
 > Love is a lamp, while friendship is the shadow. When the lamp is off, you will find the shadow everywhere. Friend is who can give youstrength at last.
