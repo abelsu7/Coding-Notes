@@ -2,6 +2,42 @@
 
 ## Feb. 2019
 
+### Feb. 24
+
+> Calamity and prosperity are the touchstones of integrity.
+> 
+> 不幸与幸运都是正直的试金石。
+
+### Feb. 23
+
+> Don't aim for success if you want it. Just do what you love and believe in. It will come naturally.
+> 
+> 如果你想成功，不要刻意去追求。坚持做自己喜爱的事情，成功自然水到渠成。
+
+### Feb. 22
+
+> Knowledge makes humble, ignorance makes proud.
+>
+> 博学使人谦逊，无知使人骄傲。
+
+### Feb. 21
+
+> Life is half spent before we know what it is.
+> 
+> 人过半生，方知天命。
+
+### Feb. 20
+
+> Better to do something imperfectly than to do nothing flawlessly.
+> 
+> 宁愿做事不完美，也不要一事无成。
+
+### Feb. 19
+
+> Real loneliness is not one's loneliness, but the loss of oneself in the endless noise.
+>
+> 真正的孤独不是一个人寂寞，而是在无尽的喧哗中丧失了自我。
+
 ### Feb. 18
 
 > A man is not old until regrets take the place of dreams.
