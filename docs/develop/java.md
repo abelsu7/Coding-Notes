@@ -19,6 +19,7 @@
 * [![](logo/hollis.png ':size=16')《成神之路系列文章》| Hollis![](logo/star.svg)](https://www.hollischuang.com/archives/1001)
 * 技术原始积累 - 淘宝加多
 * 纯洁的微笑
+* [ImportNew 社区![](logo/star.svg)](http://www.importnew.com/all-posts)
 
 ## Java 语言特性
 
@@ -27,6 +28,7 @@
 - [![](logo/wechat.svg)Java 中的四种引用类型 | 芋道源码](https://mp.weixin.qq.com/s/eRocrUmCfJuIhwlQt3RdLA)
 - [![](logo/wechat.svg)Java必看 | 阿里巴巴总结：Java常见疑惑和陷阱 | Java技术驿站![](logo/star.svg)](https://mp.weixin.qq.com/s/Ds8TVbMX3tANoHcf_rufOg)
 - [![](logo/wechat.svg)保卫 Java 应用程序的安全沙箱机制你需要了解一下 | 码洞![](logo/star.svg)](https://mp.weixin.qq.com/s/_V5jnynSeU3r6P54gBjThg)
+- [Java 二维数组的声明、初始化和引用](http://www.weixueyuan.net/view/5966.html)
 
 ### Java 8
 
@@ -42,6 +44,12 @@
 
 - [![](logo/wechat.svg)深入 Java Timer 定时任务调度器实现原理 | 码洞![](logo/star.svg)](https://mp.weixin.qq.com/s/4FfzHb4O3fWE3XbiGCx8QQ)
 
+### Collections 框架
+
+- [HashMap 和 HashSet 的区别 | ImportNew](http://www.importnew.com/6931.html)
+- [Java 集合 HashMap、HashTable、HashSet 详解 | 博客园](https://www.cnblogs.com/steven520213/p/8192091.html)
+- [HashSet 与 HashMap 的区别 | 博客园](https://www.cnblogs.com/codercui/p/6841730.html)
+- [![](logo/csdn.ico ':size=16')Java 中ListIterator和Iterator详解与辨析 | CSDN![](logo/star.svg)](https://blog.csdn.net/longshengguoji/article/details/41551491)
 
 ## Java 常用库
 
@@ -80,6 +88,8 @@
 - [![](logo/wechat.svg)Dubbo下一站：Apache顶级项目](https://mp.weixin.qq.com/s/3WwXcWJbP7iOS3vmN-Ek1Q)
 
 ### Spring MVC
+
+- [![](logo/jianshu.svg)细说Spring——IoC详解（IoC概览）| 简书![](logo/star.svg)](https://www.jianshu.com/p/4007079cb6c0)
 
 ### Spring Boot
 

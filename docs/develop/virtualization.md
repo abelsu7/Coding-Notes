@@ -120,6 +120,8 @@ docker exec -it [CONTAINER ID] /bin/bash
 - Kubernetes 中文社区
 - [![](logo/wechat.svg)权威报告：40%的受访企业在生产环境中部署了Kubernetes | 阿里系统软件技术![](logo/star.svg)](https://mp.weixin.qq.com/s/XgtDh5s1JzstYM5iEkIaDQ)
 - [![](logo/wechat.svg)如何从零开始编写一个Kubernetes CRD | ServiceMesher![](logo/star.svg)](https://mp.weixin.qq.com/s/z_xM8QqpRUASDM1UyMzEeA)
+- [![](logo/wechat.svg)魅族容器云平台基于k8s的自动化运维实践 | 高效运维](https://mp.weixin.qq.com/s/OysDRvAIgmtcG_cIajCMWg?)
+- [全面提升，阿里云Docker/Kubernetes(K8S) 日志解决方案与选型对比 | CSDN](https://blog.csdn.net/aliyunyunqi/article/details/79401218)
 
 ## OpenShift
 
@@ -137,6 +139,22 @@ docker exec -it [CONTAINER ID] /bin/bash
 ## Dragonfly
 
 - [![](logo/wechat.svg)浙江移动容器云基于 Dragonfly 的统一文件分发平台生产实践 | 阿里系统软件技术![](logo/star.svg)](https://mp.weixin.qq.com/s/0PRitK9bqcMr88lOOw5aKQ)
+
+## Knative
+
+- [![](logo/wechat.svg)Google 开源的 Serverless 平台 Knative 简介 | ServiceMesher![](logo/star.svg)](https://mp.weixin.qq.com/s/-gW2IeOJDdEUXjiaZ1gafw)
+- [cizixs 的博客 | 蚂蚁金服后端工程师，云计算/容器/网络/分布式](http://cizixs.com/about/)
+- [serverless 平台 knative 简介 | cizixs](http://cizixs.com/2018/08/25/knative-serverless-platform/)
+- [Knative 入门系列 1：Knative 概述 | ServiceMesher![](logo/star.svg)](http://www.servicemesher.com/blog/knative-overview/)
+
+## Service Mesh
+
+- [十问蚂蚁金服：关于Service Mesh和Kubernetes的最前沿思考 | 搜狐科技](https://www.sohu.com/a/243984196_467759)
+- [ServiceMesher 社区![](logo/star.svg)](http://www.servicemesher.com)
+
+## istio
+
+- [什么是 istio | cizixs](http://cizixs.com/2018/08/26/what-is-istio/)
 
 ## 桌面虚拟化
 

@@ -150,6 +150,7 @@ yum install epel-release
 
 ## 监控分析
 
+- [使用 promethues 和 grafana 监控自己的 linux 机器 | cizixs![](logo/star.svg)](http://cizixs.com/2018/01/24/use-prometheus-and-grafana-to-monitor-linux-machine/)
 * [11 Methods To Find System/Server Uptime In Linux | 2DayGeek![](logo/star.svg)](https://www.2daygeek.com/11-methods-to-find-check-system-server-uptime-in-linux/)
 * [Tuptime – A Tool To Report The Historical And Statistical Running Time Of Linux System](https://www.2daygeek.com/tuptime-a-tool-to-report-the-historical-and-statistical-running-time-of-linux-system/)
 * [![](logo/star.svg)Glances | 跨平台监控工具](https://nicolargo.github.io/glances/)

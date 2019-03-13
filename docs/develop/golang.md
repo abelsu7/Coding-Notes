@@ -24,6 +24,7 @@
 
 ## Go 常用框架
 
+- [![](logo/jianshu.svg)Golang 微框架 Gin 简介 | 简书![](logo/star.svg)](https://www.jianshu.com/p/a31e4ee25305)
 - [![](logo/wechat.svg)20 个好用的 Go 语言微服务开发框架 | InfoQ![](logo/star.svg)](https://mp.weixin.qq.com/s/lb66M8coA_57E4YN3uYJwA)
 - [gRPC | 高性能 RPC 通用框架，Google 开源](https://grpc.io)
 - [RPCX | Go 语言的 RPC 框架](http://rpcx.site/)
@@ -60,3 +61,7 @@
 - [![](logo/github.svg)Gobang - 五子棋 in Go | Github](https://github.com/hcrgm/Gobang-Go)
 - [![](logo/wechat.svg)程序员的圣诞节 - 送她一颗圣诞树(附源代码) | 飞雪无情](https://mp.weixin.qq.com/s/RzAIl_yiVuc5T6suvk9KGg)
 - [![](logo/wechat.svg)程序员的圣诞节 - 送她一颗圣诞树的 Go 源代码 | 飞雪无情](https://mp.weixin.qq.com/s/q0toHYTRDEd_YdC8XeMI4A)
+
+## 开源
+
+- [![](logo/jianshu.svg)Github 上优秀的 Go 开源项目 | 飞雪无情![](logo/star.svg)](https://www.jianshu.com/p/f814504c8f05)

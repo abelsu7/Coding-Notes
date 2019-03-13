@@ -17,6 +17,10 @@
 * [![](logo/wechat.svg)8 大经典排序算法 | LeetCode](https://mp.weixin.qq.com/s/nm0zKpq824-6opBxfO2E5A)
 * [![](logo/wechat.svg)视频 - 手撕九大经典排序算法，看我就够了！| Leetcode![](logo/star.svg)](https://mp.weixin.qq.com/s/wqebx4DoeZ-mqA-4uzyFGQ)
 
+## 快速幂
+
+- [快速幂讲解 | 博客园![](logo/star.svg)](https://www.cnblogs.com/CXCXCXC/p/4641812.html)
+
 ## 动态规划
 
 - [![](logo/wechat.svg)看动画轻松理解「递归」与「动态规划」| 五分钟学算法![](logo/star.svg)](https://mp.weixin.qq.com/s/kFaJ_aYV7o-_8Ql3w4o1GA)
