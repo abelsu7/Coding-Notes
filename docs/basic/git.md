@@ -40,7 +40,51 @@ git remote set-url <name> <url>
 git branch -av
 ```
 
-## Another git process seems to be running in this repository
+## git alias 别名
+
+?> 参见 [配置别名 | 廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600/898732837407424#0)<br>[![](logo/wechat.svg)技巧-Git Alias 让你事半功倍 | 逅弈逐码![](logo/star.svg)](https://mp.weixin.qq.com/s/IrkIeYlL9Hsysgq-RoMuVg)
+
+### st -> status
+
+```bash
+git config --global alias.st status
+```
+
+### co -> checkout
+
+```bash
+git config --global alias.co checkout
+```
+
+### ci -> commit
+
+```bash
+git config --global alias.ci commit
+```
+
+### br -> branch
+
+```bash
+git config --global alias.br branch
+```
+
+### lg -> log
+
+```bash
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+```
+
+### unstage -> reset HEAD
+
+```bash
+git config --global alias.unstage 'reset HEAD'
+```
+
+## git 常见错误
+
+
+
+### Another git process seems to be running in this repository
 
 执行 `git commit -a` 在 VIM 界面输入信息时终端崩溃，再次执行 `git commit` 命令报以下错误
 
@@ -48,7 +92,7 @@ git branch -av
 
 !> 进入 `.git/` 目录，手动删除 `index.lock` 以及 `.COMMIT_EDITMSG.swp`
 
-## Git 教程
+## git 教程
 
 - [![](logo/flysnow.ico ':size=16')Github 的前世今生 | 飞雪无情![](logo/star.svg)](https://www.flysnow.org/2019/01/09/github-milestones.html)
 - [![](logo/wechat.svg)每个程序员都该学会的Git知识 | 逅羿逐码![](logo/star.svg)](https://mp.weixin.qq.com/s/qgNua-ZcllDNk3G3W12T7Q)
@@ -57,6 +101,7 @@ git branch -av
 - [![](logo/wechat.svg)Double Kill，用玩游戏的方式来学习 Git | 吴小龙同学![](logo/star.svg)](https://mp.weixin.qq.com/s/xf1vqsMpD5HcbYB_DRghEA)
 - [![](logo/wechat.svg)网易工程师 Ruheng 一文教你轻松学会 Git | 码洞![](logo/star.svg)](https://mp.weixin.qq.com/s/alB76HmbOzvc21srLOuoRw)
 - [![](logo/wechat.svg)技巧-Git Alias 让你事半功倍 | 逅弈逐码![](logo/star.svg)](https://mp.weixin.qq.com/s/IrkIeYlL9Hsysgq-RoMuVg)
+- [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 
 ## Github 收集
 
