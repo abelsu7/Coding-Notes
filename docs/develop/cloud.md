@@ -53,6 +53,7 @@
 * Fission
 * [Serverless![](logo/star.svg)](https://serverless.com)
 * OpenWhisk
+* [![](logo/fn.png ':size=16')Fn Project![](logo/star.svg)](https://fnproject.io)
 
 ### FaaS 相关文章
 
