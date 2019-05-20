@@ -106,3 +106,4 @@ git config --global alias.unstage 'reset HEAD'
 ## Github 收集
 
 - [![](logo/github.svg)The Fuck | Magnificent app which corrects your previous console command.![](logo/star.svg)](https://github.com/nvbn/thefuck)
+- [gitMemory | Github 历史记录](https://www.gitmemory.com/)
