@@ -92,6 +92,16 @@ git config --global alias.unstage 'reset HEAD'
 
 !> 进入 `.git/` 目录，手动删除 `index.lock` 以及 `.COMMIT_EDITMSG.swp`
 
+## Git stash
+
+?> 参见 [Git 工具 - 储藏（Stashing）](https://git-scm.com/book/zh/v1/Git-工具-储藏（Stashing）) 
+
+```bash
+git stash
+git stash list
+git stash apply
+```
+
 ## git 教程
 
 - [![](logo/flysnow.ico ':size=16')Github 的前世今生 | 飞雪无情![](logo/star.svg)](https://www.flysnow.org/2019/01/09/github-milestones.html)
@@ -107,3 +117,4 @@ git config --global alias.unstage 'reset HEAD'
 
 - [![](logo/github.svg)The Fuck | Magnificent app which corrects your previous console command.![](logo/star.svg)](https://github.com/nvbn/thefuck)
 - [gitMemory | Github 历史记录](https://www.gitmemory.com/)
+- [![](logo/github.svg)Google 工程师 Hokein 的 Github Wiki 笔记](https://github.com/hokein/Wiki/wiki)
