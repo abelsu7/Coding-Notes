@@ -72,6 +72,7 @@
 | [![](logo/fenng.ico ':size=16')闲思录](http://dbanotes.net/)<img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img> | 冯大辉 | 数据库技术专家，无码科技创始人 |
 | [![](logo/mzlogin.ico ':size=16')码志](https://mazhuang.org/) | [mzlogin](https://github.com/mzlogin) | 马壮，Android |
 | [![](logo/xiaotudao.ico ':size=16')小土刀![](logo/star.svg)](https://wdxtub.com/) | [小土刀](https://github.com/wdxtub) | 中大、CMU、数据挖掘 |
+| [WKLKEN BUILDING](http://www.wklken.me) | [凌岳_wklken](https://github.com/wklken) | 腾讯，Pythonista，Vimer |
 
 ## 友链收集
 

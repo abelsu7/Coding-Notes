@@ -115,6 +115,7 @@ docker exec -it [CONTAINER ID] /bin/bash
 
 ## Kubernetes
 
+- [KubeVirt](https://kubevirt.io/)
 - [![](logo/wechat.svg)在 Kubernetes 中利用 kubevirt 以容器方式运行虚拟机 | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/HYLLOIByMlUvcpr8cL09ow)
 - [![](logo/wechat.svg)技术实录 - 深入浅出话etcd 集群运维 | 灵雀云![](logo/star.svg)](https://mp.weixin.qq.com/s/WLA3-BxWngWRXSZa3TBQYw)
 - Kubernetes 中文社区

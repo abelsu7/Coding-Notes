@@ -1,5 +1,9 @@
 ?> ![](logo/python.svg ':no-zoom')Python 笔记
 
+## 教程
+
+- [如何学 Python | 卡瓦邦噶](https://www.kawabangga.com/how-to-learn-python)
+
 ## 框架
 
 - Django
