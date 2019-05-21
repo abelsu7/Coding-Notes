@@ -16,6 +16,10 @@
 | **Alt+↑/↓** | 移动当前行 |
 | **Alt+Shift+↑/↓** | 复制当前行 |
 | **F3** | 查找下一个匹配 |
+| **Ctrl+Shift+U** | 查看输出 |
+| **Ctrl+Alt+N** | 运行代码 |
+| **Ctrl+Alt+M** | 停止运行 |
+| **Alt+Shift+F** | 格式化代码 |
 
 ## Java in VS Code
 
