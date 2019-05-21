@@ -9,3 +9,5 @@
 * [![](logo/ifeve.png ':size=16')并发编程网](http://ifeve.com)
 * [![](logo/weeklymanong.jpg ':size=16')码农周刊](https://weekly.manong.io/issues/)
 * [![](logo/aotu.png ':size=16')Aotu.io「凹凸实验室」- 京东](https://aotu.io/)
+* [系统极客](https://www.sysgeek.cn)
+* [Linuxize](https://linuxize.com)
