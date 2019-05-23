@@ -8,7 +8,8 @@
 | :-- | :-- |
 | **Ctrl+P** | 转到文件 |
 | **Ctrl+Shift+P** | 命令面板 |
-| **Ctrl+Shift+O** | 前往符号 |
+| **Ctrl+Shift+O** | 前往当前文件中的符号 |
+| **Ctrl+T** | 前往工作区中的符号 |
 | **Ctrl+Shift+K** | 删除当前行 |
 | **Ctrl+Shift+方向** | 跨词选择多行 |
 | **Ctrl+Alt+↑/↓** | 光标选择多行 |
