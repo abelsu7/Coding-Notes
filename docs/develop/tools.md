@@ -73,6 +73,8 @@ https://www.google.com/s2/favicons?domain=域名
 
 ### vuepress
 
+- [VuePress 中文文档](https://www.vuepress.cn)
+
 ### docsify
 
 - [![](logo/github.svg)docsify | Github![](logo/star.svg)](https://github.com/docsifyjs/docsify)
