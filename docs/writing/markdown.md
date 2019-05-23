@@ -18,6 +18,8 @@ This is how you dropdown.
 <details>
 ```
 
+- [Markdown 书写风格指南](http://einverne.github.io/markdown-style-guide/zh.html)
+
 ## 编辑器推荐
 
 * [![](logo/typora.png ':size=16')Typora](https://typora.io/)
