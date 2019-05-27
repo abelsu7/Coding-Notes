@@ -11,6 +11,8 @@
 - [![](logo/wechat.svg)揭秘 Google 两大超级工程师：AI 领域绝无仅有的黄金搭档 | 雷锋网](https://mp.weixin.qq.com/s/wow3ecr3Up7fLnpzyho2qQ)
 - [![](logo/wechat.svg)我的朋友圈：孟晚舟、罗永浩、张小龙 | BLUES![](logo/star.svg)](https://mp.weixin.qq.com/s/juCC0fc4eaPSBwGFvzLYCg)
 - [![](logo/wechat.svg)阿里巴巴，果然开始拥有“预测未来”的能力了 | 浅黑科技](https://mp.weixin.qq.com/s/uSafRk5bV_WFzyT0tCQAgg)
+- [程序员经典语录 | DiskSing](http://disksing.com/programming-quotes)
+- [程序员笑话集锦 | DiskSing](http://disksing.com/programmer-jokes)
 
 ## 二叉树视频
 
