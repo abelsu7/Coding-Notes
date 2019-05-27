@@ -15,7 +15,12 @@
 
 ## 读书
 
+- [免费电子书列表 | 酷壳 CoolShell![](logo/star.svg)](https://coolshell.cn/articles/2775.html)
 - [Legendtkl 的书单![](logo/star.svg)](http://legendtkl.com/booklist/)
 - 方志朋的电子书合集
 - [![](logo/github.svg)性能优化相关总结文档 | sjtuhjh![](logo/star.svg)](https://github.com/sjtuhjh/appdocs)
 - [![](logo/github.svg)studyFiles - 一些经典且高质量的电子书分享![](logo/star.svg)](https://github.com/threerocks/studyFiles)
+
+## 博客文章
+
+- [推荐文章 | 酷壳 CoolShell![](logo/star.svg)](https://coolshell.cn/featured)

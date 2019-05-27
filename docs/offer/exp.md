@@ -78,6 +78,8 @@
 - [![](logo/wechat.svg)揭秘 Google 两大超级工程师：AI 领域绝无仅有的黄金搭档 | 雷锋网](https://mp.weixin.qq.com/s/wow3ecr3Up7fLnpzyho2qQ)
 - [![](logo/infoq.png ':size=16')Jeff Dean 的传奇人生：超级工程师们拯救谷歌 | InfoQ](https://www.infoq.cn/article/rAJiubRpi9xSl_LEhI2N)
 - [![](logo/wechat.svg)36 岁捧走图灵碗！80 岁算法大师高德纳要在 105 岁完结《计算机程序设计艺术》| 算法与数据结构![](logo/star.svg)](https://mp.weixin.qq.com/s/qZIHirSIP6SWC5tqIvMamg)
+- [LINUS TORVALDS 语录 TOP 10 | 酷壳 CoolShell](https://coolshell.cn/articles/1278.html)
+- [UNIX 英烈传：图文细数十五位计算先驱 | 51CTO](http://server.51cto.com/sOS-408312.htm)
 
 ### 二叉树视频
 
