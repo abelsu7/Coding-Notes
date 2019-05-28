@@ -29,6 +29,7 @@
 - [![](logo/wechat.svg)Java必看 | 阿里巴巴总结：Java常见疑惑和陷阱 | Java技术驿站![](logo/star.svg)](https://mp.weixin.qq.com/s/Ds8TVbMX3tANoHcf_rufOg)
 - [![](logo/wechat.svg)保卫 Java 应用程序的安全沙箱机制你需要了解一下 | 码洞![](logo/star.svg)](https://mp.weixin.qq.com/s/_V5jnynSeU3r6P54gBjThg)
 - [Java 二维数组的声明、初始化和引用](http://www.weixueyuan.net/view/5966.html)
+- [我终于搞清楚了和 String 有关的那点事儿 | Hollis](http://www.hollischuang.com/archives/2517)
 
 ### Java 8
 
