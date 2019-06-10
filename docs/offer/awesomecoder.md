@@ -2,6 +2,7 @@
 
 ## 开发者故事
 
+- [![](logo/wechat.svg)解密中国互联网企业创始人，程序员是如何打下半壁江山的？| InfoQ](https://mp.weixin.qq.com/s/tMkNahfMjD8hadq4mWN_Lw)
 - [![](logo/wechat.svg)这十年，阿里开发者毕玄的日常 | 阿里技术![](logo/star.svg)](https://mp.weixin.qq.com/s/UIAtCDvaOeg0l8sl3q8zoA)
 - [![](logo/wechat.svg)代码世界值得你珍藏的 72 张面孔 | 阿里巴巴中间件![](logo/star.svg)](https://mp.weixin.qq.com/s/ip91FAVTJb34uGBSP2CRLA)
 - [![](logo/wechat.svg)多隆：从工程师到合伙人 | 阿里技术人纪录片![](logo/star.svg)](https://mp.weixin.qq.com/s/UBassrqTSUW1u0_3hk02ig)
