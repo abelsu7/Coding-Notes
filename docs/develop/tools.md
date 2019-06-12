@@ -114,3 +114,8 @@ https://www.google.com/s2/favicons?domain=域名
 
 - [![](logo/wechat.svg)教你写一份合理的电脑配置清单 | 黎小白![](logo/star.svg)](https://mp.weixin.qq.com/s/8WYVI1ut-X6q5ofS6_iZmg)
 - [京东装机大师](http://diy.jd.com/self)
+
+## IP/Ping
+
+- [Ping Check | PING.SB](https://ping.sb/)
+- [IP Check | myip.ipip.net](https://myip.ipip.net)
