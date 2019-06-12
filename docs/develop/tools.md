@@ -29,6 +29,7 @@
 
 ## 图片处理
 
+- [免费图床 | SM.MS](https://sm.ms)
 - 智图
 - [![](logo/tinypng.ico ':size=16')TinyPNG 图片压缩工具](https://tinypng.com)
 - <img src='https://notes.abelsu7.top/_media/star.svg' alt data-no-zoom></img>提取网站图标：[![](logo/csdn.png ':size=16')利用公共api提取任意网站favicon.ico图标 | CSDN](https://blog.csdn.net/swanabin/article/details/46660433)
