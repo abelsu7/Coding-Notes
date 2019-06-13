@@ -30,4 +30,5 @@
 
 ## 参考文章
 
-* [开源 Chrome 插件 Vimium | 开源最前线](https://mp.weixin.qq.com/s/Hp9Ap9Fs0YHUEvPP6nxqZQ)
+- [![](logo/star.svg)我装了 88 款 Chrome 扩展的浏览器里都有啥？| 少数派](https://sspai.com/post/55164)
+- [开源 Chrome 插件 Vimium | 开源最前线](https://mp.weixin.qq.com/s/Hp9Ap9Fs0YHUEvPP6nxqZQ)
