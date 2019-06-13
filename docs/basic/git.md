@@ -109,8 +109,15 @@ git config --global --unset user.name
 git config --global core.autocrlf true
 ```
 
+### 修改上一次的 commit message
 
-## Git stash
+```bash
+git commit --amend
+# 然后可以更改 commit message
+```
+
+
+## git stash
 
 ?> 参见 [Git 工具 - 储藏（Stashing）](https://git-scm.com/book/zh/v1/Git-工具-储藏（Stashing）) 
 
@@ -118,6 +125,13 @@ git config --global core.autocrlf true
 git stash
 git stash list
 git stash apply
+```
+
+## git diff
+
+```bash
+git diff --staged
+# 包括暂存区中的 diff
 ```
 
 ## git 教程
@@ -136,3 +150,8 @@ git stash apply
 - [![](logo/github.svg)The Fuck | Magnificent app which corrects your previous console command.![](logo/star.svg)](https://github.com/nvbn/thefuck)
 - [gitMemory | Github 历史记录](https://www.gitmemory.com/)
 - [![](logo/github.svg)Google 工程师 Hokein 的 Github Wiki 笔记](https://github.com/hokein/Wiki/wiki)
+
+## 相关文章
+
+- [![](logo/wechat.svg)30 分钟让你掌握 Git 的黑魔法 | 阿里巴巴中间件![](logo/star.svg)](https://mp.weixin.qq.com/s/PstnDFD7iFbdJ90z-lC6yw)
+- [![](logo/wechat.svg)Git 自救指南 | 扣钉![](logo/star.svg)](https://mp.weixin.qq.com/s/kr0KrwpueC73PD8Ma_AuWg)
