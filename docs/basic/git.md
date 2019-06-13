@@ -80,9 +80,20 @@ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Crese
 git config --global alias.unstage 'reset HEAD'
 ```
 
+## git config 设置
+
+```bash
+git config --list
+git config --global --list
+
+git config --edit
+git config --global --edit
+
+git config --global user.name abelsu7
+git config --global --unset user.name
+```
+
 ## git 常见错误
-
-
 
 ### Another git process seems to be running in this repository
 
@@ -91,6 +102,13 @@ git config --global alias.unstage 'reset HEAD'
 ![](https://notes.abelsu7.top/_images/git-lock.png)
 
 !> 进入 `.git/` 目录，手动删除 `index.lock` 以及 `.COMMIT_EDITMSG.swp`
+
+### Windows 上关于 CRLF 的警告
+
+```bash
+git config --global core.autocrlf true
+```
+
 
 ## Git stash
 
