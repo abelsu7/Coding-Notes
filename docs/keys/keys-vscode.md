@@ -22,6 +22,7 @@
 | **Ctrl+Alt+N** | 运行代码 |
 | **Ctrl+Alt+M** | 停止运行 |
 | **Alt+Shift+F** | 格式化代码 |
+| **Alt+O** | 切换头文件/源文件 |
 
 ## Java in VS Code
 
