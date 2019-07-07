@@ -24,6 +24,7 @@
 | **Alt-Shift-F** | 格式化代码 |
 | **Alt-O** | 切换头文件/源文件 |
 | **Ctrl-K Ctrl-R** | 键盘快捷方式参考 |
+| **Ctrl-K Z** | 专注模式 |
 
 ## Java in VS Code
 

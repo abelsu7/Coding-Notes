@@ -95,6 +95,7 @@ yum install epel-release
 
 ### 学习资源
 
+- [Linux 工具快速教程 | Linux Tools Quick Tutorials](https://linuxtools-rst.readthedocs.io/zh_CN/latest/#)
 - [Linux命令大全](http://man.linuxde.net)
 - [Shell正则表达式 | Linux命令大全](http://man.linuxde.net/docs/shell_regex.html)
 - [Linux Shell脚本攻略 | Linux命令大全](http://man.linuxde.net/shell-script)
