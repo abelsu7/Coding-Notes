@@ -28,6 +28,10 @@
 - 掘金
 - 草料二维码
 
+## 截屏
+
+- [如何利用 Chrome 浏览器实现滚动截屏 | 知乎](https://zhuanlan.zhihu.com/p/37086019)
+
 ## 参考文章
 
 - [![](logo/star.svg)我装了 88 款 Chrome 扩展的浏览器里都有啥？| 少数派](https://sspai.com/post/55164)
