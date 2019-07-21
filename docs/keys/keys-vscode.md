@@ -25,6 +25,7 @@
 | **Alt-O** | 切换头文件/源文件 |
 | **Ctrl-K Ctrl-R** | 键盘快捷方式参考 |
 | **Ctrl-K Z** | 专注模式 |
+| **Ctrl-K W** | 关闭当前所有标签 |
 
 ## Java in VS Code
 
