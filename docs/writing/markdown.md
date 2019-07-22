@@ -18,6 +18,16 @@ This is how you dropdown.
 <details>
 ```
 
+### 特殊字符
+
+```js
+%20 // 空格    " "
+%28 // 左括号  "("
+%29 // 右括号  ")"
+```
+
+### 相关教程
+
 - [Markdown 书写风格指南](http://einverne.github.io/markdown-style-guide/zh.html)
 
 ## 编辑器推荐
