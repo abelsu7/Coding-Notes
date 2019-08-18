@@ -31,8 +31,19 @@
 
 - [![](logo/vscode.svg)Java Web Apps with Visual Studio Code![](logo/star.svg)![](logo/star.svg)](https://code.visualstudio.com/docs/java/java-tutorial)
 
+## Markdown
+
+- [在 VSCode 下用 Markdown Preview Enhanced 愉快地写文档 | 知乎](https://zhuanlan.zhihu.com/p/56699805)
+- [VSCode Markdown Snippet 配置 | CSDN](https://blog.csdn.net/serryuer/article/details/89393760)
+- [【VScode】使用Snippets（用户代码片段）使 Markdown 文件快速生成代码 | NipGeihou Blog](https://nipgeihou.com/vscode_Snippets_markdowm/)
+
+
+## Snippets
+
+- [在 Visual Studio Code 中添加自定义的代码片段 | walterlv 吕毅](https://blog.walterlv.com/post/add-custom-code-snippet-for-vscode.html)
+- [![](logo/csdn.ico ':size=16')跟我一起在Visual Studio Code 添加自定义snippet（代码段），附详细配置 | CSDN](https://blog.csdn.net/maokelong95/article/details/54379046)
+
 ## 参考文章
 
-* [如何快速上手一款 IDE - VSC 配置指南和插件推荐 | 小胡子哥](https://mp.weixin.qq.com/s?__biz=MzAxMjA5ODQwMQ==&mid=2455058817&idx=1&sn=32ba09d2cfb28c472b9c343358f6e468&chksm=8c16978fbb611e9954cb242a218e4ae0d878f1cc3927de14c0dd18b2c40505108a99a512b888&mpshare=1&scene=1&srcid=1121ZPSO0rlv4GswvIs79Lod#rd)
-* [![](logo/csdn.ico ':size=16')跟我一起在Visual Studio Code 添加自定义snippet（代码段），附详细配置 | CSDN](https://blog.csdn.net/maokelong95/article/details/54379046)
-* [![](logo/csdn.ico ':size=16')Visual Studio Code 自定义Snippet配置 | CSDN](https://blog.csdn.net/u011127019/article/details/73461831)
+- [如何快速上手一款 IDE - VSC 配置指南和插件推荐 | 小胡子哥](https://mp.weixin.qq.com/s?__biz=MzAxMjA5ODQwMQ==&mid=2455058817&idx=1&sn=32ba09d2cfb28c472b9c343358f6e468&chksm=8c16978fbb611e9954cb242a218e4ae0d878f1cc3927de14c0dd18b2c40505108a99a512b888&mpshare=1&scene=1&srcid=1121ZPSO0rlv4GswvIs79Lod#rd)
+- [![](logo/csdn.ico ':size=16')Visual Studio Code 自定义Snippet配置 | CSDN](https://blog.csdn.net/u011127019/article/details/73461831)
