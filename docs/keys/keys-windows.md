@@ -31,6 +31,11 @@ gpedit.msc
 
 - [![](logo/tweaker.png ':size=16')7+ Taskbar Tweaker | 解除状态栏靠左时最小宽度的限制![](logo/star.svg)](https://rammichael.com/7-taskbar-tweaker)
 
+## Sticky Notes
+
+- [Win10 的 StickyNote 数据的存放路径 | CSDN](https://blog.csdn.net/qq_16118075/article/details/88809464)
+- [Windows 10 中的 Sticky Notes 便笺应用的数据在系统中的实际存放路径是什么？ | Microsoft Community](https://answers.microsoft.com/zh-hans/windows/forum/windows_10-files/windows10%E4%B8%AD%E7%9A%84sticky/6834b5b2-a6d0-4248-98e4-839e6f2e3a9a)
+
 ## 一些文章
 
 - [![](logo/csdn.ico ':size=16')Windows下，根据端口号杀死进程 | CSDN](https://blog.csdn.net/zh592677127/article/details/18617917)
