@@ -93,6 +93,7 @@
 - REST Client
 - SVG Viewer
 - Todo Tree
+- TODO Highlight
 - VSC Netease Music
 
 ## 用户设置
