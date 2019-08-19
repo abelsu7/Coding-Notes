@@ -134,6 +134,12 @@ git diff --staged
 # 包括暂存区中的 diff
 ```
 
+## Github SSH
+
+```bash
+ssh -T git@github.com
+```
+
 ## git 教程
 
 - [![](logo/flysnow.ico ':size=16')Github 的前世今生 | 飞雪无情![](logo/star.svg)](https://www.flysnow.org/2019/01/09/github-milestones.html)

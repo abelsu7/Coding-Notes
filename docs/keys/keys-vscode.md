@@ -93,7 +93,6 @@
 - REST Client
 - SVG Viewer
 - Todo Tree
-- TODO Highlight
 - VSC Netease Music
 
 ## 用户设置
@@ -164,6 +163,8 @@
     "go.testFlags": [
         "-v"
     ],
+    // Terminal
+    "terminal.integrated.setLocaleVariables": false,
     // 代理
     "http.proxyStrictSSL": false,
     // 网易云音乐
