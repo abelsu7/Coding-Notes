@@ -107,6 +107,11 @@
     "editor.snippetSuggestions": "top",
     "editor.suggestSelection": "first",
     "editor.renderLineHighlight": "all",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
     // Workbench
     "workbench.statusBar.visible": true,
     "workbench.activityBar.visible": true,
@@ -122,7 +127,13 @@
     // Markdown
     "[markdown]": {
         "editor.wordWrap": "on",
-        "editor.quickSuggestions": true
+        "editor.renderWhitespace": "all",
+        "editor.quickSuggestions": {
+            "others": true,
+            "comments": true,
+            "strings": true
+        },
+        "editor.acceptSuggestionOnEnter": "on"
     },
     // Markdown All in One
     "markdown.extension.toc.updateOnSave": false,
