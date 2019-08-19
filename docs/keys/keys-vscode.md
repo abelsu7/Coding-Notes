@@ -131,6 +131,7 @@
     // Markdown Preview Enhanced
     "markdown-preview-enhanced.mermaidTheme": "default",
     "markdown-preview-enhanced.previewTheme": "atom-dark.css",
+    "markdown-preview-enhanced.codeBlockTheme": "monokai.css",
     // Search
     "search.showLineNumbers": true,
     // Update
