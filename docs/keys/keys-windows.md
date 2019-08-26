@@ -31,6 +31,11 @@ gpedit.msc
 
 - [![](logo/tweaker.png ':size=16')7+ Taskbar Tweaker | 解除状态栏靠左时最小宽度的限制![](logo/star.svg)](https://rammichael.com/7-taskbar-tweaker)
 
+## 后台优化
+
+- 关闭 Visual Studio 自动下载更新，否则后台 CPU 狂跑
+- 关闭磁盘碎片整理计划，参见 [知乎](https://zhuanlan.zhihu.com/p/26142096)
+
 ## Sticky Notes
 
 - [Win10 的 StickyNote 数据的存放路径 | CSDN](https://blog.csdn.net/qq_16118075/article/details/88809464)
