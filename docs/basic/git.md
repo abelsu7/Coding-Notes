@@ -44,40 +44,13 @@ git branch -av
 
 ?> 参见 [配置别名 | 廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600/898732837407424#0)<br>[![](logo/wechat.svg)技巧-Git Alias 让你事半功倍 | 逅弈逐码![](logo/star.svg)](https://mp.weixin.qq.com/s/IrkIeYlL9Hsysgq-RoMuVg)
 
-### st -> status
-
 ```bash
 git config --global alias.st status
-```
-
-### co -> checkout
-
-```bash
 git config --global alias.co checkout
-```
-
-### ci -> commit
-
-```bash
 git config --global alias.ci commit
-```
-
-### br -> branch
-
-```bash
 git config --global alias.br branch
-```
-
-### lg -> log
-
-```bash
-git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
-```
-
-### unstage -> reset HEAD
-
-```bash
 git config --global alias.unstage 'reset HEAD'
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 ```
 
 ## git config 设置
@@ -150,6 +123,7 @@ ssh -T git@github.com
 - [![](logo/wechat.svg)网易工程师 Ruheng 一文教你轻松学会 Git | 码洞![](logo/star.svg)](https://mp.weixin.qq.com/s/alB76HmbOzvc21srLOuoRw)
 - [![](logo/wechat.svg)技巧-Git Alias 让你事半功倍 | 逅弈逐码![](logo/star.svg)](https://mp.weixin.qq.com/s/IrkIeYlL9Hsysgq-RoMuVg)
 - [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+- [githug - Git your game on | Github](https://github.com/Gazler/githug)
 
 ## Github 收集
 
