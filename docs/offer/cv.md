@@ -8,9 +8,9 @@
 ## 工具
 
 - [![](logo/wondercv.png ':size=16')超级简历](https://www.wondercv.com/)
+- [![](logo/zhiye.png ':size=16')知页简历](https://www.zhiyeapp.com)
 - [![](logo/ftqq.png ':size=16')冷熊简历](http://cv.ftqq.com)
 - [![](logo/qiaobu.png ':size=16')乔布简历](http://cv.qiaobutang.com)
-- [![](logo/zhiye.png ':size=16')知页](https://www.zhiyeapp.com)
 
 ## 模板
 
