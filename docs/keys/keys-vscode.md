@@ -59,6 +59,7 @@
 - Chinese(Simplified) Language Pack
 - Go
 - Go Test Explorer
+- Go Mod Grapher
 - Python
 - Excel Viewer
 - Rainbow CSV
