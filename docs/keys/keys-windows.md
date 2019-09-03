@@ -20,11 +20,17 @@
 
 ## CMD 命令
 
-```cmd
+```bash
 tasklist
 regedit
 taskschd.msc
 gpedit.msc
+
+# 启动/停止服务
+net start mysql80
+net stop mysql80
+
+tasklist | findstr "<pattern string>"
 ```
 
 ## 推荐软件
