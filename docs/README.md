@@ -219,4 +219,5 @@ Ciao!
 <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-c.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-cpp.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-latex.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-sql.min.js"></script>
 ```
