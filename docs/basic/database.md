@@ -10,6 +10,16 @@
 - [![](logo/csdn.ico ':size=16')Mysql学习总结（30）——MySQL 索引详解大全 | 一杯甜酒![](logo/star.svg)](https://blog.csdn.net/u012562943/article/details/52149311)
 - [![](logo/wechat.svg)【面试现场】为什么MySQL数据库要用B+树存储索引？| Java3y![](logo/star.svg)](https://mp.weixin.qq.com/s/Mwh5T5wQNLrxORLpNvIZoA)
 
+MySQL 8.0 Error: `ER_NOT_SUPPORTED_AUTH_MODE`：
+
+?> 参见 [MySQL 8.0 - Client does not support authentication protocol requested by server; consider upgrading MySQL client | StackOverflow](https://stackoverflow.com/questions/50093144/mysql-8-0-client-does-not-support-authentication-protocol-requested-by-server)
+
+```sql
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password'
+```
+
+
+
 ## MariaDB
 
 ## MongoDB
