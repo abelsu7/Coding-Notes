@@ -69,6 +69,8 @@
 
 - Markdown All in One
 - Markdown Preview Enhanced
+- qiniu-fig-bed
+- qiniu-upload-image
 
 ### 数据库
 
@@ -155,16 +157,18 @@
     // Code Runner
     "code-runner.runInTerminal": true,
     // Go
-    "go.inferGopath": true,
+    "go.gopath": "C:\\Users\\<YOUR_NAME>\\go",
+    "go.goroot": "C:\\Go",
+    "go.inferGopath": false, // 使用 Go Modules 时无需 inferGopath
+    "go.useLanguageServer": true,
     "go.autocompleteUnimportedPackages": true,
-    "go.gotoSymbol.includeImports": true,
-    "go.gotoSymbol.includeGoroot": true,
+    "go.gotoSymbol.includeImports": false,
+    "go.gotoSymbol.includeGoroot": false,
     "go.useCodeSnippetsOnFunctionSuggest": true,
     "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
     "go.lintOnSave": "off",
     "go.buildOnSave": "off",
-    "go.gopath": "C:\\Users\\abel1\\go",
-    "go.goroot": "C:\\Go",
+    "go.formatTool": "goimports",
     "go.testFlags": [
         "-v"
     ],
