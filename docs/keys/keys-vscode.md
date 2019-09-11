@@ -166,7 +166,7 @@
     "go.gotoSymbol.includeGoroot": false,
     "go.useCodeSnippetsOnFunctionSuggest": true,
     "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
-    "go.lintOnSave": "off",
+    "go.lintOnSave": "file",
     "go.buildOnSave": "off",
     "go.formatTool": "goimports",
     "go.testFlags": [
