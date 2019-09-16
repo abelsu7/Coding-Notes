@@ -42,6 +42,21 @@ tasklist | findstr "<pattern string>"
 - 关闭 Visual Studio 自动下载更新，否则后台 CPU 狂跑
 - 关闭磁盘碎片整理计划，参见 [知乎](https://zhuanlan.zhihu.com/p/26142096)
 
+## Windows Defender
+
+- [![](logo/csdn.ico ':size=16')解决 Antimalware Service Executable CPU，内存占用高的问题 | CSDN](https://blog.csdn.net/m0_37230651/article/details/80893639)
+- [Surface 中 Antimalware Service Executable CPU 占用高，如何解决？| 知乎](https://www.zhihu.com/question/36613062)
+- [win10 全盘扫描后Antimalware Service Executable CPU占用率过高 | Microsoft Community](https://answers.microsoft.com/zh-hans/protect/forum/all/win10/2eeba1c2-8292-49d4-ab06-e8bb4a712532)
+- [Fixed: 'Antimalware Service Executable' High CPU on Windows 10 | driver easy](https://www.drivereasy.com/knowledge/antimalware-service-executable-high-disk-usage-windows-10-8-7-solved/)
+- [How to fix 'Antimalware Service Executable' high CPU usage | EmsiSoft Blog](https://blog.emsisoft.com/en/28620/antimalware-service-executable/)
+
+```bash
+Windows Defender 
+-> 病毒和威胁保护 
+-> 管理设置 
+-> 排除项
+```
+
 ## Sticky Notes
 
 - [Win10 的 StickyNote 数据的存放路径 | CSDN](https://blog.csdn.net/qq_16118075/article/details/88809464)

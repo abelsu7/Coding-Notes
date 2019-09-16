@@ -82,6 +82,7 @@
 - Material Icon Theme
 - vscode-icons
 - Highlight Line
+- Select Line Status Bar
 - Banner Comments
 - Beautify
 
