@@ -44,6 +44,7 @@ tasklist | findstr "<pattern string>"
 
 ## Windows Defender
 
+- [Process Explorer - Microsoft](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
 - [![](logo/csdn.ico ':size=16')解决 Antimalware Service Executable CPU，内存占用高的问题 | CSDN](https://blog.csdn.net/m0_37230651/article/details/80893639)
 - [Surface 中 Antimalware Service Executable CPU 占用高，如何解决？| 知乎](https://www.zhihu.com/question/36613062)
 - [win10 全盘扫描后Antimalware Service Executable CPU占用率过高 | Microsoft Community](https://answers.microsoft.com/zh-hans/protect/forum/all/win10/2eeba1c2-8292-49d4-ab06-e8bb4a712532)
