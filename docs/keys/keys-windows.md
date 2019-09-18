@@ -42,6 +42,12 @@ tasklist | findstr "<pattern string>"
 - 关闭 Visual Studio 自动下载更新，否则后台 CPU 狂跑
 - 关闭磁盘碎片整理计划，参见 [知乎](https://zhuanlan.zhihu.com/p/26142096)
 
+## hosts 文件
+
+```powershell
+C:\Windows\System32\drivers\etc\hosts
+```
+
 ## Windows Defender
 
 - [Process Explorer - Microsoft](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
