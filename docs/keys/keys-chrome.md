@@ -9,6 +9,7 @@
 | **Ctrl+PgUp/PgDn** | 前后切换标签页 |
 | **Crtl+U** | 页面源代码 |
 | **Shift+Esc** | 任务管理器 |
+| **Ctrl+J** | 查看下载内容 |
 
 ## Chrome 插件推荐
 
