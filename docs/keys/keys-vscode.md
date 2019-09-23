@@ -76,6 +76,10 @@
 
 - SQLTools
 
+### 图床
+
+- PicGo
+
 ### 主题美化
 
 - Monokai++
