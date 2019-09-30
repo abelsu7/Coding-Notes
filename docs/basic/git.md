@@ -107,6 +107,18 @@ git diff --staged
 # 包括暂存区中的 diff
 ```
 
+## git merge
+
+合并分支时`--ff`和`--no-ff`的区别：
+
+- [![](logo/csdn.ico ':size=16')Git：git-merge 的 --ff 和 --no-ff | CSDN](https://blog.csdn.net/chaiyu2002/article/details/81020370)
+- [git merge --no-ff 是什么意思 | SegmentFault](https://segmentfault.com/q/1010000002477106)
+- [分支管理策略 | 廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600/900005860592480#0)
+
+
+
+
+
 ## Github SSH
 
 ```bash
