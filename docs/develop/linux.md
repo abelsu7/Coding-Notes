@@ -104,6 +104,8 @@ yum install epel-release
 
 ### Shell 编程
 
+- [![](logo/wechat.svg)一份 Shell “圣经” 收好 | 编程珠玑](https://mp.weixin.qq.com/s/Rhglp-Co3U6-j0Dgbqe_3w)
+- [![](logo/github.svg)pure-bash-bible | A collection of pure bash alternatives to external processes | Github](https://github.com/dylanaraps/pure-bash-bible)
 - [![](logo/wechat.svg)快速入门大厂后端面试必备的 Shell 编程 | JavaGuide![](logo/star.svg)](https://mp.weixin.qq.com/s/oUgUXWkBNp1dbRGzlzdLPg)
 
 ### 文章教程

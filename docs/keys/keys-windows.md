@@ -64,10 +64,19 @@ Windows Defender
 -> 排除项
 ```
 
+## Office 2019
+
+- [Office 2019 安装激活工具 - Office 2019 Install | 代码黑洞](https://www.cd404.com/Software/16.html)
+
 ## Sticky Notes
 
 - [Win10 的 StickyNote 数据的存放路径 | CSDN](https://blog.csdn.net/qq_16118075/article/details/88809464)
 - [Windows 10 中的 Sticky Notes 便笺应用的数据在系统中的实际存放路径是什么？ | Microsoft Community](https://answers.microsoft.com/zh-hans/windows/forum/windows_10-files/windows10%E4%B8%AD%E7%9A%84sticky/6834b5b2-a6d0-4248-98e4-839e6f2e3a9a)
+
+## 自动修复
+
+- [自动修复无法修复你的电脑 解决方案 | CSDN](https://blog.csdn.net/Logicr/article/details/88686371)
+- [Win10开机自动修复修复失败无限重启 | 百度经验](https://jingyan.baidu.com/article/ed2a5d1f9f1e7309f7be176a.html)
 
 ## 一些文章
 

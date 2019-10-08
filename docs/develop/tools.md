@@ -106,6 +106,11 @@ https://www.google.com/s2/favicons?domain=域名
 - seafile
 - [![](logo/github.svg)Motrix - 全能下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源![](logo/star.svg)](https://github.com/agalwood/Motrix)
 
+## 视频解析
+
+- [如何在线下载腾讯视频 mp4 | 知乎](https://zhuanlan.zhihu.com/p/26155892)
+- [V视频助手 - 一键下载在线视频](http://v.ranks.xin/)
+
 ## Cheatsheet
 
 - [![](logo/github.svg)awesome-cheatsheet | 中文版![](logo/star.svg)](https://github.com/skywind3000/awesome-cheatsheets)
