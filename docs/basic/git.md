@@ -34,10 +34,144 @@ git remote set-url <name> <url>
 
 ## git branch 分支
 
-查看所有分支及版本信息
+### 查看分支
+
+查看所有分支及版本信息：
 
 ```bash
 git branch -av
+```
+
+### 删除分支
+
+在`Git v1.7.0`之后，可以使用以下语法删除远程分支：
+
+```bash
+git push origin --delete <branchName>
+# 或者推送一个空分支
+git push origin :<branchName>
+```
+
+或者使用`git branch`命令：
+
+```bash
+git branch -r -d origin/<branchName>
+```
+
+### 删除不存在对应远程分支的本地分支
+
+?> [![](logo/csdn.ico ':size=16')Git 对远程分支和 tag 的操作 | CSDN](https://blog.csdn.net/mydo/article/details/42294387)
+
+假设这样一种情况：
+
+1. 我创建了本地分支`b1`并`push`到了远程分支`origin/b1`
+2. 其他人在本地使用`fetch`或`pull`创建了本地的`b1`分支
+3. 我删除了`origin/b1`远程分支
+4. 其他人再次执行`fetch`或者`pull`并不会删除他们本地的`b1`分支，运行`git branch -a`也不能看出这个分支被删除了，如何处理？
+
+使用以下命令查看`b1`的状态：
+
+```bash
+> git remote show origin
+* remote origin
+  Fetch URL: git@github.com:xxx/xxx.git
+  Push  URL: git@github.com:xxx/xxx.git
+  HEAD branch: master
+  Remote branches:
+    master                 tracked
+    refs/remotes/origin/b1 stale (use 'git remote prune' to remove)
+  Local branch configured for 'git pull':
+    master merges with remote master
+  Local ref configured for 'git push':
+    master pushes to master (up to date)
+```
+
+可以看到`b1`分支是`stale`状态，使用`git remote prune`命令可以将其从本地版本库中去除：
+
+```bash
+git remote prune origin
+```
+
+更简单的方法是`fetch -p`，它会在`fetch`之后删除掉没有与远程分支对应的本地分支：
+
+```bash
+git fetch -p
+```
+
+### 重命名远程分支
+
+?> 在 Git 中**重命名远程分支**，其实就是先**删除远程分支**，然后**重命名本地分支**，最后再重新**将本地分支推送至远程分支**
+
+删除远程分支：
+
+```bash
+> git push --delete origin devel
+To git@github.com:zrong/quick-cocos2d-x.git
+ - [deleted]         devel
+```
+
+重命名本地分支：
+
+```bash
+git branch -m devel develop
+```
+
+推送本地分支：
+
+```bash
+> git push origin develop
+Counting objects: 92, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (48/48), done.
+Writing objects: 100% (58/58), 1.38 MiB, done.
+Total 58 (delta 34), reused 12 (delta 5)
+To git@github.com:zrong/quick-cocos2d-x.git
+ * [new branch]      develop -> develop
+```
+
+## git tag 标签
+
+查看本地`tag`：
+
+```bash
+git tag
+git tag -l
+```
+
+为当前`commit`打`tag`：
+
+```bash
+git tag <tagName> # git tag v1.0.0
+git tag -a v1.1.4 -m "tagging version 1.1.4"
+```
+
+删除本地`tag`：
+
+```bash
+git tag -d <tagName>
+```
+
+获取远程`tag`：
+
+```bash
+git fetch origin tag <tagName>
+```
+
+删除远程`tag`：
+
+```bash
+git push origin --delete tag <tagName>
+
+# 或者推送一个空 tag 到远程 tag
+git tag -d <tagName>
+git push origin :refs/tags/<tagName>
+```
+
+把本地`tag`推送到远程：
+
+```bash
+git push origin <tagName>
+git push --tags
 ```
 
 ## git alias 别名
