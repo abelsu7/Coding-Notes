@@ -26,6 +26,7 @@
 
 ### 虚拟化资料
 
+- [![](logo/wechat.svg)如何探测虚拟环境是物理机、虚拟机还是容器？ | int32bit![](logo/star.svg)](https://mp.weixin.qq.com/s/usLh8VIW8-niR5XiwkHHpg)
 - [![](logo/zhihu.svg)速懂X86虚拟化关键概念 - Intel VT-d | 罗浩](https://zhuanlan.zhihu.com/p/41466471)
 - [![](logo/zhihu.svg)Xen V.S. KVM终于画上了一个完美的句号 | 罗浩](https://zhuanlan.zhihu.com/p/33324585)
 
