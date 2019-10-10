@@ -10,8 +10,8 @@
 | <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+B** | 聚焦通知栏 |
 | <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+D** | 显示桌面 |
 | <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+Alt+D** | 显示日期和时间 |
+| <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+Shift+S** | 截屏 |
 | <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+Ctrl+方向** | 切换桌面 |
-| <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+Shift+方向** | 移动应用至显示器 |
 | <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+PgUp/PgDn** | 前/后切换浏览器标签页 |
 | **Ctrl+Shift+B** | 打开表情及符号面版 |
 | **Shift+滚轮** | 水平方向滚动 |
