@@ -131,6 +131,9 @@ To git@github.com:zrong/quick-cocos2d-x.git
 
 ## git tag 标签
 
+?> [Git 打标签与版本控制规范 | 掘金](https://juejin.im/post/5b0531c6f265da0b7f44eb8c)<br>[创建标签 | 廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600/902335212905824)<br>[![](logo/git.svg)git-tag Documentation](https://git-scm.com/docs/git-tag)
+
+
 查看本地`tag`：
 
 ```bash
@@ -141,7 +144,7 @@ git tag -l
 为当前`commit`打`tag`：
 
 ```bash
-git tag <tagName> # git tag v1.0.0
+git tag -a <tagName> -m <tagMsg>
 git tag -a v1.1.4 -m "tagging version 1.1.4"
 ```
 
@@ -186,6 +189,24 @@ git config --global alias.br branch
 git config --global alias.unstage "reset HEAD"
 git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 ```
+
+## git 取消文件跟踪
+
+对某个文件取消跟踪：
+
+```bash
+git rm --cached readme1.txt # 删除 readme1.txt 的跟踪，并且保留在本地
+git rm --f readme1.txt      # 删除 readme1.txt 的跟踪，并删除本地文件
+```
+
+对所有文件取消跟踪：
+
+```bash
+git rm -r --cached . # 不删除本地文件
+git rm -r --f .      # 删除本地文件
+```
+
+然后`git commit`即可。
 
 ## git config 设置
 
