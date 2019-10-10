@@ -29,6 +29,7 @@
 - Web Developer
 - 掘金
 - 草料二维码
+- [Restlet Client - REST API Testing](https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm?hl=zh-CN)
 
 ## 截屏
 
