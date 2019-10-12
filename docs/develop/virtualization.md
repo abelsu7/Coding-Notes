@@ -96,6 +96,10 @@
 ## OpenStack
 
 - [![](logo/zhihu.svg)Openstack学习：从创建配置虚拟机开始 | 罗浩![](logo/star.svg)](https://zhuanlan.zhihu.com/p/33422594)
+- [![](logo/github.svg)openstack-workflow - Openstack 操作时序图 | Github![](logo/star.svg)](https://github.com/int32bit/openstack-workflow)
+- [![](logo/github.svg)openstack-cheat-sheet - OpenStack 资料整理 | Github![](logo/star.svg)](https://github.com/int32bit/openstack-cheat-sheet)
+- [OpenStack 使用 Ceph 存储，Ceph 到底做了什么? | int32bit's Blog](http://int32bit.me/2017/11/23/OpenStack使用Ceph存储-Ceph到底做了什么/)
+- [OpenStack 使用 Ceph 存储后端创建虚拟机快照原理剖析 | int32bit's Blog](http://int32bit.me/2016/10/25/OpenStack使用Ceph存储后端创建虚拟机快照原理剖析/)
 
 ## Docker
 

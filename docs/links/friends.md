@@ -74,6 +74,7 @@
 | [![](logo/xiaotudao.ico ':size=16')小土刀![](logo/star.svg)](https://wdxtub.com/) | [小土刀](https://github.com/wdxtub) | 中大、CMU、数据挖掘 |
 | [WKLKEN BUILDING](http://www.wklken.me) | [凌岳_wklken](https://github.com/wklken) | 腾讯，Pythonista，Vimer |
 | [卡瓦邦噶](https://www.kawabangga.com) | [赖信涛](https://github.com/laixintao) | pingtop 作者，Python，Vimer，蚂蚁金服 SRE |
+| [int32bit's Blog](http://int32bit.me) | [int32bit](https://github.com/int32bit) | Linuxer, Vimer, Pythoner, OpenStacker, Docker |
 
 ## 友链收集
 

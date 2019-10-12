@@ -25,6 +25,10 @@
 
 - [![](logo/wechat.svg)看动画轻松理解「递归」与「动态规划」| 五分钟学算法![](logo/star.svg)](https://mp.weixin.qq.com/s/kFaJ_aYV7o-_8Ql3w4o1GA)
 
+## 并查集
+
+- [小米 2013 校招笔试算法题 - 朋友圈 | int32bit's Blog](http://int32bit.me/2013/10/27/小米2013校招笔试算法题-朋友圈/)
+
 ## 复杂度
 
 - [![](logo/wechat.svg)冰与火之歌：「时间」与「空间」复杂度 | 五分钟学算法![](logo/star.svg)](https://mp.weixin.qq.com/s/nQ0aNLPcwb2enmrlqCsvOg)

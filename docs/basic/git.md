@@ -293,14 +293,46 @@ ssh -T git@github.com
 - [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 - [githug - Git your game on | Github](https://github.com/Gazler/githug)
 
-## Github 收集
+## 开源项目收集
+
+### 数据库
+
+- [![](logo/github.svg)mycli - A Terminal Client for MySQL | Github![](logo/star.svg)](https://github.com/dbcli/mycli)
+- [![](logo/github.svg)pgcli - A Terminal Client for PostgreSQL | Github![](logo/star.svg)](https://github.com/dbcli/pgcli)
+- [![](logo/github.svg)litecli - A Terminal Client for SQLite![](logo/star.svg)](https://github.com/dbcli/litecli)
+
+### 命令行
 
 - [![](logo/github.svg)The Fuck | Magnificent app which corrects your previous console command.![](logo/star.svg)](https://github.com/nvbn/thefuck)
-- [gitMemory | Github 历史记录](https://www.gitmemory.com/)
+
+### 字体
+
+- [![](logo/github.svg)Sarasa Gothic / 更纱黑体 | Github![](logo/star.svg)](https://github.com/be5invis/Sarasa-Gothic)
+- [![](logo/github.svg)cascadia-code | Github![](logo/star.svg)](https://github.com/microsoft/cascadia-code)
+- [![](logo/github.svg)日收 2700+ Star，微软新终端字体正式开源！| GithubDaily![](logo/star.svg)](https://mp.weixin.qq.com/s/GCqvpLUYYlFh6BzIXnAzfw)
+- [APP 设计必备字体：San Francisco Pro、苹方、思源黑体和 Roboto 等 | 设计达人](http://www.shejidaren.com/app-she-ji-bi-bei-zi-ti.html)
+- [在 Spacemacs 中配置 Fira Code 并启用 ligatures 特性 | iTimothy](https://xiaozhou.net/setup-spacemacs-with-fira-code-ligatures-2019-09-09.html)
+
+### dotfiles
+
+?> 参见 [![](https://notes.abelsu7.top/_media/favicon.ico ':size=16')Oh My Zsh/NeoVim/Tmux 打造终端 IDE | 苏易北](https://abelsu7.top/2019/05/21/terminal-ide-using-zsh-nvim-tmux)
+
+- [![](logo/github.svg)int32bit/dotfiles - vim/zsh/git/tmux dotfiles | Github](https://github.com/int32bit/dotfiles)
+- [![](logo/github.svg)ourvim - jusonalien| Github](https://github.com/jusonalien/ourvim)
+- [![](logo/github.svg)TimothyYe/mydotfiles | Github](https://github.com/TimothyYe/mydotfiles)
+- [![](logo/github.svg)amix/vimrc | Github](https://github.com/amix/vimrc)
+- [![](logo/github.svg)wsdjeg/DotFiles | Github](https://github.com/wsdjeg/DotFiles)
+- [![](logo/github.svg)barretlee/autoconfig-mac-vimrc | Github](https://github.com/barretlee/autoconfig-mac-vimrc)
+
+### Github
+
 - [![](logo/github.svg)Google 工程师 Hokein 的 Github Wiki 笔记](https://github.com/hokein/Wiki/wiki)
+- [gitMemory | 查看 Github 项目历史记录](https://www.gitmemory.com/)
 
-## Github Star 插件
+### 管理 Github Star
 
+- [![](logo/github.svg)astral - Organize Your GitHub Stars With Ease | Github![](logo/star.svg)](https://github.com/astralapp/astral)
+- [![](logo/star.svg)Astral](https://astralapp.com)
 - [高效管理 GitHub Star，用这几个插件就能做到！| GithubDaily](https://mp.weixin.qq.com/s/xHXUbtmzlKX8TFm1KIEYug)
 
 ## Github 状态监控

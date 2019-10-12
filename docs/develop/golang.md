@@ -21,6 +21,7 @@
 - [Go 语言快速入门 | Github](https://github.com/jaywcjlove/golang-tutorial)
 - [Go Web Examples](https://gowebexamples.com/)
 - [Go database/sql tutorial](http://go-database-sql.org/)
+- [![](logo/github.svg)浅谈 Go 语言实现原理 - Draveness | GitBook![](logo/star.svg)](https://draveness.me/golang/)
 
 ## Go 常用框架
 
