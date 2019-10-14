@@ -207,6 +207,13 @@
     "go.testFlags": [
         "-v"
     ],
+    // gopls
+    "gopls": {
+        "completeUnimported": true,
+        "usePlaceholders": true,
+        "completionDocumentation": true,
+        "hoverKind": "SynopsisDocumentation" // No/Synopsis/Full, default Synopsis
+    },
     // Terminal
     "terminal.integrated.setLocaleVariables": false,
     // 代理

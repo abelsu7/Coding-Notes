@@ -14,6 +14,7 @@
 | <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+Ctrl+方向** | 切换桌面 |
 | <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+PgUp/PgDn** | 前/后切换浏览器标签页 |
 | **Ctrl+Shift+B** | 打开表情及符号面版 |
+| **Ctrl+Shift+F** | 输入法切换简/繁体 |
 | **Shift+滚轮** | 水平方向滚动 |
 | **F2** | 重命名 |
 | **Shifit+F10** | 打开右键菜单 |
