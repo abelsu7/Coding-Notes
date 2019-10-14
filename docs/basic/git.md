@@ -335,6 +335,14 @@ ssh -T git@github.com
 - [![](logo/star.svg)Astral](https://astralapp.com)
 - [高效管理 GitHub Star，用这几个插件就能做到！| GithubDaily](https://mp.weixin.qq.com/s/xHXUbtmzlKX8TFm1KIEYug)
 
+### fake 数据
+
+- [![](logo/github.svg)idgen - 一个使用 golang 编写的大陆身份证生成器 | Github](https://github.com/mritd/idgen)
+
+### Golang
+
+- [![](logo/star.svg)Go 编写的一些常用小工具 | 漠然](https://mritd.me/2018/11/27/simple-tool-written-in-golang/)
+
 ## Github 状态监控
 
 ?> [Github Status](https://www.githubstatus.com)

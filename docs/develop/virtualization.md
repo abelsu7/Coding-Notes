@@ -130,6 +130,7 @@ docker exec -it [CONTAINER ID] /bin/bash
 - [![](logo/wechat.svg)如何从零开始编写一个Kubernetes CRD | ServiceMesher![](logo/star.svg)](https://mp.weixin.qq.com/s/z_xM8QqpRUASDM1UyMzEeA)
 - [![](logo/wechat.svg)魅族容器云平台基于k8s的自动化运维实践 | 高效运维](https://mp.weixin.qq.com/s/OysDRvAIgmtcG_cIajCMWg?)
 - [全面提升，阿里云Docker/Kubernetes(K8S) 日志解决方案与选型对比 | CSDN](https://blog.csdn.net/aliyunyunqi/article/details/79401218)
+- [kubeadm 续坑篇 | 漠然](https://mritd.me/2016/11/21/kubeadm-other-problems/)
 
 ## OpenShift
 
