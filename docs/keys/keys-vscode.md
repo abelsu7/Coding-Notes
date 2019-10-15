@@ -95,6 +95,10 @@
 - Rainbow CSV
 - Txt Syntax
 
+### API
+
+- [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
+
 ### Markdown
 
 - Markdown All in One
