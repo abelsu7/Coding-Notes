@@ -62,6 +62,7 @@
 - [![](logo/github.svg)Gobang - 五子棋 in Go | Github](https://github.com/hcrgm/Gobang-Go)
 - [![](logo/wechat.svg)程序员的圣诞节 - 送她一颗圣诞树(附源代码) | 飞雪无情](https://mp.weixin.qq.com/s/RzAIl_yiVuc5T6suvk9KGg)
 - [![](logo/wechat.svg)程序员的圣诞节 - 送她一颗圣诞树的 Go 源代码 | 飞雪无情](https://mp.weixin.qq.com/s/q0toHYTRDEd_YdC8XeMI4A)
+- [![](logo/github.svg)golang123 - 使用 vue、nuxt、node.js 和 golang 开发的知识分享系统 | Github](https://github.com/shen100/golang123)
 
 ## 开源
 
@@ -70,3 +71,8 @@
 ## Leetcode
 
 - [![](logo/github.svg)halfrost/leetcode-go - LeetCode by Go | Github![](logo/star.svg)](https://github.com/halfrost/LeetCode-Go)
+
+## 设计模式
+
+- [![](logo/github.svg)go-patterns - Golang 设计模式 | Github![](logo/star.svg)](https://github.com/sevenelevenlee/go-patterns)
+- [![](logo/github.svg)golang-design-pattern - 设计模式 Golang 实现 | Github![](logo/star.svg)](https://github.com/senghoo/golang-design-pattern)

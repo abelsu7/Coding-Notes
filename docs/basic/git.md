@@ -1,5 +1,11 @@
 ?> ![](https://notes.abelsu7.top/_media/git.svg ':no-zoom')Git 常用命令
 
+## Github SSH Key
+
+```bash
+ssh -T git@github.com
+```
+
 ## git remote 远程仓库
 
 查看关联的远程仓库名称
@@ -271,16 +277,6 @@ git diff --staged
 - [git merge --no-ff 是什么意思 | SegmentFault](https://segmentfault.com/q/1010000002477106)
 - [分支管理策略 | 廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600/900005860592480#0)
 
-
-
-
-
-## Github SSH
-
-```bash
-ssh -T git@github.com
-```
-
 ## git 教程
 
 - [![](logo/flysnow.ico ':size=16')Github 的前世今生 | 飞雪无情![](logo/star.svg)](https://www.flysnow.org/2019/01/09/github-milestones.html)
@@ -292,67 +288,6 @@ ssh -T git@github.com
 - [![](logo/wechat.svg)技巧-Git Alias 让你事半功倍 | 逅弈逐码![](logo/star.svg)](https://mp.weixin.qq.com/s/IrkIeYlL9Hsysgq-RoMuVg)
 - [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 - [githug - Git your game on | Github](https://github.com/Gazler/githug)
-
-## 开源项目收集
-
-### 数据库
-
-- [![](logo/github.svg)mycli - A Terminal Client for MySQL | Github![](logo/star.svg)](https://github.com/dbcli/mycli)
-- [![](logo/github.svg)pgcli - A Terminal Client for PostgreSQL | Github![](logo/star.svg)](https://github.com/dbcli/pgcli)
-- [![](logo/github.svg)litecli - A Terminal Client for SQLite![](logo/star.svg)](https://github.com/dbcli/litecli)
-
-### 命令行
-
-- [![](logo/github.svg)The Fuck | Magnificent app which corrects your previous console command.![](logo/star.svg)](https://github.com/nvbn/thefuck)
-- [![](logo/github.svg)pingtop🏓 - Ping multiple servers | Github![](logo/star.svg)](https://github.com/laixintao/pingtop)
-
-### 字体
-
-- [![](logo/github.svg)Sarasa Gothic / 更纱黑体 | Github![](logo/star.svg)](https://github.com/be5invis/Sarasa-Gothic)
-- [![](logo/github.svg)cascadia-code | Github![](logo/star.svg)](https://github.com/microsoft/cascadia-code)
-- [![](logo/github.svg)日收 2700+ Star，微软新终端字体正式开源！| GithubDaily![](logo/star.svg)](https://mp.weixin.qq.com/s/GCqvpLUYYlFh6BzIXnAzfw)
-- [APP 设计必备字体：San Francisco Pro、苹方、思源黑体和 Roboto 等 | 设计达人](http://www.shejidaren.com/app-she-ji-bi-bei-zi-ti.html)
-- [在 Spacemacs 中配置 Fira Code 并启用 ligatures 特性 | iTimothy](https://xiaozhou.net/setup-spacemacs-with-fira-code-ligatures-2019-09-09.html)
-
-### dotfiles
-
-?> 参见 [![](https://notes.abelsu7.top/_media/favicon.ico ':size=16')Oh My Zsh/NeoVim/Tmux 打造终端 IDE | 苏易北](https://abelsu7.top/2019/05/21/terminal-ide-using-zsh-nvim-tmux)
-
-- [![](logo/github.svg)int32bit/dotfiles - vim/zsh/git/tmux dotfiles | Github](https://github.com/int32bit/dotfiles)
-- [![](logo/github.svg)ourvim - jusonalien| Github](https://github.com/jusonalien/ourvim)
-- [![](logo/github.svg)TimothyYe/mydotfiles | Github](https://github.com/TimothyYe/mydotfiles)
-- [![](logo/github.svg)amix/vimrc | Github](https://github.com/amix/vimrc)
-- [![](logo/github.svg)wsdjeg/DotFiles | Github](https://github.com/wsdjeg/DotFiles)
-- [![](logo/github.svg)barretlee/autoconfig-mac-vimrc | Github](https://github.com/barretlee/autoconfig-mac-vimrc)
-
-### Github
-
-- [![](logo/github.svg)Google 工程师 Hokein 的 Github Wiki 笔记](https://github.com/hokein/Wiki/wiki)
-- [gitMemory | 查看 Github 项目历史记录](https://www.gitmemory.com/)
-
-### 管理 Github Star
-
-- [![](logo/github.svg)astral - Organize Your GitHub Stars With Ease | Github![](logo/star.svg)](https://github.com/astralapp/astral)
-- [![](logo/star.svg)Astral](https://astralapp.com)
-- [高效管理 GitHub Star，用这几个插件就能做到！| GithubDaily](https://mp.weixin.qq.com/s/xHXUbtmzlKX8TFm1KIEYug)
-
-### fake 数据
-
-- [![](logo/github.svg)idgen - 一个使用 golang 编写的大陆身份证生成器 | Github](https://github.com/mritd/idgen)
-
-### Go 语言
-
-- [![](logo/star.svg)Go 编写的一些常用小工具 | 漠然](https://mritd.me/2018/11/27/simple-tool-written-in-golang/)
-- [![](logo/github.svg)grmon - Command line monitoring for goroutines | Github](https://github.com/bcicen/grmon)
-- [![](logo/github.svg)halfrost/leetcode-go - LeetCode by Go | Github![](logo/star.svg)](https://github.com/halfrost/LeetCode-Go)
-
-### Docker
-
-- [![](logo/github.svg)ctop - Top-like interface for container metrics | Github![](logo/star.svg)](https://github.com/bcicen/ctop)
-
-## Github 状态监控
-
-?> [![](logo/github.svg)Github Status](https://www.githubstatus.com)
 
 ## 相关文章
 

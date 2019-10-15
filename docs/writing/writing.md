@@ -33,7 +33,7 @@
 * [![](logo/mzlogin.ico ':size=16')中文文案排版指北（简体中文版）| 码志![](logo/star.svg)](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)
 * [![](logo/github.svg)中文文案排版指北（简体中文版）| mzlogin![](logo/star.svg)](https://github.com/mzlogin/chinese-copywriting-guidelines)
 
-## PPT
+## 制作 PPT
 
 * [![](logo/myslide.png ':size=16')MySlide | PPT 分享平台![](logo/star.svg)](https://myslide.cn)
 * [![](logo/github.svg)reveal.js | The HTML Presentation Framework![](logo/star.svg)](https://github.com/hakimel/reveal.js)
@@ -45,6 +45,7 @@
 
 ## 导出 PDF
 
+- [使用 pandoc 将 markdown 文档转换成 pdf | 紫川秀的博客](https://blog.yumaojun.net/2017/01/19/markdown-to-pdf/)
 - [![](logo/wechat.svg)我是如何将博客转成PDF的 | Java3y![](logo/star.svg)](https://mp.weixin.qq.com/s/ktYaBA5YYKsSLdaHwlnYVQ)
 
 ## 代码高亮

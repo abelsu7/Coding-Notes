@@ -8,6 +8,7 @@
   - [![](https://notes.abelsu7.top/_media/macos.svg)操作系统](/basic/os)
   - [![](https://notes.abelsu7.top/_media/internet.svg)计算机网络](/basic/network)
   - [![](https://notes.abelsu7.top/_media/git.svg)Git 常用命令](/basic/git)
+  - [![](https://notes.abelsu7.top/_media/github.svg)Github 收集](/basic/github)
   - [![](https://notes.abelsu7.top/_media/leetcode.png ':size=16')Leetcode 题解](/basic/leetcode)
   - [![](https://notes.abelsu7.top/_media/math.svg)数学物理](/basic/math)
 - **编程开发**
