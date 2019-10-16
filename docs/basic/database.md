@@ -22,7 +22,10 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password
 
 ## MongoDB
 
-- [![](logo/wechat.svg)Python + MongoDB 小型程序利器 | Leetcode力扣![](logo/star.svg)](https://mp.weixin.qq.com/s/3yDyzSDzKWzoFOVfSI2-vQ)
+- [![](logo/juejin.png ':size=16')Linux Centos 7 安装 MongoDB（简单！详细！）| 掘金![](logo/star.svg)](https://juejin.im/post/5cbe73f86fb9a0320b40d687)
+- [![](logo/star.svg)简明 MongoDB 入门教程 | SegmentFault](https://segmentfault.com/a/1190000010556670#articleHeader3)
+- [MongoDB 教程 | 菜鸟教程](https://www.runoob.com/mongodb/mongodb-tutorial.html)
+- [![](logo/wechat.svg)Python + MongoDB 小型程序利器 | Leetcode力扣](https://mp.weixin.qq.com/s/3yDyzSDzKWzoFOVfSI2-vQ)
 
 
 

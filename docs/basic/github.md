@@ -2,6 +2,8 @@
 
 ## 数据库
 
+?> [dbcli: Commandline Database Clients with Autocompletion and Syntax Highlighting](https://www.dbcli.com)
+
 - [![](logo/github.svg)mycli - A Terminal Client for MySQL | Github![](logo/star.svg)](https://github.com/dbcli/mycli)
 - [![](logo/github.svg)pgcli - A Terminal Client for PostgreSQL | Github![](logo/star.svg)](https://github.com/dbcli/pgcli)
 - [![](logo/github.svg)litecli - A Terminal Client for SQLite![](logo/star.svg)](https://github.com/dbcli/litecli)
@@ -45,6 +47,7 @@
 ## Vue
 
 - [![](logo/github.svg)go-vue-example - Example App using Go, Vue.js, Element, Axios | Github](https://github.com/mattn/go-vue-example)
+- [![](logo/juejin.png ':size=16')Vue 项目构建与开发入门 | 掘金小册![](logo/star.svg)](https://juejin.im/book/5b23a5aef265da59716fda09)
 
 ## 代码行数统计
 
@@ -73,6 +76,8 @@ cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 
 ## Go 语言
 
+### 待整理
+
 - [![](logo/star.svg)Go 编写的一些常用小工具 | 漠然](https://mritd.me/2018/11/27/simple-tool-written-in-golang/)
 - [![](logo/github.svg)grmon - Command line monitoring for goroutines | Github](https://github.com/bcicen/grmon)
 - [![](logo/github.svg)halfrost/leetcode-go - LeetCode by Go | Github![](logo/star.svg)](https://github.com/halfrost/LeetCode-Go)
@@ -84,6 +89,12 @@ cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 - [![](logo/github.svg)gopsutil - psutil for golang | Github](https://github.com/shirou/gopsutil)
 - [![](logo/github.svg)grmon - Command line monitoring for goroutines | Github](https://github.com/bcicen/grmon)
 - [构建 Golang 程序最小 Docker 镜像 | 紫川秀的博客](https://blog.yumaojun.net/2017/11/20/golang-mini-docker-image/)
+
+### Web 框架
+
+- [![](logo/github.svg)gin-scaffold | Github](https://github.com/dcu/gin-scaffold)
+- [![](logo/github.svg)echo-scaffold | Github](https://github.com/mattn/echo-scaffold)
+
 
 ## Github 状态监控
 
@@ -97,5 +108,7 @@ cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 
 ## Github 相关
 
+- [![](logo/github.svg)GitHub-Chinese-Top-Charts - Github 中文排行榜 | Github![](logo/star.svg)](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Go)
+- [![](logo/github.svg)Best-websites-a-programmer-should-visit-zh - 程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 - [![](logo/github.svg)Google 工程师 Hokein 的 Github Wiki 笔记](https://github.com/hokein/Wiki/wiki)
 - [gitMemory | 查看 Github 项目历史记录](https://www.gitmemory.com/)
