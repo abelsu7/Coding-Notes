@@ -91,6 +91,36 @@ yum install epel-release
 
 ### 关闭 SELinux
 
+## yum 包管理
+
+```bash
+# 1. 安装 
+yum install <package> # 安装指定的安装包
+
+# 2. 更新和升级 
+yum update            # 全部更新 
+yum update <package>  # 更新指定程序包
+yum check-update      # 检查可更新的程序 
+yum upgrade <package> # 升级指定程序包
+
+# 3. 查找和显示 
+yum info              # 列出所有可以安装或更新的包的信息
+yum info <package>    # 显示安装包信息
+yum list              # 显示所有已经安装和可以安装的程序包 
+yum list <package>    # 显示指定程序包安装情况
+yum search <package>  # 搜索匹配特定字符的包的详细信息
+
+# 4. 删除程序 
+yum remove | erase <package> # 删除程序包
+yum deplist <package>        # 查看程序包依赖情况
+
+# 5. 清除缓存 
+yum clean packages        # 清除缓存目录下的软件包 
+yum clean headers         # 清除缓存目录下的 headers 
+yum clean oldheaders      # 清除缓存目录下旧的 headers 
+yum clean, yum clean all  # (= yum clean packages; yum clean oldheaders) 清除缓存目录下的软件包及旧的 headers
+```
+
 ## Linux 命令及 Shell 编程
 
 ### 学习资源
@@ -144,6 +174,8 @@ yum install epel-release
 
 - [![](logo/wechat.svg)漫话：如何给女朋友解释什么是分布式和集群？| 漫话编程![](logo/star.svg)](https://mp.weixin.qq.com/s/Yd4JzTjXTWDfTkV1-Q0q_w)
 - [![](logo/wechat.svg)毕玄：阿里十年，从分布式到云时代的架构演进之路 | InfoQ![](logo/star.svg)](https://mp.weixin.qq.com/s/FtFxCwaHYWa-ZzO3x1qZWA)
+- [![](logo/wechat.svg)云原生时代，分布式系统设计必备知识图谱（内含22个知识点）| 阿里巴巴云原生![](logo/star.svg)](https://mp.weixin.qq.com/s/CMd4GCoZoTsY_FNB1y9DJw)
+- [![](logo/wechat.svg)一文读懂分布式架构知识体系（内含超全核心知识大图）| 阿里巴巴云原生![](logo/star.svg)](https://mp.weixin.qq.com/s/XL5zJNNKCpWLxT8LuJgTUg)
 
 ## 负载均衡
 

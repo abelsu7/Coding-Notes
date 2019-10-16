@@ -18,13 +18,14 @@ MySQL 8.0 Error: `ER_NOT_SUPPORTED_AUTH_MODE`：
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password'
 ```
 
-
-
 ## MariaDB
 
 ## MongoDB
 
 - [![](logo/wechat.svg)Python + MongoDB 小型程序利器 | Leetcode力扣![](logo/star.svg)](https://mp.weixin.qq.com/s/3yDyzSDzKWzoFOVfSI2-vQ)
+
+
+
 
 ## Redis
 

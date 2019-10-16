@@ -105,6 +105,8 @@
 
 ## 云原生
 
+- [![](logo/wechat.svg)云原生时代，分布式系统设计必备知识图谱（内含22个知识点）| 阿里巴巴云原生![](logo/star.svg)](https://mp.weixin.qq.com/s/CMd4GCoZoTsY_FNB1y9DJw)
+- [![](logo/wechat.svg)一文读懂分布式架构知识体系（内含超全核心知识大图）| 阿里巴巴云原生![](logo/star.svg)](https://mp.weixin.qq.com/s/XL5zJNNKCpWLxT8LuJgTUg)
 - [![](logo/wechat.svg)值得关注的五大云原生技术 | FreeBuf](https://mp.weixin.qq.com/s/JJt4D-gb1R9ePnNRTXt47A)
 
 ## 任务调度

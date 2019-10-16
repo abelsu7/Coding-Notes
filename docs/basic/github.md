@@ -5,6 +5,7 @@
 - [![](logo/github.svg)mycli - A Terminal Client for MySQL | Github![](logo/star.svg)](https://github.com/dbcli/mycli)
 - [![](logo/github.svg)pgcli - A Terminal Client for PostgreSQL | Github![](logo/star.svg)](https://github.com/dbcli/pgcli)
 - [![](logo/github.svg)litecli - A Terminal Client for SQLite![](logo/star.svg)](https://github.com/dbcli/litecli)
+- [![](logo/github.svg)go-sqlite3 - sqlite3 driver for go | Github](https://github.com/mattn/go-sqlite3)
 
 ## 命令行
 
@@ -17,6 +18,7 @@
 - [![](logo/star.svg)跨平台系统监控库 - gopsutils | 紫川秀的博客](https://blog.yumaojun.net/2017/01/22/gopsutils/)
 - [![](logo/github.svg)gopsutil - psutil for golang | Github](https://github.com/shirou/gopsutil)
 - [![](logo/github.svg)grmon - Command line monitoring for goroutines | Github](https://github.com/bcicen/grmon)
+- [![](logo/github.svg)fswatch - 文件变更监控，跨平台](https://github.com/codeskyblue/fswatch)
 
 ## 运维开发
 
@@ -35,6 +37,14 @@
 - [![](logo/github.svg)日收 2700+ Star，微软新终端字体正式开源！| GithubDaily![](logo/star.svg)](https://mp.weixin.qq.com/s/GCqvpLUYYlFh6BzIXnAzfw)
 - [APP 设计必备字体：San Francisco Pro、苹方、思源黑体和 Roboto 等 | 设计达人](http://www.shejidaren.com/app-she-ji-bi-bei-zi-ti.html)
 - [在 Spacemacs 中配置 Fira Code 并启用 ligatures 特性 | iTimothy](https://xiaozhou.net/setup-spacemacs-with-fira-code-ligatures-2019-09-09.html)
+
+## GTK
+
+- [![](logo/github.svg)go-gtk - Go binding for GTK | Github![](logo/star.svg)](https://github.com/mattn/go-gtk)
+
+## Vue
+
+- [![](logo/github.svg)go-vue-example - Example App using Go, Vue.js, Element, Axios | Github](https://github.com/mattn/go-vue-example)
 
 ## 代码行数统计
 

@@ -19,6 +19,11 @@
 
 - [![](logo/wechat.svg)系统架构 - 码农有道![](logo/star.svg)](https://mp.weixin.qq.com/s/OzpgmcCjabT7bKPf1txK4g)
 
+## 分布式
+
+- [![](logo/wechat.svg)云原生时代，分布式系统设计必备知识图谱（内含22个知识点）| 阿里巴巴云原生![](logo/star.svg)](https://mp.weixin.qq.com/s/CMd4GCoZoTsY_FNB1y9DJw)
+- [![](logo/wechat.svg)一文读懂分布式架构知识体系（内含超全核心知识大图）| 阿里巴巴云原生![](logo/star.svg)](https://mp.weixin.qq.com/s/XL5zJNNKCpWLxT8LuJgTUg)
+
 ## 后端面试
 
 - [![](logo/wechat.svg)BAT 网易 头条 美团 等后台开发面经 | 招聘消息汇总![](logo/star.svg)](https://mp.weixin.qq.com/s/SNSbZaxcFC2gkfaf-dqOoQ)
