@@ -11,9 +11,23 @@
 
 ## 命令行
 
+### 命令补全
+
 - [![](logo/github.svg)The Fuck | Magnificent app which corrects your previous console command.![](logo/star.svg)](https://github.com/nvbn/thefuck)
-- [![](logo/github.svg)pingtop🏓 - Ping multiple servers | Github![](logo/star.svg)](https://github.com/laixintao/pingtop)
+- [![](logo/github.svg)navi - 命令行备忘补全工具 | Github![](logo/star.svg)](https://github.com/denisidoro/navi)
+- [![](logo/wechat.svg)快速调用复杂命令，支持中文注释，命令行备忘工具 navi | 量子位![](logo/star.svg)](https://mp.weixin.qq.com/s/GMA4-uQQNto4zpwmedFwMg)
+
+![](https://qiniu.abelsu7.cn/navi-demo.gif)
+
+
+### cli 开发
+
 - [如何使用 Golang 编写漂亮的命令行工具 | 紫川秀的博客](https://blog.yumaojun.net/2016/12/30/go-cobra/)
+
+### 系统监控
+
+- [![](logo/github.svg)pingtop🏓 - Ping multiple servers | Github![](logo/star.svg)](https://github.com/laixintao/pingtop)
+
 
 ## 资源监控
 
@@ -39,6 +53,8 @@
 - [![](logo/github.svg)日收 2700+ Star，微软新终端字体正式开源！| GithubDaily![](logo/star.svg)](https://mp.weixin.qq.com/s/GCqvpLUYYlFh6BzIXnAzfw)
 - [APP 设计必备字体：San Francisco Pro、苹方、思源黑体和 Roboto 等 | 设计达人](http://www.shejidaren.com/app-she-ji-bi-bei-zi-ti.html)
 - [在 Spacemacs 中配置 Fira Code 并启用 ligatures 特性 | iTimothy](https://xiaozhou.net/setup-spacemacs-with-fira-code-ligatures-2019-09-09.html)
+- [![](logo/google-fonts.ico ':size=16')Google Fonts![](logo/star.svg)](https://fonts.google.com)
+- [![](logo/reuixiy.ico ':size=16')Google Fonts 已支持思源宋体！| reuixiy](https://io-oi.me/tech/noto-serif-sc-added-on-google-fonts/)
 
 ## GTK
 
@@ -49,7 +65,7 @@
 - [![](logo/github.svg)go-vue-example - Example App using Go, Vue.js, Element, Axios | Github](https://github.com/mattn/go-vue-example)
 - [![](logo/juejin.png ':size=16')Vue 项目构建与开发入门 | 掘金小册![](logo/star.svg)](https://juejin.im/book/5b23a5aef265da59716fda09)
 
-## 代码行数统计
+## 代码统计
 
 - [![](logo/star.svg)使用 cloc 统计你的代码量 - Echo's Blog](https://echohn.github.io/2016/09/24/use-cloc-to-count-your-code/)
 - [![](logo/github.svg)cloc - Count Lines of Code | Github![](logo/star.svg)](https://github.com/AlDanial/cloc)

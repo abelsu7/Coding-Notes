@@ -6,9 +6,17 @@
 
 ## MySQL
 
+### 索引
+
+- [![](logo/wechat.svg)【面试现场】为什么MySQL数据库要用B+树存储索引？| Java3y![](logo/star.svg)](https://mp.weixin.qq.com/s/Mwh5T5wQNLrxORLpNvIZoA)
 - [![](logo/codinglabs.png ':size=16')MySQL 索引背后的数据结构及算法原理 | CodingLabs![](logo/star.svg)](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 - [![](logo/csdn.ico ':size=16')Mysql学习总结（30）——MySQL 索引详解大全 | 一杯甜酒![](logo/star.svg)](https://blog.csdn.net/u012562943/article/details/52149311)
-- [![](logo/wechat.svg)【面试现场】为什么MySQL数据库要用B+树存储索引？| Java3y![](logo/star.svg)](https://mp.weixin.qq.com/s/Mwh5T5wQNLrxORLpNvIZoA)
+
+### 锁的优化
+
+- [![](logo/wechat.svg)大牛总结的 MySQL 锁优化 | 51CTO技术栈![](logo/star.svg)](https://mp.weixin.qq.com/s/3b3y9l6vdhU4gxqMbyS3ww)
+
+### 常见错误
 
 MySQL 8.0 Error: `ER_NOT_SUPPORTED_AUTH_MODE`：
 
@@ -26,9 +34,6 @@ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password
 - [![](logo/star.svg)简明 MongoDB 入门教程 | SegmentFault](https://segmentfault.com/a/1190000010556670#articleHeader3)
 - [MongoDB 教程 | 菜鸟教程](https://www.runoob.com/mongodb/mongodb-tutorial.html)
 - [![](logo/wechat.svg)Python + MongoDB 小型程序利器 | Leetcode力扣](https://mp.weixin.qq.com/s/3yDyzSDzKWzoFOVfSI2-vQ)
-
-
-
 
 ## Redis
 
