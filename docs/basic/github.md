@@ -28,6 +28,10 @@
 
 - [![](logo/github.svg)pingtop🏓 - Ping multiple servers | Github![](logo/star.svg)](https://github.com/laixintao/pingtop)
 
+## 虚拟化
+
+- [![](logo/github.svg)sheepdog - Distributed Storage System for QEMU![](logo/star.svg)](https://github.com/sheepdog/sheepdog)
+- [![](logo/sheepdog.ico ':size=16')Sheepdog Project![](logo/star.svg)](http://sheepdog.github.io/sheepdog/)
 
 ## 资源监控
 
