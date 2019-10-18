@@ -132,3 +132,8 @@ cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 - [![](logo/github.svg)Best-websites-a-programmer-should-visit-zh - 程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 - [![](logo/github.svg)Google 工程师 Hokein 的 Github Wiki 笔记](https://github.com/hokein/Wiki/wiki)
 - [gitMemory | 查看 Github 项目历史记录](https://www.gitmemory.com/)
+
+## 有趣的
+
+- [![](logo/github.svg)lipstick - 口红颜色可视化 | Github](https://github.com/Ovilia/lipstick)
+
