@@ -79,10 +79,12 @@
 
 ## 微服务
 
-* [![](logo/wechat.svg)听过那么多道理依然不知道如何做微服务？| ArchSummit](https://mp.weixin.qq.com/s/5lr9gMZ2Kab4ZN8Y-6lmFQ)
-* [![](logo/wechat.svg)GitHub 9K Star！Apollo作者手把手教你微服务配置中心之道 | InfoQ](https://mp.weixin.qq.com/s/iDmYJre_ULEIxuliu1EbIQ)
-* [![](logo/wechat.svg)29个构建微服务的顶级工具 | 云+社区](https://mp.weixin.qq.com/s/tqYpTlgsAsE5_ICIEB8RUA)
-* [![](logo/wechat.svg)Kubernetes是如何重新定义微服务的 | InfoQ](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651010190&idx=3&sn=cfeb39c4a9ec9983d9758164911b22b1&chksm=bdbeccdd8ac945cbe86cf580ac0c53e533a30fb781bf4977999de8dc7b5bfb7f00e79fc9bae1&scene=27#wechat_redirect)
+- [![](logo/star.svg)Zeebe.io — a horizontally scalable distributed workflow engine | Medium.com](https://blog.bernd-ruecker.com/zeebe-io-a-horizontally-scalable-distributed-workflow-engine-45788a90d549)
+- [![](logo/star.svg)The Microservices Workflow Automation Cheat Sheet | Medium.com](https://blog.bernd-ruecker.com/the-microservice-workflow-automation-cheat-sheet-fc0a80dc25aa)
+- [![](logo/wechat.svg)听过那么多道理依然不知道如何做微服务？| ArchSummit](https://mp.weixin.qq.com/s/5lr9gMZ2Kab4ZN8Y-6lmFQ)
+- [![](logo/wechat.svg)GitHub 9K Star！Apollo作者手把手教你微服务配置中心之道 | InfoQ](https://mp.weixin.qq.com/s/iDmYJre_ULEIxuliu1EbIQ)
+- [![](logo/wechat.svg)29个构建微服务的顶级工具 | 云+社区](https://mp.weixin.qq.com/s/tqYpTlgsAsE5_ICIEB8RUA)
+- [![](logo/wechat.svg)Kubernetes是如何重新定义微服务的 | InfoQ](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651010190&idx=3&sn=cfeb39c4a9ec9983d9758164911b22b1&chksm=bdbeccdd8ac945cbe86cf580ac0c53e533a30fb781bf4977999de8dc7b5bfb7f00e79fc9bae1&scene=27#wechat_redirect)
 
 ## 分布式存储
 
