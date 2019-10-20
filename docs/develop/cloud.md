@@ -79,6 +79,7 @@
 
 ## 微服务
 
+- [![](logo/wechat.svg)轻量级微服务架构及其最佳实践 | DevOps时代![](logo/star.svg)](https://mp.weixin.qq.com/s/GOrFL7hGuzXGiO83qfy9pA)
 - [![](logo/star.svg)Zeebe.io — a horizontally scalable distributed workflow engine | Medium.com](https://blog.bernd-ruecker.com/zeebe-io-a-horizontally-scalable-distributed-workflow-engine-45788a90d549)
 - [![](logo/star.svg)The Microservices Workflow Automation Cheat Sheet | Medium.com](https://blog.bernd-ruecker.com/the-microservice-workflow-automation-cheat-sheet-fc0a80dc25aa)
 - [![](logo/wechat.svg)听过那么多道理依然不知道如何做微服务？| ArchSummit](https://mp.weixin.qq.com/s/5lr9gMZ2Kab4ZN8Y-6lmFQ)
