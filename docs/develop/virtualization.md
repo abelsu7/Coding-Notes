@@ -96,6 +96,8 @@
 ### 文章资讯
 
 - [![](logo/wechat.svg)容器在公有云上的落地姿势 | 世民谈云计算![](logo/star.svg)](https://mp.weixin.qq.com/s/Hj__5SwxXShyXj4bmu3jhw)
+- [2019 DevOps 必备面试题——容器化和虚拟化 | CODING 博客](https://blog.coding.net/blog/devops-interview5)
+- [Top DevOps Interview Questions You Must Prepare In 2019 - edureka | Medium.com](https://medium.com/edureka/devops-interview-questions-e91a4e6ecbf3)
 
 ## OpenStack
 

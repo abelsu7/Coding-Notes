@@ -93,6 +93,8 @@ yum install epel-release
 
 ## yum 包管理
 
+- [![](logo/fedora.svg)EPEL - Extra Packages for Enterprise Linux | Fedora Project Wiki![](logo/star.svg)](https://fedoraproject.org/wiki/EPEL)
+
 ```bash
 # 1. 安装 
 yum install <package> # 安装指定的安装包

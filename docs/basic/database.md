@@ -6,6 +6,23 @@
 
 ## MySQL
 
+### 查看建表语句
+
+- [![](logo/csdn.ico ':size=16')MySQL 查看表结构的几种方式 | CSDN![](logo/star.svg)](https://blog.csdn.net/The_Best_Hacker/article/details/82794696)
+
+如何查看数据库创建 SQL：
+
+```sql
+SHOW CREATE DATABASE `gin_demo`;
+```
+
+如何查看建表 SQL
+
+```sql
+SHOW CREATE TABLE `tb_users`;
+```
+
+
 ### 索引
 
 - [![](logo/wechat.svg)【面试现场】为什么MySQL数据库要用B+树存储索引？| Java3y![](logo/star.svg)](https://mp.weixin.qq.com/s/Mwh5T5wQNLrxORLpNvIZoA)

@@ -293,3 +293,4 @@ git diff --staged
 
 - [![](logo/wechat.svg)30 分钟让你掌握 Git 的黑魔法 | 阿里巴巴中间件![](logo/star.svg)](https://mp.weixin.qq.com/s/PstnDFD7iFbdJ90z-lC6yw)
 - [![](logo/wechat.svg)Git 自救指南 | 扣钉![](logo/star.svg)](https://mp.weixin.qq.com/s/kr0KrwpueC73PD8Ma_AuWg)
+- [![](logo/star.svg)Git 常用指令记录 - codeskyblue | 开源中国](https://my.oschina.net/goskyblue/blog/546338)

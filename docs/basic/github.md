@@ -60,6 +60,10 @@
 - [![](logo/google-fonts.ico ':size=16')Google Fonts![](logo/star.svg)](https://fonts.google.com)
 - [![](logo/reuixiy.ico ':size=16')Google Fonts 已支持思源宋体！| reuixiy](https://io-oi.me/tech/noto-serif-sc-added-on-google-fonts/)
 
+## PPT
+
+- [![](logo/github.svg)mdp - 终端下基于 Markdown 的 PPT 展示工具![](logo/star.svg)](https://github.com/visit1985/mdp)
+
 ## GTK
 
 - [![](logo/github.svg)go-gtk - Go binding for GTK | Github![](logo/star.svg)](https://github.com/mattn/go-gtk)
@@ -115,6 +119,18 @@ cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 - [![](logo/github.svg)gin-scaffold | Github](https://github.com/dcu/gin-scaffold)
 - [![](logo/github.svg)echo-scaffold | Github](https://github.com/mattn/echo-scaffold)
 
+### 命令行
+
+- [![](logo/github.svg)cobra - spf13 | Github![](logo/star.svg)](https://github.com/spf13/cobra)
+- [如何使用 Golang 编写漂亮的命令行工具 | 紫川秀的博客](https://blog.yumaojun.net/2016/12/30/go-cobra/)
+- [GoTTY：基于 Go 语言的 Linux 终端 Web 共享 | 知乎](https://zhuanlan.zhihu.com/p/33422384)
+- [![](logo/github.svg)go-sh - 替代 os/exec 执行命令 | Github![](logo/star.svg)](https://github.com/codeskyblue/go-sh)
+- [![](logo/github.svg)go-homedir - 替代 os/user，支持交叉编译 | Github![](logo/star.svg)](https://github.com/mitchellh/go-homedir)
+- [![](logo/github.svg)gotty | Share your terminal as a web application](https://github.com/yudai/gotty)
+
+### SSH
+
+- [![](logo/github.svg)gossh - 极简的 ssh 管理工具，支持多台主机、远程执行命令、传递文件 | Github![](logo/star.svg)](https://github.com/andesli/gossh)
 
 ## Github 状态监控
 
