@@ -1,5 +1,11 @@
 !> 参见 [![](logo/github.svg)GitHub-Chinese-Top-Charts - Github 中文排行榜 | Github![](logo/star.svg)](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Go)
 
+## Awesome 系列
+
+- [![](logo/github.svg)awesome - 😎 Awesome lists about all kinds of interesting topics | Github![](logo/star.svg)](https://github.com/sindresorhus/awesome)
+- [![](logo/awesome.svg ':size=96')Awesome Go![](logo/star.svg)](https://awesome-go.com)
+- [![](logo/awesome.svg ':size=96')Awesome Python![](logo/star.svg)](https://awesome-python.com)
+
 ## 数据库
 
 ?> [dbcli: Commandline Database Clients with Autocompletion and Syntax Highlighting](https://www.dbcli.com)
@@ -83,6 +89,11 @@
 cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 ```
 
+## 压缩程序包
+
+- [![](logo/github.svg)UPX - the Ultimate Packer for eXecutables | Github![](logo/star.svg)](https://github.com/upx/upx)
+
+
 ## dotfiles
 
 ?> 参见 [![](https://notes.abelsu7.top/_media/favicon.ico ':size=16')Oh My Zsh/NeoVim/Tmux 打造终端 IDE | 苏易北](https://abelsu7.top/2019/05/21/terminal-ide-using-zsh-nvim-tmux)
@@ -99,6 +110,10 @@ cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 - [![](logo/github.svg)idgen - 一个使用 golang 编写的大陆身份证生成器 | Github](https://github.com/mritd/idgen)
 
 ## Go 语言
+
+### 综合教程
+
+- [![](logo/github.svg)The Go Cookbook | Github![](logo/star.svg)](https://golangcookbook.com)
 
 ### 待整理
 
@@ -127,10 +142,15 @@ cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 - [![](logo/github.svg)go-sh - 替代 os/exec 执行命令 | Github![](logo/star.svg)](https://github.com/codeskyblue/go-sh)
 - [![](logo/github.svg)go-homedir - 替代 os/user，支持交叉编译 | Github![](logo/star.svg)](https://github.com/mitchellh/go-homedir)
 - [![](logo/github.svg)gotty | Share your terminal as a web application](https://github.com/yudai/gotty)
+- [![](logo/github.svg)urfave/cli - A simple, fast, and fun package for building command line apps in Go | Github![](logo/star.svg)](https://github.com/urfave/cli/tree/v2)
 
 ### SSH
 
 - [![](logo/github.svg)gossh - 极简的 ssh 管理工具，支持多台主机、远程执行命令、传递文件 | Github![](logo/star.svg)](https://github.com/andesli/gossh)
+
+### 嵌入式
+
+- [![](logo/tinygo.png)TinyGo - A Go Compiler For Small Places![](logo/star.svg)](https://tinygo.org)
 
 ## Github 状态监控
 

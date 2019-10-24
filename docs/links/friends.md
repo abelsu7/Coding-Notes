@@ -75,6 +75,7 @@
 | [WKLKEN BUILDING](http://www.wklken.me) | [凌岳_wklken](https://github.com/wklken) | 腾讯，Pythonista，Vimer |
 | [卡瓦邦噶](https://www.kawabangga.com) | [赖信涛](https://github.com/laixintao) | pingtop 作者，Python，Vimer，蚂蚁金服 SRE |
 | [int32bit's Blog](http://int32bit.me) | [int32bit](https://github.com/int32bit) | Linuxer, Vimer, Pythoner, OpenStacker, Docker |
+| [Paper](https://paper.seebug.org) | 404 Team from Knownsec | 安全技术精粹 |
 
 ## 友链收集
 
