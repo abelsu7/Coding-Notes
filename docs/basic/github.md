@@ -62,7 +62,7 @@
 
 ## PPT
 
-- [![](logo/github.svg)mdp - 终端下基于 Markdown 的 PPT 展示工具![](logo/star.svg)](https://github.com/visit1985/mdp)
+- [![](logo/github.svg)mdp - 终端下基于 Markdown 的 PPT 展示工具 | Github![](logo/star.svg)](https://github.com/visit1985/mdp)
 
 ## GTK
 
