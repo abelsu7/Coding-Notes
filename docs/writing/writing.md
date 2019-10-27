@@ -22,11 +22,17 @@
 - [CentOS镜像使用帮助 | 网易开源镜像站](http://mirrors.163.com/.help/centos.html)
 - [![](logo/csdn.ico ':size=16')centos 安装htop | CSDN](https://blog.csdn.net/zswjob126/article/details/51108069)
 
+## 写作工具
+
+- [![](logo/openwrite.png ':size=16')OpenWrite | 多平台写作![](logo/star.svg)](https://openwrite.cn)
+- [![](logo/csdn.ico ':size=16')OpenWrite 一款博客可一文多发的实用工具 | CSDN](https://blog.csdn.net/qq_33619378/article/details/100150330)
+- [![](logo/segmentfault.ico ':size=16')OpenWrite 一款博客可一文多发的实用工具 | SegmentFault](https://segmentfault.com/a/1190000020234289)
+- [![](logo/md2all.ico ':size=16')Md2All | 颜家大少![](logo/star.svg)](http://md.aclickall.com/)
+
 ## 微信公众号排版
 
-* [![](logo/md2all.ico ':size=16')Md2All | 颜家大少![](logo/star.svg)](http://md.aclickall.com/)
-* [![](logo/barretlee.ico ':size=16')WXMarkdown - 微信公众号格式化工具 | 小胡子哥![](logo/star.svg)](http://md.barretlee.com/)
-* [![](logo/mzlogin.ico ':size=16')WXMarkdown - 分屏版 | mzlogin![](logo/star.svg)](https://md.mazhuang.org/)
+- [![](logo/barretlee.ico ':size=16')WXMarkdown - 微信公众号格式化工具 | 小胡子哥![](logo/star.svg)](http://md.barretlee.com/)
+- [![](logo/mzlogin.ico ':size=16')WXMarkdown - 分屏版 | mzlogin![](logo/star.svg)](https://md.mazhuang.org/)
 
 ## 中文排版
 

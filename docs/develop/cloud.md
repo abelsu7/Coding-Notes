@@ -1,5 +1,22 @@
 ?> ![](logo/docker.svg ':no-zoom')云计算
 
+## VPS 云主机
+
+- [![](logo/github.svg)Github Student Developer Pack | Github Education![](logo/star.svg)](https://education.github.com/pack)
+- [![](logo/qcloud.png ':size=16')腾讯云学生服务器 - 云+校园 | 腾讯云![](logo/star.svg)](https://cloud.tencent.com/act/campus)
+- [![](logo/aliyun.png ':size=16')阿里云学生机 - 云翼计划 | 阿里云![](logo/star.svg)](https://promotion.aliyun.com/ntms/act/campus2018.html)
+- [![](logo/huawei.ico ':size=16')华为云](https://www.huaweicloud.com/)
+- [![](logo/huawei.ico ':size=16')云创校园计划 | 华为云](https://developer.huaweicloud.com/campus)
+- [![](logo/baiduyun.ico ':size=16')百度智能云](https://cloud.baidu.com)
+- [![](logo/baiduyun.ico ':size=16')校园启航计划 | 百度智能云](https://cloud.baidu.com/campaign/campus-2018/index.html)
+- [![](logo/ctyun.ico ':size=16')云创校园 | 天翼云](https://www.ctyun.cn/activity/?20190103#/campus)
+- [![](logo/mtyun.png)美团云](https://www.mtyun.com)
+- [![](logo/vultr.png)Vultr - SSD VPS Servers](https://www.vultr.com/)
+- [![](logo/vircloud.ico ':size=16')应该是最全的国内学生机|云主机（VPS）学生优惠汇总 | VirCloud's Blog](https://vircloud.net/offer/student-offer.html)
+- [![](logo/zhihu.svg)有哪些对学生有优惠的 VPS 云主机？| 知乎](https://www.zhihu.com/question/40865206)
+- [![](logo/vpsrb.ico ':size=16')学生机合集：盘点国内外那些教育专享的VPS优惠 | VPS 日报](https://www.vpsrb.com/675.html)
+- [![](logo/wzfou.webp ':size=16')国内外 VPS 主机学生机和学生优惠整理汇总 | 挖站否](https://wzfou.com/edu-vps/)
+
 ## CNCF
 
 - [![](logo/cncf.png ':size=16')Cloud Native Computing Foundation![](logo/star.svg)](https://www.cncf.io)
@@ -129,7 +146,7 @@
 ### cloud-init
 
 - [![](logo/cloudinit.ico ':size=16')cloud-init | The standard for customising cloud instances](https://cloud-init.io/)
-- [![](logo/aliyun.svg ':size=16')安装 cloud-init - 用户指南 | 阿里云](https://www.alibabacloud.com/help/zh/doc-detail/57803.htm)
+- [![](logo/aliyun.png ':size=16')安装 cloud-init - 用户指南 | 阿里云](https://www.alibabacloud.com/help/zh/doc-detail/57803.htm)
 - [![](logo/zhihu.svg)cloud-init介绍及源码解读(上) | 知乎](https://zhuanlan.zhihu.com/p/27664869)
 
 ## 文章资讯
@@ -138,3 +155,6 @@
 - [![](logo/wechat.svg)阿里重磅开源！4000台服务器真实数据集，揭秘世界级数据中心 | 阿里技术](https://mp.weixin.qq.com/s/8aGrLCEfQZlW_w2t768rqA)
 - [![](logo/wechat.svg)刚刚，阿里开源首个深度学习框架 X-Deep Learning！| 阿里技术](https://mp.weixin.qq.com/s/Of_khouAoM7sMEBFKKZigA)
 - [![](logo/wechat.svg)BAT 的云顶之战 | 校招薪水](https://mp.weixin.qq.com/s/sv46bzfSSfWtT5lMRGMwZw)
+
+
+

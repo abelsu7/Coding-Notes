@@ -46,6 +46,18 @@
 - [![](logo/github.svg)grmon - Command line monitoring for goroutines | Github](https://github.com/bcicen/grmon)
 - [![](logo/github.svg)fswatch - 文件变更监控，跨平台](https://github.com/codeskyblue/fswatch)
 
+## 性能测试
+
+### UnixBench
+
+- [![](logo/teddysun.png ':size=16')Linux 性能测试 UnixBench 一键脚本 | 秋水逸冰![](logo/star.svg)](https://teddysun.com/245.html)
+- [![](logo/teddysun.png ':size=16')一键测试脚本 bench.sh | 秋水逸冰![](logo/star.svg)](https://teddysun.com/444.html)
+- [![](logo/github.svg)teddysun/across - Github](https://github.com/teddysun/across)
+- [![](logo/jianshu.svg)给你的 Linux 电脑跑个分 (UnixBench) | 简书](https://www.jianshu.com/p/d0e25a817517)
+- [![](logo/csdn.ico ':size=16')性能测试之 UnixBench | CSDN](https://blog.csdn.net/u013943420/article/details/73888770)
+- [![](logo/csdn.ico ':size=16')Linux 性能测试工具 UnixBench - 安装以及结果分析 | CSDN](https://blog.csdn.net/gatieme/article/details/50912910)
+
+
 ## 运维开发
 
 - [![](logo/github.svg)jumpserver - 开源跳板机 | Github](https://github.com/jumpserver/jumpserver)
@@ -169,7 +181,17 @@ cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 - [![](logo/github.svg)Google 工程师 Hokein 的 Github Wiki 笔记](https://github.com/hokein/Wiki/wiki)
 - [gitMemory | 查看 Github 项目历史记录](https://www.gitmemory.com/)
 
+## 写作工具
+
+- [![](logo/openwrite.png ':size=16')OpenWrite | 多平台写作![](logo/star.svg)](https://openwrite.cn)
+- [![](logo/csdn.ico ':size=16')OpenWrite 一款博客可一文多发的实用工具 | CSDN](https://blog.csdn.net/qq_33619378/article/details/100150330)
+- [![](logo/segmentfault.ico ':size=16')OpenWrite 一款博客可一文多发的实用工具 | SegmentFault](https://segmentfault.com/a/1190000020234289)
+- [![](logo/md2all.ico ':size=16')Md2All | 颜家大少![](logo/star.svg)](http://md.aclickall.com/)
+
+## 技术词汇发音
+
+- [![](logo/howtopronounce.ico ':size=16')How To Pronounce | The Pronunciation Dictionary![](logo/star.svg)](http://www.howtopronounce.cc)
+
 ## 有趣的
 
 - [![](logo/github.svg)lipstick - 口红颜色可视化 | Github](https://github.com/Ovilia/lipstick)
-
