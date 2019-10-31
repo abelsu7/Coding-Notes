@@ -27,6 +27,7 @@
 ### 虚拟化资料
 
 - [![](logo/wechat.svg)如何探测虚拟环境是物理机、虚拟机还是容器？ | int32bit![](logo/star.svg)](https://mp.weixin.qq.com/s/usLh8VIW8-niR5XiwkHHpg)
+- [![](logo/wechat.svg)x86 服务器虚拟化的资源划分和性能优化 | 云技术![](logo/star.svg)](https://mp.weixin.qq.com/s/i4M11goreOw_zvGKoJrd8g)
 - [![](logo/zhihu.svg)速懂X86虚拟化关键概念 - Intel VT-d | 罗浩](https://zhuanlan.zhihu.com/p/41466471)
 - [![](logo/zhihu.svg)Xen V.S. KVM终于画上了一个完美的句号 | 罗浩](https://zhuanlan.zhihu.com/p/33324585)
 
@@ -137,6 +138,7 @@ docker exec -it [CONTAINER ID] /bin/bash
 - [![](logo/wechat.svg)魅族容器云平台基于k8s的自动化运维实践 | 高效运维](https://mp.weixin.qq.com/s/OysDRvAIgmtcG_cIajCMWg?)
 - [全面提升，阿里云Docker/Kubernetes(K8S) 日志解决方案与选型对比 | CSDN](https://blog.csdn.net/aliyunyunqi/article/details/79401218)
 - [kubeadm 续坑篇 | 漠然](https://mritd.me/2016/11/21/kubeadm-other-problems/)
+- [![](logo/wechat.svg)Dubbo 在 K8s 下的思考 | 阿里巴巴中间件![](logo/star.svg)](https://mp.weixin.qq.com/s/3e2jgHUKFQXpu-pTltRcZw)
 
 ## OpenShift
 
@@ -164,6 +166,7 @@ docker exec -it [CONTAINER ID] /bin/bash
 
 ## Service Mesh
 
+- [![](logo/wechat.svg)Service Mesh 初体验 | 阿里巴巴中间件![](logo/star.svg)](https://mp.weixin.qq.com/s/tD25ArieqsDm14a7Tin_AQ)
 - [十问蚂蚁金服：关于Service Mesh和Kubernetes的最前沿思考 | 搜狐科技](https://www.sohu.com/a/243984196_467759)
 - [ServiceMesher 社区![](logo/star.svg)](http://www.servicemesher.com)
 

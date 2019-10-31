@@ -13,6 +13,7 @@
 
 ## Go 语言教程
 
+- [![](logo/gitbook.ico ':size=16')跟煎鱼学 Go | GitBook![](logo/star.svg)](https://book.eddycjy.com/golang/)
 - [![](logo/zhihu.svg)快学 Go 语言 - 老钱 | 知乎专栏![](logo/star.svg)](https://zhuanlan.zhihu.com/quickgo)
 - ![](logo/wechat.svg)码洞的微信![](logo/star.svg)
 - [![](logo/zhihu.svg)Go 语言实战笔记 - 飞雪无情 | 知乎专栏![](logo/star.svg)](https://zhuanlan.zhihu.com/go-in-action)
@@ -22,6 +23,14 @@
 - [Go Web Examples](https://gowebexamples.com/)
 - [Go database/sql tutorial](http://go-database-sql.org/)
 - [![](logo/github.svg)浅谈 Go 语言实现原理 - Draveness | GitBook![](logo/star.svg)](https://draveness.me/golang/)
+
+## GitBook 电子书
+
+- [![](logo/gitbook.ico ':size=16')跟煎鱼学 Go | GitBook![](logo/star.svg)](https://book.eddycjy.com/golang/)
+- [![](logo/github.svg)The Go Cookbook | Github![](logo/star.svg)](https://golangcookbook.com)
+- [![](logo/gitbook.ico ':size=16')Go 2 编程指南 - 柴树彬 | GitBook![](logo/star.svg)](https://chai2010.cn/go2-book/)
+- [![](logo/github.svg)chai2010/go2-book - 《Go 2 编程指南》开源图书 | Github![](logo/star.svg)](https://github.com/chai2010/go2-book)
+- [![](logo/gitbook.ico ':size=16')Go 语言高级编程 - 柴树彬 | GitBook![](logo/star.svg)](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)
 
 ## Go 常用框架
 
@@ -84,3 +93,15 @@
 
 - [![](logo/github.svg)go-patterns - Golang 设计模式 | Github![](logo/star.svg)](https://github.com/sevenelevenlee/go-patterns)
 - [![](logo/github.svg)golang-design-pattern - 设计模式 Golang 实现 | Github![](logo/star.svg)](https://github.com/senghoo/golang-design-pattern)
+
+## WebAssembly
+
+- [![](logo/wechat.svg)Go & WebAssembly 简介 - 柴树彬 | 光谷码农![](logo/star.svg)](https://mp.weixin.qq.com/s/Gcq06kKzalJvi03eOoGaTQ)
+
+## CGO
+
+- [![](logo/star.svg)Golang 中的跨语言调用 - 习之北 | 须臾之学](https://blog.xizhibei.me/2019/01/27/golang-cgo/)
+
+## 错误处理
+
+- [![](logo/goplay.png ':size=16')Working with Errors in Go 1.13 | The Go Blog![](logo/star.svg)](https://blog.golang.org/go1.13-errors)

@@ -87,6 +87,7 @@
 
 - [![](logo/dubbo.ico ':size=16')Dubbo - 高性能、轻量级、开源的 Java RPC 框架![](logo/star.svg)](http://dubbo.apache.org/zh-cn/)
 - [![](logo/wechat.svg)Dubbo下一站：Apache顶级项目](https://mp.weixin.qq.com/s/3WwXcWJbP7iOS3vmN-Ek1Q)
+- [![](logo/wechat.svg)Dubbo 在 K8s 下的思考 | 阿里巴巴中间件![](logo/star.svg)](https://mp.weixin.qq.com/s/3e2jgHUKFQXpu-pTltRcZw)
 
 ### Spring MVC
 

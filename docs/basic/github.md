@@ -125,11 +125,15 @@ cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 
 - [![](logo/github.svg)idgen - 一个使用 golang 编写的大陆身份证生成器 | Github](https://github.com/mritd/idgen)
 
-## Golang 相关
+## Go 语言
 
 ### 综合教程
 
+- [![](logo/gitbook.ico ':size=16')跟煎鱼学 Go | GitBook![](logo/star.svg)](https://book.eddycjy.com/golang/)
 - [![](logo/github.svg)The Go Cookbook | Github![](logo/star.svg)](https://golangcookbook.com)
+- [![](logo/gitbook.ico ':size=16')Go 2 编程指南 - 柴树彬 | GitBook![](logo/star.svg)](https://chai2010.cn/go2-book/)
+- [![](logo/github.svg)chai2010/go2-book - 《Go 2 编程指南》开源图书 | Github![](logo/star.svg)](https://github.com/chai2010/go2-book)
+- [![](logo/gitbook.ico ':size=16')Go 语言高级编程 - 柴树彬 | GitBook![](logo/star.svg)](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)
 
 ### 待整理
 

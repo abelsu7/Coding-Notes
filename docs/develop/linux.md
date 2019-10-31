@@ -159,9 +159,10 @@ yum clean, yum clean all  # (= yum clean packages; yum clean oldheaders) 清除�
 
 ## 开源镜像站
 
-* 阿里
-* 网易
-* 清华
+- [![](logo/netease.ico ':size=16')网易开源镜像站![](logo/star.svg)](http://mirrors.163.com)
+- [![](logo/ali-opsx.png ':size=16')阿里巴巴开源镜像站 - OPSX![](logo/star.svg)](https://opsx.alibaba.com/mirror?lang=zh-CN)
+- [![](logo/qcloud.png)腾讯软件源![](logo/star.svg)](https://mirrors.cloud.tencent.com)
+- [![](logo/tuna.png ':size=16')清华大学开源软件镜像站 - TUNA![](logo/star.svg)](https://mirrors.tuna.tsinghua.edu.cn)
 
 ## 后端开发
 
