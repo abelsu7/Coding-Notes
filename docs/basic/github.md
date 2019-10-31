@@ -68,6 +68,10 @@
 - [![](logo/github.svg)KubeOperator - 容器集群管理平台 | Github](https://github.com/kubeoperator/kubeoperator)
 - [构建 Golang 程序最小 Docker 镜像 | 紫川秀的博客](https://blog.yumaojun.net/2017/11/20/golang-mini-docker-image/)
 
+## Windows
+
+- [![](logo/github.svg)PowerToys - Windows system utilities to maximize productivity![](logo/star.svg)](https://github.com/microsoft/PowerToys)
+
 ## 字体
 
 - [![](logo/github.svg)Sarasa Gothic / 更纱黑体 | Github![](logo/star.svg)](https://github.com/be5invis/Sarasa-Gothic)
@@ -121,7 +125,7 @@ cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 
 - [![](logo/github.svg)idgen - 一个使用 golang 编写的大陆身份证生成器 | Github](https://github.com/mritd/idgen)
 
-## Go 语言
+## Golang 相关
 
 ### 综合教程
 
@@ -163,6 +167,16 @@ cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 ### 嵌入式
 
 - [![](logo/tinygo.png)TinyGo - A Go Compiler For Small Places![](logo/star.svg)](https://tinygo.org)
+
+### Swagger
+
+- [![](logo/github.svg)swaggo/swag - Automatically generate RESTful API documentation with Swagger 2.0 for Go | Github![](logo/star.svg)](https://github.com/swaggo/swag)
+- [![](logo/github.svg)swaggo/gin-swagger - gin middleware to automatically generate RESTful API documentation with Swagger 2.0 | Github![](logo/star.svg)](https://github.com/swaggo/gin-swagger)
+- [![](logo/swagger.png)Swagger - API Development for Everyone![](logo/star.svg)](https://swagger.io)
+
+### Scaffold
+
+- [![](logo/github.svg)scaffold - Generate scaffold project layout for Go](https://github.com/catchplay/scaffold)
 
 ## Github 状态监控
 
