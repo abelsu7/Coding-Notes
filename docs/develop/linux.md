@@ -91,6 +91,17 @@ yum install epel-release
 
 ### 关闭 SELinux
 
+### polkitd CPU 占用率高
+
+```bash
+systemctl restart polkit
+```
+
+- [![](logo/ithelp.png)CentOS 7 記憶體問題 - iT 邦幫忙![](logo/star.svg)](https://ithelp.ithome.com.tw/questions/10185797)
+- [![](logo/bugzilla.ico ':size=16')Bug 1235681 - /usr/lib/polkit-1/polkitd consumes 20 to 30 % CPU constantly | Red Hat Bugzilla](https://bugzilla.redhat.com/show_bug.cgi?id=1235681)
+- [![](logo/centos.svg)polkitd high cpu usage for at least hours | CentOS](https://www.centos.org/forums/viewtopic.php?t=67547)
+
+
 ## yum 包管理
 
 - [![](logo/fedora.svg)EPEL - Extra Packages for Enterprise Linux | Fedora Project Wiki![](logo/star.svg)](https://fedoraproject.org/wiki/EPEL)
