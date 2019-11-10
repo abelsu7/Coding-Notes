@@ -13,6 +13,7 @@
 
 ## Go 语言教程
 
+- [![](logo/gewu.png ':size=16')Go 资源整理，这里有你想要的💊 | 格物![](logo/star.svg)](https://shockerli.net/post/go-awesome/)
 - [![](logo/gitbook.ico ':size=16')跟煎鱼学 Go | GitBook![](logo/star.svg)](https://book.eddycjy.com/golang/)
 - [![](logo/zhihu.svg)快学 Go 语言 - 老钱 | 知乎专栏![](logo/star.svg)](https://zhuanlan.zhihu.com/quickgo)
 - ![](logo/wechat.svg)码洞的微信![](logo/star.svg)

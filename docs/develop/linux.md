@@ -59,6 +59,10 @@
 
 - [![](logo/wechat.svg)五款主流 Linux 发行版性能对比，稳而不强？| 芋道源码](https://mp.weixin.qq.com/s/oWR0L_-AwE5RshYNFvOC2w)
 
+## 用户管理
+
+- [![](logo/csdn.ico ':size=16')Linux 创建用户、设置密码、修改用户、删除用户 | CSDN](https://blog.csdn.net/sunxx1986/article/details/6854307)
+
 ## 底层原理
 
 - [![](logo/wechat.svg)底层原理 - 码农有道![](logo/star.svg)](https://mp.weixin.qq.com/s/OzpgmcCjabT7bKPf1txK4g)

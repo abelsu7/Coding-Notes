@@ -116,6 +116,12 @@
 docker exec -it [CONTAINER ID] /bin/bash
 ```
 
+### OCI
+
+- [开放容器标准 (OCI) 内部分享 | Xuanwo's Blog](https://xuanwo.io/2019/08/06/oci-intro/)
+
+
+
 ### 文章教程
 
 * [![](logo/github.svg)awesome-docker | Docker resources and projects](http://wedocker.com)

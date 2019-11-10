@@ -86,6 +86,7 @@ https://www.google.com/s2/favicons?domain=域名
 - [![](logo/github.svg)docsify-themeable | Github![](logo/star.svg)](https://github.com/jhildenbiddle/docsify-themeable)
 - [![](logo/github.svg)docsify-copy-code | Github](https://github.com/jperasmus/docsify-copy-code)
 - [![](logo/github.svg)docsify-tabs | Github](https://github.com/jhildenbiddle/docsify-tabs)
+- [docsify 入坑指南与我放弃 Gitbook 的那些理由 | 忘归](http://jalan.space/2019/06/21/2019/begin-docsify/)
 
 ## 文档维护
 

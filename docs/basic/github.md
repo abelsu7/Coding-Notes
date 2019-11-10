@@ -129,6 +129,7 @@ cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 
 ### 综合教程
 
+- [![](logo/github.svg)shockerli/go-awesome - Go 资源整理，这里有你想要的💊 | Github![](logo/star.svg)](https://github.com/shockerli/go-awesome)
 - [![](logo/gitbook.ico ':size=16')跟煎鱼学 Go | GitBook![](logo/star.svg)](https://book.eddycjy.com/golang/)
 - [![](logo/github.svg)The Go Cookbook | Github![](logo/star.svg)](https://golangcookbook.com)
 - [![](logo/gitbook.ico ':size=16')Go 2 编程指南 - 柴树彬 | GitBook![](logo/star.svg)](https://chai2010.cn/go2-book/)
@@ -221,6 +222,10 @@ cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 - [![](logo/github.svg)unbug/codelf - 变量命名搜索 | Github](https://github.com/unbug/codelf)
 - [![](logo/codelf.png ':size=16')CODELF](https://unbug.github.io/codelf/)
 - [![](logo/wechat.svg)开源神器！答应我，别再用 abc 做变量名了好么！- Python 专栏](https://mp.weixin.qq.com/s/LW7N_LABGeHLu-Vqklsk8w)
+
+## 搜索引擎
+
+- [![](logo/magi.png ':size=16')Magi - 基于机器学习的信息抽取和检索系统](https://magi.com)
 
 ## 有趣的
 

@@ -277,6 +277,17 @@ git diff --staged
 - [git merge --no-ff 是什么意思 | SegmentFault](https://segmentfault.com/q/1010000002477106)
 - [分支管理策略 | 廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600/900005860592480#0)
 
+## git 删除大文件
+
+- [![](logo/next.png ':size=16')删除 Git 仓库中的大文件 | Yunfeng's Simple Blog](http://vra.github.io/2018/05/20/git-remove-large-file/)
+- [![](logo/hollis.png ':size=16')记一次删除 Git 记录中的大文件的过程 - Hollis | HollisChuang's Blog](https://www.hollischuang.com/archives/1708)
+
+## git 清除历史记录
+
+- [![](logo/csdn.ico ':size=16')git 仓库删除所有提交历史记录，成为一个干净的新仓库 | CSDN](https://blog.csdn.net/yc1022/article/details/56487680)
+- [![](logo/csdn.ico ':size=16')三种清除 Git 提交历史的方法 | CSDN](https://blog.csdn.net/yiifaa/article/details/78603410)
+- [![](logo/cnblogs.svg)Git 如何永久删除文件(包括历史记录) | 博客园](https://www.cnblogs.com/shines77/p/3460274.html)
+
 ## git 教程
 
 - [![](logo/flysnow.ico ':size=16')Github 的前世今生 | 飞雪无情![](logo/star.svg)](https://www.flysnow.org/2019/01/09/github-milestones.html)
@@ -289,17 +300,15 @@ git diff --staged
 - [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 - [githug - Git your game on | Github](https://github.com/Gazler/githug)
 
-## 代码托管
+## 代码托管平台
 
-- [GitHub](https://github.com)
-- [GitLab](https://about.gitlab.com)
-- [码云 Gitee](https://gitee.com)
-- [Gitea - 自建 Git 服务](https://gitea.com/?lang=zh-CN)
-- [腾讯云 CODING](https://coding.net)
-- [阿里云 Code](http://code.aliyun.com/)
-- [Gogs - 基于 Go 的自建 Git 服务 | Github](https://github.com/gogs/gogs)
-
-
+- [![](logo/github.svg)GitHub](https://github.com)
+- [![](logo/gitlab.png ':size=16')GitLab](https://about.gitlab.com)
+- [![](logo/gitee.ico ':size=16')码云 Gitee — 基于 Git 的代码托管和研发协作平台](https://gitee.com)
+- [![](logo/gitea.png ':size=16')Gitea: Git with a cup of tea ](https://gitea.com/?lang=zh-CN)
+- [![](logo/qcloud.png ':size=16')腾讯云 CODING](https://coding.net)
+- [![](logo/aliyun.png ':size=16')阿里云 Code](http://code.aliyun.com/)
+- [![](logo/gogs.png ':size=16')Gogs - 基于 Go 的自建 Git 服务 | Github](https://github.com/gogs/gogs)
 
 ## 相关文章
 

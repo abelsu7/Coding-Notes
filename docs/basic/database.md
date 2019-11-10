@@ -33,6 +33,11 @@ SHOW CREATE TABLE `tb_users`;
 
 - [![](logo/wechat.svg)大牛总结的 MySQL 锁优化 | 51CTO技术栈![](logo/star.svg)](https://mp.weixin.qq.com/s/3b3y9l6vdhU4gxqMbyS3ww)
 
+### 关键字
+
+- [![](logo/juejin.png ':size=16')MySQL 中的 COLLATE 是什么？- horstxu | 掘金![](logo/star.svg)](https://juejin.im/post/5bfe5cc36fb9a04a082161c2)
+- [![](logo/qcloud.png ':size=16')MySQL 中的 COLLATE 是什么？- horstxu | 腾讯云+社区![](logo/star.svg)](https://cloud.tencent.com/developer/article/1366841)
+
 ### 常见错误
 
 MySQL 8.0 Error: `ER_NOT_SUPPORTED_AUTH_MODE`：
