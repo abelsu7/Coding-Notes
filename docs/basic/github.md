@@ -215,9 +215,12 @@ cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 - [![](logo/segmentfault.ico ':size=16')OpenWrite 一款博客可一文多发的实用工具 | SegmentFault](https://segmentfault.com/a/1190000020234289)
 - [![](logo/md2all.ico ':size=16')Md2All | 颜家大少![](logo/star.svg)](http://md.aclickall.com/)
 
-## 技术词汇发音
+## 技术词汇发音、起名
 
 - [![](logo/howtopronounce.ico ':size=16')How To Pronounce | The Pronunciation Dictionary![](logo/star.svg)](http://www.howtopronounce.cc)
+- [![](logo/github.svg)unbug/codelf - 变量命名搜索 | Github](https://github.com/unbug/codelf)
+- [![](logo/codelf.png ':size=16')CODELF](https://unbug.github.io/codelf/)
+- [![](logo/wechat.svg)开源神器！答应我，别再用 abc 做变量名了好么！- Python 专栏](https://mp.weixin.qq.com/s/LW7N_LABGeHLu-Vqklsk8w)
 
 ## 有趣的
 

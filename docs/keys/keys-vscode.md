@@ -230,5 +230,10 @@
     // 字体
     "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace, '苹方-简', 'Sarasa Gothic SC'",
     "editor.fontLigatures": true,
+    // 1.40.0+，自定义 activeBar 颜色
+    "workbench.colorCustomizations": {
+        "activityBar.activeBorder": "#007AC7",
+        "activityBar.activeBackground": "#294A5B",
+    },
 }
 ```

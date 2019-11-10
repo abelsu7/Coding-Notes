@@ -13,6 +13,7 @@
 | <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+Shift+S** | 截屏 |
 | <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+Ctrl+方向** | 切换桌面 |
 | <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+PgUp/PgDn** | 前/后切换浏览器标签页 |
+| <img src='https://notes.abelsu7.top/keys/logo/win10.svg' data-no-zoom></img>**+;** | 表情符号 |
 | **Ctrl+Shift+B** | 打开表情及符号面版 |
 | **Ctrl+Shift+F** | 输入法切换简/繁体 |
 | **Shift+滚轮** | 水平方向滚动 |
@@ -77,8 +78,27 @@ Windows Defender
 ## 自动修复
 
 - [自动修复无法修复你的电脑 解决方案 | CSDN](https://blog.csdn.net/Logicr/article/details/88686371)
-- [Win10开机自动修复修复失败无限重启 | 百度经验](https://jingyan.baidu.com/article/ed2a5d1f9f1e7309f7be176a.html)
+- [Win10 开机自动修复修复失败无限重启 | 百度经验](https://jingyan.baidu.com/article/ed2a5d1f9f1e7309f7be176a.html)
+
+## 上帝模式
+
+- [![](logo/wechat.svg)Win10 如何开启上帝模式 | 戴尔](https://mp.weixin.qq.com/s/3S0LCo25pnwcbglsfDJJZA)
+- 桌面新建文件夹，并命名为：
+
+```
+上帝模式.{ED7BA470-8E54-465E-825C-99712043E01C}
+```
+
+## Gif 录制
+
+- [![](logo/gifcam.png ':size=16')GifCam![](logo/star.svg)](http://blog.bahraniapps.com/gifcam/#download)
 
 ## 一些文章
 
+?> **Cmder** 记得安装完在配置`Setting-Startup-Environment`里面加上`set LANG=zh_CN.UTF8`，否则输出的一些中文会乱码
+
 - [![](logo/csdn.ico ':size=16')Windows下，根据端口号杀死进程 | CSDN](https://blog.csdn.net/zh592677127/article/details/18617917)
+- [![](logo/wechat.svg)十款 Windows 下必装软件，大大增强工作幸福![](logo/star.svg)](https://mp.weixin.qq.com/s/FspPYeiHF6-bmAClcpAVaw)
+
+
+
