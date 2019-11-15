@@ -95,6 +95,38 @@ yum install epel-release
 
 ### 关闭 SELinux
 
+查看 SELinux 状态：
+
+```bash
+> sestatus -v
+SELinux status:                 enabled
+
+> getenforce
+Permissive
+```
+
+临时关闭 SELinux（无需重启）：
+
+```bash
+> setenforce 0 # 设置 SELinux 为 permissive 模式
+```
+
+永久关闭 SELinux 需要修改配置文件`/etc/selinux/config`，之后重启机器：
+
+```bash
+# This file controls the state of SELinux on the system.
+# SELINUX= can take one of these three values:
+#     enforcing - SELinux security policy is enforced.
+#     permissive - SELinux prints warnings instead of enforcing.
+#     disabled - No SELinux policy is loaded.
+SELINUX=disabled
+# SELINUXTYPE= can take one of these two values:
+#     targeted - Targeted processes are protected,
+#     mls - Multi Level Security protection.
+SELINUXTYPE=targeted
+```
+
+
 ### polkitd CPU 占用率高
 
 ```bash

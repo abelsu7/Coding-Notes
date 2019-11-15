@@ -29,6 +29,7 @@
 
 ## 图片处理
 
+- [![](logo/uupoop.ico ':size=16')在线 PS | uupoop.com![](logo/star.svg)](https://www.uupoop.com/)
 - [免费图床 | SM.MS](https://sm.ms)
 - 智图
 - [![](logo/tinypng.ico ':size=16')TinyPNG 图片压缩工具](https://tinypng.com)
