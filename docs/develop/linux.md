@@ -126,6 +126,14 @@ SELINUX=disabled
 SELINUXTYPE=targeted
 ```
 
+### 关闭 IPv6
+
+- [![](logo/star.svg)CentOS 7 关闭 IPv6 | 陈沙克日志](http://www.chenshake.com/centos-7-close-ip-v6/)
+
+### 中文乱码
+
+- [![](logo/star.svg)Linux 系统中文乱码处理集合 | Fishcried](http://fishcried.com/2014-06-22/Linux中文乱码问题处理/)
+
 
 ### polkitd CPU 占用率高
 

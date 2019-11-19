@@ -90,9 +90,13 @@
 
 ## 私有云
 
-* [![](logo/zstack.ico)ZStack![](logo/star.svg)](https://www.zstack.io)
-* [![](logo/wechat.svg)ZStack 获 1 亿元 B 轮融资，深创投领投、阿里云继续跟投 | 云头条](https://mp.weixin.qq.com/s/WMHruUNnplvcKDY6eQNX7A)
-* [![](logo/wechat.svg)私有云和存储风向的深度解读 | 云技术实践![](logo/star.svg)](https://mp.weixin.qq.com/s/s-T9tajKufoXfsaneaamdw)
+- [![](logo/zstack.ico)ZStack![](logo/star.svg)](https://www.zstack.io)
+- [![](logo/wechat.svg)ZStack 获 1 亿元 B 轮融资，深创投领投、阿里云继续跟投 | 云头条](https://mp.weixin.qq.com/s/WMHruUNnplvcKDY6eQNX7A)
+- [![](logo/wechat.svg)私有云和存储风向的深度解读 | 云技术实践![](logo/star.svg)](https://mp.weixin.qq.com/s/s-T9tajKufoXfsaneaamdw)
+
+## 混合云
+
+- [![](logo/star.svg)混合云编排工具 Terraform 简介 | int32bit Blog](https://int32bit.me/2019/10/09/混合云编排工具Terrafrom简介/)
 
 ## 微服务
 
@@ -121,7 +125,7 @@
 
 ## ServiceMesh
 
-- [![](logo/wechat.svg)我为啥不看好ServiceMesh | 架构师杨波](https://mp.weixin.qq.com/s?__biz=MzIxMTA5NjQyMg==&mid=2647802215&idx=1&sn=a92316c405b03f5ee797e76468fb922c&chksm=8f7c676eb80bee7848266c1661295096af4d7d662c00497ed0a6c24238f378ce62b30996ccc7&mpshare=1&scene=1&srcid=110170qeXMJ3k8xMz4HmomNw#rd)
+- [![](logo/wechat.svg)我为啥不看好 ServiceMesh | 架构师杨波](https://mp.weixin.qq.com/s?__biz=MzIxMTA5NjQyMg==&mid=2647802215&idx=1&sn=a92316c405b03f5ee797e76468fb922c&chksm=8f7c676eb80bee7848266c1661295096af4d7d662c00497ed0a6c24238f378ce62b30996ccc7&mpshare=1&scene=1&srcid=110170qeXMJ3k8xMz4HmomNw#rd)
 - [![](logo/wechat.svg)蚂蚁金服 Service Mesh 实践探索 | InfoQ](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651010202&idx=1&sn=742179879a25d526402a5b561b769ed1&chksm=bdbeccc98ac945df391f1b54f06495868a683002ac9fb71a80fc001e10344a991d36019ad1f4&scene=27#wechat_redirect)
 
 ## 云原生
@@ -132,8 +136,8 @@
 
 ## 任务调度
 
-* [![](logo/wechat.svg)Borg：G家最重要的基础设施 | HelloJava![](logo/star.svg)](https://mp.weixin.qq.com/s/8wbBAQR4fIsg6YfZlMIWRA)
-* [![](logo/wechat.svg)数据中心日均 CPU 利用率 45%？！阿里规模化混部技术揭秘 | 阿里技术![](logo/star.svg)](https://mp.weixin.qq.com/s/sUWy60vL-pEt5fE5PGGrww)
+- [![](logo/wechat.svg)Borg：G家最重要的基础设施 | HelloJava![](logo/star.svg)](https://mp.weixin.qq.com/s/8wbBAQR4fIsg6YfZlMIWRA)
+- [![](logo/wechat.svg)数据中心日均 CPU 利用率 45%？！阿里规模化混部技术揭秘 | 阿里技术![](logo/star.svg)](https://mp.weixin.qq.com/s/sUWy60vL-pEt5fE5PGGrww)
 
 ## 混部技术
 
