@@ -83,6 +83,54 @@
 yum install nginx --enablerepo=epel
 ```
 
+### 升级内核
+
+载入公钥：
+
+```bash
+rpm --import https://www.elrepo.org/RPM-GPG-KEY-elrepo.org
+```
+
+升级安装 [ELRepo](https://elrepo.org/tiki/tiki-index.php)（注意更新 URL 中的版本号）：
+
+```bash
+rpm -Uvh http://www.elrepo.org/elrepo-release-7.0-4.el7.elrepo.noarch.rpm
+```
+
+载入`elrepo-kernel`元数据：
+
+```bash
+> yum --disablerepo=\* --enablerepo=elrepo-kernel repolist
+repo id              repo name                                                             status
+elrepo-kernel        ELRepo.org Community Enterprise Linux Kernel Repository - el7         37
+repolist: 37
+```
+
+查看可用的 RPM 包：
+
+```bash
+> yum --disablerepo=\* --enablerepo=elrepo-kernel list kernel*
+```
+
+查看当前内核启动顺序：
+
+```bash
+> awk -F\' '$1=="menuentry " {print i++ " : " $2}' /etc/grub2-efi.cfg
+0 : CentOS Linux (3.10.0-1062.1.2.el7.x86_64) 7 (Core)
+1 : CentOS Linux (3.10.0-693.21.1.el7.x86_64) 7 (Core)
+2 : CentOS Linux (3.10.0-693.17.1.el7.x86_64) 7 (Core)
+3 : CentOS Linux (3.10.0-693.el7.x86_64) 7 (Core)
+4 : CentOS Linux (0-rescue-39763f96d9c8455b8ea2e4189b08260c) 7 (Core)
+```
+
+之后可参考下列文章：
+
+- [CentOS 7 升级内核至最新 - AdrianDing | 博客园](https://www.cnblogs.com/ding2016/p/10429640.html)
+- [CentOS 7.x 系统及内核升级指南 | 简书](https://www.jianshu.com/p/fdf6bb6c5b9c)
+- [CentOS 7/6 内核升级的简单方法：借助 ELRepo，用 yum 命令更新内核](https://www.lijiaocn.com/技巧/2019/02/25/centos-kernel-upgrade.html)
+- [ELRepo: HomePage](https://elrepo.org/tiki/tiki-index.php)
+
+
 ### 安装 EPEL 扩展包
 
 > **EPEL** (Extra Packages for Enterprise Linux) 是 **Fedora** 小组维护的一个软件仓库项目，为 RHEL/CentOS 提供它们默认不提供的软件包，兼容 RHEL 和 CentOS 这样的衍生版本。<br>
