@@ -19,6 +19,7 @@
 
 ### 命令补全
 
+- [![](logo/wechat.svg)比 man 更强悍的命令行工具 cheat、tldr | 运维![](logo/star.svg)](https://mp.weixin.qq.com/s/JnscAdrMqI570ZBHQyPjtA)
 - [![](logo/github.svg)The Fuck | Magnificent app which corrects your previous console command.![](logo/star.svg)](https://github.com/nvbn/thefuck)
 - [![](logo/github.svg)navi - 命令行备忘补全工具 | Github![](logo/star.svg)](https://github.com/denisidoro/navi)
 - [![](logo/wechat.svg)快速调用复杂命令，支持中文注释，命令行备忘工具 navi | 量子位![](logo/star.svg)](https://mp.weixin.qq.com/s/GMA4-uQQNto4zpwmedFwMg)

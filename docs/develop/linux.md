@@ -71,6 +71,8 @@
 
 ## CentOS 运维
 
+- [![](logo/wechat.svg)《运维三十六计》：运维生存必备宝典](https://mp.weixin.qq.com/s/VRRNCeSOuebBQ5nPZLwGoA)
+
 ### VNC
 
 ### SSH

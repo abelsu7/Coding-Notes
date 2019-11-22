@@ -78,6 +78,10 @@
 - [![](logo/wechat.svg)程序员的圣诞节 - 送她一颗圣诞树的 Go 源代码 | 飞雪无情](https://mp.weixin.qq.com/s/q0toHYTRDEd_YdC8XeMI4A)
 - [![](logo/github.svg)golang123 - 使用 vue、nuxt、node.js 和 golang 开发的知识分享系统 | Github](https://github.com/shen100/golang123)
 
+## 负载均衡
+
+- [![](logo/wechat.svg)使用 Go 语言徒手撸一个简单的负载均衡器![](logo/star.svg)](https://mp.weixin.qq.com/s/4MsiS6xEnJo66ZQESePzTQ)
+
 ## PPT 
 
 - [![](logo/zhihu.svg)写给程序员看的“幻灯片”制作教程 - 谢伟 | 知乎![](logo/star.svg)](https://zhuanlan.zhihu.com/p/51396376)
