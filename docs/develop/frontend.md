@@ -40,6 +40,20 @@
 - [![](logo/evolution.ico ':size=16')网络的演变![](logo/star.svg)](http://www.evolutionoftheweb.com/?hl=zh-cn)
 - [![](logo/20things.png ':size=16')20 Things I Learned About Browsers And The Web![](logo/star.svg)](http://www.20thingsilearned.com/zh-CN)
 
+## npm & yarn
+
+```bash
+# For npm
+npm config set registry https://registry.npm.taobao.org --global
+npm config set disturl https://npm.taobao.org/dist --global
+
+# For yarn
+yarn config set registry https://registry.npm.taobao.org --global
+yarn config set disturl https://npm.taobao.org/dist --global
+```
+
+
+
 ## Online Editor
 
 ?> [![](logo/segmentfault.ico ':size=16')类似 jsfiddle 的网站还有哪些？| SegmentFault](https://segmentfault.com/q/1010000000339531)<br>[![](logo/wechat.svg)推荐一款强大的在线编译器 | 编程珠玑](https://mp.weixin.qq.com/s?__biz=MzI2OTA3NTk3Ng==&mid=2649284021&idx=1&sn=9ba0bfcaaad0a9042098c2370ab3000f&chksm=f2f9aed2c58e27c4955d5f94ab4c3cb9447f920e339790c6ee70f285939513e05e20a5c09322&mpshare=1&scene=1&srcid=1031Cfl2CQiZbPbSfqO8pbDq#rd)

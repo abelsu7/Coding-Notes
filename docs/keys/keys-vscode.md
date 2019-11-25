@@ -4,29 +4,29 @@
 
 ## VS Code 快捷键
 
-| Keys | Function |
-| :-- | :-- |
-| **Ctrl+P** | 转到文件 |
-| **Ctrl+Shift+P、F1** | 命令面板 |
-| **Ctrl+\\** | 拆分编辑器 |
-| **Ctrl+Alt+←/→** | 将编辑器移动到上/下一组 |
-| **Ctrl+Shift+O** | 前往当前文件中的符号 |
-| **Ctrl+T** | 前往工作区中的符号 |
-| **Ctrl+Shift+K** | 删除当前行 |
-| **Ctrl+Shift+方向** | 跨词选择多行 |
-| **Ctrl+Alt+↑/↓** | 光标选择多行 |
-| **Alt+↑/↓** | 移动当前行 |
-| **Alt+Shift+↑/↓** | 复制当前行 |
-| **F3** | 查找下一个匹配 |
-| **Shift+F3** | 查找上一个匹配 |
-| **Ctrl+Shift+U** | 查看输出 |
-| **Ctrl+Alt+N** | 运行代码【Code Runner】 |
-| **Ctrl+Alt+M** | 停止运行【Code Runner】 |
-| **Alt+Shift+F** | 格式化代码 |
-| **Alt+O** | 切换头文件/源文件 |
-| **Ctrl+K Ctrl+R** | 键盘快捷方式参考 |
-| **Ctrl+K Z** | 专注模式 |
-| **Ctrl+K W** | 关闭当前所有标签 |
+| Keys                 | Function                |
+| :------------------- | :---------------------- |
+| **Ctrl+P**           | 转到文件                |
+| **Ctrl+Shift+P、F1** | 命令面板                |
+| **Ctrl+\\**          | 拆分编辑器              |
+| **Ctrl+Alt+←/→**     | 将编辑器移动到上/下一组 |
+| **Ctrl+Shift+O**     | 前往当前文件中的符号    |
+| **Ctrl+T**           | 前往工作区中的符号      |
+| **Ctrl+Shift+K**     | 删除当前行              |
+| **Ctrl+Shift+方向**  | 跨词选择多行            |
+| **Ctrl+Alt+↑/↓**     | 光标选择多行            |
+| **Alt+↑/↓**          | 移动当前行              |
+| **Alt+Shift+↑/↓**    | 复制当前行              |
+| **F3**               | 查找下一个匹配          |
+| **Shift+F3**         | 查找上一个匹配          |
+| **Ctrl+Shift+U**     | 查看输出                |
+| **Ctrl+Alt+N**       | 运行代码【Code Runner】 |
+| **Ctrl+Alt+M**       | 停止运行【Code Runner】 |
+| **Alt+Shift+F**      | 格式化代码              |
+| **Alt+O**            | 切换头文件/源文件       |
+| **Ctrl+K Ctrl+R**    | 键盘快捷方式参考        |
+| **Ctrl+K Z**         | 专注模式                |
+| **Ctrl+K W**         | 关闭当前所有标签        |
 
 ## Java in VS Code
 
@@ -83,6 +83,12 @@
 
 - [Visual Studio Code 配置 C/C++ 编译运行环境 | Cyprestar](https://www.cyprestar.com/2019/03/11/Configure-vscode-for-cpp/)
 
+### Node.js + Vue
+
+- [Vue VS Code Extension Pack](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack)
+- [Axios Snippets](https://marketplace.visualstudio.com/items?itemName=Yggdrasill-7C9.axios-snippets)
+- [vscode-element-helper](https://marketplace.visualstudio.com/items?itemName=ElemeFE.vscode-element-helper)
+
 ### 语言支持
 
 - C/C++
@@ -121,6 +127,7 @@
 - Material Icon Theme
 - vscode-icons
 - Highlight Line
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer&WT.mc_id=marketplace-pack-sdras)
 - Select Line Status Bar
 - Banner Comments
 - Beautify
