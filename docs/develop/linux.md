@@ -320,3 +320,12 @@ yum clean, yum clean all  # (= yum clean packages; yum clean oldheaders) 清除�
 ## 业界资讯
 
 - [![](logo/wechat.svg)2019年可能会是Linux年？| InfoQ](https://mp.weixin.qq.com/s/MRIvydzjbqELG1bswIa0zQ)
+
+## 命令行查单词
+
+?> [![](logo/star.svg)V2EN - Way to English](http://v2en.co/)
+
+```bash
+# 在 .bashrc 或 .zshrc 中添加
+alias dic='dic(){curl v2en.co/$1;};dic'
+```
