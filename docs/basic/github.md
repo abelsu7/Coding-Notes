@@ -15,7 +15,12 @@
 - [![](logo/github.svg)litecli - A Terminal Client for SQLite![](logo/star.svg)](https://github.com/dbcli/litecli)
 - [![](logo/github.svg)go-sqlite3 - sqlite3 driver for go | Github](https://github.com/mattn/go-sqlite3)
 
-## 命令行
+## 终端命令行
+
+### Bash
+
+- [![](logo/star.svg)终端 10X 工作法 | Legendtkl](http://legendtkl.com/2019/11/11/terminal-10x-bash/)
+- [![](logo/github.svg)Bash-Oneliner | Github](https://github.com/onceupon/Bash-Oneliner)
 
 ### 命令补全
 
@@ -198,6 +203,11 @@ cloc --exclude-dir=node_modules --exclude-list-file=cloc.txt ./
 ### 自建 Git 服务
 
 - [![](logo/github.svg)Gogs - 基于 Go 的自建 Git 服务 | Github![](logo/star.svg)](https://github.com/gogs/gogs)
+
+### 编程规范
+
+- [![](logo/star.svg)Uber Go 语言编程规范 | Legendtkl](http://legendtkl.com/2019/10/13/uber-go-style/)
+- [![](logo/github.svg)Uber Go Style Guide | Github](https://github.com/uber-go/guide/blob/master/style.md)
 
 ## Github 状态监控
 
