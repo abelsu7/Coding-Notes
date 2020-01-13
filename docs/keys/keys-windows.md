@@ -68,7 +68,7 @@ Windows Defender
 
 ## Office 2019
 
-- [Office 2019 安装激活工具 - Office 2019 Install | 代码黑洞](https://www.cd404.com/Software/16.html)
+- [Office 2019 安装激活工具 - Office 2019 Install | 代码黑洞](https://www.cd404.com/16.html)
 
 ## Sticky Notes
 
@@ -88,6 +88,28 @@ Windows Defender
 ```
 上帝模式.{ED7BA470-8E54-465E-825C-99712043E01C}
 ```
+
+## 开启 Hyper-V
+
+?> 参见 [![](logo/zhihu.svg)Win10 家庭版中使用 Hyper-V | 知乎](https://zhuanlan.zhihu.com/p/51939654)
+
+将以下代码保存为`hyper-v.cmd`，并以**管理员**身份运行：
+
+```powershell
+pushd "%~dp0"
+
+dir /b %SystemRoot%\servicing\Packages\*Hyper-V*.mum >hyper-v.txt
+
+for /f %%i in ('findstr /i . hyper-v.txt 2^>nul') do dism /online /norestart /add-package:"%SystemRoot%\servicing\Packages\%%i"
+
+del hyper-v.txt
+
+Dism /online /enable-feature /featurename:Microsoft-Hyper-V-All /LimitAccess /ALL
+```
+
+- [![](logo/zhihu.svg)Win10 家庭版中使用 Hyper-V | 知乎](https://zhuanlan.zhihu.com/p/51939654)
+- [![](logo/zhihu.svg)Win10 自带的 Hyper-V 性能、兼容性和稳定性怎么样？| 知乎](https://www.zhihu.com/question/58179981)
+
 
 ## Gif 录制
 
