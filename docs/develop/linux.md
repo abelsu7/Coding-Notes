@@ -143,6 +143,16 @@ repolist: 37
 yum install epel-release
 ```
 
+### 安装 RepoForge 源
+
+> **RPMForge** is now **RepoForge**.
+
+- [RepoForge Project](http://repoforge.org)
+- [Repoforge (原Rpmforge) 镜像使用帮助 | 清华大学开源镜像站](https://mirror.tuna.tsinghua.edu.cn/help/repoforge/)
+
+
+
+
 ### 关闭 SELinux
 
 查看 SELinux 状态：
@@ -232,6 +242,7 @@ yum clean, yum clean all  # (= yum clean packages; yum clean oldheaders) 清除�
 
 ### 学习资源
 
+- [![](logo/wechat.svg)学习 Linux 命令，看这篇 2w 多字的命令详解就够了 | Java3y![](logo/star.svg)](https://mp.weixin.qq.com/s/AJaIhFWx9RBVXLW3sCkTSg)
 - [Linux 工具快速教程 | Linux Tools Quick Tutorials](https://linuxtools-rst.readthedocs.io/zh_CN/latest/#)
 - [Linux命令大全](http://man.linuxde.net)
 - [Shell正则表达式 | Linux命令大全](http://man.linuxde.net/docs/shell_regex.html)
