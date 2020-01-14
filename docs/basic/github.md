@@ -76,6 +76,11 @@
 - [![](logo/github.svg)KubeOperator - 容器集群管理平台 | Github](https://github.com/kubeoperator/kubeoperator)
 - [构建 Golang 程序最小 Docker 镜像 | 紫川秀的博客](https://blog.yumaojun.net/2017/11/20/golang-mini-docker-image/)
 
+## Ceph
+
+- [![](logo/github.svg)Ceph 运维手册 by 李海静 | Github![](logo/star.svg)](https://github.com/lihaijing/ceph-handbook)
+- [![](logo/gitbook.ico ':size=16')Ceph 运维手册 by 李海静 | GitBook![](logo/star.svg)](https://lihaijing.gitbooks.io/ceph-handbook/content/)
+
 ## 前端
 
 - [![](logo/github.svg)node-interview - 如何通过饿了么 Node.js 面试 | Github![](logo/star.svg)](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)

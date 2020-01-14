@@ -109,6 +109,7 @@ Dism /online /enable-feature /featurename:Microsoft-Hyper-V-All /LimitAccess /AL
 
 - [![](logo/zhihu.svg)Win10 家庭版中使用 Hyper-V | 知乎](https://zhuanlan.zhihu.com/p/51939654)
 - [![](logo/zhihu.svg)Win10 自带的 Hyper-V 性能、兼容性和稳定性怎么样？| 知乎](https://www.zhihu.com/question/58179981)
+- [![](logo/csdn.ico ':size=16')Win10 家庭版 Hyper-V 出坑（完美卸载，冲突解决以及 Device Guard 问题）| CSDN](https://blog.csdn.net/hotcoffie/article/details/85043894)
 
 
 ## Gif 录制
